@@ -1,49 +1,119 @@
-[तपस्वी] वाल्मीकिः [तपसि स्वाध्याये च निरतम्] [वाग्मिनां श्रेष्ठम्] [मुनिपुङ्गवम्] नारदम् पृष्टवान् अभूत्। (1.1.1)
+(1.1.1)
+[तपस्वी] वाल्मीकिः [तपसि स्वाध्याये च निरतम्] [वाग्मिनां श्रेष्ठम्] [मुनिपुङ्गवम्] नारदम् पृष्टवान् अभूत्।
+English Translation: The ascetic Valmiki asked Narada, [who was engaged in austerity and self-study], [the best among eloquent speakers], and [the foremost of sages].
 
-"साम्प्रतम् अस्मिन् लोके, [गुणवान्] [वीर्यवान्] [धर्मज्ञः] [कृतज्ञः] [सत्यवाक्यः] [दृढव्रतः] च कः नरः अस्ति? (1.1.2)
+(1.1.2)
+"साम्प्रतम् अस्मिन् लोके, [गुणवान्] [वीर्यवान्] [धर्मज्ञः] [कृतज्ञः] [सत्यवाक्यः] [दृढव्रतः] च कः नरः अस्ति?"
+English Translation: "At present in this world, who is that man who is [virtuous], [heroic], a [knower of dharma], [grateful], [truthful in his speech], and [firm in his vows]?"
 
-[चारित्रेण युक्तः] [सर्वभूतेषु हितः] [विद्वान्] [समर्थः] [एकप्रियदर्शनः] च कः अस्ति? (1.1.3)
+(1.1.3)
+"[चारित्रेण युक्तः] [सर्वभूतेषु हितः] [विद्वान्] [समर्थः] [एकप्रियदर्शनः] च कः अस्ति?"
+English Translation: "Who is [endowed with good conduct], [devoted to the welfare of all beings], [learned], [capable], and [singularly pleasant to behold]?"
 
-[आत्मवान्] [जितक्रोधः] [द्युतिमान्] [अनसूयकः] च कः अस्ति, अपि च युद्धे क्रोधितात् कस्मात् देवाः बिभ्यति? (1.1.4)
+(1.1.4)
+"[आत्मवान्] [जितक्रोधः] [द्युतिमान्] [अनसूयकः] च कः अस्ति, अपि च युद्धे क्रोधितात् कस्मात् देवाः बिभ्यति?"
+English Translation: "Who is [self-possessed], [one who has conquered anger], [brilliant], and [free from envy]? And from whom, when angered in battle, do even the gods fear?"
 
-अहम् एतत् (उत्तरं) श्रोतुम् इच्छामि, यतः मम परम् कौतूहलम् वर्तते; हे महर्षे, भवान् हि [ईदृशं] नरम् ज्ञातुम् समर्थः अस्ति।" (1.1.5)
+(1.1.5)
+"अहम् एतत् (उत्तरं) श्रोतुम् इच्छामि, यतः मम परम् कौतूहलम् वर्तते; हे महर्षे, भवान् हि [ईदृशं] नरम् ज्ञातुम् समर्थः अस्ति।"
+English Translation: "I wish to hear this (answer), for my curiosity is immense; O great sage, you are indeed capable of knowing such a man."
 
-[त्रिलोकस्य ज्ञाता] [प्रहृष्टः] च नारदः, वाल्मीकेः एतत् वचः श्रुत्वा, "श्रूयताम्" इति आमन्त्र्य, वाक्यम् उक्तवान् अभूत्। (1.1.6)
+(1.1.6)
+[त्रिलोकस्य ज्ञाता] [प्रहृष्टः] च नारदः, वाल्मीकेः एतत् वचः श्रुत्वा, "श्रूयताम्" इति आमन्त्र्य, वाक्यम् उक्तवान् अभूत्।
+English Translation: Narada, [the knower of the three worlds] and [greatly pleased], having heard this speech of Valmiki, addressed him with "Listen," and spoke (these) words.
 
-"हे मुने, त्वया [ये] बहवः गुणाः कीर्तिताः, [ते] दुर्लभाः एव; अहं बुद्ध्वा [तैः युक्तम्] नरम् वक्ष्यामि, सः श्रूयताम्।" (1.1.7)
+(1.1.7)
+"हे मुने, त्वया [ये] बहवः गुणाः कीर्तिताः, [ते] दुर्लभाः एव; अहं बुद्ध्वा [तैः युक्तम्] नरम् वक्ष्यामि, सः श्रूयताम्।"
+English Translation: "O sage, [the] many qualities which have been praised by you are indeed rare; having considered, I will tell of a man [endowed with them], let him be heard."
 
-[इक्ष्वाकुवंशे प्रभवः] [नियतात्मा] [महावीर्यः] [द्युतिमान्] [धृतिमान्] [वशी] रामः नाम जनैः श्रुतः अस्ति। (1.1.8)
+(1.1.8)
+[इक्ष्वाकुवंशे प्रभवः] [नियतात्मा] [महावीर्यः] [द्युतिमान्] [धृतिमान्] [वशी] रामः नाम जनैः श्रुतः अस्ति।
+English Translation: A man named Rama, [born in the Ikshvaku dynasty], [self-controlled], [of great heroism], [brilliant], [steadfast], and [in control of his senses], is heard of among the people.
 
-सः [बुद्धिमान्] [नीतिमान्] [वाग्मी] [वाक्चतुरः] [शत्रु-नाशकः] [विशाल-बाहु-युक्तः] [महाबाहु-युक्तः] [कम्बु-ग्रीवा-युक्तः] [महाहनु-युक्तः] च अस्ति। (1.1.9)
+(1.1.9)
+सः [बुद्धिमान्] [नीतिमान्] [वाग्मी] [श्रीमान्] [शत्रु-निबर्हणः] [विपुलांसः] [महाबाहुः] [कम्बुग्रीवः] [महाहनुः] च अस्ति।
+English Translation: He is [intelligent], [ethical], [eloquent], [glorious], the [destroyer of enemies], [broad-shouldered], [mighty-armed], [with a conch-shell-like neck], and [with a prominent jaw].
 
-सः रामः [विशाल-वक्ष-स्थल-युक्तं] [महा-धुनर्युक्तः] [गूढ-जत्रु-युक्तः] [अरिन्दमः] [आजानुबाहुः] [सुशिराः] [सुललाटः] [सुविक्रमः] च अस्ति। (1.1.10)
+(1.1.10)
+सः रामः [महोरस्कः] [महेष्वासः] [गूढजत्रुः] [अरिन्दमः] [आजानुबाहुः] [सुशिराः] [सुललाटः] [सुविक्रमः] च अस्ति।
+English Translation: That Rama has a [broad chest], [a mighty bow], [a well-covered collarbone], is a [subduer of foes], has [arms reaching his knees], a [well-formed head], a [beautiful forehead], and [possesses great valor].
 
-सः रामः [समः] [समविभक्ताङ्गः] [स्निग्धवर्णः] [प्रतापवान्] [पीनवक्षाः] [विशालाक्षः] [लक्ष्मीवान्] [शुभलक्षणः] च अस्ति। (1.1.11)
+(1.1.11)
+सः रामः [समः] [समविभक्ताङ्गः] [स्निग्धवर्णः] [प्रतापवान्] [पीनवक्षाः] [विशालाक्षः] [लक्ष्मीवान्] [शुभलक्षणः] च अस्ति।
+English Translation: That Rama is [well-proportioned], [with symmetrically divided limbs], [of lustrous complexion], [majestic], [with a full chest], [large eyes], [possessed of fortune], and [endowed with auspicious marks].
 
-सः रामः [धर्मज्ञः] [सत्यव्रतः] [रामः] प्रजानां हिते रतः च, [यशस्वी] [ज्ञानसम्पन्नः] [शुचिः] [वश्यः] [समाधिमान्] च अस्ति। (1.1.12)
+(1.1.12)
+सः रामः [धर्मज्ञः] [सत्यसन्धः] प्रजानां च हिते रतः, [यशस्वी] [ज्ञानसम्पन्नः] [शुचिः] [वश्यः] [समाधिमान्] च अस्ति।
+English Translation: That Rama is a [knower of dharma], [true to his promise], and devoted to the welfare of his subjects; he is [famous], [endowed with knowledge], [pure], [self-controlled], and [meditative].
 
-सः रामः [प्रजापतिसमः] [श्रीमान्] [धाता] [रिपुनिषूदनः] जीवलोकस्य रक्षिता धर्मस्य परिरक्षिता च अस्ति। (1.1.13)
+(1.1.13)
+सः रामः [प्रजापतिसमः] [श्रीमान्] [धाता] [रिपुनिषूदनः] जीवलोकस्य रक्षिता धर्मस्य परिरक्षिता च अस्ति।
+English Translation: That Rama is [equal to Prajapati], [glorious], the [sustainer], the [destroyer of enemies], the protector of the world of living beings, and the supreme guardian of Dharma.
 
-सः रामः स्वस्य धर्मस्य स्वजनस्य च रक्षिता, [वेद-वेदाङ्ग-तत्त्वज्ञः] धनुर्वेदे निष्ठितः च अस्ति। (1.1.14)
+(1.1.14)
+सः रामः स्वस्य धर्मस्य स्वजनस्य च रक्षिता, [वेद-वेदाङ्ग-तत्त्वज्ञः] धनुर्वेदे च निष्ठितः अस्ति।
+English Translation: That Rama is the protector of his own dharma and of his own people; he is a [knower of the essence of the Vedas and Vedangas], and is highly skilled in the science of archery.
 
-सः रामः [सर्व-शास्त्रार्थत-त्त्वज्ञः] [स्मृतिमान्] [प्रतिभानवान्] [सर्व-लोक-प्रियः] [साधुः] [अदीनात्मा] [विचक्षणः] च अस्ति। (1.1.15)
+(1.1.15)
+सः रामः [सर्व-शास्त्रार्थ-तत्त्वज्ञः] [स्मृतिमान्] [प्रतिभानवान्] [सर्व-लोक-प्रियः] [साधुः] [अदीनात्मा] [विचक्षणः] च अस्ति।
+English Translation: That Rama is the [knower of the essence and meaning of all scriptures], [possessed of a great memory], [quick-witted], [beloved of all worlds], [righteous], [of an un-depressed spirit], and [discerning].
 
-सः रामः [आर्यः] [सर्वसमः] च एव [सदा एकप्रियदर्शनः] च सन्, सिन्धुभिः समुद्रः इव, सद्भिः सर्वदा अभिगतः अस्ति। (1.1.16)
+(1.1.16)
+सः रामः [आर्यः] [सर्वसमः] च एव [सदा प्रियदर्शनः] च सन्, सिन्धुभिः समुद्रः इव, सद्भिः सर्वदा अभिगतः अस्ति।
+English Translation: That Rama, being [noble], [equitable towards all], and [always pleasant to behold], is always sought by the good, just as the ocean is by the rivers.
 
-[कौसल्या-नन्द-वर्धनः] सः रामः च [सर्वगुणोपेतः] सन्, गाम्भीर्ये समुद्रः इव, धैर्येण हिमवान् इव च अस्ति। (1.1.17)
+(1.1.17)
+[कौसल्यानन्दवर्धनः] सः रामः च [सर्वगुणोपेतः] सन्, गाम्भीर्ये समुद्रः इव, धैर्येण हिमवान् इव च अस्ति।
+English Translation: That Rama, [the enhancer of Kausalya's joy] and [endowed with all virtues], is like the ocean in profundity, and like the Himalayas in fortitude.
 
-सः रामः [वीर्ये विष्णुना सदृशः], [सोमवत् प्रियदर्शनः], [क्रोधे कालाग्निसदृशः], [क्षमा-भावे पृथिवीसमः] च अभूत् (1.1.18)
+(1.1.18)
+सः रामः [वीर्ये विष्णुना सदृशः], [सोमवत् प्रियदर्शनः], [क्रोधे कालाग्निसदृशः], [क्षमया पृथिवीसमः] च अभूत्।
+English Translation: That Rama was [equal to Vishnu in valor], [pleasant to behold like the moon], [like the fire of cosmic dissolution in anger], and [equal to the Earth in forgiveness].
 
-रामः [त्यागे कुबेरेण समः], [सत्ये इतरः धर्मः इव], [एवङ्गुणसम्पन्नः], [सत्यपराक्रमेण युक्तः] च अभूत् (1.1.19)
+(1.1.19)
+रामः [त्यागे धनदेन समः], [सत्ये अपरः धर्मः इव], [एवङ्गुणसम्पन्नः], [सत्यपराक्रमेण युक्तः] च अभूत्।
+English Translation: Rama was [equal to Kubera in generosity], [like a second Dharma in truthfulness], [endowed with such qualities], and [possessed of true prowess].
 
-[ज्येष्ठम्], [श्रेष्ठगुणैः युक्तम्], [प्रियम्], [प्रजानां हितैः युक्तम्] [दशरथसुतम्] रामं, प्रजाप्रियकाम्यया च ... (1.1.20)
+(1.1.20)
+रामः [ज्येष्ठः], [श्रेष्ठगुणैः युक्तः], [प्रियः], [प्रजानां हितैः युक्तः] [दशरथसुतः] अभूत्। दशरथः प्रजानां प्रियकामनाम् अनुसृतवान् अभूत्।
+English Translation: Rama was the [eldest] son of Dasharatha, [endowed with the best qualities], [beloved], and [devoted to the welfare of the subjects]. Dasharatha followed the dear wish of his subjects.
 
-[महीपतिः] दशरथः प्रीत्या यौवराज्येन नियोक्तुम् इष्टवान् अभूत्। अथ तस्य दशरथस्य भार्या कैकयी अभिषेक-सज्जताः दृष्ट्वा ... (1.1.21)
+(1.1.21)
+सः [महीपतिः] दशरथः प्रीत्या रामं‌ यौवराज्येन नियोक्तुम् इष्टवान् अभूत्। अथ तस्य दशरथस्य भार्या कैकेयी अभिषेक-सज्जताः दृष्टवती अभूत्।
+English Translation: That [lord of the earth], Dasharatha, out of love, wished to install Rama as the heir-apparent. Then his wife, Kaikeyi, saw the preparations for the consecration.
 
-...[पूर्वं वरं लब्धवती] देवी कैकयी रामस्य वनवासं, भरतस्य राज्याभिषेकं च याचितवती अभूत्। (1.1.22)
+(1.1.22)
+[पूर्वं वरं लब्धवती] सा देवी कैकेयी रामस्य वनवासं, भरतस्य राज्याभिषेकं च याचितवती अभूत्।
+English Translation: That queen Kaikeyi, [having previously received boons], asked for the exile of Rama and the coronation of Bharata.
 
-[धर्मपाशेन बद्धः] सः राजा दशरथः सत्यवचनात् [प्रियं] पुत्रं रामं वनवासं प्रति प्रेषितवान् अभूत्। (1.1.23)
+(1.1.23)
+[धर्मपाशेन बद्धः] सः राजा दशरथः सत्यवचनात् [प्रियं] पुत्रं रामं वनवासं प्रति प्रेषितवान् अभूत्।
+English Translation: That king Dasharatha, [bound by the noose of dharma] and by his truthful words, sent his [beloved] son Rama to exile in the forest.
 
-[वीरः] सः रामः, पितुः वचन-निर्देशात् कैकेयीं सन्तोषयितुं च, प्रतिज्ञाम् अनुपालयन् वनं गतवान् अभूत्। (1.1.24)
+(1.1.24)
+[वीरः] सः रामः, पितुः वचन-निर्देशात् कैकेय्याः प्रियचिकीर्षया च, प्रतिज्ञाम् अनुपालयन् वनं गतवान् अभूत्।
+English Translation: That [heroic] Rama, by the command of his father's words and with a desire to please Kaikeyi, honoring the promise, went to the forest.
 
-[विनय-सम्पन्नः], [सुमित्रा-नन्द-वर्धनः], [प्रियः] भ्राता लक्ष्मणः स्नेहात् [गच्छन्तं] तं रामम् अनुगतवान् अभूत्। (1.1.25)
+(1.1.25)
+[विनय-सम्पन्नः], [सुमित्रा-नन्द-वर्धनः], [प्रियः] भ्राता लक्ष्मणः स्नेहात् [गच्छन्तं] तं रामम् अनुगतवान् अभूत्।
+English Translation: The dear brother Lakshmana, [who was endowed with humility], [the enhancer of Sumitra's joy], out of affection, followed that Rama [who was departing].
+
+(1.1.26)
+भ्राता लक्ष्मणः, [दयितः], भ्रातुः रामं प्रति [सौभ्रात्रम् अनुदर्शयन्], वनं व्रजन्तं तं भ्रातरं रामम् अनुगतवान् अभूत्। रामस्य भार्या सीता, [दयिता], [नित्यं प्राणसमा], [हिता] अभूत्।
+English Translation: The brother Lakshmana, [who was beloved], [demonstrating brotherly affection] towards his brother Rama, followed that brother Rama who was going to the forest. Rama's wife Sita was [beloved], [always as dear as life itself], and [devoted to his welfare].
+
+(1.1.27)
+(सा) [जनकस्य कुले जाता], [देवमाया इव निर्मिता], [सर्वैः लक्षणैः सम्पन्ना], [नारीणाम् उत्तमा] वधूः सीता रामम् अनुगतवती अभूत्।
+English Translation: (She), the bride Sita, [born in the family of Janaka], [created as if by divine illusion], [endowed with all auspicious qualities], and [the best among women], followed Rama.
+
+(1.1.28)
+यथा रोहिणी शशिनम् अनुगच्छति, तथा सीता अपि रामम् अनुगतवती अभूत्। पौराः पिता दशरथः च तं रामं दूरम् अनुगतवन्तः अभूवन्।
+English Translation: Just as Rohini follows the Moon, so too Sita followed Rama. The citizens and father Dasharatha followed him, Rama, for a long distance.
+
+(1.1.29)
+[धर्मात्मा] रामः, [प्रियं] [निषाद-राजानम्] गुहम् आसाद्य, शृङ्गिबेरपुरे गङ्गाकूले [सूतं] सुमन्त्रम् प्रतिनिवर्तितवान् अभूत्।
+English Translation: [The virtuous] Rama, after meeting Guha, [the beloved] [king of the Nishadas], sent the charioteer Sumantra back from Shringiberapura on the bank of the Ganga.
+
+(1.1.30)
+[गुहेन सहितः] रामः, लक्ष्मणः, सीता च, (ते सर्वे) वना वनं गत्वा, [बहुजलेन युक्ताः] नदीः तीर्णवन्तः अभूवन्।
+English Translation: Rama, [accompanied by Guha], along with Lakshmana and Sita, (all of them), having gone from forest to forest, crossed rivers [that were endowed with abundant water].
