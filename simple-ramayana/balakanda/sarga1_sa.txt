@@ -117,3 +117,23 @@ English Translation: [The virtuous] Rama, after meeting Guha, [the beloved] [kin
 (1.1.30)
 [गुहेन सहितः] रामः, लक्ष्मणः, सीता च, (ते सर्वे) वना वनं गत्वा, [बहुजलेन युक्ताः] नदीः तीर्णवन्तः अभूवन्।
 English Translation: Rama, [accompanied by Guha], along with Lakshmana and Sita, (all of them), having gone from forest to forest, crossed rivers [that were endowed with abundant water].
+
+(1.1.31)
+भरद्वाजस्य आदेशात् चित्रकूटं प्राप्य ते त्रयः [रामः लक्ष्मणः सीता च] वने रममाणाः तत्र [रम्यम्] कुटीरं निर्मितवन्तः अभूवन्।
+By the command of Bharadwaja, having reached Chitrakuta and having built a [beautiful] hut there, those three [Rama, Lakshmana, and Sita], rejoicing in the forest.
+
+(1.1.32)
+ते [देवैः गन्धर्वैः सहिताः रामः लक्ष्मणः सीता च] तत्र [चित्रकूटे] सुखं निवसितवन्तः अभूवन्। तथा, रामे चित्रकूटं गते सति, [राजा दशरथः] पुत्रशोकातुरः अभूत्।
+There [at Chitrakuta], they [Rama, Lakshmana, and Sita], who resembled gods and Gandharvas, dwelt happily. Meanwhile, when Rama had gone to Chitrakuta, [King Dasharatha] became overwhelmed with grief for his son.
+
+(1.1.33)
+स्वसुतं [रामं] विलपन्, [राजा] दशरथः स्वर्गं गतवान् अभूत्। तस्मिन् [दशरथे] मृते सति तु, भरतः वसिष्ठप्रमुखैः द्विजैः [सिंहासने नियुक्तः] अभूत्।
+Lamenting his own son [Rama], [King] Dasharatha went to heaven. But when he [Dasharatha] had died, Bharata was appointed to the throne by the Brahmins led by Vasishtha.
+
+(1.1.34)
+राज्याय नियुज्यमानः अपि, सः [महाबलः] भरतः राज्यं न इष्टवान् अभूत्। अतः सः [वीरः], [रामस्य पादयोः प्रसादकः सन्], वनं गतवान् अभूत्।
+Even while being appointed to the kingdom, he, the [mighty] Bharata, did not desire the kingdom. Therefore the [hero] Bharata being one who seeks to please Rama's feet, went to the forest.
+
+(1.1.35)
+[आर्यभावेन पुरस्कृतः] भरतः तु, [सुमहात्मानं] [सत्य-पराक्रमेण युक्तं] [भ्रातरं] रामं गत्वा, तं प्रत्यागन्तुम् याचितवान् अभूत्।
+But Bharata, impelled by noble sentiment, having gone to his [brother] Rama—the great-souled one endowed with true valor—requested [him to return]."
