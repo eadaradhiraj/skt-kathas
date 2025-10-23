@@ -57,3 +57,23 @@ Sanskrit Prose:
 ‌
 English:
 Those two brothers were knowers of the principles of music, experts in scales and notes, endowed with melodious voices, and like Gandharvas in appearance.
+
+1.4.11
+तौ भ्रातरौ [रूप-लक्षण-सम्पन्नौ], [मधुर-स्वर-भाषिणौ], तथा रामदेहात् उद्धृतौ यथा एकस्मात् बिम्बात् अपरौ बिम्बौ अभूताम्।
+Those two brothers were endowed with beauty and auspicious marks, spoke with sweet voices, and, taken from Rama's body, were just as two other images are from a single image.
+
+1.4.12
+[अनिन्दितौ] तौ राजपुत्रौ [उत्तमं] [धर्म्यं] तत् सर्वम् आख्यानं काव्यं पूर्णतया कण्ठस्थीकृतवन्तौ अभूताम्।
+Those two blameless princes completely committed to memory that entire, excellent, and righteous narrative poem.
+
+1.4.13
+[तत्त्वज्ञौ] [सुसमाहितौ] तौ (भ्रातरौ) ऋषीणां, द्विजातीनां, साधूनां च समागमे [यथोपदेशं] गीतवन्तौ अभूताम्।
+Those two (brothers), [knowers of the essence] and [very well-composed], sang in the assembly of rishis, twice-born men, and holy men, [just as they were instructed].
+
+1.4.14
+[महात्मानौ] [महाभागौ] [सर्वलक्षणैः लक्षितौ] तौ भ्रातरौ लवकुशौ कदाचित् [भावितात्मनाम्] [आसीनानाम्] ऋषीणां समीपे इदं काव्यम् गीतवन्तौ अभूताम्।
+Those two brothers, Lava and Kusha, [great-souled], [highly fortunate], and [marked with all auspicious signs], once sang this poem in the presence of rishis [of purified souls] who were [seated].
+
+1.4.15
+सर्वे मुनयः तत् श्रुत्वा परं विस्मयम् आगताः, तेषां नेत्राणि च बाष्पपूर्णानि अभूवन्। (ततः) ते तौ "साधु साधु" इति उक्तवन्तः अभूवन्।
+All the sages, having heard that, became greatly astonished, and their eyes filled with tears. Then they said to those two, "Excellent, excellent!"
