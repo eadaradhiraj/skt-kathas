@@ -1,5 +1,5 @@
 1.7.1
-En tiu urbo, la ministroj de la grandanima Ikŝvakua reĝo estis [dotitaj per virtoj], [sciantoj de konsiloj], [sciantoj de intencoj], kaj [ĉiam okupitaj pri lia amata bono].
+En tiu urbo, la ministroj de la grandanima Ikŝvakua reĝo estis [virto-dotitaj], [konsil-sciantoj], [intenco-sciantoj], kaj [ĉiam okupitaj pri lia amata bono].
 
 1.7.2
 Tiu heroa reĝo havis ok [glor-plenajn] ministrojn. Ili estis [puraj] kaj [ĉiam reĝo-devo-fidelaj].
@@ -17,19 +17,19 @@ Tiuj ministroj estis [scio-humilaj], [modestaj], [lertaj], [sento-regaj], [prosp
 Tiuj ministroj estis [fam-plenaj], [atentaj], [laŭ-ordon-agantaj], [bril-pacien-famaj], kaj [antaŭ-ridet-parolantaj].
 
 1.7.7
-Ili pro-kolere aŭ pro deziro-riĉa celo neniam diris malveran vorton. Per spionoj, al ili neniu ago [ĉe-si-aŭ-ali-lande]—ĉu [farata, farita, aŭ eĉ nur celata]—estis nekonata.
+Ili neniam diris malveran vorton pro kolero aŭ deziro. Tra spionoj, neniu ago [en sia propra aŭ alies lando] — ĉu [farita, plenumita, aŭ eĉ nur intencita] — estis nekonata al ili.
 
 1.7.8
 Ili estis [afer-lertaj] kaj [amikec-testitaj]. Ili ja donis [laŭ-tempan punon] eĉ al siaj filoj.
 
 1.7.9
-Ili estis okupitaj [pri trezor-kolektado] kaj [pri arme-kolektado]. Ili ne vundis [sen-kulpan] homon, [eĉ malamikan].
+Ili estis okupitaj [pri trezor-kolektado] kaj [pri arme-kolektado]. Ili ne vundis [sen-kulpan] homon, eĉ malamikan.
 
 1.7.10
-Ili estis [kuraĝaj], [konstante entuziasm-plenaj], [reĝo-scienc-sekvantaj], kaj [ĉiam honesta-regnano-protektantaj].
+Ili estis [kuraĝaj], [konstante entuziasm-plenaj], [politik-scienc-sekvantaj], kaj [ĉiam honesta-regnano-protektantaj].
 
 1.7.11
-Bone-konsiderinte la forton-malforton de homo, ili estis [sever-pun-donantaj]. [Ne-vundinte la bramanojn kaj kŝatrijojn], ili plenigis la trezoron.
+Bone konsiderinte la forton-malforton de homo, ili estis [sever-pun-donantaj]. [Ne-vundinte la bramanojn kaj kŝatrijojn], ili plenigis la trezoron.
 
 1.7.12
 Ĉiuj tiuj ministroj estis [puraj], [unu-opini-havaj], kaj [ver-sciantaj]. Nek en la urbo nek en la regno estis ie ajn [malver-parolanta] homo.
@@ -47,24 +47,22 @@ Ili estis [pro-si-virte guru-akceptitaj] kaj [kuraĝ-famaj]. [Pro sia intelekt-c
 Ili estis [pac-milit-princip-sciantaj] kaj [natur-virtaj].
 
 1.7.17
-Ili estis [konsil-sekret-kapablaj], [mild-naturaj], [per-subtil-intelektaj], [politik-scienc-fakuloj], kaj [ĉiam dolĉ-parolantaj].
+Ili estis [kapablaj teni siajn konsilojn sekretaj], [mildaj], [dotitaj per subtila intelekto], [specialistoj pri la scienco de ŝtato], kaj [ĉiam agrablaj parolantoj].
 
 1.7.18
-Havante [tiajn] [virt-plenajn] ministrojn, la [sen-peka] reĝo Daŝarato regis la teron.
+Havante [tiajn] [virto-plenajn] ministrojn, la [sen-peka] reĝo Daŝarato regis la teron.
 
 1.7.19
 Reĝo Daŝarato observis siajn regnanojn per spionado. Li ĝojigis siajn regnanojn per justeco. Li protektis la regnanojn. Li evitis maljustecon.
 
 1.7.20
-Reĝo Daŝarato estis fama en la tri mondoj. Li estis donacema. Li estis promes-fidela. Tiu tigro-inter-viroj, Li, regis tie ĉi tiun teron.
+Reĝo Daŝarato estis fama en la tri mondoj. Li estis donacema. Li estis promes-fidela. Tiu tigro inter viroj Daŝarato regis tie ĉi tiun teron.
 
 1.7.21
-Reĝo Daŝarato ne trovis por si malamikon superan aŭ egalan. Reĝo Daŝarato estis amik-hava. La vasaloj de Reĝo Daŝarato estis submetiĝintaj.Reĝo Daŝarato detruis siajn malamikojn per sia kuraĝo.
+Reĝo Daŝarato ne trovis por si malamikon superan aŭ egalan. Reĝo Daŝarato havis amikojn. La vasaloj de Reĝo Daŝarato estis submetiĝintaj. Reĝo Daŝarato detruis siajn malamikojn per sia kuraĝo.
 
 1.7.22
 Reĝo Daŝarato estis ĉirkaŭita de siaj ministroj.
 La ministroj de Reĝo Daŝarato estis nomumitaj por konsilo kaj bono.
-La ministroj de Reĝo Daŝarato estis fidelaj.
-La ministroj de Reĝo Daŝarato estis lertaj.
-La ministroj de Reĝo Daŝarato estis kapablaj.
+La ministroj de Reĝo Daŝarato estis fidelaj, lertaj kaj kapablaj.
 Tiel akompanate, Reĝo Daŝarato akiris brilon, samkiel la leviĝanta suno kunigita kun siaj brilaj radioj.
