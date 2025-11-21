@@ -1,5 +1,5 @@
 1.13.1
-पुनः वसन्ते प्राप्ते, पूर्णः संवत्सरः अभूत्। [वीर्यवान्] राजा दशरथः प्रसवार्थम् अश्वमेधेन यष्टुं गतः अभूत्।
+पुनः वसन्ते प्राप्ते, पूर्णः संवत्सरः अभूत्। [वीर्यवान्] राजा दशरथः प्रसवार्थम् अश्वमेधेन यष्टुं गतः।
 When spring arrived again, a full year was complete. The [powerful] King Dasharatha did go to perform the horse sacrifice for the sake of progeny.
 
 1.13.2
@@ -98,3 +98,49 @@ Vasistha - "Also bring Romapada, the lord of Anga, who is [great-souled], [well-
 1.13.25
 वसिष्ठः - "[पूर्व-दिग्-भागीयान्] [सिन्धु-सौवीरान्] [सौराष्ट्रेयान्] च पार्थिवान्, [समस्तान्] [दाक्षिणात्यान्] नरेन्द्रान् च समानय।"
 Vasistha - "Bring the kings from the [Eastern regions], from [Sindhu-Sauvira], and from [Saurashtra], and all the kings from the [Southern regions]."
+
+1.13.26
+वसिष्ठः - "पृथिवीतले ये च अन्ये [स्निग्धाः] राजानः सन्ति, तान् अनुगैः बान्धवैः च सह क्षिप्रम् आनय।"
+Vasistha - "And whatever other [friendly] kings there are on the face of the earth, bring them quickly, along with their followers and relatives."
+
+1.13.27
+तदा तत् वसिष्ठस्य वाक्यं श्रुत्वा, [त्वरितः] सुमन्त्रः तत्र राज्ञाम् आनयने [शुभान्] पुरुषान् आदिष्टवान् अभूत्।
+Then Sumantra, [being swift], having heard that command of Vasistha, did appoint [auspicious] men there for the purpose of bringing the kings.
+
+1.13.28
+[धर्मात्मा] सुमन्त्रः त्वरितः भूत्वा, मुनिशासनात् महीक्षितः समानेतुं स्वयम् एव गतः।
+The [righteous] Sumantra, having become swift, did go himself by the sage's command to bring the kings.
+
+1.13.29
+ते [सर्वे] कर्मान्तिकाः च यज्ञे यत् उपकल्पितम्, तत् सर्वं [धीमते] वसिष्ठाय निवेदितवन्तः अभूवन्।
+And all those foremen did report to the [wise] Vasistha everything that had been prepared for the sacrifice.
+
+1.13.30
+ततः [प्रीतः] [द्विजश्रेष्ठः] वसिष्ठः तान् सर्वान् इदम् उक्तवान् अभूत् - "कस्मैचित् अवज्ञया लीलया वा अपि किमपि न दातव्यम्।"
+Then Vasistha, [the best of Brahmins], being pleased, said this to all of them - "Nothing is to be given to anyone with disrespect or even casually.""
+
+1.13.31
+ततः महीक्षितः राज्ञः दशरथस्य कृते [बहूनि] रत्नानि आदाय, केभ्यश्चित् अहोरात्रेभ्यः परम् उपयाताः।
+Then the kings, having brought [many] jewels for King Dasharatha, arrived after some days and nights.
+
+1.13.32
+ततः [सुप्रीतः] वसिष्ठः राजानं दशरथम् इदम् उक्तवान् अभूत्।
+Then Vasistha, [being very pleased], did speak this to the king, Dasharatha.3
+वसिष्ठः - "हे [नरव्याघ्र] दशरथ, तव शासनात् राजानः उपयाताः। मया अपि [सर्वे] [राजसत्तमाः] यथार्हं सत्कृताः।"
+Vasistha - "O [tiger among men] Dasharatha, the kings have arrived by your command. By me also, [all] the [best of kings] have been honored as they deserve."
+
+1.13.34
+वसिष्ठः - "हे राजन्, [सुसमाहितैः] पुरुषैः यज्ञीयं कार्यं कृतम् अस्ति। भवान् च समीपे यज्ञायतनं यष्टुं निर्यातु।"
+Vasistha - "O King, the work of the sacrifice has been done by [very diligent] men. And you should now depart to sacrifice at the nearby sacrificial enclosure."
+
+1.13.35
+वसिष्ठः - "हे राजेन्द्र, [सर्वकामैः उपहृतैः सर्वत्र उपेतं], [मनसा विनिर्मितम् इव] च तत् यज्ञ-स्थलं द्रष्टुम् अर्हसि।"
+Vasistha - "O best of kings, you should see that sacrificial ground, which is [furnished everywhere with all desired objects] and seems [as if created by the mind itself]."
+
+1.13.36
+ततः [जगत्पतिः] राजा दशरथः वसिष्ठस्य ऋष्यशृङ्गस्य च उभयोः वचनात्, [शुभे] दिवसे नक्षत्रे च निर्गतः।
+Then the king, Dasharatha, [the lord of the world], on the word of both Vasistha and Rishyashringa, did depart on an [auspicious] day and star.
+
+1.13.37
+तदा [वसिष्ठ-प्रमुखाः] [सर्वे] [द्विजोत्तमाः], ऋष्यशृङ्गं पुरस्कृत्य, यज्ञकर्म आरब्धवन्तः अभूवन्। ते सर्वे [यज्ञवाट-गताः] भूत्वा, यथाशास्त्रं यथाविधि च कर्म कृतवन्तः अभूवन्।
+Then all the [best of Brahmins], [led by Vasistha], having placed Rishyashringa at the forefront, did begin the work of the sacrifice. All of them, [having gone to the sacrificial enclosure], did perform the rites according to the scriptures and the rules.
