@@ -6,34 +6,34 @@ pg 1
 Scene: In a tax collection center in 18th Century Bengal.
 दृश्यम् - अष्टादशशताब्द्याम् वङ्गे करसङ्ग्रहणकेन्द्रे।
 
-Narrator: In 18th Century Bengal, British rule was spread everywhere.
+1. Narrator: In 18th Century Bengal, British rule was spread everywhere.
 सूत्रधारः - वङ्गे अष्टादशशताब्द्याम् आङ्गलशासनं सर्वत्र प्रसृतम्॥
 
-Narrator: The wealth of the land was taken by the sword.
+2. Narrator: The wealth of the land was taken by the sword.
 सूत्रधारः - असिना देशस्य धनं हृतम्।
 
-Narrator: Hungry people were looted by oppressors.
+3. Narrator: Hungry people were looted by oppressors.
 सूत्रधारः - बुभुक्षिताः जनाः अत्याचारिभिः लुण्ठिताः।
 
-Narrator: The ruling Muslim King was a puppet in British hands.
+4. Narrator: The ruling Muslim King was a puppet in British hands.
 सूत्रधारः - शासकः महमदीयराजः आङ्गलहस्ते पुत्तलिका अभूत्।
 
 (A British Officer is seated on a chair. A certain poor peasant, having knelt before him, begs.)
 (आङ्गल-अधिकारी आसन्दे उपविष्टः। कश्चन निर्धनः कृषकः तस्य पुरतः जानुभ्याम् उपविश्य याचते।)
 
-British Officer: Give tax!
+5. British Officer: Give tax!
 आङ्गल-अधिकारी - करं दद!
 
-Peasant: Show mercy! We shall die of hunger!
+6. Peasant: Show mercy! We shall die of hunger!
 कृषक - कृपा दर्शनीया! वयं बुभुक्षया मरिष्यामः!
 
 (The Guard raises his whip angrily.)
 (भटः सकोपं कशाम् उत्थापयति।)
 
-Guard: Then die!
+7. Guard: Then die!
 भटः - अथ म्रियस्व!
 
-Villager: Our everything was taken by them!
+8. Villager: Our everything was taken by them!
 ग्रामवासी - अस्माकं सर्वस्वं तैः हृतम्!
 
 (End of Scene)
@@ -42,39 +42,39 @@ Villager: Our everything was taken by them!
 pg 2
 
 Scene: A desolate village and Mahendra's bedroom.
-दृश्यम् - एकः उध्वस्तः ग्रामः महेन्द्रस्य शयनकक्षः च।
+दृश्यम् - एकः उध्वस्तः ग्रामः भूस्वामिनः महेन्द्रस्य शयनकक्षः च।
 
-Narrator: In the year 1773, Padachihno village became extremely poor.
+1. Narrator: In the year 1773, Padachihno village became extremely poor.
 सूत्रधारः - त्रिसप्तत्युत्तरसप्तदश-तमे वर्षे पदचिह्नग्रामः अतिदरिद्रः जातः॥
 
-Narrator: To the city, it was fled by the villagers for food.
+2. Narrator: To the city, it was fled by the villagers for food.
 सूत्रधारः - भोजनार्थं ग्रामवासिभिः नगरं प्रति पलायितम्।
 
-Narrator: Only Landlord Mahendra, with his child and wife, remained there.
+3. Narrator: Only Landlord Mahendra, with his child and wife, remained there.
 सूत्रधारः - तत्र केवलं सापत्यः सभार्यः भूस्वामी महेन्द्रः अवशिष्टः।
 
 (Mahendra and Kalyani are engaged in conversation in the bedroom.)
 (महेन्द्रः कल्याणी च शयनकक्षे वार्तालापरतौ।)
 
-Mahendra: Kalyani, this is destruction! Our money has become useless!
-महेन्द्रः - कल्याणि, अयं विनाशः! अस्माकं धनं व्यर्थं जातम्!
+4. Mahendra: Kalyani, this is destruction! Our money has become useless!
+महेन्द्रः - कल्याणि, सर्वं नष्टम्! अस्माकं धनं व्यर्थं जातम्!
 
-Mahendra: Food is not able to be bought!
+5. Mahendra: Food is not able to be bought!
 महेन्द्रः - भोजनं क्रेतुं न शक्यते!
 
-Kalyani: Can we not go to the city?
-कल्याणी - किं वयं नगरं गन्तुं न शक्नुमः?
+6. Kalyani: Can we not go to the city?
+कल्याणी - किं नगरं गन्तुं न शक्यते?
 
-Kalyani: Mercy should be shown! I am not able to bear it.
+7. Kalyani: Mercy should be shown! I am not able to bear it.
 कल्याणी - कृपा दर्शनीया! सोढुं न शक्नोमि।
 
-Mahendra: If we leave, our property will be seized by dacoits.
+8. Mahendra: If we leave, our property will be seized by dacoits.
 महेन्द्रः - निर्गच्छेम चेत् दस्युभिः अस्मत्सम्पत्तिः ग्रहीष्यते।
 
-Kalyani: Even if dacoits come, are you able to stop them?
+9. Kalyani: Even if dacoits come, are you able to stop them?
 कल्याणी - दस्यवः आगच्छेयुः अपि तान् रोद्धुं शक्नोषि किम्?
 
-Kalyani: Please, it must be departed by us.
+10. Kalyani: Please, it must be departed by us.
 कल्याणी - कृपया, अस्माभिः निर्गन्तव्यम्।
 
 (End of Scene)
@@ -88,252 +88,1110 @@ Title: Ananda Math
 Scene: Mahendra's home entrance and a forest path.
 दृश्यम् - महेन्द्रस्य गृहद्वारं वनमार्गः च।
 
-Narrator: Kalyani's advice was accepted. As a precaution, the armed Mahendra set out.
+1. Narrator: Kalyani's advice was accepted. As a precaution, the armed Mahendra set out.
 सूत्रधारः - कल्याण्याः परामर्शः स्वीकृतः। सावधानतया, सशस्त्रः महेन्द्रः निर्गतः।
 
-Mahendra - Come, let us go.
+2. Mahendra - Come, let us go.
 महेन्द्रः - एहि, गम्यताम्।
 
-Kalyani - Wait!
+3. Kalyani - Wait!
 कल्याणी - तिष्ठतु!
 
 (Mahendra notices a small box in Kalyani's hand.)
 (महेन्द्रः कल्याण्याः हस्ते काञ्चित् लघुमञ्जूषां पश्यति।)
 
-Mahendra - What is that?
+4. Mahendra - What is that?
 महेन्द्रः - तत् किम्?
 
-Kalyani - In this is poison. To protect my honor, it might be needed by me.
+5. Kalyani - In this is poison. To protect my honor, it might be needed by me.
 कल्याणी - विषम्। मम मानरक्षणाय एतद् आवश्यकं स्यात्।
 
-Narrator: After walking for miles, a deserted hut was reached by them.
+6. Narrator: After walking for miles, a deserted hut was reached by them.
 सूत्रधारः - बहुक्रोशान् चलित्वा तैः काचित् त्यक्ता कुटी प्राप्ता।
 
-Mahendra - Let us rest here. The child is hungry.
+7. Mahendra - Let us rest here. The child is hungry.
 महेन्द्रः - अत्र विश्रामं कुर्मः। शिशुः बुभुक्षितः।
 
-Mahendra - You wait inside the hut. I will search for roots and fruits.
+8. Mahendra - You wait inside the hut. I will search for roots and fruits.
 महेन्द्रः - त्वं कुट्याम् अन्तः तिष्ठ। मूलफलानि अन्वेषिष्यामि।
 
-Narrator: While Kalyani waited, thin men came around Kalyani.
+9. Narrator: While Kalyani waited, thin men came around Kalyani.
 सूत्रधारः - यदा कल्याणी प्रतीक्षारता तदा कृशकायाः नराः कल्याणीं परितः आगताः।
 
-Kalyani - Help!
+10. Kalyani - Help!
 कल्याणी - त्राहि माम्!
 
-Robber 1 - We will sell her to the soldiers.
+11. Robber 1 - We will sell her to the soldiers.
 प्रथम-दस्युः - एतां सैनिकेभ्यः विक्रेष्यामहे।
 
-Robber 2 - Yes, they will give good money.
+12. Robber 2 - Yes, they will give good money.
 द्वितीय-दस्युः - आम्, ते बहुधनं दास्यन्ति।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-pg4
+pg 4
 
 Scene: Inside a dense forest.
 दृश्यम् - सघनवने अन्तः।
 
-Narrator: Seizing her by the hands, they dragged her towards the forest.
+1. Narrator: Seizing her by the hands, they dragged her towards the forest.
 सूत्रधारः - करद्वयेन सा वनं प्रति तैः आकृष्टा।
 
-Kalyani - Help me! Save me!
+2. Kalyani - Help me! Save me!
 कल्याणी - त्राहि माम्! रक्ष माम्!
 
-Narrator: Inside the forest, while the dacoits were busy inspecting their loot, Kalyani tried to escape.
-सूत्रधारः - वने दस्युषु लुण्ठितवस्तुनिरीक्षणरतेषु व्यग्रेषु कल्याण्या पलायन-प्रयासः कृतः।
+3. Narrator: Inside the forest, while the dacoits were busy inspecting their loot, Kalyani tried to escape.
+सूत्रधारः - वने लुण्ठित-वस्तु-निरीक्षण-व्यग्रेषु दस्युषु कल्याण्या पलायन-प्रयासः कृतः।
 
-Narrator: But the hungry and angry child suddenly yelled.
+4. Narrator: But the hungry and angry child suddenly yelled.
 सूत्रधारः - किन्तु, बुभुक्षितेन क्रुद्धेन शिशुना सहसा आक्रन्दनं कृतम्।
 
-Child - Waaaa!
+5. Child - Waaaa!
 शिशुः - वाऽऽऽ!
 
-Dacoit - She is running away! Catch her!
+6. Dacoit - She is running away! Catch her!
 दस्युः - पलायमाना सा ग्रहीतव्या!
 
-Kalyani - Krishna! Save me.
+7. Kalyani - Krishna! Save me.
 कल्याणी - कृष्ण! मां रक्ष।
 
-Narrator: Kalyani did not give up. She ran on and on. Finally—
+8. Narrator: Kalyani did not give up. She ran on and on. Finally—
 सूत्रधारः - कल्याण्या प्रयासः न त्यक्तः। निरन्तरं धावनं कृतं तया। अन्ते—
 
-Kalyani - I can't run any further.
+9. Kalyani - I can't run any further.
 कल्याणी - इतः परं धावितुं न शक्नोमि।
 
-Kalyani - Do I hear a soothing voice, or is it my imagination?
+10. Kalyani - Do I hear a soothing voice, or is it my imagination?
 कल्याणी - मधुरं स्वरं शृणोमि वा कल्पनां करोमि वा?
 
-Voice - Hare Murare!
+11. Voice - Hare Murare!
 स्वरः - हरे मुरारे!
 
-Narrator: The next moment, Kalyani fell unconscious at the feet of a tall saint.
+12. Narrator: The next moment, Kalyani fell unconscious at the feet of a tall saint.
 सूत्रधारः - अनन्तरे क्षणे मूर्च्छिता कल्याणी कस्यचन उन्नतस्य साधोः पादयोः पतिता।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-pg5
+pg 5
 
 Scene: A hermitage and a forest road.
 दृश्यम् - आश्रमः वनमार्गः च।
 
-Kalyani - Where am I? Who are you?
+1. Kalyani - Where am I? Who are you?
 कल्याणी - कुत्र अस्मि? कः भवान्?
 
-Satyananda - You are safe. The dacoits cannot come here. Tell me your story.
+2. Satyananda - You are safe. The dacoits cannot come here. Tell me your story.
 सत्यानन्दः - त्वं सुरक्षिता। दस्यवः अत्र आगन्तुं न शक्नुवन्ति। तव वृत्तान्तं कथय।
 
-Narrator: The name of the sage who had saved Kalyani was Satyananda.
+3. Narrator: The name of the sage who had saved Kalyani was Satyananda.
 सूत्रधारः - कल्याणीं रक्षितवतः मुनेः नाम सत्यानन्दः।
 
-Narrator: He had many disciples. He went out and spoke to one of them.
-सूत्रधारः - तस्य बहवः शिष्याः अभूवन्। सः बहिः निर्गतः तेन एकेन सह सम्भाषितम्।
+4. Narrator: He had many disciples. He went out and spoke to one of them.
+सूत्रधारः - तस्य बहवः शिष्याः अभूवन्। सः बहिः निर्गत्य एकेन सह सम्भाषितम्।
 
-Satyananda - Go, Bhavananda. Look for Mahendra. Jivananda will follow later.
-सत्यानन्दः - गच्छ भवानन्द महेन्द्रम् अन्विष्य। जीवानन्दः पश्चात् आगमिष्यति।
+5. Satyananda - Go, Bhavananda. Look for Mahendra. Jivananda will follow later.
+सत्यानन्दः - गच्छ भवानन्द महेन्द्रम् अन्विष्य। जीवानन्दः अनन्तरम् आगमिष्यति।
 
-Narrator: Meanwhile, Mahendra was captured by the soldiers.
+6. Narrator: Meanwhile, Mahendra was captured by the soldiers.
 सूत्रधारः - एतस्मिन् अन्तरे, सैनिकैः महेन्द्रः बद्धः।
 
-Narrator: Mahendra was seen in soldier's custody by Bhavananda.
+7. Narrator: Mahendra was seen in soldier's custody by Bhavananda.
 सूत्रधारः - भवानन्देन सः महेन्द्रः सैनिक-निग्रहणे दृष्टः।
 
-Bhavananda - Curse them! If not dacoits, then soldiers.
-भवानन्दः - धिक् तान्! दस्यवः न चेत् सैनिकाः पीडकाः।
+8. Bhavananda - Curse them! If not dacoits, then soldiers.
+भवानन्दः - धिक् तान्! दस्यवः न विद्यन्ते चेत् सैनिकाः पीडकाः।
 
-Soldier - Hey! Who are you?
+9. Soldier - Hey! Who are you?
 सैनिकः - रे! कः त्वम्?
 
-Narrator: Bhavananda voluntarily had himself captured by them.
+10. Narrator: Bhavananda voluntarily had himself captured by them.
 सूत्रधारः - भवानन्देन स्वेच्छया तैः स्वकीयं ग्रहणं कारितम्।
 
-Bhavananda - (Thinking) I must get near Mahendra.
+11. Bhavananda - (Thinking) I must get near Mahendra.
 भवानन्दः - (विचिन्त्य) मया महेन्द्रस्य समीपं गन्तव्यम्।
 
-Bhavananda - Spare me. I am a hermit.
-भवानन्दः - मां मुञ्चतु। अहं सन्न्यासी।
+12. Bhavananda - Spare me. I am a hermit.
+भवानन्दः - अहं विमुच्यताम्। अहं सन्न्यासी।
 
-Soldier - You mean a good-for-nothing. Make him carry this money-chest.
-सैनिकः - निष्कर्मणः इति वक्तुम् इच्छसि। एतां धनपेटिकां वाहय।
+13. Soldier - You mean a good-for-nothing. Make him carry this money-chest.
+सैनिकः - अर्थात् निष्कर्मणः। एतां धनपेटिकां वाहय।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-pg6
+pg 6
 
 Scene: A forest path with a bullock cart and soldiers.
 दृश्यम् - शकटेन सैनिकैः च सह वनमार्गः।
 
-Bhavananda - (Thinking) I must get on that cart somehow. This will help me.
+1. Bhavananda - (Thinking) I must get on that cart somehow. This will help me.
 भवानन्दः - (विचिन्त्य) कथमपि मया तत् शकटम् आरोढव्यम्। एतद् मम सहायकं भविष्यति।
 
-Soldier - The rogue! Tie him up and throw him in the cart.
-सैनिकः - धूर्तः! एतं बद्ध्वा शकटे क्षिपत।
+2. Soldier - The rogue! Tie him up and throw him in the cart.
+सैनिकः - धूर्तः! एषः बद्ध्वा, शकटे क्षिप्यताम्।
 
-Bhavananda - (Thinking) It worked!
-भवानन्दः - (विचिन्त्य) सिद्धम्!
+3. Bhavananda - (Thinking) It worked!
+भवानन्दः - (विचिन्त्य) साफल्यम्!
 
-Narrator: Bhavananda was thrown into the cart next to Mahendra.
+4. Narrator: Bhavananda was thrown into the cart next to Mahendra.
 सूत्रधारः - भवानन्दः शकटे महेन्द्रस्य समीपे क्षिप्तः।
 
-Bhavananda - Mahendra! I have come to rescue you.
+5. Bhavananda - Mahendra! I have come to rescue you.
 भवानन्दः - महेन्द्र! अहं त्वां रक्षितुम् आगतः।
 
-Mahendra - Who are you? How do you know my name?
+6. Mahendra - Who are you? How do you know my name?
 महेन्द्रः - कः त्वम्? कथं मम नाम जानासि?
 
-Bhavananda - There is no time for questions. Quick! Place your wrists on that wheel. It will cut the rope.
-भवानन्दः - प्रश्नोत्तरी-समयः न। शीघ्रम्! मणिबन्धौ तस्मिन् चक्रे स्थापय। तत् रज्जुं छेत्स्यति।
+7. Bhavananda - There is no time for questions. Quick! Place your wrists on that wheel. It will cut the rope.
+भवानन्दः - प्रश्नोत्तरी-समयः न। शीघ्रम्! मणिबन्धौ तस्मिन् चक्रे स्थापय। एवम् रज्जुः छेत्स्यते।
 
-Bhavananda - (Thinking) Jivananda should be here soon.
+8. Bhavananda - (Thinking) Jivananda should be here soon.
 भवानन्दः - (विचिन्त्य) जीवानन्दः शीघ्रम् अत्र आगच्छेत्।
 
-Narrator: Suddenly—
+9. Narrator: Suddenly—
 सूत्रधारः - सहसा—
 
-Soldier - Look! Another hermit!
+10. Soldier - Look! Another hermit!
 सैनिकः - दृश्यताम्! अन्यः सन्न्यासी!
 
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-pg7
+pg 7
 
 Scene: A forest ambush and the path afterwards.
 दृश्यम् - वने आक्रमणं तदनन्तरीयः मार्गः च।
 
-Soldier 1 - Two more are coming this way!
+1. Soldier 1 - Two more are coming this way!
 प्रथम-सैनिकः - अन्याभ्यां द्वाभ्याम् अत्र आगम्यते!
 
-Bhavananda - (Thinking) Jivananda has never failed us.
+2. Bhavananda - (Thinking) Jivananda has never failed us.
 भवानन्दः - (विचिन्त्य) जीवानन्देन वयं कदापि न निराशीकृताः।
 
-Soldier 2 - We are surrounded. It is an ambush!
+3. Soldier 2 - We are surrounded. It is an ambush!
 द्वितीय-सैनिकः - वयं परिवेष्टिताः। इदं छद्माक्रमणम्!
 
-Narrator: The British officer gave orders.
+4. Narrator: The British officer gave orders.
 सूत्रधारः - आङ्गल-अधिकारिणा आदेशाः दत्ताः।
 
-British Officer - Don't panic! Form a circle. Fire!
-आङ्गल-अधिकारी - मा भैष्ट! चक्रव्यूहं रचयत। अग्निं मुञ्चत!
+5. British Officer - Don't panic! Form a circle. Fire!
+आङ्गल-अधिकारी - अलं भयेन! चक्रव्यूहः रच्यताम्। अग्निवर्षा कार्या!
 
-Rebels - Hari! Hari!
+6. Rebels - Hari! Hari!
 विद्रोहिणः - हरे! हरे!
 
-Narrator: The terrified troops ran for their lives.
+7. Narrator: The terrified troops ran for their lives.
 सूत्रधारः - भीताः सैनिकाः प्राणरक्षार्थं पलायिताः।
 
-Bhavananda - Good work! Jivananda, take the money to the vaults.
+8. Bhavananda - Good work! Jivananda, take the money to the vaults.
 भवानन्दः - उत्तमं कार्यम्! जीवानन्द, धनं कोषागारं नय।
 
-Narrator: As Bhavananda and Mahendra walked through the forests—
+9. Narrator: As Bhavananda and Mahendra walked through the forests—
 सूत्रधारः - यदा भवानन्दः महेन्द्रः च वने चरितौ—
 
-Bhavananda - Mahendra! I gave you a sword! Why didn't you fight?
+10. Bhavananda - Mahendra! I gave you a sword! Why didn't you fight?
 भवानन्दः - महेन्द्र! मया तुभ्यं खड्गः दत्तः! त्वया युद्धं किमर्थं न कृतम्?
 
-Mahendra - How could I? I am a Zamindar. You are dacoits.
-महेन्द्रः - कथमहं शक्नुयाम्? अहं तु भूस्वामी अस्मि। यूयं तु दस्यवः।
+11. Mahendra - How could I? I am a Zamindar. You are dacoits.
+महेन्द्रः - कथमहं शक्नुयाम्? अहं तु भूस्वामी। यूयं तु दस्यवः।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-pg8
+pg 8
 
 Scene: A forest path and the exterior of Ananda Math.
 दृश्यम् - वनमार्गः आनन्दमठस्य बहिर्भागः च।
 
-Bhavananda - We are not dacoits! They are the dacoits. That wealth rightfully belongs to us - the sons of this soil.
+1. Bhavananda - We are not dacoits! They are the dacoits. That wealth rightfully belongs to us - the sons of this soil.
 भवानन्दः - वयं न दस्यवः! ते दस्यवः। तत् धनं तु अस्माकम् अस्याः भुवः पुत्राणाम् एव।
 
-Narrator: Then Bhavananda closed his eyes and burst forth into song.
+2. Narrator: Then Bhavananda closed his eyes and burst forth into song.
 सूत्रधारः - ततः भवानन्देन नयने निमीलिते गानं च आरब्धम्।
 
-Bhavananda - Vande Mataram! Sujalam Sufalam...
+3. Bhavananda - Vande Mataram! Sujalam Sufalam...
 भवानन्दः - वन्दे मातरम्! सुजलां सुफलाम्...
 
-Mahendra - You sing about a Mother. Who is she?
+4. Mahendra - You sing about a Mother. Who is she?
 महेन्द्रः - त्वं मातरम् उद्दिश्य गायसि। का सा?
 
-Bhavananda - My Land! I am her child - a Santaan!
+5. Bhavananda - My Land! I am her child - a Santaan!
 भवानन्दः - मम भूमिः! अहं तस्याः अपत्यं, सन्तानः!
 
-Mahendra - How many of you are there?
+6. Mahendra - How many of you are there?
 महेन्द्रः - यूयं कति स्थ?
 
-Bhavananda - Thousands! We have taken a vow to free our Mother!
+7. Bhavananda - Thousands! We have taken a vow to free our Mother!
 भवानन्दः - सहस्रशः! अस्माभिः जननीं मोचयितुं प्रतिज्ञा कृता!
 
-Bhavananda - We have vowed to give up all family ties till she is free! There! That is Ananda Math our secret abode. Will you join us?
+8. Bhavananda - We have vowed to give up all family ties till she is free! There! That is Ananda Math our secret abode. Will you join us?
 भवानन्दः - यावत् सा मुक्ता न भवेत् तावत् सर्वान् पारिवारिक-सम्बन्धान् त्यक्तुम् अस्माभिः शपथः गृहीतः! तत्र! तत् आनन्दमठम् अस्माकं गुप्तनिवासः। किं त्वम् अस्मासु स्वं योजयिष्यसि?
 
-Mahendra - I must go back. I am anxious about my wife and child.
+9. Mahendra - I must go back. I am anxious about my wife and child.
 महेन्द्रः - मया प्रतिगन्तव्यम्। अहं मम भार्या-शिशोः कृते चिन्तितः अस्मि।
 
-Bhavananda - They are safe with Satyananda. I'll take you to him.
+10. Bhavananda - They are safe with Satyananda. I'll take you to him.
 भवानन्दः - तौ सत्यानन्देन सह सुरक्षितौ। त्वां तस्य समीपं नेष्यामि।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 9
+
+Scene: Inside a shrine within Ananda Math, then outside.
+दृश्यम् - आनन्दमठस्य अन्तः एकं मन्दिरं, ततः बहिः।
+
+1. Narrator: Inside Ananda Math, Mahendra was led by Satyananda through a tunnel path towards a large shrine.
+सूत्रधारः - आनन्दमठस्य अन्तः, सत्यानन्देन महेन्द्रः सुरङ्गामार्गेण विशालं मन्दिरं प्रति नीतः।
+
+2. Satyananda - Vande Mataram. This is our worshipable Mother-form. Say Vande Mataram.
+सत्यानन्दः - वन्दे मातरम्। एतत् अस्मत्पूज्यं मातृ-रूपम्। वन्दे मातरम् इति वद।
+
+3. Mahendra - Vande Mataram.
+महेन्द्रः - वन्दे मातरम्।
+
+4. Narrator: When Mahendra came out...
+सूत्रधारः - यदा महेन्द्रः बहिः आगतः...
+
+5. Mahendra - Kalyani!
+महेन्द्रः - कल्याणि!
+
+6. Narrator: By Kalyani, tears of joy were shed.
+सूत्रधारः - कल्याण्या आनन्दाश्रूणि विमोचितानि।
+
+7. Mahendra - Let us go back towards Padachihno. We will never be able to reach the city.
+महेन्द्रः - पदचिह्न-ग्रामं प्रति प्रतिगच्छावः। वयं नगरं प्राप्तुं कदापि न शक्ष्यामः।
+
+8. Mahendra - Somehow I believe in these Sanyasis.
+महेन्द्रः - कथञ्चिदपि एतेषु सन्न्यासिषु मम विश्वासः सञ्जातः।
+
+9. Kalyani - Then having abandoned us, why do you not join with them?
+कल्याणी - अथ आवां त्यक्त्वा तैः सह किमर्थं न संयोजयसि?
+
+10. Mahendra - And what will you do? Where will you go?
+महेन्द्रः - त्वं च किं करिष्यसि? कुत्र गमिष्यसि?
+
+11. Kalyani - Do not worry. Leave all that to me.
+कल्याणी - चिन्तां मास्तु। तत् सर्वं मह्यम् अर्पय।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 10
+
+Scene: Under a tree in the open fields.
+दृश्यम् - विवृते क्षेत्रे कस्यचित् वृक्षस्य अधः।
+
+1. Narrator: Just then, unnoticed by them, the casket of poison was picked up by the child.
+सूत्रधारः - तदैव, ताभ्याम् अलक्षितम्, शिशुना विषमञ्जूषा गृहीता।
+
+2. Kalyani - How was that obtained by you? Give it to me at once!
+कल्याणी - तत् त्वया कथं लब्धम्? शीघ्रं मह्यं प्रयच्छ!
+
+3. Kalyani - By her, some of it was swallowed. Make her spit it out.
+कल्याणी - तया तस्य किञ्चित् ग्रस्तम्। तां वमय।
+
+4. Mahendra - It is too late.
+महेन्द्रः - अतिविलम्बः जातः।
+
+5. Kalyani - Now there is no purpose of life for me! You go to Ananda Math.
+कल्याणी - इदानीं मम जीवनेन न किमपि प्रयोजनम्! आर्य, आनन्दमठं गच्छ।
+
+6. Narrator: Then the poison was drunk by Kalyani.
+सूत्रधारः - ततः कल्याण्या विषं पीतम्।
+
+7. Mahendra - Kalyani! Why was this done by you? Why? Why?
+महेन्द्रः - कल्याणि! किमर्थं त्वया इदं कृतम्? किमर्थम्? किमर्थम्?
+
+8. Mahendra - Everything was lost by me! Why do I live?
+महेन्द्रः - मया सर्वं हारितम्! कथं मम जीवितम्?
+
+9. Narrator: It was Satyananda.
+सूत्रधारः - सत्यानन्दः उपस्थितः।
+
+10. Satyananda - Come with me. I have work for you.
+सत्यानन्दः - माम् अनुगच्छ। मम त्वत्कृते कार्यं वर्तते।
+
+11. Narrator: Just then—
+सूत्रधारः - तदैव—
+
+12. Soldier - Seize them!
+सैनिकः - एतौ गृह्येताम्!
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 11
+
+Scene: A forest path and the exterior of a village house.
+दृश्यम् - वनमार्गः, एकस्य ग्रामगृहस्य बहिर्भागः च।
+
+1. Narrator: Hiding behind a bush, Jivananda was seen by Satyananda.
+सूत्रधारः - गुल्मपृष्ठे निलीनः जीवानन्दः सत्यानन्देन दृष्टः।
+
+2. Narrator: Something was spoken by him in Sanskrit which was thought to be a chant by the captors.
+सूत्रधारः - तेन संस्कृते किञ्चित् उक्तम् यत् बन्धकैः मन्त्रः इति मतम्।
+
+3. Satyananda - In the gentle breeze, on the bank of the river, the excellent woman lives in the forest.
+सत्यानन्दः - धीरसमीरे तटिनीतीरे वसति वने वरनारी।
+
+4. Narrator: Soon, Kalyani was found by Jivananda.
+सूत्रधारः - जीवानन्देन शीघ्रं कल्याणी प्राप्ता।
+
+5. Jivananda - The mother is dead. But the child is alive.
+जीवानन्दः - माता मृता। किन्तु शिशुः जीवति।
+
+6. Jivananda - It must be Mahendra's family.
+जीवानन्दः - इदं महेन्द्रस्य कुटुम्बं स्यात्।
+
+7. Jivananda - I hope Bhavananda or someone else comes this way and cremates the body.
+जीवानन्दः - आशासे भवानन्दः वा अन्यः वा अत्र आगच्छेत्, शवस्य दाहं च कुर्यात्।
+
+8. Jivananda - Immediate care is necessary for the child.
+जीवानन्दः - शिशवे सद्यः पालनम् आवश्यकम्।
+
+9. Narrator: Since he was a Santaan, Jivananda could not go to his wife till the land was free. So he went to his sister's house.
+सूत्रधारः - यतः सन्तानः जीवानन्दः देश-स्वातन्त्र्य-पर्यन्तं भार्यां प्रति गन्तुं न शक्तः, अतः सः भगिन्याः गृहं गतः।
+
+10. Jivananda - I want you to take care of this child.
+जीवानन्दः - अस्य शिशोः पालनं कुरु इति मम इच्छा।
+
+11. Sister - What a pretty child. Give him to me.
+भगिनी - कीदृक् सुन्दरः शिशुः। तं मह्यं देहि।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 12
+
+Scene: Outside a house, Ananda Math, and a forest edge.
+दृश्यम् - गृहस्य बहिर्भागः, आनन्दमठः, वनस्य सीमा च।
+
+1. Narrator: As Jivananda turned to go, Shanti, his wife reached there.
+सूत्रधारः - यदा जीवानन्दः गन्तुम् उद्यतः, तदा शान्तिः, तस्य भार्या तत्र आगता।
+
+2. Jivananda - Shanti, you look unhappy. What is the matter?
+जीवानन्दः - शान्ति, त्वं दुःखिता दृश्यसे। कः विषयः?
+
+3. Shanti - My life has no meaning without you.
+शान्तिः - विना त्वां कथं मे जीवितम्।
+
+4. Narrator: With a heavy heart, Jivananda parted from his wife.
+सूत्रधारः - दुःखितेन मनसा जीवानन्देन भार्या त्यक्ता।
+
+5. Shanti - (Thinking) I will follow him.
+शान्तिः - (विचिन्त्य) अहं तम् अनुसरिष्यामि।
+
+6. Narrator: Meanwhile at Ananda Math...
+सूत्रधारः - एतस्मिन् अन्तरे आनन्दमठे...
+
+7. Disciple - There is news that the soldiers are arresting sanyasis. And Guruji has not yet returned.
+शिष्यः - वार्ता अस्ति यत् सैनिकाः सन्न्यासिनः निगृह्णन्ति। गुरुवर्यः च न अद्यापि प्रत्यागतः।
+
+8. Bhavananda - I will go out in search of him.
+भवानन्दः - अहं तस्य अन्वेषणाय बहिः गमिष्यामि।
+
+9. Narrator: Dressed as a nobleman, Bhavananda left on horseback.
+सूत्रधारः - कुलीन-वेषं धृत्वा भवानन्दः अश्वम् आरुह्य निर्गतः।
+
+10. Narrator: At the edge of the forest...
+सूत्रधारः - वन-सीमनि...
+
+11. Bhavananda - What is this? A beautiful woman! She seems to be dead.
+भवानन्दः - इदं किम्? एका सुन्दरी नारी! सा मृता इव भाति।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 13
+
+Scene: A forest, inside Ananda Math, and outside the city jail.
+दृश्यम् - वनम्, आनन्दमठस्य अन्तः, नगर-कारागारस्य बहिर्भागः च।
+
+1. Narrator: Bhavananda brought some herbs and poured their juice into Kalyani's mouth.
+सूत्रधारः - भवानन्देन काश्चन ओषधयः आनीताः, तासां रसः च कल्याण्याः मुखे पातितः।
+
+2. Bhavananda - (Thinking) She is breathing.
+भवानन्दः - (विचिन्त्य) एषा श्वसिति।
+
+3. Bhavananda - (Thinking) I'll take her to the city and leave her in a safe place. I wonder who she is.
+भवानन्दः - (विचिन्त्य) अहम् एतां नगरं नेष्यामि, सुरक्षित-स्थाने च स्थापयिष्यामि। इयं का स्यात् एव।
+
+4. Narrator: Meanwhile, at Ananda Math—
+सूत्रधारः - एतस्मिन् अन्तरे, आनन्दमठे—
+
+5. Disciple - Guruji and Mahendra are in the city jail. Bhavananda has not returned either. We'll free our Guruji.
+शिष्यः - गुरुवर्यः महेन्द्रः च नगर-कारागारे स्तः। भवानन्दः अपि न प्रत्यागतः। वयं गुरुवर्यम् मोचयिष्यामः।
+
+6. Narrator: Armed with swords and spears, the Santaans left for the city.
+सूत्रधारः - खड्ग-शूल-धारिणः सन्तानाः नगरं प्रति निर्गताः।
+
+7. Santaans - Hare Murare!
+सन्तानाः - हरे मुरारे!
+
+8. Narrator: Boldly they attacked the guards of the jail and freed Satyananda and Mahendra.
+सूत्रधारः - तैः साहसेन कारागार-रक्षकाः आक्रान्ताः, सत्यानन्दः महेन्द्रः च मोचितौ।
+
+9. Satyananda - I am pleased with you. The day our land will be free is not far off.
+सत्यानन्दः - अहं युष्मासु प्रसन्नः अस्मि। अस्मत्-भूमि-मोचन-दिवसः अनतिदूरे।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 14
+
+Scene: A battlefield near the forest and inside Ananda Math.
+दृश्यम् - वनसमीपे युद्धक्षेत्रम्, आनन्दमठस्य अन्तः च।
+
+1. Narrator: As they proceeded towards Ananda Math—
+सूत्रधारः - यदा ते आनन्दमठं प्रति गताः—
+
+2. Santaan - British soldiers! They have heard of Guruji's escape! Hari! Hari!
+सन्तानः - आङ्गल-सैनिकाः! तैः गुरुवर्यस्य पलायन-वार्ता श्रुता स्यात्! हरे! हरे!
+
+3. Narrator: Their swords and spears were no match against the guns. Hundreds died.
+सूत्रधारः - तेषां खड्गाः शूलानि च अग्नेय-अस्त्राणि प्रतिकर्तुं न शक्ताः। शतशः मृताः।
+
+4. Narrator: Later, Bhavananda too arrived at the scene. But—
+सूत्रधारः - पश्चात्, भवानन्दः अपि तत्र आगतः। किन्तु—
+
+5. Satyananda - Fall back! This sacrifice is meaningless.
+सत्यानन्दः - अत्र व्यर्थ-त्यागात् निवर्त्यताम्!
+
+6. Narrator: That night at Ananda Math—
+सूत्रधारः - तस्यां रात्रौ आनन्दमठे—
+
+7. Mahendra - Guruji, I would like to be initiated as a Sanyasi. I will readily die for the cause.
+महेन्द्रः - गुरुवर्य, अहं सन्न्यास-दीक्षां ग्रहीतुम् इच्छामि। अहं लक्ष्यार्थं मर्तुं सिद्धः।
+
+8. Narrator: In the presence of the Mother—
+सूत्रधारः - मातुः समक्षम्—
+
+9. Satyananda - Do you promise to give up all worldly ties till the Mother is freed?
+सत्यानन्दः - यावत् माता मुक्ता न भवेत्, तावत् सर्वान् सांसारिक-सम्बन्धान् त्यक्तुं प्रतिजानासि किम्?
+
+10. Mahendra - I do.
+महेन्द्रः - आम्, प्रतिजानामि।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 15
+
+Scene: Inside Ananda Math.
+दृश्यम् - आनन्दमठस्य अन्तः।
+
+1. Narrator: By someone else too, ordination was awaited.
+सूत्रधारः - अन्येन केनचित् अपि दीक्षा अपेक्षिता।
+
+2. Satyananda - Do you promise to give your life, if need be, to free the Mother?
+सत्यानन्दः - किं त्वं मातुः मुक्त्यर्थम् आवश्यकं चेत् प्राणान् त्यक्तुं प्रतिजानासि?
+
+3. Initiate - I do.
+दीक्षार्थी - आम्, प्रतिजानामि।
+
+4. Satyananda - I name you Navinananda.
+सत्यानन्दः - अहं तव नाम नवीनानन्दः इति करोमि।
+
+5. Narrator: Later, when Satyananda was alone with Navinananda—
+सूत्रधारः - पश्चात्, यदा सत्यानन्दः नवीनानन्देन सह एकाकी अभूत्—
+
+6. Satyananda - You seem to be a woman disguised as a man. Tell me the truth.
+सत्यानन्दः - त्वं पुरुष-वेष-धारिणी नारी इव प्रतीयसे। सत्यं वद।
+
+7. Navinananda - I am a woman.
+नवीनानन्दः - अहं नारी एव।
+
+8. Satyananda - The doors of Ananda Math are closed to women!
+सत्यानन्दः - आनन्दमठे नारी-प्रवेशः नास्ति!
+
+9. Navinananda - Why?
+नवीनानन्दः - किमर्थम्?
+
+10. Satyananda - We are here to fight for the Mother. What can you do?
+सत्यानन्दः - वयं मातुः कृते योद्धुम् अत्र स्मः। त्वं किं कर्तुं शक्नोषि?
+
+11. Navinananda - I can fight as well as any man. Test me.
+नवीनानन्दः - केनचिदपि पुरुषेण सदृशः अहम् अपि योद्धुं शक्नोमि। मां परीक्षताम् भवान्।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 16
+
+Scene: A courtyard inside Ananda Math.
+दृश्यम् - आनन्दमठस्य अन्तः कस्मिंश्चित् प्राङ्गणे।
+
+1. Satyananda - Can you string this bow?
+सत्यानन्दः - किं त्वम् एतद् धनुः अधिज्यातुम् शक्नोषि?
+
+2. Navinananda - Before I try, let me know. Was success attained by all the Santaans?
+नवीनानन्दः - प्रयत्नात् पूर्वं, मम प्रश्नम् उत्तरतु भवान्। किं सर्वैः सन्तानैः साफल्यम् आप्तम्?
+
+3. Satyananda - No, not all. It was attained by only two of us. One is Jivananda...
+सत्यानन्दः - नहि, न सर्वैः। अस्मासु केवलं द्वाभ्याम् एव तत् प्राप्तम्। एकेन जीवानन्देन...
+
+4. Narrator: By now the bow was lifted by Navinananda.
+सूत्रधारः - एतावता नवीनानन्देन धनुः उत्थापितम्।
+
+5. Satyananda - ...the other, myself.
+सत्यानन्दः - ...अपरेण मया स्वयम्।
+
+6. Narrator: Before Satyananda could complete the sentence, the bow was strung by Navinananda and thrown at the feet of Satyananda.
+सूत्रधारः - सत्यानन्दस्य वाक्य-समाप्तेः पूर्वम् एव, नवीनानन्देन धनुः अधिज्यातं सत्यानन्दस्य पादयोः क्षिप्तं च।
+
+7. Satyananda - Are you a fairy? Or a goddess?
+सत्यानन्दः - किं त्वं यक्षिणी? उत देवी?
+
+8. Navinananda - Neither. I am Shanti, Jivananda's wife, an ordinary woman.
+नवीनानन्दः - न यक्षिणी न देवी। अहं शान्तिः, जीवानन्द-भार्या, सामान्या नारी।
+
+9. Shanti - But I have been trained from childhood to lead a hard life.
+शान्तिः - किन्तु बाल्यात् एव कठोर-जीवनं यापयितुम् अहं शिक्षिता।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 17
+
+Scene: Inside Ananda Math - Satyananda's room.
+दृश्यम् - आनन्दमठस्य अन्तः - सत्यानन्दस्य कक्षः।
+
+1. Shanti - Can I stay here?
+शान्तिः - किम् अहम् अत्र वस्तुं शक्नोमि?
+
+2. Satyananda - Only for tonight. Tomorrow you must leave. But you are welcome to help us.
+सत्यानन्दः - केवलम् अद्य रात्रौ। श्वः त्वया गन्तव्यम्। किन्तु तव साहाय्यम् अस्मत्-सौभाग्याय।
+
+3. Narrator: Satyananda then called Mahendra to his room.
+सूत्रधारः - ततः सत्यानन्देन महेन्द्रः स्वकक्षम् आहूतः।
+
+4. Satyananda - Mahendra, your daughter is alive.
+सत्यानन्दः - महेन्द्र, तव पुत्री जीवति।
+
+5. Mahendra - Thank God! Where is she? May I see her?
+महेन्द्रः - ईश्वरानुग्रहः एव! सा कुत्र? किम् तां द्रष्टुं शक्नोमि?
+
+6. Satyananda - Jivananda has placed her in safe hands. You may see her after you complete your mission. You are a Santaan now.
+सत्यानन्दः - जीवानन्देन सा सुरक्षितहस्तेषु स्थापिता। स्वकार्यसमाप्तेः परं तां द्रष्टुं शक्नोषि। इदानीं सन्तानः असि।
+
+7. Mahendra - What can I do for the Mother?
+महेन्द्रः - मातुः कृते किं करवाणि?
+
+8. Satyananda - You were a witness to the bloody battle in the city. Swords are useless against guns. I want guns and cannons to be made.
+सत्यानन्दः - नगरे सञ्जातम् रक्तपूर्णयुद्धम् त्वया दृष्टम् खलु। आग्नेयास्त्राणां पुरतः खड्गाः निष्प्रभावाः। इच्छामि यत् भुशुण्डयः शतघ्न्यः च निर्मीयन्ताम्।
+
+9. Satyananda - At Padachihno you have a big house which can be secretly converted into a foundry. The village can be converted into a fort.
+सत्यानन्दः - पदचिह्न-ग्रामे तव विशालं गृहं गुप्तरूपेण लोहशालायां परिवर्तयितुम् शक्यते। सः ग्रामः दुर्गत्वेन परिवर्तितुं शक्यते।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 18
+
+Scene: A weapon workshop in Padachihno and a mango grove.
+दृश्यम् - पदचिह्न-ग्रामे शस्त्र-निर्माणशाला, आम्र-उपवनं च।
+
+1. Narrator: Satyananda went out for a tour of the country. By him, expert weapon-makers were sent to Padachihno, which was now a strong fort...
+सूत्रधारः - सत्यानन्दः देश-पर्यटनाय निर्गतः। तेन सुदृढ-दुर्ग-भूते ग्रामे दक्षाः शस्त्रकाराः पदचिह्नग्रामं प्रेषिताः।
+
+2. Narrator: ...where under Mahendra's supervision, guns and cannons were made.
+सूत्रधारः - ...यत्र महेन्द्रस्य निरीक्षणे भुशुण्डयः शतघ्न्यः च निर्मिताः।
+
+3. Narrator: After a year, the Santaans assembled in a mango grove. Their number became more than ten thousand. By them, the arrival of their Guru Satyananda was awaited.
+सूत्रधारः - एक-वर्षानन्तरं सन्तानाः आम्र-उपवने मेलिताः। तेषां सङ्ख्या अयुताधिका जाता। तैः स्वगुरोः सत्यानन्दस्य आगमनं प्रतीक्षितम्।
+
+4. Mahendra - Navinananda, I hear that by Warren Hastings, a large English army under Captain Thomas was sent to crush us.
+महेन्द्रः - नवीनानन्द, अहं शृणोमि यत् वारेन्-हेस्टिग्स्-नामकेन अस्मान् मर्दयितुं केप्टन्-तोमसस्य नेतृत्वे विशाला आङ्गल-सेना प्रेषिता।
+
+5. Navinananda - Guruji will lead us to victory.
+नवीनानन्दः - गुरुदेवः अस्मान् विजयं प्रति नेष्यति।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 19
+
+Scene: A mango grove turning into a battlefield.
+दृश्यम् - युद्धक्षेत्रे परिणतम् आम्र-उपवनम्।
+
+1. Narrator: Satyananda came.
+सूत्रधारः - सत्यानन्दः आगतः।
+
+2. Satyananda - Brothers! Victory is not far off. Vande Mataram!
+सत्यानन्दः - भ्रातरः! विजयः न अतिदूरे। वन्दे मातरम्!
+
+3. Santaan - Vande Mataram! We are ready. Let us march on Capt. Thomas.
+सन्तानः - वन्दे मातरम्! वयं सज्जाः। कैप्टन्-तोमसं प्रति चलाम।
+
+4. Satyananda - The time is not yet ripe. It must be waited by us for a while.
+सत्यानन्दः - कालः अद्यापि न परिपक्वः। अस्माभिः किञ्चित् कालः प्रतीक्षितव्यः।
+
+5. Narrator: But suddenly—
+सूत्रधारः - किन्तु सहसा—
+
+6. Narrator: Shells, fired by British cannons, were burst around them.
+सूत्रधारः - आङ्गल-शतघ्निकाभिः मुक्ताः गोलाः तान् परितः विस्फोटिताः।
+
+7. Navinananda (Shanti) - The British have come.
+नवीनानन्दः (शान्तिः) - आङ्गलाः आगताः।
+
+8. Narrator: By the cannons, a heavy toll was taken.
+सूत्रधारः - शतघ्नीभिः महती क्षतिः जाता।
+
+9. Satyananda - Jivananda! I appoint you commander of the forces. Go, get the cannons of the British.
+सत्यानन्दः - जीवानन्द! अहं त्वां सेनापतिं नियोजयामि। गच्छ, आङ्गलानां शतघ्नीः आनय।
+
+10. Narrator: Shanti was by the side of her beloved that day even in battle.
+सूत्रधारः - तस्मिन् दिने युद्धे अपि शान्तिः स्वप्रियतमस्य पार्श्वे अभूत्।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 20
+
+Scene: The battlefield.
+दृश्यम् - युद्धक्षेत्रम्।
+
+1. Narrator: The Santaans advanced.
+सूत्रधारः - सन्तानाः प्रगताः।
+
+2. Santaans - Hari! Hari! Vande Mataram!
+सन्तानाः - हरे! हरे! वन्दे मातरम्!
+
+3. Narrator: Many were killed by another round of fire from the cannons.
+सूत्रधारः - शतघ्नीभ्यः पुनः अग्निवर्षणेन बहवः हताः।
+
+4. Jivananda - (Thinking) This sacrifice is unnecessary.
+जीवानन्दः - (विचिन्त्य) त्यागः अनावश्यकः।
+
+5. Jivananda - I am ordered by Guruji to go and get the British cannons. I am going. Will you come?
+जीवानन्दः - गुरुणा आङ्गल-शतघ्नीः आनेतुम् आदिष्टः अस्मि। गच्छामि। किं त्वम् आगमिष्यसि?
+
+6. Navinananda - I will!
+नवीनानन्दः - आगमिष्यामि!
+
+7. Narrator: When the Santaans went towards the enemy, the air was pierced by shouts of 'Vande Mataram'.
+सूत्रधारः - यदा सन्तानाः शत्रून् प्रति गताः, तदा वन्दे मातरम् इति घोषाः तुमुलाः अभूवन्।
+
+8. Narrator: Meanwhile, a unit was sent by Captain Thomas to cover the southern flanks.
+सूत्रधारः - एतस्मिन् अन्तरे, कैप्टन्-तोमसेन दक्षिण-पक्षाणाम् रक्षणार्थम् एकं सैन्यदलं प्रेषितम्।
+
+9. Narrator: Now shells were rained from the south also.
+सूत्रधारः - इदानीं दक्षिणदिशः अपि गोलाः वर्षिताः।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 21
+
+Scene: The battlefield near the River Ajay.
+दृश्यम् – अजय‑नद्याः समीपे युद्धभूमिः।
+
+1. Narrator: The Santaans were trapped.
+सूत्रधारः – सन्तानाः अवरुद्धाः।
+
+2. Jivananda: Bhavananda! Not a single man can escape alive now, unless we think fast.
+जीवानन्दः – भवानन्द! शीघ्रं उपायः न चिन्त्येत चेत्, नूनम् एकोऽपि जीवन् न पलायेत।
+
+3. Bhavananda: What should we do?
+भवानन्दः – किं कुर्म?
+
+4. Bhavananda: There is only one way out – across the bridge on the River Ajay.
+भवानन्दः – निर्गममार्गः तु केवलम् एकः – अजय‑नदी‑सेतुम् तीर्त्वा।
+
+5. Jivananda: But if the cannon shells fall on the bridge while the Santaans are crossing, all will die.
+जीवानन्दः – किन्तु सन्तानेषु सेतुम् तरत्सु गोलकाः पतेयुः चेत् सर्वे म्रियेरन्।
+
+6. Bhavananda: No, Jivananda! You lead the Santaans to safety while I hold back the British.
+भवानन्दः – न, जीवानन्द! यावत् अहम् आङ्गलान् निरोधयामि, तावत् त्वं सन्तानान् सुरक्षितस्थानं नय।
+
+7. Santaans: Vande Mataram!
+सन्तानाः – वन्दे मातरम्!
+
+8. Bhavananda: Let us die so that others may live. Vande Mataram!
+भवानन्दः – अस्मत्‑त्यागात् अन्ये जीवेयुः। वन्दे मातरम्!
+
+9. Narrator: With about 2,000 men, Bhavananda faced the British cannons.
+सूत्रधारः – प्रायः द्विसहस्रसैनिकैः सह भवानन्देन आङ्गल‑शतघ्न्यः सम्मुखीकृताः।
+
+(End of Scene)
+(दृश्य‑समाप्तिः)
+
+pg 22
+
+Scene: The battlefield and the bridge.
+दृश्यम् – युद्धक्षेत्रं सेतुः च।
+
+1. Narrator: As Jivananda and the Santaans rode to safety—
+सूत्रधारः – यदा जीवानन्दः सन्तानाः च सुरक्षां प्रति अश्वोपरि गताः—
+
+2. Captain Thomas: Let none escape. Follow the Santaans. Take cannons with you.
+कैप्टन्‑तोमसः – कोऽपि न पलायेत। सन्तानाः अनुगम्यन्ताम्। शतघ्न्यः अपि नीयन्ताम्।
+
+3. Narrator: Bhavananda attacked Captain Thomas—
+सूत्रधारः – भवानन्देन कैप्टन्‑तोमसः आक्रान्तः।
+
+4. Bhavananda: Charge!
+भवानन्दः – आक्रम्यताम्!
+
+5. Narrator: In a matter of minutes Captain Thomas was captured.
+सूत्रधारः – निमेष‑मात्रेण कैप्टन्‑तोमसः बन्दीकृतः।
+
+6. Narrator: They tied him up and rushed to help Jivananda...
+सूत्रधारः – कैप्टन्‑तोमसस्य बन्धनानन्तरं ते जीवानन्दस्य साहाय्याय शीघ्रं गताः...
+
+7. Narrator: ...who was having a difficult time because of the cannons.
+सूत्रधारः – ...यः शतघ्नी‑कारणात् सङ्कटे पतितः।
+
+8. Narrator: The shells started falling on the bridge on which the Santaans had gathered.
+सूत्रधारः – यस्मिन् सेतौ सन्तानाः मेलिताः, तत्र गोलक‑पातः आरब्धः।
+
+(End of Scene)
+(दृश्य‑समाप्तिः)
+
+pg 23
+
+Scene: The battlefield near the British cannons.
+दृश्यम् – आङ्गल-शतघ्नीनां समीपे युद्धक्षेत्रम्।
+
+1. Narrator: The destruction could not be borne by Bhavananda.
+सूत्रधारः – भवानन्दः विनाशं सोढुं न शक्तः।
+
+2. Bhavananda: Come, Jivananda, let us capture the cannons.
+भवानन्दः – एहि जीवानन्द, शतघ्न्यः वशीक्रियन्ताम्।
+
+3. Narrator: Inspired by the courage of Bhavananda and Jivananda, more Santaans rushed forward on the suicidal mission.
+सूत्रधारः – भवानन्द-जीवानन्दयोः साहसेन प्रेरिताः, अधिकाः सन्तानाः आत्मघाति-कर्तव्ये अग्रे धाविताः।
+
+4. Narrator: Soon one of the cannons was captured.
+सूत्रधारः – शीघ्रम् एका शतघ्नी गृहीता।
+
+5. Bhavananda: Turn the cannon on the British.
+भवानन्दः – शतघ्नी आङ्गल-दिशि परिवर्त्यताम्।
+
+6. Narrator: Now shells were rained by the cannon on the British army.
+सूत्रधारः – इदानीं शतघ्न्या आङ्गल-सेनायाः उपरि गोलाः वर्षिताः।
+
+7. Narrator: The British army had many cannons. The Santaans had only one. The battle was still uneven. Just then...
+सूत्रधारः – आङ्गल-सेनायाः बह्व्यः शतघ्न्यः अभूवन्। सन्तानानाम् एका एव। युद्धम् अद्यापि विषमम् अभूत्। तदैव...
+
+8. Narrator: ...Cannons boomed in the forest.
+सूत्रधारः – ...वने इतराः शतघ्न्यः गर्जिताः।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 24
+
+Scene: The battlefield with cannons firing constantly.
+दृश्यम् - अग्निवर्षणरत-शतघ्नी-युक्तं युद्धक्षेत्रम्।
+
+1. Narrator: Seventeen cannons were brought from Padachihno village by Mahendra.
+सूत्रधारः - महेन्द्रेण पदचिह्नग्रामात् सप्तदश शतघ्न्यः आनीताः।
+
+2. Mahendra - They are our cannons. Now we will make pieces of the British army.
+महेन्द्रः - एताः अस्माकं शतघ्न्यः। अधुना वयम् आङ्गलसेनां खण्डशः करिष्यामः।
+
+3. Narrator: The Santaans, who were fleeing across the bridge, rushed back to fight the British.
+सूत्रधारः - ये सन्तानाः सेतुना पलायमानाः, ते आङ्गलैः सह योद्धुं प्रत्यागताः।
+
+4. Narrator: The direction of the battle was turned. The natives in the British army ran helter-skelter.
+सूत्रधारः - युद्धस्य दिशा परिवर्तिता। आङ्गलसेनायां स्थिताः स्वदेशीयाः इतस्ततः धाविताः।
+
+5. Santaans - Hare! Hare! Vande Mataram!
+सन्तानाः - हरे! हरे! वन्दे मातरम्!
+
+6. Narrator: No enemy was left alive by the Santaans.
+सूत्रधारः - सन्तानैः कोऽपि शत्रुः जीवन् न त्यक्तः।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 25
+
+Scene: The battlefield.
+दृश्यम् - युद्धक्षेत्रम्।
+
+1. Narrator: They were surrounded by about forty English soldiers.
+सूत्रधारः - प्रायः चत्वारिंशता आङ्गलसैनिकैः ते परिवेष्टिताः।
+
+2. Narrator: Suddenly, attention was turned by Bhavananda to the prisoner Captain Thomas.
+सूत्रधारः - सहसा भवानन्देन बन्दिनं कैप्टन्-तोमसं प्रति ध्यानं दत्तम्।
+
+3. Bhavananda: Let me kill him!
+भवानन्दः - अहम् एतं हनानि!
+
+4. Narrator: His men were appealed to by Captain Thomas.
+सूत्रधारः - कैप्टन्-तोमसेन स्वीयाः सैनिकाः प्रार्थिताः।
+
+5. Captain Thomas: I'd rather be killed by you than by this pagan. First kill me. Then kill him.
+कैप्टन्-तोमसः - मम हननं मूर्तिपूजकेन मा भवतु। प्रथमम् अहं मार्यै, ततः एषः मार्यताम्।
+
+6. Narrator: Captain Thomas was hit by a British soldier's bullet.
+सूत्रधारः - एकस्य आङ्गलसैनिकस्य गुलिकया कैप्टन्-तोमसः विद्धः।
+
+7. Narrator: Then their wrath was turned on Bhavananda.
+सूत्रधारः - ततः तैः भवानन्दं प्रति क्रोधः प्रकाशितः।
+
+8. Narrator: Bhavananda fell dead.
+सूत्रधारः - भवानन्दः मृतः सन् पतितः।
+
+9. Bhavananda: I die for my Mother. Vande Mataram.
+भवानन्दः - अहं मातुः कृते म्रिये। वन्दे मातरम्।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 26
+
+Scene: The battlefield and later inside a building.
+दृश्यम् - युद्धक्षेत्रं, ततः एकस्य भवनस्य अन्तः।
+
+1. Narrator: Soon—
+सूत्रधारः - शीघ्रम्—
+
+2. Santaan: Victory is ours! Vande Mataram!
+सन्तानः - विजयः अस्माकम्! वन्दे मातरम्!
+
+3. Narrator: In the middle of the jubilation, the hero Bhavananda was mourned by them.
+सूत्रधारः - उत्सवस्य मध्ये, तैः वीरः भवानन्दः अनुशोचितः।
+
+4. Satyananda: He was the bravest. May his soul rest in peace.
+सत्यानन्दः - अस्मासु वीरतमः सः एव। सः परमगतिं प्राप्नोतु।
+
+5. Narrator: Later, Mahendra was sent for by Satyananda.
+सूत्रधारः - पश्चात्, सत्यानन्देन महेन्द्रः आहूतः।
+
+6. Satyananda: Mahendra, I have good news for you. Your wife too is alive.
+सत्यानन्दः - महेन्द्र, तव कृते शुभवार्ता अस्ति। तव भार्या अपि जीवति।
+
+7. Satyananda: Navinananda will bring your wife and Jivananda will bring your child.
+सत्यानन्दः - नवीनानन्दः तव भार्याम् आनेष्यति, जीवानन्दः च तव शिशुम् आनेष्यति।
+
+8. Mahendra: But...
+महेन्द्रः - किन्तु...
+
+9. Satyananda: We have freed the Mother. Our mission is fulfilled.
+सत्यानन्दः - अस्माभिः माता मोचिता। अस्माकं कार्यं पूर्णतां गतम्।
+
+10. Mahendra: The enemies are still entrenched in the city. The British have a big army at Calcutta.
+महेन्द्रः - शत्रवः अद्यापि नगरे स्थिताः। कलिकाता-नगरे आङ्गलानां विशाला सेना वर्तते।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 27
+
+Scene: Inside Ananda Math and a forest path.
+दृश्यम् - आनन्दमठस्य अन्तः वनमार्गः च।
+
+1. Satyananda: It won't be long before we finally crush them. I free you from your vow.
+सत्यानन्दः - अचिरेण एव वयं तान् मर्दयिष्यामः। अहं त्वां तव प्रतिज्ञायाः मोचयामि।
+
+2. Narrator: Navinananda did not have to go as far as the city to bring Kalyani.
+सूत्रधारः - कल्याणीम् आनेतुं नवीनानन्देन नगरपर्यन्तं गन्तुं न आवश्यकम् अभूत्।
+
+3. Soldier: Where are you going, woman?
+सैनिकः - नारि, त्वं कुत्र गच्छसि?
+
+4. Kalyani: I am a poor beggar. Don't stop me.
+कल्याणी - अहं निर्धना भिक्षुकी। मां मा वारय।
+
+5. Soldier: Ha, ha! A woman like you does not have to go begging.
+सैनिकः - हा हा! तवादृश्याः नार्याः कृते भिक्षाटनं न आवश्यकम्।
+
+6. Navinananda: Take that!
+नवीनानन्दः - इदं स्वीकुरु!
+
+7. Navinananda: I have saved you. Do you like me?
+नवीनानन्दः - त्वं मया रक्षिता। किम् अहं तुभ्यं रोचे?
+
+8. Kalyani: (Thinking) He will harm me. I must run.
+कल्याणी - (विचिन्त्य) एषः मां पीडयिष्यति। मया पलायितव्यम्।
+
+9. Kalyani: Leave me alone.
+कल्याणी - मां विमोचय।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 28
+
+Scene: A forest path, a building exterior, and a military camp.
+दृश्यम् - वनमार्गः, भवनस्य बहिर्भागः, सैन्यशिबिरं च।
+
+1. Kalyani: You are a woman. Who are you?
+कल्याणी - त्वं नारी। का त्वम्?
+
+2. Shanti: I am Shanti, Jivananda's wife. I will take you to your husband.
+शान्तिः - अहं शान्तिः, जीवानन्दस्य भार्या। अहं त्वां तव पतिं प्रति नेष्यामि।
+
+3. Narrator: Soon Mahendra was united with his wife and child.
+सूत्रधारः - शीघ्रं महेन्द्रेण भार्या शिशुः च प्राप्तौ।
+
+4. Mahendra: This is God's grace!
+महेन्द्रः - देवानुग्रहः अयम्!
+
+5. Narrator: Months later, a large army was sent from Calcutta under Major Edwards to crush the Santaan uprising.
+सूत्रधारः - मास-कतिपयादनन्तरं, सन्तान-विद्रोहं दमयितुं मेजर-एड्वर्ड्स-नामकस्य नेतृत्वे कलिकाता-नगरात् विशाला सेना प्रेषिता।
+
+6. Major Edwards: Right here is the fort. Their arsenal located there must be destroyed by us.
+मेजर-एड्वर्ड्सः - अत्रैव तत् दुर्गम्। तत्र स्थितः तेषां शस्त्रागारः अस्माभिः नष्टव्यः।
+
+7. Officer: Sir! On the next full moon day, they will be holding a fair. We will attack the fort then.
+सैनिकः - महोदय! आगामिन्यां पूर्णिमायां ते मेलकम् आयोजयिष्यन्ति। तदा वयं दुर्गम् आक्रमिष्यामः।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 29
+
+Scene: Parade ground at Padachihno, a crowded fair, and a forest near the British camp.
+दृश्यम् - पदचिह्नग्रामे शोभायात्राभूमिः, जनपूर्णः मेलकः, आङ्गल-शिबिर-समीपे वनं च।
+
+1. Narrator: Rumors spread by British spies were received by Mahendra's ears at Padachihno.
+सूत्रधारः - आङ्गल-गूढचरैः प्रसारिताः जनश्रुतयः पदचिह्नग्रामे महेन्द्रस्य कर्णौ प्राप्ताः।
+
+2. Mahendra: Stop the parade! Get ready to march to the fair.
+महेन्द्रः - शोभायात्रा स्थग्यताम्! मेलकं प्रति गन्तुं सज्जता भवतु।
+
+3. Narrator: On the full moon day, by thousands of Santaans, it was assembled at the fair.
+सूत्रधारः - पूर्णिमायां, सहस्रशः सन्तानैः मेलके मेलितम्।
+
+4. Narrator: Meanwhile, by Navinananda, a visit to the British camp was planned.
+सूत्रधारः - एतस्मिन् अन्तरे, नवीनानन्देन आङ्गल-शिबिर-दर्शनं योजितम्।
+
+5. Navinananda: Wait here! I will obtain information.
+नवीनानन्दः - अत्र प्रतीक्षस्व! अहं वार्तां प्राप्स्यामि।
+
+6. Jivananda: Shanti, be careful.
+जीवानन्दः - शान्ते, सावधानतया।
+
+7. Narrator: By Navinananda, holding the disguise of a beggar woman, the British camp was entered.
+सूत्रधारः - भिक्षुकी-वेषधारिणा नवीनानन्देन आङ्गल-शिबिरं प्रविष्टम्।
+
+8. Navinananda: Give alms.
+नवीनानन्दः - भिक्षां देहि।
+
+9. Soldier: Ha, Ha! For you, pretty one, alms are not there! Sing and dance for us. I will lead you to our Major.
+सैनिकः - हा हा! सुन्दरि, तव कृते भिक्षा नास्ति! अस्मत्कृते गाय नृत्य च। अहं त्वां मेजर-महोदय-समीपं नेष्यामि।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 30
+
+Scene: British camp, Mango grove, and the foot of a hill.
+दृश्यम् - आङ्गल-शिबिरम्, आम्र-उपवनम्, गिरिपादः च।
+
+1. Narrator: Major Edwards was pleased.
+सूत्रधारः - मेजर-एड्वर्ड्सः प्रसन्नः जातः।
+
+2. Major Edwards: You sing well. Here is a rupee. But if you can go and find out how many guards are at the fort, I will give you a hundred.
+मेजर-एड्वर्ड्सः - त्वं सम्यक् गायसि। इदं रूप्यकं गृहाण। किन्तु यदि त्वं गत्वा, दुर्गे रक्षक-सङ्ख्यां ज्ञात्वा आगच्छेः, तर्हि तुभ्यं शत-रूप्यकाणि दास्यामि।
+
+3. Navinananda: You promise!
+नवीनानन्दः - प्रतिज्ञा क्रियताम्!
+
+4. Navinananda: (Thinking) The target is the fort. I must let them know.
+नवीनानन्दः - (विचिन्त्य) लक्ष्यं तु दुर्गम्। मया ते सूचनीयाः।
+
+5. Narrator: Back in the mango grove, the gathered information was given by Shanti to Jivananda.
+सूत्रधारः - आम्र-उपवने प्रत्यागतया शान्त्या सङ्गृहीता वार्ता जीवानन्दाय दत्ता।
+
+6. Jivananda: Go and inform Guruji. I will rush to Mahendra.
+जीवानन्दः - गत्वा गुरुवर्याय निवेदय। अहं महेन्द्र-समीपं गच्छामि।
+
+7. Narrator: Mahendra's army had paused at the foot of a hill. By Mahendra, a figure riding towards them was seen.
+सूत्रधारः - महेन्द्रस्य सेना गिरिपादे स्थिता। महेन्द्रेण तान् प्रति आगच्छन् कश्चित् अश्वारोही दृष्टः।
+
+8. Jivananda: The British army is on the other side of the hill. Let us reach the top before they do.
+जीवानन्दः - आङ्गल-सेना गिरेः अपरस्मिन् पार्श्वे वर्तते। तेभ्यः पूर्वं वयं शिखरं प्राप्नुयाम।
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 31
+
+Scene: The hill battlefield.
+दृश्यम् - पर्वते युद्धक्षेत्रम्।
+
+1. Narrator: It was too late by then. The British cannons were there before them.
+सूत्रधारः - तदा अतिविलम्बः अभूत्। आङ्गल-शतघ्न्यः तेभ्यः पूर्वं तत्र आगताः।
+
+2. Narrator: They began spitting fire and shells upon the Santaans.
+सूत्रधारः - तैः सन्तानानाम् उपरि अग्नि-गोलक-वर्षणम् आरब्धम्।
+
+3. First Soldier: Retreat!
+प्रथमः सैनिकः - निवर्त्यताम्!
+
+4. Second Soldier: No. Charge forward!
+द्वितीयः सैनिकः - न। अग्रे आक्रम्यताम्!
+
+5. Third Soldier: Jivananda has fallen.
+तृतीयः सैनिकः - जीवानन्दः पतितः।
+
+6. Fourth Soldier: Let us die with him.
+चतुर्थः सैनिकः - तेन सह म्रियामहै।
+
+7. Narrator: Meanwhile, Satyananda and Navinananda came with the army that had gathered at the fair.
+सूत्रधारः - एतस्मिन् अन्तरे, मेलके मेलितया सेनया सह सत्यानन्दः नवीनानन्दः च आगतौ।
+
+8. Narrator: They swept down on the British from above the ridge. The British forces were crushed between Mahendra's army and Satyananda's army.
+सूत्रधारः - तैः गिरेः उपरिभागात् आङ्गलाः आक्रान्ताः। महेन्द्र-सत्यानन्दयोः सेनयोः मध्ये आङ्गल-सैनिकाः मर्दिताः।
+
+9. Santaans: Hare! Hare!
+सन्तानाः - हरे! हरे!
+
+10. Santaans: Vande Mataram!
+सन्तानाः - वन्दे मातरम्!
+
+(End of Scene)
+(दृश्य-समाप्तिः)
+
+pg 32
+
+Scene: A battlefield at night, a river bank, and a garden at Padachihno.
+दृश्यम् - रात्रौ युद्धक्षेत्रम्, नदीतटः, पदचिह्न-ग्रामोद्यानं च।
+
+1. Narrator: Till late into the night Shanti searched for the body of Jivananda. At last—
+सूत्रधारः - रात्रौ बहुकालं यावत् शान्त्या जीवानन्दस्य शरीरम् अन्वेषितम्। अन्ते—
+
+2. Shanti: He is dead!
+शान्तिः - एषः मृतः!
+
+3. Sage: Look again! Life can be dormant.
+साधुः - पुनः पश्य! प्राणः सुप्तः भवितुं शक्नोति।
+
+4. Narrator: Shanti carried Jivananda’s unconscious body to the river.
+सूत्रधारः - शान्त्या जीवानन्दस्य मूर्च्छितं शरीरं नदीं प्रति नीतम्।
+
+5. Sage: Here, take this herb. He will come back to life.
+साधुः - इमाम् ओषधिं स्वीकुरु। एषः पुनर्जीवितः भविष्यति।
+
+6. Jivananda: Who saved my life?
+जीवानन्दः - केन मम प्राणाः रक्षिताः?
+
+7. Shanti: A saintly figure. He has disappeared.
+शान्तिः - एकेन महात्मना। सः अन्तर्हितः।
+
+8. Narrator: At Padachihno—
+सूत्रधारः - पदचिह्नग्रामे—
+
+9. Kalyani: Nobody knows where Guruji has gone.
+कल्याणी - कोऽपि न जानाति यत् गुरुवर्यः कुत्र गतः।
+
+10. Kalyani: They say they saw a saintly figure on the battlefield. Could Guruji have gone with him?
+कल्याणी - उच्यते यत् तैः युद्धक्षेत्रे कश्चन महात्मा दृष्टः। किं गुरुवर्यः तेन सह गतः स्यात्?
+
+11. Mahendra: Yes, it is possible. I remember, Guruji had said that, on the full moon day, his master would come to take him to the Himalayas.
+महेन्द्रः - आम्, सम्भवतः। मया गुरुवचनम् स्मर्यते यत् यत् पूर्णिमायां तस्य गुरुः तं हिमालयं नेतुम् आगमिष्यति।
+
+12. Narrator: Nothing was left of Ananda Math. Those who had survived went their separate ways. But the spark remained... and the slogan - Vande Mataram!
+सूत्रधारः - आनन्दमठस्य किमपि न अवशिष्टम्। उत्तरजीविनः स्व-स्व-मार्गेषु गताः। किन्तु स्फुलिङ्गः अवशिष्टः... तथा च जयघोषः - वन्दे मातरम्!
 
 (End of Scene)
 (दृश्य-समाप्तिः)
