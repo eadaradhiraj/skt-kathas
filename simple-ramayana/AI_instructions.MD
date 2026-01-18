@@ -17,13 +17,14 @@ Here are the instructions :
     *   **Verbs of Speaking**: Use **Active Voice** with **Aorist** (*avocat*).
 
 4.  **Character Names & Brackets**
-    *   **Aliases/Adjectives**: Replace the alias/adjective with a simplified synonym in `[square brackets]` and add the **Proper Name** immediately after (e.g., `[Rāghava] Rāma`).
+    *   **Aliases/Adjectives**: Replace the alias/adjective with a simplified synonym and add the **Proper Name** immediately after (e.g., `[Rāghava] Rāma`).
     *   **Proper Names**: No brackets for proper names found in the verse.
     *   **Pronouns**: Do not add the character's name after personal pronouns (like *tena*, *mayā*).
 
 5.  **Vocabulary**
-    *   **Direct Substitution**: Remove complex words entirely and replace them with simplified synonyms in `[square brackets]`.
+    *   **Direct Substitution**: Remove complex words entirely and replace them with simplified synonyms.
     *   **Additions**: Use **(parentheses)** for words added for clarity that are not in the original text.
+    *   **Mark adjectives: Use **(square brackets)** to mark adjectives and aliases.
 
 6.  **Context Specifics**
     *   Use **Neuter Gender** for pronouns/adjectives referring to weapons (*astrāṇi*).
