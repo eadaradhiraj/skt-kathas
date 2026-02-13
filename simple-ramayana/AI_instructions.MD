@@ -10,7 +10,7 @@ Here are the instructions :
     *   **Sanskrit**: Name in Nominative case + hyphen before every sentence (unless it is the narrator).
     *   **English**: Name + hyphen before the translation as well.
 
-3.  **Grammar Rules**
+3.  **Grammar Rules when using past tense only**
     *   **General Past Tense**: Use **Passive Voice** with *kta* pratyaya (e.g., *kṛtam*).
     *   **'To be' / 'To become'**: Use **Participle form** (*bhūtaḥ / bhūtam*). Do not use *abhūt* or *āsīt*.
     *   **Verbs of Motion**: Use **Active Voice** with *kta* pratyaya (e.g., *gataḥ*).
