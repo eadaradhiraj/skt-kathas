@@ -38,3 +38,28 @@
 *   Provide a literal but fluid English translation.
 *   Reflect the simplified structure of the Sanskrit sentence exactly.
 *   Include the speaker's name at the start of the translation if it was included in the Sanskrit.
+
+
+#### 8. Voice & Tense
+
+* **Passive Voice (*Karmani*):** Use the **-ta** suffix (*kta* pratyaya) for past actions (e.g., *kṛtam*, *dṛṣṭam*, *uktam*) rather than active forms like *uvāca* or *dadarśa*.
+* **Rule of Motion:** Verbs of motion (Rule 3 in our previous logic) should remain in the **Active Voice** (*Kartari*) using the Nominative case for the subject.
+
+#### 9. Formatting & Syntax
+
+* **Square Brackets `[]`:** Used **strictly for adjectives and descriptors** only.
+* **Parentheses `()`:** Used for **implicit words** (words added for grammatical clarity that aren't in the original verse).
+* **Bare Text:** Nouns, verbs, and core subjects stay without brackets.
+* **Prose Order (Anvaya):** Reorganize the verse into a standard **Subject-Object-Verb** sequence.
+
+#### 10. Orthography & Grammar
+
+* **Anusvara Rule:** Never place an **anusvara (ं)** before a word starting with a vowel; use the final **'m' (म्)** instead.
+* **Enclitic Replacement:** Replace all shortened enclitic pronouns (*te, me, naḥ, vaḥ*) with their full forms (*tubhyam/tava, mama, asmākam, yuṣmākam*) to avoid case ambiguity.
+* **Case Consistency:** Every adjective or alias must match the exact case of the noun it modifies (e.g., if the subject is *viśvāmitreṇa*, the adjective must be *mahātejasā*).
+
+#### 11. Simplification
+
+* **Compound Dissolution:** Break long compounds (*samāsa*) into individual words separated by hyphens or distinct words (e.g., *nānā-vṛkṣa-yuktam*).
+* **Sandhi Neutralization:** Remove internal sandhi between separate words to make the breakdown easier to read (e.g., write *tataḥ āśramam* instead of *tato'śramam*).
+* **Explicit Clarity:** Use explicit names or clarified pronouns instead of ambiguous ones to maintain context.
