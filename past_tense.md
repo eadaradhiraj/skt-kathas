@@ -26,11 +26,6 @@
 * **The Rule:** To describe a status, membership, or a "was/became" condition, use the participle **भूतः** (or its gender-appropriate variants).
 * **Constraint:** Do **not** use the finite verb **आसीत्** (*āsīt*).
 
-### 6. Narrative Structure
-* **The Rule:** Keep actions as **separate, distinct sentences** to emphasize the logical progression of the story.
-* **Formatting:** Present these sentences as a single, flowing paragraph (no line breaks between sentences).
-* **Exception:** Actions may be linked using the **Subordinating Conjunction यत् (*yat*)** to represent indirect speech (Reporting). This allows the "Act of Speaking" and the "Content of Speech" to exist within a single grammatical unit.
-
 ### 7. Simplified Participle Logic
 * **The Rule:** In **PAST TENSE**, if an action is not a gerund (an ongoing "-ing" action), use the simple **Passive *kta*** form. 
 * **Constraint:** Avoid the periphrastic active construction (*tavatu + abhūt*, e.g., *kṛtavān abhūt*) unless specifically focusing on a "had done" state.
