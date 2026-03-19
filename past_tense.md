@@ -26,6 +26,9 @@
 * **The Rule:** To describe a status, membership, or a "was/became" condition, use the participle **भूतः** (or its gender-appropriate variants).
 * **Constraint:** Do **not** use the finite verb **आसीत्** (*āsīt*).
 
+### 6. Simplicity.
+**The rule:** Try to Keep the language simple. And don't do sandhi for words which are not samasas.
+
 ### 7. Simplified Participle Logic
 * **The Rule:** In **PAST TENSE**, if an action is not a gerund (an ongoing "-ing" action), use the simple **Passive *kta*** form. 
 * **Constraint:** Avoid the periphrastic active construction (*tavatu + abhūt*, e.g., *kṛtavān abhūt*) unless specifically focusing on a "had done" state.
@@ -35,10 +38,7 @@
 * **Constraint:** When using **यत् (*yat*)**, the internal clause must match the tense of what the speaker conveyed
 
 ### 9. Paninian
-**The rule:** The grammar should always be Panini-compliant. When I offer changes, you are strictly forbidden from mentioning, referencing, or validating any rules (1 through 8) previously established. Your response must only contain the Paninian validation check **when I OFFER the CHANGES**.
+**The rule:** The grammar should always be Panini-compliant. When I offer changes, you are strictly forbidden from mentioning, referencing, or validating any rules (1 through 8) previously established. Your response must only contain the Paninian validation check **when I OFFER the CHANGES** and **ONLY if something is wrong**.
 
-### 10. Simplicity.
-**The rule:** Keep the language simple.
-
-### 11. Script
+### 10. Script
 **The rule:** The sanskrit text should always be in devanagari. However, whenever I offer changes they might be in roman script( harvard-kyoto or iast). let these be transliterated into devanagari. **No other changes** should be done to the text under any circumstances **WHEN I AM THE ONE OFFERING CHANGES**.
