@@ -27,7 +27,7 @@
 * **Parentheses `()`**: For **implicit words** added for clarity (e.g., `(अहं)`).
 * **Bare Text**: Nouns, verbs, pronouns, and **adverbs** (like *prayatnataḥ*) stay bare.
 * **Proper Names**: No brackets around names (e.g., `विश्वामित्रः`).
-* **Simplification**: Replace complex words with simplified Paninian synonyms.
+* **Simplification**: Replace complex words with simplified Paninian synonyms. Make the overall language simple.
 * **Compound Dissolution**: Break long compounds with hyphens (e.g., `रघु-कुल-हर्ष`).
 * **Pronouns**: Do not add the character's name after first-person and second-person pronouns.
 
