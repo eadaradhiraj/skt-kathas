@@ -18,8 +18,8 @@
     * *nirākṛtam* (refused)
 
 ### 4. Explicit Noun Repetition
-* **The Rule:** Absolute clarity is required. Always follow a pronoun with the **explicit mention of the name if known**.
-* **Example:** Instead of "by him," use **तेन हिरण्यकेन** (*By that Hiranyaka*).
+* **The Rule:** Absolute clarity is required. Always follow a pronoun with the **explicit mention of the name if known**. When introducing a new, unspecified character or object (acting as the English article "a/an"), use indefinite pronouns like कश्चन (kaścana) or other appropriate gender form.
+* **Example:** Instead of "by him," use **तेन हिरण्यकेन** (*By that Hiranyaka*). 
 * **Exception:** Ignore this rule for 1st-person and 2nd person pronouns.
 
 ### 5. State of Being
@@ -27,7 +27,7 @@
 * **Constraint:** Do **not** use the finite verb **आसीत्** (*āsīt*).
 
 ### 6. Simplicity.
-**The rule:** Try to Keep the language simple. And don't do sandhi for words which are not samasas.
+**The rule:** Try to Keep the language simple. And don't do sandhi for words which are not samasas. Additionally, combine sequential actions where possible by converting the first action into a participle acting as an adjective (e.g., instead of "He set out. He saw," use "By him who had set out... was seen").
 
 ### 7. Simplified Participle Logic
 * **The Rule:** In **PAST TENSE**, if an action is not a gerund (an ongoing "-ing" action), use the simple **Passive *kta*** form. 
