@@ -23,8 +23,7 @@
 * **Exception:** Ignore this rule for 1st-person and 2nd person pronouns.
 
 ### 5. State of Being
-* **The Rule:** To describe a status, membership, or a "was/became" condition, use the participle **भूतः** (or its gender-appropriate variants).
-* **Constraint:** Do **not** use the finite verb **आसीत्** (*āsīt*).
+* **The Rule:** Instead of आसीत्, आसन् etc, use the participle **भूतः** (or its gender-appropriate variants).
 
 ### 6. Simplicity.
 **The rule:** Try to Keep the language simple. And don't do sandhi for words which are not samasas. Additionally, combine sequential actions where possible by converting the first action into a participle acting as an adjective (e.g., instead of "He set out. He saw," use "By him who had set out... was seen").
