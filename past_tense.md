@@ -22,7 +22,7 @@
 * **Example:** Instead of "by him," use **तेन हिरण्यकेन** (*By that Hiranyaka*). 
 * **Exception:** Ignore this rule for 1st-person and 2nd person pronouns.
 
-### 5. State of Being
+### 5. Past tense of अस्
 * **The Rule:** Instead of आसीत्, आसन् etc, use the participle **भूतः** (or its gender-appropriate variants).
 
 ### 6. Simplicity.
