@@ -11,9 +11,9 @@
 * **English**: Name followed by a hyphen before the translation (e.g., `Vashistha -`).
 * **Narrator**: Always include the narrator's name (e.g., `शतानन्दः -`) when they are relaying the story.
 
-### 3. Grammar & Voice (Strict Past Tense Rules)
+### 3. Grammar & Voice (Rules for Past Tense ONLY)
 * **General Past Tense**: Use **Passive Voice** with the *kta* pratyaya (e.g., *kṛtam*, *dṛṣṭam*, *kṣiptam*).
-* **'To be' / 'To become'**: Use the **Participle form** (*bhūtaḥ / bhūtā / bhūtam*). Strictly no *abhūt* or *āsīt*.
+* **'To be' / 'To become'**: Use the **Participle form** (*bhūtaḥ / bhūtā / bhūtam*). Strictly no *abhūt* or *āsīt* unless there is a ktvatu preceding.
 * **Verbs of Motion**: Use **Active Voice** with the *kta* pratyaya (e.g., *gataḥ*, *prāptaḥ*).
 * **Verbs of Speaking**: Use the **Active Voice** with the **Aorist** form (**अवोचत्**).
 * **Gerunds**: Either convert to passive (e.g., *samavekṣitam*) or end with a periphrastic active construction and the restriction against abhūt does not apply when it acts as an auxiliary verb here. (*tavatu + abhūt*, e.g., *kṛtavān abhūt*).
@@ -24,7 +24,7 @@
 * **Parentheses `()`**: For **implicit words** added for clarity (e.g., `(अहं)`, `(अस्त्राणि)`).
 * **Bare Text**: Nouns, verbs, pronouns, and **adverbs** stay bare.
 * **Proper Names**: No brackets around proper names.
-* **Simplification**: Convert to simple sanskrit.
+* **Simplification**: Always replace complex verbs, heavy prefixes (upasargas), and obscure nouns with their most common, everyday equivalents.
 * **Compound Dissolution**: Break long compounds with hyphens but not well known ones (e.g., `ब्रह्म-तेजो-बलं`).
 * **Pronouns**: Replace pronouns with character names or generic nouns if and only known. if not known than use the generic noun if known. Add the name after the generic noun if known. Do not add the character's name after first-person and second-person pronouns. 
 * **Prefixes**: Replace compounds beginning with the prefix स- (meaning "with") by attaching -सहित to the end of the noun. Ensure the new compound matches the gender, number, and case of the noun it modifies (e.g., स-शरीरः → शरीर-सहितः).
