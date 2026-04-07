@@ -1,14 +1,14 @@
 1.68.1
 
-वाल्मीकिः - जनकेन समादिष्टाः दूताः [क्लान्त-वाहनाः] (भूताः) ।
+जनकेन समादिष्टाः दूताः [क्लान्त-वाहनाः] (भूताः) ।
 Valmiki - Commanded by Janaka, the messengers became [with tired horses].
 
-वाल्मीकिः - मार्गे त्रि-रात्रम् उषिताः (दूताः) अयोध्यां पुरीं प्रविष्टाः ।
+मार्गे त्रि-रात्रम् उषिताः (दूताः) अयोध्यां पुरीं प्रविष्टाः ।
 Valmiki - Having spent three nights on the way, they entered the city of Ayodhya.
 
 1.68.2
 
-वाल्मीकिः - (दूताः) राज्ञः भवनम् आसादितवन्तः अभूवन् द्वार-स्थान् इदम् अवोचन् ।
+(दूताः) राज्ञः भवनम् आसादितवन्तः अभूवन् द्वार-स्थान् इदम् अवोचन् ।
 Valmiki - (The messengers) having reached the king's palace spoke these words to the doorkeepers.
 
 दूताः - "शीघ्रं निवेद्यतां राज्ञे (अस्माकं) जनकस्य दूताः (आगताः) ।"
@@ -16,18 +16,18 @@ Messengers - "Let it be immediately informed to the king that (we) the messenger
 
 1.68.3
 
-वाल्मीकिः - इति उक्ताः द्वारपालाः दशरथम् इदम् अवोचन् ।
+इति उक्ताः द्वारपालाः दशरथम् इदम् अवोचन् ।
 Valmiki - Spoken to thus, the doorkeepers spoke this to Dasaratha.
 
-वाल्मीकिः - राज-वचनात् राज-वेश्म प्रवेशितैः दूतैः [देव-सङ्काशः] [वृद्धः] नृपः दशरथः दृष्टः ।
+राज-वचनात् राज-वेश्म प्रवेशितैः दूतैः [देव-सङ्काशः] [वृद्धः] नृपः दशरथः दृष्टः ।
 Valmiki - By the messengers, who were made to enter the royal palace by the king's command, the [aged] king Dasaratha [resembling a god] was seen.
 
 1.68.4
 
-वाल्मीकिः - [बद्ध-अञ्जलि-पुटाः] [विगत-साध्वसाः] सर्वे दूताः (सज्जाः) भूताः ।
+[बद्ध-अञ्जलि-पुटाः] [विगत-साध्वसाः] सर्वे दूताः (सज्जाः) भूताः ।
 Valmiki - All the messengers became (ready) [with folded hands] and [freed from apprehension].
 
-वाल्मीकिः - [प्रयताः] (दूताः) दशरथं मधुर-अक्षरं वाक्यम् अवोचन् ।
+[प्रयताः] (दूताः) दशरथं मधुर-अक्षरं वाक्यम् अवोचन् ।
 Valmiki - The [reverential] (messengers) spoke sweet words to Dasaratha.
 
 1.68.5
@@ -109,18 +109,18 @@ Messengers - "Thus the [king of Videha] (Janaka) spoke a [sweet] word."
 
 1.68.15
 
-वाल्मीकिः - (जनकः) [विश्वामित्र-अनुज्ञातः] शतानन्द-मते [स्थितः] (अवोचत्) ।
+(जनकः) [विश्वामित्र-अनुज्ञातः] शतानन्द-मते [स्थितः] (अवोचत्) ।
 Valmiki - (Janaka) [permitted by Vishvamitra] (and) [abiding] in the opinion of Satananda (spoke).
 
-वाल्मीकिः - [राज-गौरव-प्रभाविताः] दूताः इति उक्त्वा विरताः भूताः ।
+[राज-गौरव-प्रभाविताः] दूताः इति उक्त्वा विरताः भूताः ।
 Valmiki - The messengers [influenced by the king's dignity], having spoken thus, became paused.
 
 1.68.16
 
-वाल्मीकिः - सः [परम-हर्षितः] राजा (दशरथः) तत् दूत-वाक्यं श्रुतवान् अभूत् ।
+सः [परम-हर्षितः] राजा (दशरथः) तत् दूत-वाक्यं श्रुतवान् अभूत् ।
 Valmiki - That [highly rejoiced] king (Dasaratha) had heard the word of the messengers.
 
-वाल्मीकिः - (सः) वसिष्ठं वामदेवं च अन्यान् मन्त्रिणः च अवोचत् ।
+(सः) वसिष्ठं वामदेवं च अन्यान् मन्त्रिणः च अवोचत् ।
 Valmiki - (He) spoke to Vashistha, Vamadeva, and the other ministers.
 
 1.68.17
@@ -149,16 +149,16 @@ Dasaratha - "Let us go quickly. Let there not be a delay of time."
 
 1.68.20
 
-वाल्मीकिः - सर्व-महर्षि-सहिताः मन्त्रिणः "बाढम्" इति अवोचन् ।
+सर्व-महर्षि-सहिताः मन्त्रिणः "बाढम्" इति अवोचन् ।
 Valmiki - The ministers accompanied by all the great sages spoke, "Certainly."
 
-वाल्मीकिः - सः [सु-प्रीतः] राजा (दशरथः) "श्वः यात्रा (भविष्यति)" इति मन्त्रिणः अवोचत् ।
+सः [सु-प्रीतः] राजा (दशरथः) "श्वः यात्रा (भविष्यति)" इति मन्त्रिणः अवोचत् ।
 Valmiki - That [highly delighted] king (Dasaratha) spoke to the ministers, "Tomorrow the journey (will be)."
 
 1.68.21
 
-वाल्मीकिः - [सर्व-गुण-समन्विताः] नरेन्द्रस्य मन्त्रिणः तु [परम-सत्-कृताः] भूताः ।
+[सर्व-गुण-समन्विताः] नरेन्द्रस्य मन्त्रिणः तु [परम-सत्-कृताः] भूताः ।
 Valmiki - The ministers of the king of men, [endowed with all virtues], indeed became [highly honored].
 
-वाल्मीकिः - ते सर्वे [मुदिताः] रात्रिम् उषितवन्तः अभूवन् ।
+ते सर्वे [मुदिताः] रात्रिम् उषितवन्तः अभूवन् ।
 Valmiki - They all, [pleased], spent the night.

@@ -16,10 +16,10 @@ The sage Valmiki saw truly, as it was, all of Rama's laughter, whatever he spoke
 
 1.3.5
 तदा (सः वाल्मीकिः) [सत्यसन्धेन] [सीता-सहितेन] वने [चरता] रामेण यत् प्राप्तम्, तत् सर्वं च अन्ववेक्षितवान् अभूत्।
-Then he (Valmiki) also perceived everything that was experienced by Rama, [the true-to-his-promise one], [who was the third along with a woman], while [wandering] in the forest.
+Then he (Valmiki) also perceived everything that was experienced by Rama, [the true-to-his-promise one], Sita, while [wandering] in the forest.
 
 1.3.6
-ततः [धर्मात्मा] [योगम् आस्थितः] सः वाल्मीकिः पुरा तत्र यत् प्रर्वृत्तम्, तत् सर्वं पाणौ आमलकं यथा, तथा दृष्टवान् अभूत्।
+ततः [धर्मात्मा] [योगम् आस्थितः] सः वाल्मीकिः पुरा तत्र यत् प्रवृत्तम्, तत् सर्वं पाणौ आमलकं यथा, तथा दृष्टवान् अभूत्।
 Then the righteous-souled Valmiki, resorting to yoga, saw everything that had happened there in the past, just like an amlaka fruit in the hand.
 
 1.3.7
@@ -164,7 +164,7 @@ He, Valmiki, described the slaying of Simhika, the seeing of Lanka and Mount Mal
 1.3.29
 
 Sanskrit Prose:
-सः वाल्मीकिः रावणस्य अपि दर्शनं, पुष्पकस्य च दर्शनम्, मद्यपान-भूमि-गमनम्, अन्तःपूरस्य दर्शनं च वर्णितवान् अभूत्।
+सः वाल्मीकिः रावणस्य अपि दर्शनं, पुष्पकस्य च दर्शनम्, मद्यपान-भूमि-गमनम्, अन्तःपुरस्य दर्शनं च वर्णितवान् अभूत्।
 
 English:
 He, Valmiki, described the seeing of Ravana, the seeing of the Pushpaka, the going to the wine-drinking hall, and the seeing of the inner apartments (harem).
@@ -186,12 +186,15 @@ He (Valmiki) described the threatening by the Rakshasis, the seeing of Trijata's
 He (Valmiki) described the scattering of the Rakshasis, the slaying of the Kinkaras, the capture of the son of Vayu (Hanuman), and the roaring during the burning of Lanka.
 
 1.3.33
-सः वाल्मीकिः अथ प्रतिप्लवनम् एव, तथा मधूनां हरणं, [राघवाय] रामाय दत्तम्  आश्वासनं, तथा मणेः निर्यातनं च अपि वर्णितवान् अभूत्।
-He (Valmiki) then described the return flight, the stealing of the honey, the reassurance of Raghava, and also the returning of the jewel.
+सः वाल्मीकिः अथ प्रतिप्लवनम् एव, तथा मधुवनस्य हरणं, [राघवाय] रामाय दत्तम् आश्वासनं, तथा मणेः निर्यातनं च अपि वर्णितवान् अभूत्।
+He (Valmiki) then described the return flight, the ransacking of the honey-grove, the reassurance of Raghava, and also the returning of the jewel.
 
 1.3.34
-सः वाल्मीकिः अथ प्रतिप्लवनम् एव, तथा मधुवनस्य हरणं, [राघवाय] रामाय दत्तम् आश्वासनं, तथा मणेः निर्यातनं च अपि वर्णितवान् अभूत्।
-He, Valmiki, then described the return flight, the ransacking of the Madhuvana (honey-grove), the reassurance given to Raghava (Rama), and also the returning of the jewel.
+समुद्रेण [सहितः] सङ्गमः कृतः च नल-सेतोः बन्धनं कृतम् ।
+The meeting with the ocean was made and the construction of the Nala-bridge was made.
+
+समुद्रस्य प्रतारः कृतः च रात्रौ लङ्कायाः अवरोधनं कृतम् ।
+The crossing of the ocean was made and the siege of Lanka at night was made.
 
 1.3.35
 सः वाल्मीकिः विभीषणेन सह संसर्गं, रावण-वधस्य उपायस्य निवेदनं, कुम्भकर्णस्य निधनं, मेघनादस्य हननं च वर्णितवान् अभूत्।

@@ -39,7 +39,7 @@ He, [with his senses controlled], having taken the bark garment from the discipl
 Right before his very eyes, a hunter, [of sinful resolve] and [an abode of enmity], killed the one male from that pair.
 
 1.2.11
-तस्य क्रौञ्चस्य भार्या तु [निहतं], [रक्तेण परीताङ्गं], महीतले [वेष्टमानं] तं क्रौञ्चं दृष्ट्वा, [करुणां] गिरं रुदितवती अभूत्।
+तस्य क्रौञ्चस्य भार्या तु [निहतं], [रक्तेन परीताङ्गं], महीतले [वेष्टमानं] तं क्रौञ्चं दृष्ट्वा, [करुणां] गिरं रुदितवती अभूत्।
 But the mate of that krauncha bird, having seen him [killed], [with his body covered in blood], and [writhing] on the ground, cried out a [piteous] lament.
 
 1.2.12
@@ -59,7 +59,7 @@ Then that sage, having observed the [crying] kraunchi and thinking, "This is unr
 "O hunter, because you killed one of the krauncha pair while it was [deluded by passion], you will never attain fame!"
 
 1.2.16
-एवं उक्त्वा [वीक्षमाणः] सः, “अस्य शकुनेः [शोकेन आर्तेन] मया इदं किं व्याहृतम्?” इति हृदि चिन्तितवान् अभूत् वाल्मीकिः।
+एवम् उक्त्वा [वीक्षमाणः] सः, “अस्य शकुनेः [शोकेन आर्तेन] मया इदं किं व्याहृतम्?” इति हृदि चिन्तितवान् अभूत् वाल्मीकिः।
 Having spoken thus, he, [while reflecting], thought in his heart: "What is this that has been uttered by me, [who am afflicted] by grief for this bird?"
 
 1.2.17
@@ -123,7 +123,7 @@ Then Brahma, [smiling], spoke to that pre-eminent sage, Valmiki, who was again [
 "O Brahmarsi Valmiki! What has been composed by you is indeed a shloka; there should be no hesitation in this. This stream of speech (Sarasvati) has flowed from you only by my will."
 
 1.2.32
-"हे [ऋषिसत्तम] वाल्मीके! त्वं लोके [धर्मात्मनः] [भगवतः] [धीमतः] रामस्य [कृत्नं] चरितं रचय।"
+"हे [ऋषिसत्तम] वाल्मीके! त्वं लोके [धर्मात्मनः] [भगवतः] [धीमतः] रामस्य [कृत्स्नं] चरितं रचय।"
 "O [best of sages], Valmiki! You should compose the [entire] story of Rama, who is [righteous], [divine], and [wise] in the world."
 
 1.2.33

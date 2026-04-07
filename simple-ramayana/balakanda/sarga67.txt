@@ -1,27 +1,27 @@
 1.67.1
-वाल्मीकिः - जनकस्य वचः श्रुत्वा [महा-मुनिः] विश्वामित्रः पार्थिवम् अवोचत् ।
+जनकस्य वचः श्रुत्वा [महा-मुनिः] विश्वामित्रः पार्थिवम् अवोचत् ।
 Valmiki - Having heard the words of Janaka, the great ascetic Vishwamitra spoke to the king.
 विश्वामित्रः - "रामाय धनुः दर्शय ।"
 Vishwamitra - "Show the bow to Rama."
 
 1.67.2
-वाल्मीकिः - ततः तेन राज्ञा जनकेन सामन्ताः आदिष्टाः ।
+ततः तेन राज्ञा जनकेन सामन्ताः आदिष्टाः ।
 Valmiki - Thereafter the feudatories were ordered by that king Janaka.
 जनकः - "[गन्ध-माल्य-विभूषितं] [दिव्यं] धनुः आनीयताम् ।"
 Janaka - "Let the divine bow, adorned with sandalwood and garlands, be brought."
 
 1.67.3
-वाल्मीकिः - जनकेन आदिष्टाः सचिवाः पुरीं प्रविष्टाः ।
+जनकेन आदिष्टाः सचिवाः पुरीं प्रविष्टाः ।
 Valmiki - Commanded by Janaka, the ministers entered the city.
-वाल्मीकिः - ते पार्थिव-आज्ञया तत् धनुः पुरतः कृत्वा निर्गताः ।
+ते पार्थिव-आज्ञया तत् धनुः पुरतः कृत्वा निर्गताः ।
 Valmiki - By the order of the king, having placed that bow in front, they departed.
 
 1.67.4
-वाल्मीकिः - [महा-आत्मभिः] [व्यायतैः] पञ्चाशत्-शतैः नृभिः कथञ्चन सा [अष्ट-चक्रा] मञ्जूषा ऊढा ।
+[महा-आत्मभिः] [व्यायतैः] पञ्चाशत्-शतैः नृभिः कथञ्चन सा [अष्ट-चक्रा] मञ्जूषा ऊढा ।
 Valmiki - With great difficulty, that eight-wheeled box was carried by five thousand stalwart men of great strength.
 
 1.67.5
-वाल्मीकिः - यत्र तत् धनुः (भूतम्) तां [आयसीं] मञ्जूषाम् आदाय ते नृप-मन्त्रिणः [सुर-उपमं] जनकम् अवोचन् ।
+यत्र तत् धनुः (भूतम्) तां [आयसीं] मञ्जूषाम् आदाय ते नृप-मन्त्रिणः [सुर-उपमं] जनकम् अवोचन् ।
 Valmiki - Having brought that iron box where that bow was, those ministers of the king spoke to Janaka who was comparable to a god.
 
 1.67.6
@@ -31,7 +31,7 @@ Ministers - "O king! This excellent bow, worshipped by all kings, (has been brou
 Ministers - "O lord of Mithila! O best of kings! If you desire, it is to be shown."
 
 1.67.7
-वाल्मीकिः - तेषां वचः श्रुत्वा नृपः [कृत-अञ्जलिः] (सन्) [महा-आत्मानं] विश्वामित्रं तौ उभौ रामलक्ष्मणौ च अवोचत् ।
+तेषां वचः श्रुत्वा नृपः [कृत-अञ्जलिः] (सन्) [महा-आत्मानं] विश्वामित्रं तौ उभौ रामलक्ष्मणौ च अवोचत् ।
 Valmiki - Having heard their words, the king with folded hands spoke to the magnanimous Vishwamitra and to both of those Raghavas, Rama and Lakshmana.
 
 1.67.8
@@ -53,13 +53,13 @@ Janaka - "O eminent ascetic! That excellent one among bows has been brought."
 Janaka - "O highly fortunate one! Show this to these two princes."
 
 1.67.12
-वाल्मीकिः - [धर्म-आत्मा] विश्वामित्रः जनक-भाषितं श्रुत्वा राघवम् अवोचत् ।
+[धर्म-आत्मा] विश्वामित्रः जनक-भाषितं श्रुत्वा राघवम् अवोचत् ।
 Valmiki - The virtuous Vishwamitra, having heard the words of Janaka, spoke to Raghava.
 विश्वामित्रः - "वत्स राम । धनुः पश्य ।"
 Vishwamitra - "O child Rama! Look at the bow."
 
 1.67.13
-वाल्मीकिः - ब्रह्मर्षेः वचनात् यत्र तत् धनुः तिष्ठति तां मञ्जूषाम् अपावृत्य (तत्) धनुः दृष्ट्वा रामः अथ अवोचत् ।
+ब्रह्मर्षेः वचनात् यत्र तत् धनुः तिष्ठति तां मञ्जूषाम् अपावृत्य (तत्) धनुः दृष्ट्वा रामः अथ अवोचत् ।
 Valmiki - At the words of the brahmin sage, having opened that box where the bow remained and having seen the bow, Rama thereafter spoke.
 
 1.67.14
@@ -69,33 +69,33 @@ Rama - "O Brahman! Here I shall touch this excellent bow with my hand."
 Rama - "I shall be effortful in lifting or even stringing it."
 
 1.67.15
-वाल्मीकिः - राजा मुनिः च तं "बाढम्" इति एव अवोचताम् ।
+राजा मुनिः च तं "बाढम्" इति एव अवोचताम् ।
 Valmiki - The king and the ascetic spoke to him, "Be it so".
-वाल्मीकिः - मुनेः वचनात् तेन (रामेण) लीलया धनुः मध्ये गृहीतम् ।
+मुनेः वचनात् तेन (रामेण) लीलया धनुः मध्ये गृहीतम् ।
 Valmiki - By the words of the ascetic, the bow was easily grasped in the middle by him.
 
 1.67.16
-वाल्मीकिः - पश्यतां बहूनां नृप-सहस्राणां [समीपे] तेन [धर्म-आत्मना] रघु-नन्दनेन तत् धनुः लीला-सहितम् इव आरोपितम् ।
+पश्यतां बहूनां नृप-सहस्राणां [समीपे] तेन [धर्म-आत्मना] रघु-नन्दनेन तत् धनुः लीला-सहितम् इव आरोपितम् ।
 Valmiki - In the presence of many thousands of kings looking on, that bow was strung by that virtuous delight of the Raghus as if with ease.
 
 1.67.17
-वाल्मीकिः - तत् धनुः आरोप्य [धर्म-आत्मना] (रामेण) (तत्) पूरितम् ।
+तत् धनुः आरोप्य [धर्म-आत्मना] (रामेण) (तत्) पूरितम् ।
 Valmiki - Having strung that bow, it was drawn by the virtuous Rama.
-वाल्मीकिः - [महा-यशसा] [नर-श्रेष्ठेन] तत् धनुः मध्ये भग्नम् ।
+[महा-यशसा] [नर-श्रेष्ठेन] तत् धनुः मध्ये भग्नम् ।
 Valmiki - That bow was broken in the middle by the highly famous best of men.
 
 1.67.18
-वाल्मीकिः - तस्य [निर्घात-सम-निस्वनः] [महान्] शब्दः भूतः ।
+तस्य [निर्घात-सम-निस्वनः] [महान्] शब्दः भूतः ।
 Valmiki - Its great sound, equal to the clap of thunder, occurred.
-वाल्मीकिः - पर्वत-विदारणात् इव [सुमहान्] भूमि-कम्पः च (भूतः) ।
+पर्वत-विदारणात् इव [सुमहान्] भूमि-कम्पः च (भूतः) ।
 Valmiki - And there was a very great trembling of the earth, like that of a splitting mountain.
 
 1.67.19
-वाल्मीकिः - [मुनि-वरं] राजानं तौ राघवौ च वर्जयित्वा सर्वे नराः तेन शब्देन [मोहिताः] (सन्तः) निपतिताः ।
+[मुनि-वरं] राजानं तौ राघवौ च वर्जयित्वा सर्वे नराः तेन शब्देन [मोहिताः] (सन्तः) निपतिताः ।
 Valmiki - Excepting the best of ascetics, the king, and those two Raghavas, all the men, having fainted by that sound, fell down.
 
 1.67.20
-वाल्मीकिः - तस्मिन् जन-समूहे प्रत्याश्वस्ते (सति) [विगत-साध्वसः] [वाक्य-ज्ञः] राजा [कृत-अञ्जलिः] (सन्) [मुनि-पुङ्गवं] वाक्यम् अवोचत् ।
+तस्मिन् जन-समूहे प्रत्याश्वस्ते (सति) [विगत-साध्वसः] [वाक्य-ज्ञः] राजा [कृत-अञ्जलिः] (सन्) [मुनि-पुङ्गवं] वाक्यम् अवोचत् ।
 Valmiki - When that assembly of people was comforted, the king, free from apprehension and knowing words, with folded hands spoke words to the eminent ascetic.
 
 1.67.21
@@ -131,12 +131,12 @@ Janaka - "Let them indeed tell the king about the two Kakutsthas protected by th
 Janaka - "Let those swift-going ministers bring the delighted king."
 
 1.67.27
-वाल्मीकिः - कौशिकः च "तथास्तु" इति अवोचत् ।
+कौशिकः च "तथास्तु" इति अवोचत् ।
 Valmiki - And Kausika spoke thus: "So be it."
 
 1.67.28
-वाल्मीकिः - तदा [धर्म-आत्मा] राज्ञा मन्त्रिणः सम्भाष्य [कृत-शासनाः] ते अयोध्यां प्रेषिताः ।
+तदा [धर्म-आत्मा] राज्ञा मन्त्रिणः सम्भाष्य [कृत-शासनाः] ते अयोध्यां प्रेषिताः ।
 Valmiki - Then, having consulted the ministers, those order-bearers were sent to Ayodhya by the virtuous king.
 
-वाल्मीकिः - यथा-वृत्तं समाख्यातुं नृपम् आनेतुं च (ते प्रेषिताः) ।
+यथा-वृत्तं समाख्यातुं नृपम् आनेतुं च (ते प्रेषिताः) ।
 Valmiki - (They were sent) to narrate what had happened and to bring the king.

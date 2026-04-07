@@ -1,9 +1,9 @@
 1.66.1
-वाल्मीकिः - ततः [विमले] प्रभाते कृतकर्मणा नराधिपेन जनकेन राघवसहितः [महात्मा] विश्वामित्रः आहूतः ।
+ततः [विमले] प्रभाते कृतकर्मणा नराधिपेन जनकेन राघवसहितः [महात्मा] विश्वामित्रः आहूतः ।
 Valmiki - Thereafter at the pure dawn, the magnanimous Vishwamitra, along with the Raghavas, was invited by the king Janaka who had performed his daily duties.
 
 1.66.2
-वाल्मीकिः - तदा [धर्मात्मा] जनकः शास्त्रदृष्टेन कर्मणा विश्वामित्रं [महात्मानौ] राघवौ च अर्चितवान् अभूत् । ततः वाक्यम् अवोचत् ।
+तदा [धर्मात्मा] जनकः शास्त्रदृष्टेन कर्मणा विश्वामित्रं [महात्मानौ] राघवौ च अर्चितवान् अभूत् । ततः वाक्यम् अवोचत् ।
 Valmiki - Then the virtuous Janaka worshipped Vishwamitra and the magnanimous Raghavas with acts according to the scriptures. Thereafter he spoke these words.
 
 1.66.3
@@ -11,7 +11,7 @@ Valmiki - Then the virtuous Janaka worshipped Vishwamitra and the magnanimous Ra
 Janaka - "O venerable one! Welcome to you. O sinless one! What can I do for you? You command me. I am indeed worthy of being commanded by you."
 
 1.66.4
-वाल्मीकिः - [महात्मना] जनकेन एवम् उक्तः [धर्मात्मा] [वाक्यविशारदः] मुनिः विश्वामित्रः वीरं जनकं वाक्यं प्रत्यवोचत् ।
+[महात्मना] जनकेन एवम् उक्तः [धर्मात्मा] [वाक्यविशारदः] मुनिः विश्वामित्रः वीरं जनकं वाक्यं प्रत्यवोचत् ।
 Valmiki - Thus addressed by the magnanimous Janaka, the virtuous ascetic Vishwamitra, who is well-versed in speech, replied these words to the heroic Janaka.
 
 1.66.5
@@ -23,7 +23,7 @@ Vishwamitra - "These two sons of Dasharatha are world-renowned Kshatriyas. They 
 Vishwamitra - "Show this bow. May there be prosperity to you. Having their desire fulfilled from the sight of this bow, the two princes will return as they wish."
 
 1.66.7
-वाल्मीकिः - एवम् उक्तः जनकः [महामुनिं] विश्वामित्रं प्रत्यवोचत् ।
+एवम् उक्तः जनकः [महामुनिं] विश्वामित्रं प्रत्यवोचत् ।
 Valmiki - Thus addressed, Janaka replied to the great ascetic Vishwamitra.
 जनकः - "अस्य धनुषः यदर्थम् इह तिष्ठति (तत्) श्रूयताम् ।"
 Janaka - "Let the reason for which this bow remains here be heard."

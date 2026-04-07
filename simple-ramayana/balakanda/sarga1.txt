@@ -99,7 +99,7 @@ English Translation: That [heroic] Rama, by the command of his father's words an
 English Translation: The dear brother Lakshmana, [who was endowed with humility], [the enhancer of Sumitra's joy], out of affection, followed that Rama [who was departing].
 
 (1.1.26)
-भ्राता लक्ष्मणः, [दयितः], भ्रातुः रामं प्रति [सौभ्रात्रम् अनुदर्शयन्], वनं व्रजन्तं तं भ्रातरं रामम् अनुगतवान् अभूत्। रामस्य भार्या सीता, [दयिता], [नित्यं प्राणसमा], [हिता] अभूत्।
+भ्राता लक्ष्मणः, [दयितः], भ्रातरम् रामं प्रति [सौभ्रात्रम् अनुदर्शयन्], वनं व्रजन्तं तं भ्रातरं रामम् अनुगतवान् अभूत्। रामस्य भार्या सीता, [दयिता], [नित्यं प्राणसमा], [हिता] अभूत्।
 English Translation: The brother Lakshmana, [who was beloved], [demonstrating brotherly affection] towards his brother Rama, followed that brother Rama who was going to the forest. Rama's wife Sita was [beloved], [always as dear as life itself], and [devoted to his welfare].
 
 (1.1.27)
@@ -175,7 +175,7 @@ Translation: Being [greatly pleased], that Rama had accepted a sword and two ine
 Translation: All the sages had approached Rama for the slaughter of the asuras and rakshasas. And that Rama, in the forest, had promised the slaughter of the rakshasas to those sages.
 
 (1-1-45)
-रामेण च युद्धे दण्डकारण्यवासिनाम् होमाग्नि-प्रभासेन युक्तानाम् ऋषीणां रक्षसां वधः प्रतिज्ञातः अभूत्।
+होमाग्नि-प्रभासेन रामेण च युद्धे दण्डकारण्यवासिनाम् युक्तानाम् ऋषिभ्यः राक्षसवधः प्रतिज्ञातः।
 Translation: And by Rama, the slaughter in battle of the rakshasas [tormenting] the sages dwelling in the Dandaka forest, who were as radiant as the sacrificial fire, had been promised.
 
 (1-1-46)
@@ -227,7 +227,7 @@ Sanskrit: [सः] कबन्धः [तस्मै] [राघवाय] र
 English: [He], Kabandha, had instructed [to that] Raghava: "[You] go to [that] [dharma-skilled] ascetic Shabari." Then, [the greatly splendid], [destroyer of enemies], [he], Raghava, had approached [that] Shabari.
 
 (1-1-58)
-Sanskrit: [सा] शबरी [दशरथ-आत्मजं] रामं संयक् पूजितवती अभूत्। ततः पंपातीरे [सः] रामः [वानरेण] हनुमता सह सङ्गतवान् अभूत्।
+Sanskrit: [सा] शबरी [दशरथ-आत्मजं] रामं सम्यक् पूजितवती अभूत्। ततः पंपातीरे [सः] रामः [वानरेण] हनुमता सह सङ्गतवान् अभूत्।
 English: [She], Shabari, had properly worshipped Rama, [the son of Dasharatha]. Then, on the bank of the Pampa, [he], Rama, had met with Hanuman, [the Vanara].
 
 (1-1-59)
@@ -259,7 +259,7 @@ For the sake of a test, the great body of the Dundubhi rakshasa was shown by Sug
 
 
 (1-1-65)
-[महाबाहुः] [महाबलः] [सः] रामः उत्स्मित्य [तत्] अस्थि प्रेक्ष्य च पाद-अङ्गुष्ठेन संपूर्णम् दश योजनम् क्षिप्तवान् अभूत्।
+[महाबाहुः] [महाबलः] [सः] रामः उत्स्मित्य [तत्] अस्थि प्रेक्ष्य च पाद-अङ्गुष्ठेन संपूर्णम् दश योजनानि क्षिप्तवान् अभूत्।
 [The great-armed] and [very strong] [he], Rama, having smiled and looked at [that] skeleton, had thrown it a full ten yojanas with his big toe.
 
 (1-1-66)
@@ -285,11 +285,11 @@ There, [he], Raghava, had slain [him], Vali, with [one] arrow.
 And so, at the word of Sugriva, [he], Raghava, having killed Vali in battle, had installed Sugriva himself in [that] kingdom.
 
 (1-1-71)
-[वानरेषु ऋर्षभः] [सः] सुग्रीवः च [जनकस्य आत्मजां] सीतां [द्रष्टुकामः] [सर्वान्] वानरान् समानीय दिशः प्रेषितवान् अभूत्।
+[वानरेषु ऋषभः] [सः] सुग्रीवः च [जनकस्य आत्मजां] सीतां [द्रष्टुकामः] [सर्वान्] वानरान् समानीय दिशः प्रेषितवान् अभूत्।
 The best of monkeys (Sugriva) gathered his monkey forces and despatched them in various directions in search of Janaka's daughter (Sita).
 
 (1-1-72)
-ततः [बली] हनुमान् संपाति-नामितस्य गृध्रस्य वचनात् [शत-योजन-मितं विस्तीर्णं] समुद्रस्य उपरि प्लुतवान् अभूत्।
+ततः [बली] हनुमान् संपाति-नामकस्य गृध्रस्य वचनात् [शत-योजन-मितं विस्तीर्णं] समुद्रस्य उपरि प्लुतवान् अभूत्।
 Then, [the strong] Hanuman, from the word of the vulture named Sampati, had leaped across the [hundred-yojana-wide] [salt-ocean].
 
 (1-1-73)
@@ -301,7 +301,7 @@ There, [he, Hanuman], having reached the city of Lanka, [protected by Ravana], h
 Hanuman delivered Rama's ring to Sita as a token of recognition, related the whole story and consoled her. He then crushed the arch (of the outer gate of the garden) before leaving.
 
 (1-1-75)
-[सः] हनुमान् पञ्च सेना-नायकान् सप्त मन्त्रि-सुतान् अपि अक्ष-नामितं शूरं च मर्दयित्वा निगृहीतः जातः।
+[सः] हनुमान् पञ्च सेना-नायकान् सप्त मन्त्रि-सुतान् अपि अक्ष-नामकं शूरं च मर्दयित्वा निगृहीतः जातः।
 After killing five commanders, seven sons of the counsellors, stamping out valiant Akshayakumara, the son of Ravana, Hanuman got himself captured (to be taken as captive).
 
 (1-1-76)
@@ -309,7 +309,7 @@ After killing five commanders, seven sons of the counsellors, stamping out valia
 Even though the hero Hanuman knew that the use of weapons on himself was futile due to Brahma's boon, he voluntarily tolerated those binding Rakshasas.
 
 (1-1-77)
-ततः [महाकपिः] हनुमान् [मैथिलीं] सीताम् ऋते लङ्का-पुरीं दग्ध्वा, रामाय प्रिय-वार्तां दातुं प्रत्यागतः।
+ततः [महाकपिः] हनुमान् [मैथिलीं] सीतायाः ऋते लङ्का-पुरीं दग्ध्वा, रामाय प्रिय-वार्तां दातुं प्रत्यागतः।
 Then, having burned the city of Lanka—except for Sita of Mithila—the great monkey returned to report the welcome news to Rama.
 
 (1-1-78)

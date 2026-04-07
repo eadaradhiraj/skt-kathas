@@ -12,12 +12,12 @@ Vishvamitra - This [radiant] [of great penance] (Shatananda) has arrived for the
 
 ### 1.51.3
 
-वाल्मीकिः - [मुनिश्रेष्ठस्य] विश्वामित्रस्य तत् वचनं श्रुत्वा शतानन्दः [परमहृष्टः] भूतः ।
+[मुनिश्रेष्ठस्य] विश्वामित्रस्य तत् वचनं श्रुत्वा शतानन्दः [परमहृष्टः] भूतः ।
 Valmiki - Having heard that speech of the [best of sages] Vishvamitra, Shatananda became [greatly rejoiced].
 
 ### 1.51.4
 
-वाल्मीकिः - तेन शतानन्देन [आसीनौ] [राजपुत्रौ] (रामलक्ष्मणौ) विस्मयेन दृष्टौ ।
+तेन शतानन्देन [आसीनौ] [राजपुत्रौ] (रामलक्ष्मणौ) विस्मयेन दृष्टौ ।
 Valmiki - Those [seated] [princes] (Rama and Lakshmana) were seen with wonder by that Shatananda.
 
 ### 1.51.5
@@ -53,9 +53,9 @@ Shatananda - Was (he) saluted by the [pious] Rama [who arrived here]?
 
 ### 1.51.10
 
-वाल्मीकिः - [महामुनिना] विश्वामित्रेण तस्य (शतानन्दस्य) तत् वचनं श्रुतम् ।
+[महामुनिना] विश्वामित्रेण तस्य (शतानन्दस्य) तत् वचनं श्रुतम् ।
 Valmiki - That speech of his (Shatananda's) was heard by the [great sage] Vishvamitra.
-वाल्मीकिः - [वाक्यज्ञः] विश्वामित्रः [वाक्यकोविदं] शतानन्दं प्रत्यवोचत् ।
+[वाक्यज्ञः] विश्वामित्रः [वाक्यकोविदं] शतानन्दं प्रत्यवोचत् ।
 Valmiki - The [knower of speech] Vishvamitra replied to the [proficient in speech] Shatananda.
 
 ### 1.51.11
@@ -67,7 +67,7 @@ Vishvamitra - Like Renuka with [the son of Bhrigu] Jamadagni, the [wife] Ahalya 
 
 ### 1.51.12
 
-वाल्मीकिः - तस्य विश्वामित्रस्य भाषितं तत् वचनं [महातेजसा] शतानन्देन श्रुतम् ।
+तस्य विश्वामित्रस्य भाषितं तत् वचनं [महातेजसा] शतानन्देन श्रुतम् ।
 Valmiki - That spoken word of that Vishvamitra was heard by the [highly brilliant] Shatananda.
 शतानन्दः - रामं प्रति वचनम् अवोचत् ।
 Shatananda - (He) spoke a sentence to Rama.

@@ -175,13 +175,13 @@ Shatananda - "This Visvamitra is austerity [personified]."
 Shatananda - "This Visvamitra is always [devoted to dharma]."
 शतानन्दः - एषः विश्वामित्रः वीर्यस्य परायणम् (अस्ति) ।
 Shatananda - "This Visvamitra is the ultimate refuge of valor."
-वाल्मीकिः - एवम् उक्ते , [महातेजाः] [द्विजोत्तमः] शतानन्दः विरतः ।
+एवम् उक्ते , [महातेजाः] [द्विजोत्तमः] शतानन्दः विरतः ।
 Valmiki - "When it was thus spoken, the [greatly resplendent] [best of brahmins] Shatananda stopped."
 
 1.65.30
-वाल्मीकिः - राम-लक्ष्मण-सन्निधौ (जनकेन) शतानन्द-वचः श्रुतम् ।
+राम-लक्ष्मण-सन्निधौ (जनकेन) शतानन्द-वचः श्रुतम् ।
 Valmiki - "In the presence of Rama and Lakshmana, the words of Shatananda were heard (by Janaka)."
-वाल्मीकिः - [प्राञ्जलिः] जनकः [कुशिक-आत्मजं] विश्वामित्रं वाक्यम् अवोचत् ।
+[प्राञ्जलिः] जनकः [कुशिक-आत्मजं] विश्वामित्रं वाक्यम् अवोचत् ।
 Valmiki - "[With folded hands] Janaka spoke a sentence to Visvamitra, [the son of Kushika]."
 
 1.65.31
@@ -223,17 +223,17 @@ Janaka - "O [greatly resplendent one], tomorrow in the morning (you) ought to se
 1.65.37
 जनकः - "हे तपस्विनाम् [श्रेष्ठ] (तव) स्वागतम् (अहं) माम् अनुज्ञातुम् अर्हसि ।"
 Janaka - "O [best] of ascetics, (your) welcome (is here); (you) ought to grant permission to me."
-वाल्मीकिः - एवम् उक्ते [मुनि-वरेण] [पुरुष-ऋषभः] प्रशस्तः ।
+एवम् उक्ते [मुनि-वरेण] [पुरुष-ऋषभः] प्रशस्तः ।
 Valmiki - "When it was thus spoken, the [best of men] was praised by the [excellent ascetic]."
 
 1.65.38
-वाल्मीकिः - तदा [प्रीत-मनसा] (विश्वामित्रेण) आशु [प्रीतः] जनकः विसृष्टः ।
+तदा [प्रीत-मनसा] (विश्वामित्रेण) आशु [प्रीतः] जनकः विसृष्टः ।
 Valmiki - "Then the [pleased] Janaka was quickly dismissed by the [glad-minded] (Visvamitra)."
-वाल्मीकिः - [वैदेहेन] [मिथिला-अधिपेन] (जनकेन) [मुनि-श्रेष्ठः] (विश्वामित्रः) एवम् उक्तः ।
+[वैदेहेन] [मिथिला-अधिपेन] (जनकेन) [मुनि-श्रेष्ठः] (विश्वामित्रः) एवम् उक्तः ।
 Valmiki - "The [best of ascetics] (Visvamitra) was thus spoken to by the [king of Videha], the [lord of Mithila] (Janaka)."
 
 1.65.39
-वाल्मीकिः - [उपाध्याय-सहितेन] [बान्धव-सहितेन] (जनकेन) आशु प्रदक्षिणं कृतम् ।
+[उपाध्याय-सहितेन] [बान्धव-सहितेन] (जनकेन) आशु प्रदक्षिणं कृतम् ।
 Valmiki - "A circumambulation was quickly performed (by Janaka), [accompanied by his preceptors] and [accompanied by his relatives]."
-वाल्मीकिः - [धर्म-आत्मा] विश्वामित्रः अपि [राम-सहितः] [लक्ष्मण-सहितः] [महा-ऋषिभिः] पूज्यमानः स्व-वाटं गतः ।
+[धर्म-आत्मा] विश्वामित्रः अपि [राम-सहितः] [लक्ष्मण-सहितः] [महा-ऋषिभिः] पूज्यमानः स्व-वाटं गतः ।
 Valmiki - "The [righteous] Visvamitra also, [accompanied by Rama] and [accompanied by Lakshmana], being worshipped by the [great sages], went to his own camp."

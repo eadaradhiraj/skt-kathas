@@ -9,7 +9,7 @@
 ### 2. Speaker & Narrator Identification
 * **Sanskrit**: Name in the Nominative case followed by a hyphen before every sentence (e.g., `वसिष्ठः -`).
 * **English**: Name followed by a hyphen before the translation (e.g., `Vashistha -`).
-* **Narrator**: Always include the narrator's name (e.g., `शतानन्दः -`) when they are relaying the story.
+* **Narrator**: Always include the narrator's name (e.g., `शतानन्दः -`) when they are relaying the story. No need to name Valmiki unless he is speaking something as a character within the story.
 
 ### 3. Grammar & Voice (Rules for Past Tense ONLY)
 * **General Past Tense**: Use **Passive Voice** with the *kta* pratyaya (e.g., *kṛtam*, *dṛṣṭam*, *kṣiptam*).

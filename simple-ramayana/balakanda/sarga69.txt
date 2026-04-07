@@ -1,9 +1,9 @@
 1.69.1
 
-वाल्मीकिः - ततः रात्र्यां व्यतीतायाम् [हृष्टः] राजा दशरथः उपाध्याय-सहितः बान्धव-सहितः भूतः ।
+ततः रात्र्यां व्यतीतायाम् [हृष्टः] राजा दशरथः उपाध्याय-सहितः बान्धव-सहितः भूतः ।
 Valmiki - Then, when the night had passed, the [pleased] king Dasaratha became accompanied by preceptors and accompanied by relatives.
 
-वाल्मीकिः - (दशरथः) सुमन्त्रम् इदम् अवोचत् ।
+(दशरथः) सुमन्त्रम् इदम् अवोचत् ।
 Valmiki - (Dasaratha) spoke this word to Sumantra.
 
 1.69.2
@@ -40,31 +40,31 @@ Dasaratha - "So that passing of time may not be (occur), (do thus), for the mess
 
 1.69.6
 
-वाल्मीकिः - नरेन्द्रस्य वचनात् तु सा [चतुर्-अङ्गिणी] सेना (प्रस्थिता) ।
+नरेन्द्रस्य वचनात् तु सा [चतुर्-अङ्गिणी] सेना (प्रस्थिता) ।
 Valmiki - By the command of the king of men indeed, that [four-divisioned] army (set forth).
 
-वाल्मीकिः - (सा) (सेना) ऋषि-सहितं व्रजन्तं राजानं पृष्ठतः अनुगता ।
+(सा) (सेना) ऋषि-सहितं व्रजन्तं राजानं पृष्ठतः अनुगता ।
 Valmiki - (That) (army) followed from behind the king who was proceeding accompanied by sages.
 
 1.69.7
 
-वाल्मीकिः - (दशरथः) चतुर्-अहं मार्गं गत्वा विदेहान् प्राप्तः ।
+(दशरथः) चतुर्-अहं मार्गं गत्वा विदेहान् प्राप्तः ।
 Valmiki - (Dasaratha) having gone on the four-day path arrived at the Videhas.
 
-वाल्मीकिः - [श्रीमता] राज्ञा जनकेन तु (तत्) श्रुतं पूजा कृता ।
+[श्रीमता] राज्ञा जनकेन तु (तत्) श्रुतं, पूजा च कृता ।
 Valmiki - By the [auspicious] king Janaka indeed (that) was heard (and) hospitality was made.
 
 1.69.8
 
-वाल्मीकिः - ततः राजा जनकः [वृद्धं] नृपं राजानं दशरथम् आसादितवान् अभूत् ।
+ततः राजा जनकः [वृद्धं] नृपं राजानं दशरथम् आसादितवान् अभूत् ।
 Valmiki - Then king Janaka had approached the [aged] ruler of men, king Dasaratha.
 
-वाल्मीकिः - [मुदितः] (जनकः) [परमं] हर्षं प्राप्तः ।
+[मुदितः] (जनकः) [परमं] हर्षं प्राप्तः ।
 Valmiki - The [pleased] (Janaka) attained [great] delight.
 
 1.69.9
 
-वाल्मीकिः - [मुदा-अन्वितः] [नर-श्रेष्ठः] (जनकः) [नर-श्रेष्ठं] (दशरथम्) अवोचत् ।
+[मुदा-अन्वितः] [नर-श्रेष्ठः] (जनकः) [नर-श्रेष्ठं] (दशरथम्) अवोचत् ।
 Valmiki - The [joy-filled] [best of men] (Janaka) spoke to the [best of men] (Dasaratha).
 
 जनकः - "महाराज तव स्वागतम् (अस्तु) राघव (त्वं) दिष्ट्या प्राप्तः ।"
@@ -99,12 +99,12 @@ Janaka - "O [best of kings], tomorrow in the morning (you) ought to accomplish (
 जनकः - "[नर-श्रेष्ठ] (त्वं) यज्ञस्य अन्ते [ऋषि-सम्मतं] विवाहं निर्वर्तयितुम् अर्हसि ।"
 Janaka - "O [best of men], (you) ought to accomplish the [sage-approved] marriage at the end of the sacrifice."
 
-वाल्मीकिः - [नराधिपः] (दशरथः) ऋषि-मध्ये तस्य तत् वचनं श्रुतवान् अभूत् ।
+[नराधिपः] (दशरथः) ऋषि-मध्ये तस्य तत् वचनं श्रुतवान् अभूत् ।
 Valmiki - The [lord of men] (Dasaratha) had heard that word of his among the sages.
 
 1.69.14
 
-वाल्मीकिः - [वाक्य-विदाम्] श्रेष्ठः (दशरथः) मही-पतिं (जनकं) वाक्यं प्रत्यवोचत् ।
+[वाक्य-विदाम्] श्रेष्ठः (दशरथः) मही-पतिं (जनकं) वाक्यं प्रत्यवोचत् ।
 Valmiki - The best [of those who know speech] (Dasaratha) replied the word to the lord of the earth (Janaka).
 
 दशरथः - "प्रतिग्रहः [दातृ-वशः] इति एतत् मया पुरा श्रुतम् ।"
@@ -115,32 +115,32 @@ Dasaratha - "The gift is [dependent on the giver] thus; this was heard by me for
 दशरथः - "यथा [धर्म-ज्ञ] (त्वं) वक्ष्यसि तत् वयं करिष्यामहे ।"
 Dasaratha - "O [knower of dharma], as (you) will speak, that we shall do."
 
-वाल्मीकिः - [सत्य-वादिनः] (दशरथस्य) वचनं [धर्मिष्ठं] च [यशस्यं] च (अभूत्) ।
+[सत्य-वादिनः] (दशरथस्य) वचनं [धर्मिष्ठं] च [यशस्यं] च (अभूत्) ।
 Valmiki - The word of the [truth-speaking] (Dasaratha) (was) [most righteous] and [leading to fame].
 
 1.69.16
 
-वाल्मीकिः - [विदेह-अधिपतिः] (जनकः) श्रुत्वा परं विस्मयं प्राप्तः ।
+[विदेह-अधिपतिः] (जनकः) श्रुत्वा परं विस्मयं प्राप्तः ।
 Valmiki - The [lord of Videha] (Janaka), having heard, attained supreme astonishment.
 
-वाल्मीकिः - ततः सर्वे मुनि-गणाः परस्पर-समागमे (प्राप्ताः) ।
+ततः सर्वे मुनि-गणाः परस्पर-समागमे (प्राप्ताः) ।
 Valmiki - Then all the hosts of sages (arrived) in mutual gathering.
 
 1.69.17
 
-वाल्मीकिः - [महता] हर्षेण [युक्ताः] (मुनि-गणाः) तां निशां सुखम् उषिताः ।
+[महता] हर्षेण [युक्ताः] (मुनि-गणाः) तां निशां सुखम् उषिताः ।
 Valmiki - [Endowed] with [great] joy, (the hosts of sages) spent that night happily.
 
-वाल्मीकिः - राजा (दशरथः) च पुत्रौ राघवौ दृष्ट्वा [परि-हर्षितः] भूतः ।
+राजा (दशरथः) च पुत्रौ राघवौ दृष्ट्वा [परि-हर्षितः] भूतः ।
 Valmiki - And the king (Dasaratha), having seen his two sons, the Raghavas, became [highly rejoiced].
 
 1.69.18
 
-वाल्मीकिः - जनकेन [सु-पूजितेन] [परम-प्रीतेन] (दशरथेन) (रात्रिः) उषिता ।
+जनकेन [सु-पूजितेन] [परम-प्रीतेन] (दशरथेन) (रात्रिः) उषिता ।
 Valmiki - (The night) was spent by the [highly pleased] (Dasaratha), [well-honored] by Janaka.
 
-वाल्मीकिः - [तत्त्व-विदा] [महा-तेजसा] जनकेन अपि धर्मेण क्रिया कृता ।
+[तत्त्व-विदा] [महा-तेजसा] जनकेन अपि धर्मेण क्रिया कृता ।
 Valmiki - The rite was also performed with dharma by the [illustrious] Janaka, [knower of truth].
 
-वाल्मीकिः - यज्ञस्य (क्रियां) कृत्वा सुताभ्यां (जनकेन) रात्रिः उषिता ।
+यज्ञस्य (क्रियां) कृत्वा सुताभ्यां सह (जनकेन) रात्रिः उषिता ।
 Valmiki - And having performed (the rite) of the sacrifice, the night was spent (by Janaka) along with his two daughters.
