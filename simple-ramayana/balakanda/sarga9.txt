@@ -1,5 +1,5 @@
 1.9.1
-एतत् श्रुत्वा, सूतः रहसि राजानम् इदम् उक्तवान् अभूत् - "मया [ऋत्विग्भिः उपदिष्टः] एकः पुरावृत्तः श्रुतः।"
+एतत् श्रुत्वा, सूतः रहसि राजानम् इदम् उक्तवान् अभूत् - "मया [ऋत्विग्भिः उपदिष्टम्] एकं पुरावृत्तं श्रुतम्।"
 Having heard this, the charioteer said this to the king in private: "An ancient story, [which was also told by the priests], has been heard by me."
 
 1.9.2
@@ -20,7 +20,7 @@ Having heard this, the charioteer said this to the king in private: "An ancient 
 
 1.9.6
 "[यशस्विनं] पितरम् अग्निं च सेवमानस्य तस्य, एवं कालः व्यतीतः भविष्यति।"
-"While he was thus serving his [glorious] father and the fire, time will be passed."
+"While he is thus serving his [glorious] father and the fire, time will pass."
 
 1.9.7
 "एतस्मिन् एव काले, अङ्ग-देशे रोमपादः नाम [प्रतापवान्, महाबलः च, प्रथितः च] राजा भविष्यति।"
@@ -51,11 +51,11 @@ Having heard this, the charioteer said this to the king in private: "An ancient 
 "Having heard their words, the king will think of a way to bring that [powerful] Rishyashringa here."
 
 1.9.14
-"ततः [आत्मवान्] राजा रोमपादः मन्त्रिभिः सह विनिश्चित्य, [सत्कृतान्] पुरोहितम् अमात्यान् च प्रेष्यति।"
+"ततः [आत्मवान्] राजा रोमपादः मन्त्रिभिः सह विनिश्चित्य, [सत्कृतान्] पुरोहितम् अमात्यान् च प्रेषयिष्यति।"
 "Then the [resolute] King Romapada, having decided with his ministers, will send the [duly honored] chief priest and ministers."
 
 1.9.15
-"ते पुरोहिताः अमात्याः च राज्ञः रोमपादस्य वचनं श्रुत्वा, [व्यथिताः, विनताननाः च] भविष्यन्ति। ऋषेः विभण्डकात् भीताः, ते तं नृपं रोमपादम् प्रार्थिष्यन्ति - 'वयं तत्र गन्तुं न शक्नुमः' इति।"
+"ते पुरोहिताः अमात्याः च राज्ञः रोमपादस्य वचनं श्रुत्वा, [व्यथिताः, विनताननाः च] भविष्यन्ति। ऋषेः विभण्डकात् भीताः, ते तं नृपं रोमपादम् प्रार्थयिष्यन्ति - 'वयं तत्र गन्तुं न शक्नुमः' इति।"
 Having heard the words of King Romapada, those priests and ministers will become distressed with their faces bowed down. Fearing the sage Vibhandaka, they will plead with that King Romapada, saying: "We are not able to go."
 
 1.9.16
@@ -67,9 +67,9 @@ Having heard the words of King Romapada, those priests and ministers will become
 Thus, by [the king of Anga,] Romapada, himself, with the help of courtesans, [the son of the sage,] Rishyashringa, will have been brought. When he arrives, the god Indra will send rain, and Shanta, [the daughter of Dasharatha], will be given to him, Rishyashringa.
 
 1.9.18
-"ऋश्यशृङ्गः तव जामाता। सः तव पुत्रान् दास्यति। सनत्कुमारेण यत् कथितम्, तदेव मया उक्तम्।"
-"Your son-in-law, Rishyashringa, will bestow sons upon you. I have narrated to you exactly what was foretold by Sanatkumara."
+"ऋष्यशृङ्गः तव जामाता। सः तव पुत्रान् दास्यति। सनत्कुमारेण यत् कथितम्, तदेव मया उक्तम्।"
+"Rishyashringa will be your son-in-law. He will bestow sons upon you. I have narrated to you exactly what was foretold by Sanatkumara."
 
 1.9.19
-अथ दशरथः हृष्टः अभूत्। सः सुमन्त्रं प्रतिभाषितवान् अभूत्। "ऋश्यशृङ्गः यथा त्वया आनीतः, तत् विस्तरेण उच्यताम्।"
+अथ दशरथः हृष्टः अभूत्। सः सुमन्त्रं प्रतिभाषितवान् अभूत्। "त्वया सः ऋष्यशृङ्गः कथम् आनीतः इति विस्तरेण उच्यताम्।"
 Then Dasharatha became delighted. He spoke to Sumantra. "Tell me in detail how you brought Rishyashringa here."
