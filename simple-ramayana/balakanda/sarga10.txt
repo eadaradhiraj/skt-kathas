@@ -1,14 +1,14 @@
 1.10.1
-तदा राज्ञा आज्ञापितः सुमन्त्रः इदं वचनम् प्रोक्तवान् अभूत्। "(हे राजन्!) यथा ऋश्यशृङ्गः आनीतः, तत् मम सकाशात् मन्त्रिभिः सह शृणु।"
+तदा राज्ञा आज्ञापितः सुमन्त्रः इदं वचनम् प्रोक्तवान् अभूत्। "(हे राजन्!) यथा ऋष्यशृङ्गः आनीतः, तत् मम सकाशात् मन्त्रिभिः सह शृणु।"
 Then Sumantra, having been commanded by the king, had spoken these words. "Listen from me, along with the ministers, how Rishyashringa was brought."
 
 1.10.2
-सुमन्त्रः - [अमात्यैः सह] पुरोहितः रोमपादः एवम् उक्तः — "अयम् [अपाय-हीनः] उपायः [अस्माभिः अभिचिन्तितः]।"    
+सुमन्त्रः - [अमात्यैः सह] पुरोहितेन रोमपादः एवम् उक्तः — "अयम् [अपाय-हीनः] उपायः [अस्माभिः अभिचिन्तितः]।"    
 By the priest [along with the ministers], Romapada was spoken to thus: "This [infallible] plan [has been devised by us]."
 
 1.10.3
 अमात्याः - "ऋष्यशृङ्गः [वनचरः] अस्ति, तपसि स्वाध्याये च [रतः] अस्ति। सः स्त्रीणां विषये, सांसारिक-सुखानां विषये च किमपि न जानाति।"
-"Having thought, we will suggest a plan. We will bring that Brahmin, Rishyashringa, and there will be no fault."
+"Rsyasringa, residing in the forest, is engrossed in the study of the Vedas. He is not acquainted with women and sensual pleasures.
 
 1.10.4
 (पुरोहिताः अमात्याः च वदन्ति -) "वयं तम् ऋष्यशृङ्गं [अभिमतानि, नर-चित्त-प्रमाथीनि च] इन्द्रिय-सुखानि प्रदर्श्य पुरम् आनेष्यामः। अतः, शीघ्रं निर्णयः क्रियताम्।"
@@ -35,7 +35,7 @@ That [steadfast and always-dwelling-in-the-hermitage] son of the sage, Rishyashr
 From the time of his birth, by that ascetic, Rishyashringa, neither a woman, nor a man, nor any other thing belonging to the city or kingdom had been seen.
 
 1.10.10
-सुमन्त्रः - ततः कदाचित् [विभण्डकस्य सुतः] ऋष्यशृङ्गः यदृच्छया तं देशम् आगतवान् अभूत्। तत्र सः ताः [सुन्दराः] गणिकाः दृष्टवान् अभूत्।
+सुमन्त्रः - ततः कदाचित् [विभण्डकस्य सुतः] ऋष्यशृङ्गः यदृच्छया तं देशम् आगतवान् अभूत्। तत्र सः ताः [सुन्दरीः] गणिकाः दृष्टवान् अभूत्।
 Then, once, the [son of Vibhandaka], Rishyashringa, came to that place by chance. There he saw those [beautiful] courtesans.
 
 1.10.11
@@ -47,15 +47,15 @@ Sumantra - [Those] [all] [colorfully-dressed], [sweet-voiced], [singing] women, 
 The women - O Brahmin, who are you? What are you doing? We wish to know. (That) you wander [alone] in a [desolate], [dreadful] forest, tell us.
 
 1.10.13
-सुमन्त्रः - ऋष्यशृङ्गेण वने ताः [काम्यरूपाः] स्त्रियः [अदृष्टरूपाः] अभूवन्। ऋष्यशृङ्गस्य हार्दात् [स्वकम्] पितरं व्याख्यातुम् मतिः जाता।
+सुमन्त्रः - ऋष्यशृङ्गस्य वने ताः [काम्यरूपाः] स्त्रियः [अदृष्टरूपाः] अभूवन्। ऋष्यशृङ्गस्य हार्दात् [स्वकम्] पितरं व्याख्यातुम् मतिः जाता।
 Sumantra - For Rishyashringa, those [desirably-formed] women in the forest were [of unseen forms]. From sincerity, Rishyashringa's intention to describe [his own] father was born.
 
 1.10.14
 ऋष्यशृङ्गः - विभण्डकः मम पिता । अहं तस्य [औरसः] सुतः। भुवि मम नाम ऋष्यशृङ्गः इति, मम कर्म च ख्यातम् अस्ति। 
-Rishyashringa - Vibhandaka is our father. I am his [legitimate] son. On earth, my name is famous as Rishyashringa, and my deeds are also famous.
+Rishyashringa - Vibhandaka is my father. I am his [legitimate] son. On earth, my name is famous as Rishyashringa, and my deeds are also famous.
 
 1.10.15
-ऋष्यशृङ्गः - हे [शुभदर्शनाः], मम आश्रमपदः अत्र समीपे अस्ति। अहम् अत्र सर्वेषां युष्माकं विधिपूर्वकं सत्कारं करिष्यामि।
+ऋष्यशृङ्गः - हे [शुभदर्शनाः], मम आश्रमपदम् अत्र समीपे अस्ति। अहम् अत्र सर्वेषां युष्माकं विधिपूर्वकं सत्कारं करिष्यामि।
 Rishyashringa - O, [you of auspicious appearance], my hermitage is here nearby. I will offer hospitality to all of you here, according to tradition.
 
 1.10.16
@@ -73,11 +73,11 @@ Rishyashringa - This is water for the hands, this is water for the feet, this is
 Sumantra - Having accepted that hospitality, [all] those courtesans, [being anxious] and [afraid of the sage], quickly did resolve to depart.
 
 1.10.19
-गणिकाः - हे द्विज, इमानि अस्माकम् अपि [मुख्यानि] फलानि सन्ति। तव भद्रम् अस्तु। त्वम् इमानि प्रतिगृहाण, शीघ्रं च खादयत।
+गणिकाः - हे द्विज, इमानि अस्माकम् अपि [मुख्यानि] फलानि सन्ति। तव भद्रम् अस्तु। त्वम् इमानि प्रतिगृहाण, शीघ्रं च खाद।
 The courtesans - O Brahmin, these are our [special] fruits as well. Good fortune to you. Accept them, and eat them without delay.
 
 1.10.20
-सुमन्त्रः - ततः [हर्षसमन्विताः] ताः [सर्वाः] गणिकाः ऋष्यशृङ्गं समालिङ्ग्य, ऋष्यशृङ्गाय [विविधान्] [बहून्] भक्ष्यान् मोदकान् च प्रदत्तवत्यः अभूवन्।
+सुमन्त्रः - ततः [हर्षसमन्विताः] ताः [सर्वाः] गणिकाः ऋष्यशृङ्गं समालिङ्ग्य, ऋष्यशृङ्गाय [विविधानि] [बहूनि] भक्ष्याणि मोदकान् च प्रदत्तवत्यः अभूवन्।
 Sumantra - Then, [filled with joy], [all] those courtesans, having embraced Rishyashringa, did give [various] and [many] foods and sweet-balls to Rishyashringa.
 
 1.10.21
@@ -85,7 +85,7 @@ Sumantra - Then, [filled with joy], [all] those courtesans, having embraced Rish
 Sumantra - The brilliant Rishyashringa, [a permanent dweller in the forest], having tasted those foods [which were never tasted before], did think of them as fruits.
 
 1.10.22
-सुमन्त्रः - तदा तस्य ऋष्यशृङ्गस्य पितुः [भीताः] ताः स्त्रियः [विप्रम्] ऋष्यशृङ्गम् निर्गमनाज्ञां स्वीकृत्य, व्रतचर्या-व्याजं निवेद्य च, गतवत्यः अभूवन्।
+सुमन्त्रः - तदा तस्य ऋष्यशृङ्गस्य पितुः [भीताः] ताः स्त्रियः [विप्रम्] ऋष्यशृङ्गात् निर्गमनाज्ञां स्वीकृत्य, व्रतचर्या-व्याजं निवेद्य च, गतवत्यः अभूवन्।
 Sumantra - Then those women, [afraid of Rishyashringa's father], having received permission to depart from the Brahmin Rishyashringa, and having presented the pretext of their religious observances, did leave.
 
 1.10.23
