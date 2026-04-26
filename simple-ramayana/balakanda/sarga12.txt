@@ -35,7 +35,7 @@ King Dasharatha - "For me, [who is grieving for the sake of a son], there is no 
 King Dasharatha - "Therefore, I wish to sacrifice with the ritual [prescribed by the scriptures]. And I shall also obtain my desires through the power of Rishyashringa, [the sage's son]."
 
 1.12.10
-ततः [वसिष्ठप्रमुखैः] [सर्वैः] ब्राह्मणैः [पार्थिवस्य दशरथस्य मुखात् निर्गतम्] तत् वाक्यं "साधु" इति प्रत्यपूजितम्।
+ततः [वसिष्ठप्रमुखैः] [सर्वैः] ब्राह्मणैः [पार्थिवस्य दशरथस्य मुखात् निर्गतम्] तत् वाक्यं "साधु" इति प्रतिपूजितम्।
 Then, by all the Brahmins, [led by Vasistha], that word, [which had emerged from the mouth of the king, Dasharatha], was praised with "Excellent!".
 
 1.12.11
@@ -71,7 +71,7 @@ The Brahmins - "For here, [learned] Brahmarakshasas search for a flaw. And the s
 King Dasharatha - "Since you are [capable in these actions], therefore, let the arrangement be made so that this sacrifice of mine may be completed according to the rules."
 
 1.12.19
-ततः [सर्वैः] मन्त्रिभिः [पार्थिवेन्द्रस्य] दशरथस्य तत् वाक्यं "तथा अस्तु" इति प्रत्यपूजितम्, यथा-आज्ञप्तं कार्यं कृतं च।
+ततः [सर्वैः] मन्त्रिभिः [पार्थिवेन्द्रस्य] दशरथस्य तत् वाक्यं "तथा अस्तु" इति प्रतिपूजितम्, यथा-आज्ञप्तं कार्यं कृतं च।
 Then by [all] the ministers, that word of the [best of kings], Dasharatha, was praised with "So be it," and the work was done as commanded.
 
 1.12.20
@@ -79,5 +79,5 @@ Then by [all] the ministers, that word of the [best of kings], Dasharatha, was p
 Then those Brahmins did praise Dasharatha, [the knower of dharma], [the bull among kings]. Then, [having been given leave], all those Brahmins departed again as they had come.
 
 1.12.21
-अथ द्विजाग्र्याणां गमनानन्तरम्, [महाद्युतिः] नराधिपः दशरथः तान् मन्त्रिणः विसर्जयित्वा, स्वं गृहं प्रविष्टवान् अभूत्।
+अथ द्विजाग्र्याणां गमनानन्तरम्, [महाद्युतिः] नराधिपः दशरथः तान् मन्त्रिणः विसर्ज्य, स्वं गृहं प्रविष्टवान् अभूत्।
 Then, after the departure of the best of Brahmins, the [greatly splendid] king, Dasharatha, having dismissed those ministers, did enter his own home.
