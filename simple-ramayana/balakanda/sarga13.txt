@@ -9,7 +9,6 @@ King Dasharatha, having saluted Vasistha and honored him according to custom, di
 1.13.3
 राजा दशरथः - "हे ब्रह्मन्, हे [मुनिपुङ्गव] वसिष्ठ, यथा उक्तम्, मम यज्ञः क्रियताम्। यज्ञाङ्गेषु यथा विघ्नः न क्रियते, तथा विधीयताम्।"
 King Dasharatha - "O Brahmin, O [best of sages] Vasistha, as it was said, let my sacrifice be performed. Let it be arranged so that no obstacle is created in the parts of the sacrifice."
-en la partoj de la ofero."
 
 1.13.4
 राजा दशरथः - "भवान् मम [स्निग्धः] सुहृत्, [परमः महान्] गुरुः च अस्ति। [उद्यतस्य] यज्ञस्य भारः भवता एव वोढव्यः अस्ति।"
@@ -117,7 +116,7 @@ And all those foremen did report to the [wise] Vasistha everything that had been
 
 1.13.30
 ततः [प्रीतः] [द्विजश्रेष्ठः] वसिष्ठः तान् सर्वान् इदम् उक्तवान् अभूत् - "कस्मैचित् अवज्ञया लीलया वा अपि किमपि न दातव्यम्।"
-Then Vasistha, [the best of Brahmins], being pleased, said this to all of them - "Nothing is to be given to anyone with disrespect or even casually.""
+Then Vasistha, [the best of Brahmins], being pleased, said this to all of them - "Nothing is to be given to anyone with disrespect or even casually."
 
 1.13.31
 ततः महीक्षितः राज्ञः दशरथस्य कृते [बहूनि] रत्नानि आदाय, केभ्यश्चित् अहोरात्रेभ्यः परम् उपयाताः।
@@ -125,7 +124,9 @@ Then the kings, having brought [many] jewels for King Dasharatha, arrived after 
 
 1.13.32
 ततः [सुप्रीतः] वसिष्ठः राजानं दशरथम् इदम् उक्तवान् अभूत्।
-Then Vasistha, [being very pleased], did speak this to the king, Dasharatha.3
+Then Vasistha, [being very pleased], did speak this to the king, Dasharatha.
+
+1.13.33
 वसिष्ठः - "हे [नरव्याघ्र] दशरथ, तव शासनात् राजानः उपयाताः। मया अपि [सर्वे] [राजसत्तमाः] यथार्हं सत्कृताः।"
 Vasistha - "O [tiger among men] Dasharatha, the kings have arrived by your command. By me also, [all] the [best of kings] have been honored as they deserve."
 
