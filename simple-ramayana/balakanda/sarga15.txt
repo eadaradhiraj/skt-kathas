@@ -12,27 +12,27 @@ Then that best of Brahmins, the brilliant Rishyashringa, began to perform that s
 
 1.15.4
 ततः [सगन्धर्वाः] देवाः, सिद्धाः, परमर्षयः च भाग-प्रतिग्रहार्थाय यथान्वयं समवेताः अभूवन्।
-Then the gods with the Gandharvas, the Siddhas, and the great sages assembled in proper order to receive their shares.
+Then the Gods with the Gandharvas, the Siddhas, and the great sages assembled in proper order to receive their shares.
 
 1.15.5
 ततः ताः सर्वाः देवताः [विगतक्लमाः] भूत्वा, यथान्यायं समेत्य, [महात्मानं] ब्रह्माणम् उक्तवत्यः अभूवन्।
-Those gods, having assembled in that assembly according to custom, did speak an important word to Brahma, the creator of the worlds.
+Those Gods, having assembled in that assembly according to custom, did speak an important word to Brahma, the creator of the worlds.
 
 1.15.6
 देवाः - "हे भगवन्, रावणः नाम राक्षसः तव प्रसादेन वीर्यात् अस्मान् सर्वान् बाधते। वयं तं शासितुं न शक्नुमः।"
-The Gods - "O Blessed Lord, a rakshasa named Ravana, by your grace and through his power, afflicts us all. We are not able to control him."
+The Gods - "O Blessed Lord, a Rakshasa named Ravana, by your grace and through his power, afflicts us all. We are not able to control him."
 
 1.15.7
 देवाः - "हे भगवन्, पुरा [प्रीतेन] त्वया तस्मै वरः दत्तः। तं वरं मानयन्तः, वयं नित्यं तस्य सर्वं क्षमामहे।"
 The Gods - "O Blessed Lord, long ago a boon was granted to him by you, who were well-pleased. Honoring that boon, we always endure everything from him."
 
 1.15.8
-देवाः - "[दुर्मतिः] सः रावणः त्रीन् लोकान् उद्वेजयति, उच्छ्रितान् द्वेष्टि च। सः [देवराजम् शक्रम्] इन्द्रम् अपि प्रधर्षयितुम् इच्छति।"
-The Gods - "That evil-minded Ravana torments the three worlds and hates the exalted ones. He also desires to assault Indra, the king of the gods."
+देवाः - "[दुर्मतिः] सः रावणः त्रीन् लोकान् उद्वेजयति, उच्छ्रितान् द्वेष्टि च। सः [देवराजं शक्रम्] इन्द्रम् अपि प्रधर्षयितुम् इच्छति।"
+The Gods - "That evil-minded Ravana torments the three worlds and hates the exalted ones. He also desires to assault Indra, the king of the Gods."
 
 1.15.9
 देवाः - "[दुर्धर्षः] [वरदानेन मोहितः] सः रावणः ऋषीन्, यक्षान्, सगन्धर्वान्, असुरान्, तथा ब्राह्मणान् च अतिक्रामति।"
-The Gods - "That unassailable Ravana, deluded by the boon you granted, transgresses against sages, yakshas, gandharvas, asuras, and Brahmins."
+The Gods - "That unassailable Ravana, deluded by the boon you granted, transgresses against sages, Yakshas, Gandharvas, Asuras, and Brahmins."
 
 1.15.10
 देवाः - "सूर्यः एनं रावणं न प्रतपति। मारुतः तस्य पार्श्वे न वाति। [ऊर्मयः मालाः इव चलन्ति यस्य सः] समुद्रः अपि तं दृष्ट्वा न कम्पते।"
@@ -40,23 +40,23 @@ The Gods - "The sun does not blaze down upon him. The wind does not blow at his 
 
 1.15.11
 देवाः - "तत्, [घोरदर्शनात्] तस्मात् राक्षसात् अस्माकं महत् भयम् अस्ति। हे भगवन्, त्वं तस्य वधार्थम् उपायं कर्तुम् अर्हसि।"
-The Gods - "Therefore, from that rakshasa of dreadful appearance, there is great fear for us. O Blessed Lord, you should devise a means for his destruction."
+The Gods - "Therefore, from that Rakshasa of dreadful appearance, there is great fear for us. O Blessed Lord, you should devise a means for his destruction."
 
 1.15.12
 [सर्वैः] सुरैः एवम् उक्तः ब्रह्मा चिन्तयित्वा, ततः उक्तवान् अभूत् - "हन्त, तस्य [दुरात्मनः] वधोपायः मया विदितः।"
-Having been addressed thus by all the gods, Brahma, after reflecting, then said: "Ah! The means of destruction for that evil-souled one is known to me."
+Having been addressed thus by all the Gods, Brahma, after reflecting, then said: "Ah! The means of destruction for that evil-souled one is known to me."
 
 1.15.13
 ब्रह्मा - "तेन 'अहं गन्धर्व-यक्षाणां, देव-दानव-रक्षसां च अवध्यः अस्मि' इति वाक् उक्ता। मया च तत् 'तथा अस्तु' इति उक्तम्।"
-Brahma - "By him, the words 'I must be unkillable by gandharvas, yakshas, gods, danavas, and rakshasas' were spoken. And by me, 'So be it' was said to that."
+Brahma - "By him, the words 'I am unkillable by Gandharvas, Yakshas, Gods, Danavas, and Rakshasas' were spoken. And by me, 'So be it' was said to that."
 
 1.15.14
 ब्रह्मा - "सः राक्षसः अवज्ञानात् मानुषान् प्रति न अकीर्तयत्। तस्मात् सः मानुषात् वध्यः अस्ति। अस्य अन्यः मृत्युः न विद्यते।"
-Brahma - "That rakshasa, out of contempt, did not mention humans. Therefore, he is killable by a human. For him, another death does not exist."
+Brahma - "That Rakshasa, out of contempt, did not mention humans. Therefore, he is killable by a human. For him, another death does not exist."
 
 1.15.15
 तदा ब्रह्मणा उक्तम् एतत् [प्रियम्] वाक्यं श्रुत्वा, ते [सर्वे] देवाः महर्षयः च प्रहृष्टाः अभूवन्।
-Then, having heard this pleasing word spoken by Brahma, all those gods and great sages became joyful.
+Then, having heard this pleasing word spoken by Brahma, all those Gods and great sages became joyful.
 
 1.15.16
 एतस्मिन् अन्तरे [महाद्युतिः], [शङ्ख-चक्र-गदा-पाणिः], [पीतवासाः], [जगत्पतिः] विष्णुः उपयातः अभूत्।
@@ -64,7 +64,7 @@ At this juncture, the [highly effulgent] Vishnu, [bearing a conch, discus, and m
 
 1.15.17
 विष्णुः ब्रह्मणा समागम्य, तत्र [समाहितः] स्थितवान् अभूत्। सर्वे सुराः [सन्नताः] भूत्वा, तं विष्णुं समभिष्टूय, उक्तवन्तः अभूवन्।
-Having met with Brahma, Vishnu remained there [composed]. All the gods, having become prostrate and having paid homage with hymns, spoke to him.
+Having met with Brahma, Vishnu remained there [composed]. All the Gods, having become prostrate and having paid homage with hymns, spoke to him.
 
 1.15.18
 देवाः - "हे विष्णो, वयं लोकानां हितकाम्यया त्वां नियोक्ष्यामहे। त्वम् [अयोध्याधिपतेः] [प्रभोः] राज्ञः दशरथस्य पुत्रत्वम् आगच्छ।"
@@ -72,31 +72,31 @@ The Gods - "O Vishnu, we are appointing you out of a desire for the welfare of t
 
 1.15.19
 देवाः - "हे विष्णो, [धर्मज्ञस्य], [वदान्यस्य], [महर्षि-सम-तेजसः] तस्य राज्ञः, [ह्री-श्री-कीर्ति-उपमासु] तिसृषु भार्यासु, आत्मानं चतुर्विधं कृत्वा, पुत्रत्वम् आगच्छ।"
-The Gods - "O Vishnu, of that king who is a [knower of dharma], [generous], and [equal in splendor to a great sage]—among his three wives, who are [comparable to Hri, Shri, and Kirti]—having made yourself four-fold, become his son."
+The Gods - "O Vishnu, of that king who is a [knower of dharma], [generous], and [equal in splendor to a great sage]—through his three wives, who are [comparable to Hri, Shri, and Kirti]—having made yourself four-fold, become his son."
 
 1.15.20
 देवाः - "हे विष्णो, तत्र त्वं मानुषः भूत्वा, [प्रवृद्धं], [लोककण्टकम्], [दैवतैः अवध्यं] रावणं समरे जहि।"
-The Gods - "O Vishnu, having become a man there, slay in battle that Ravana, who is [arrogant], a [thorn to the worlds], and [unkillable by the gods]."
+The Gods - "O Vishnu, having become a man there, slay in battle that Ravana, who is [arrogant], a [thorn to the worlds], and [unkillable by the Gods]."
 
 1.15.21
 देवाः - "[मूर्खः] सः राक्षसः रावणः वीर्योत्सेकेन देवान्, गन्धर्वान्, सिद्धान्, मुनिसत्तमान् च बाधते।"
-The Gods - "That foolish rakshasa, Ravana, with his haughty prowess, is tormenting the gods, gandharvas, siddhas, and great rishis."
+The Gods - "That foolish Rakshasa, Ravana, with his haughty prowess, is tormenting the Gods, Gandharvas, Siddhas, and great Rishis."
 
 1.15.22
 देवाः - "तेन [क्रूरेण] रावणेन ऋषयः, तथा नन्दनवने [क्रीडन्तः] गन्धर्वाप्सरसः च हिंसिताः किल।"
-The Gods - "By that cruel Ravana, it is reported, rishis and also gandharvas and apsaras sporting in the Nandana groves are tortured."
+The Gods - "By that cruel Ravana, it is reported, Rishis and also Gandharvas and Apsaras sporting in the Nandana groves are tortured."
 
 1.15.23
 देवाः - "वयं सिद्ध-गन्धर्व-यक्षाः च मुनिभिः सह तस्य वधार्थम् आयाताः स्मः। ततः वयं त्वां शरणं गताः स्मः।"
-The Gods - "We siddhas, gandharvas, and yakshas have come with the sages for the purpose of his destruction. Therefore, we have taken refuge in you."
+The Gods - "We Siddhas, Gandharvas, and Yakshas have come with the sages for the purpose of his destruction. Therefore, we have taken refuge in you."
 
 1.15.24
 देवाः - "हे [परन्तप] देव, त्वं अस्माकं सर्वेषां [परमा] गतिः असि। त्वं देवशत्रूणां वधाय नराणां लोके जन्म-ग्रहणे मनः कुरु।"
-The Gods - "O Tormentor of enemies, O God, you are the supreme refuge for all of us. Resolve to take birth in the world of men for the destruction of the enemies of the gods."
+The Gods - "O Tormentor of enemies, O God, you are the supreme refuge for all of us. Resolve to take birth in the world of men for the destruction of the enemies of the Gods."
 
 1.15.25
 [त्रिदशपुङ्गवैः] देवैः एवम् उक्तः, [सर्वलोकनमस्कृतः] देवेशः विष्णुः तदा [पितामह-पुरोगान्] तान् सर्व-सुरेश्वरान् परमं वाक्यम् उक्तवान् अभूत्।
-Having been addressed thus by the foremost of gods, Vishnu, the lord of deities who is honored by all the worlds, then spoke a supreme word to all those lords of gods, who were led by the Grandsire Brahma.
+Having been addressed thus by the foremost of Gods, Vishnu, the lord of deities who is honored by all the worlds, then spoke a supreme word to all those lords of Gods, who were led by the Grandsire Brahma.
 
 1.15.26
 विष्णुः - "भयं त्यजत। युष्माकं भद्रम् अस्तु। अहं युष्माकं हितार्थं युधि रावणं हनिष्यामि।"
@@ -104,7 +104,7 @@ Vishnu - "Abandon fear. May you be blessed. For your welfare, I shall slay Ravan
 
 1.15.27
 विष्णुः - "अहं [सपुत्र-पौत्रं], [सामात्यं], [समित्र-ज्ञाति-बान्धवं], [क्रूरं], [दुरात्मानं], [देवर्षीणां भयावहं] तं रावणं हनिष्यामि।"
-Vishnu - "I will slay that Ravana, who is [with his sons and grandsons], [with his ministers], [with his friends, kinsmen, and relatives], who is [cruel], [evil-souled], and [dreadful to gods and sages]."
+Vishnu - "I will slay that Ravana, who is [with his sons and grandsons], [with his ministers], [with his friends, kinsmen, and relatives], who is [cruel], [evil-souled], and [dreadful to Gods and sages]."
 
 1.15.28
 विष्णुः - "ततः परम् अहं दशवर्षसहस्राणि दशवर्षशतानि च इमां पृथिवीं पालयन्, मानुषे लोके निवत्स्यामि।"
@@ -112,7 +112,7 @@ Vishnu - "After that, I shall dwell in the world of men for eleven thousand year
 
 1.15.29
 [आत्मवान्] विष्णुः देवः देवानाम् एवं वरं दत्त्वा, अथ आत्मनः मानुषे जन्मभूमिं चिन्तितवान् अभूत्।
-The supreme soul, Lord Vishnu, having given this boon to the gods, then reflected on a birthplace for himself among mortals.
+The supreme soul, Lord Vishnu, having given this boon to the Gods, then reflected on a birthplace for himself among mortals.
 
 1.15.30
 ततः [पद्मपलाशाक्षः] विष्णुः आत्मानं चतुर्विधं कृत्वा, दशरथं नृपं पितरं वरितवान् अभूत्।
@@ -120,7 +120,7 @@ Thereafter, the Lord with eyes like lotus petals, having made himself four-fold,
 
 1.15.31
 तदा [सरुद्राः] [साप्सरोगणाः] देवर्षि-गन्धर्वाः [दिव्यरूपाभिः] स्तुतिभिः मधुसूदनं स्तुतवन्तः अभूवन्।
-Then the gods, rishis, and gandharvas, along with the Rudras and the hosts of Apsaras, did praise Madhusudana with hymns of celestial beauty.
+Then the Gods, Rishis, and Gandharvas, along with the Rudras and the hosts of Apsaras, did praise Madhusudana with hymns of celestial beauty.
 
 1.15.32
 देवाः - "त्वम् [उद्धतम्], [उग्रतेजसम्], [प्रवृद्धदर्पम्], [त्रिदशेश्वर-द्विषम्], [विरावणम्], [साधु-तपस्वि-कण्टकम्], [भयावहं] तं रावणं साधु उद्धर।"
