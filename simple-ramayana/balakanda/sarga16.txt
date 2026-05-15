@@ -1,5 +1,4 @@
 1.16.1
-Sanskrit Prose
 ततः [सुरसत्तमैः] नियुक्तः नारायणः देवः, जानन् अपि, एवं सुरान् [श्लक्ष्णं] वचनम् उक्तवान् अभूत्।
 Then Lord Narayana, having been appointed by the best of gods, although knowing everything, spoke this gentle word to the gods.
 
@@ -21,7 +20,7 @@ The Gods - "O destroyer of foes, that Ravana performed intense penance for a lon
 The Gods - "The satisfied Lord Brahma granted a boon to that rakshasa that he would have no fear from various kinds of beings, except from a human."
 
 1.16.6
-देवाः - "पुरा वरदाне तेन मानवाः अवज्ञाताः। एवं तस्मात् पितामहात् वरं प्राप्य, सः रावणः दर्पितः अभूत्।"
+देवाः - "पुरा वरदाने तेन मानवाः अवज्ञाताः। एवं तस्मात् पितामहात् वरं प्राप्य, सः रावणः दर्पितः अभूत्।"
 The Gods - "Formerly, at the time of the boon-giving, humans were disregarded by him. Thus, having obtained that boon from the Grandsire, Ravana became arrogant."
 
 1.16.7
@@ -54,7 +53,7 @@ Then, from the sacrificer's fire, a great being of unmatched splendor, of great 
 That being was clad in black and crimson garments, was red-faced, and had a voice like a drum. His whiskers were soft like a lion's mane, and his hair was excellent.
 
 1.16.13
-तत् भूतम् [शुभैः लक्षणैः सम्पन्नः], [दिव्यैः आभरणैः भूषितः] च अभूत्। सः शैलशृङ्गम् इव उत्तुङ्गः अभूत्, तस्य विक्रमः च दृप्तस्य शार्दूलस्य इव अभूत्।
+तत् भूतम् [शुभै-लक्षणै-सम्पन्नः], [दिव्य-आभरण-भूषितः] च अभूत्। सः शैलशृङ्गम् इव उत्तुङ्गः अभूत्, तस्य विक्रमः च दृप्तस्य शार्दूलस्य इव अभूत्।
 That being was endowed with auspicious signs and adorned with divine ornaments. He was tall like a mountain peak, and his stride was like that of an arrogant tiger.
 
 1.16.14
