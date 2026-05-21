@@ -3,21 +3,21 @@
 When Vishnu had accepted sonship to that great-souled king, the blessed, self-born Brahma spoke this to all the gods.
 
 1.17.2
-ब्रह्मा - "यूयं [सत्यसन्धस्य], [वीरस्य], [सर्वेषाम् अस्माकं हितैषिणः] च विष्णोः कृते, [बलिनः] [कामरूपिणः] सहायान् सृजध्वम्।"
+ब्रह्मा - "यूयं [सत्यसन्धस्य], [वीरस्य], [सर्वेषाम् अस्माकं हितैषिणः] च विष्णोः कृते, [बलिनः] [कामरूपिणः] सहायान् सृजत।"
 Brahma - "For the sake of Vishnu, who is truthful, heroic, and a well-wisher to all of us, you all create strong companions who can change their form at will."
 
 1.17.3
 मायाविदश्च शूरांश्च वायुवेगसमाञ्जवे।
-ब्रह्मा - "(सृजध्वम्) [मायाविदः], [शूराः], [वेगे वायुवेगसमान्], [नयज्ञान्], [बुद्धिसम्पन्नान्], [विष्णुतुल्यपराक्रमान्] च।"
+ब्रह्मा - "(सृजत) [मायाविदः], [शूराः], [वेगे वायुवेगसमान्], [नयज्ञान्], [बुद्धिसम्पन्नान्], [विष्णुतुल्यपराक्रमान्] च।"
 Brahma - "(Create those who are) knowers of magic, heroic, equal to the speed of wind in swiftness, knowers of policy, endowed with intelligence, and equal to Vishnu in prowess."
 
 1.17.4
-ब्रह्मा - "(सृजध्वम्) [असंहार्यान्], [उपायज्ञान्], [दिव्य-संहनन-युक्तान्], [सर्वास्त्र-गुण-सम्पन्नान्], [अमृत-प्राशनान् इव] च।"
+ब्रह्मा - "(सृजत) [असंहार्यान्], [उपायज्ञान्], [दिव्य-संहनन-युक्तान्], [सर्वास्त्र-गुण-सम्पन्नान्], [अमृत-प्राशनान् इव] च।"
 Brahma - "(Create those who are) indestructible, knowers of strategy, endowed with divine bodies, possessed of the qualities of all weapons, and like those who have drunk nectar."
 
 1.17.5
 अप्सरस्सु च मुख्यासु गन्धर्वाणां तनूषु च ।
-ब्रह्मा - "यूयं मुख्यासु अप्सरस्सु, गन्धर्वाणां तनूषु च, हरिरूपेण [विष्णोः तुल्यपराक्रमान्] पुत्रान् सृजध्वम्।"
+ब्रह्मा - "यूयं मुख्यासु अप्सरस्सु, गन्धर्वाणां तनूषु च, हरिरूपेण [विष्णोः तुल्यपराक्रमान्] पुत्रान् सृजत।"
 Brahma - "In the chief Apsaras and in the bodies of the Gandharvas, you all create, in the form of monkeys, sons of prowess equal to Vishnu."
 
 1.17.6
@@ -45,7 +45,7 @@ Brihaspati, for his part, begot the great monkey named Tara, who was the most in
 The glorious monkey Gandhamadana was the son of the wealth-giver Kubera. And Vishvakarma begot the great monkey named Nala.
 
 1.17.12
-[श्रीमान्] [अग्निसदृश-प्रभः] पावकस्य सुतः नीलः, तेजसा यशसा वीर्येण च अन्यान् वानरान् अतिरिक्तः अभूत्।
+[श्रीमान्] [अग्निसदृश-प्रभः] पावकस्य सुतः नीलः, तेजसा यशसा वीर्येण च अन्यान् वानरान् अतिरिक्तवान् अभूत्।
 The glorious Nila, son of the Fire God (Pavaka) and equal to fire in splendor, surpassed the other monkeys in energy, fame, and prowess.
 
 1.17.13
@@ -93,7 +93,7 @@ They did beget in the chief Apsaras, and likewise in the Vidyadharis, and in the
 All those monkeys were endowed with the power to change form at will and with great strength, were wanderers who could roam as they pleased, and were like lions and tigers in pride and power.
 
 1.17.24
-ते सर्वे [शिला-प्रहरणाः], सर्वे [पादप-योधिनः], सर्वे [नख-दंष्ट्र-आयुधाः], सर्वे [सर्वास्त्र-कोविदाः] च अभूवन्।
+ते सर्वे [शिला-प्रहरणाः], सर्वे [पादप-योधिनः], सर्वे [नख-दंष्ट्रा-आयुधाः], सर्वे [सर्वास्त्र-कोविदाः] च अभूवन्।
 They all used rocks as weapons, all fought with trees, all had claws and teeth for weapons, and all were skilled in every kind of weapon.
 
 1.17.25
@@ -101,7 +101,7 @@ They all used rocks as weapons, all fought with trees, all had claws and teeth f
 They were able to move great mountains, to split deep-rooted trees, and with their speed, to agitate the ocean, the lord of rivers.
 
 1.17.26
-ते पद्भ्यां क्षितिं दारयितुं, महासागरम् आप्लवितुं, नभःस्थलं प्रवेष्टुं, तोयदान् अपि ग्रहीतुं च शक्ताः अभूवन्।
+ते पद्भ्यां क्षितिं दारयितुं, महासागरम् आप्लोतुं, नभःस्थलं प्रवेष्टुं, तोयदान् अपि ग्रहीतुं च शक्ताः अभूवन्।
 They were able to split the earth with their feet, to leap across the great ocean, to enter the realm of the sky, and even to seize the clouds.
 
 1.17.27
