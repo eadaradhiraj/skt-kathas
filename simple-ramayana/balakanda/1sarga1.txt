@@ -1,405 +1,676 @@
 (1.1.1)
-[तपस्वी] वाल्मीकिः [तपसि स्वाध्याये च निरतम्] [वाग्मिनां श्रेष्ठम्] [मुनिपुङ्गवम्] नारदम् पृष्टवान् अभूत्।
-English Translation: The ascetic Valmiki asked Narada, [who was engaged in austerity and self-study], [the best among eloquent speakers], and [the foremost of sages].
+[तपस्वी] वाल्मीकिः [तपसि स्वाध्याये च निरतम्] [वाग्मिनां श्रेष्ठम्]
+[मुनिपुङ्गवम्] नारदम् पृष्टवान् अभूत्।
+English Translation: The ascetic Valmiki asked Narada, [who was engaged in
+austerity and self-study], [the best among eloquent speakers], and [the foremost
+of sages].
 
 (1.1.2)
-"साम्प्रतम् अस्मिन् लोके, [गुणवान्] [वीर्यवान्] [धर्मज्ञः] [कृतज्ञः] [सत्यवाक्यः] [दृढव्रतः] च कः नरः अस्ति?"
-English Translation: "At present in this world, who is that man who is [virtuous], [heroic], a [knower of dharma], [grateful], [truthful in his speech], and [firm in his vows]?"
+"साम्प्रतम् अस्मिन् लोके, [गुणवान्] [वीर्यवान्] [धर्मज्ञः] [कृतज्ञः]
+[सत्यवाक्यः] [दृढव्रतः] च कः नरः अस्ति?"
+English Translation: "At present in this world, who is that man who is
+[virtuous], [heroic], a [knower of dharma], [grateful], [truthful in his
+speech], and [firm in his vows]?"
 
 (1.1.3)
-"[चारित्रेण युक्तः] [सर्वभूतेषु हितः] [विद्वान्] [समर्थः] [एकप्रियदर्शनः] च कः अस्ति?"
-English Translation: "Who is [endowed with good conduct], [devoted to the welfare of all beings], [learned], [capable], and [singularly pleasant to behold]?"
+"[चारित्रेण युक्तः] [सर्वभूतेषु हितः] [विद्वान्] [समर्थः] [एकप्रियदर्शनः] च कः
+अस्ति?"
+English Translation: "Who is [endowed with good conduct], [devoted to the
+welfare of all beings], [learned], [capable], and [singularly pleasant to
+behold]?"
 
 (1.1.4)
-"[आत्मवान्] [जितक्रोधः] [द्युतिमान्] [अनसूयकः] च कः अस्ति, अपि च युद्धे क्रोधितात् कस्मात् देवाः बिभ्यति?"
-English Translation: "Who is [self-possessed], [one who has conquered anger], [brilliant], and [free from envy]? And from whom, when angered in battle, do even the gods fear?"
+"[आत्मवान्] [जितक्रोधः] [द्युतिमान्] [अनसूयकः] च कः अस्ति, अपि च युद्धे
+क्रुद्धात् कस्मात् देवाः बिभ्यति?"
+English Translation: "Who is [self-possessed], [one who has conquered anger],
+[brilliant], and [free from envy]? And from whom, when angered in battle, do
+even the gods fear?"
 
 (1.1.5)
-"अहम् एतत् (उत्तरं) श्रोतुम् इच्छामि, यतः मम परम् कौतूहलम् वर्तते; हे महर्षे, भवान् हि [ईदृशं] नरम् ज्ञातुम् समर्थः अस्ति।"
-English Translation: "I wish to hear this (answer), for my curiosity is immense; O great sage, you are indeed capable of knowing such a man."
+"अहम् एतत् (उत्तरं) श्रोतुम् इच्छामि, यतः मम परम् कौतूहलम् वर्तते; हे महर्षे,
+भवान् हि [ईदृशं] नरम् ज्ञातुम् समर्थः अस्ति।"
+English Translation: "I wish to hear this (answer), for my curiosity is immense;
+O great sage, you are indeed capable of knowing such a man."
 
 (1.1.6)
-[त्रिलोकस्य ज्ञाता] [प्रहृष्टः] च नारदः, वाल्मीकेः एतत् वचः श्रुत्वा, "श्रूयताम्" इति आमन्त्र्य, वाक्यम् उक्तवान् अभूत्।
-English Translation: Narada, [the knower of the three worlds] and [greatly pleased], having heard this speech of Valmiki, addressed him with "Listen," and spoke (these) words.
+[त्रिलोकस्य ज्ञाता] [प्रहृष्टः] च नारदः, वाल्मीकेः एतत् वचः श्रुत्वा,
+"श्रूयताम्" इति आमन्त्र्य, वाक्यम् उक्तवान् अभूत्।
+English Translation: Narada, [the knower of the three worlds] and [greatly
+pleased], having heard this speech of Valmiki, addressed him with "Listen," and
+spoke (these) words.
 
 (1.1.7)
-"हे मुने, त्वया [ये] बहवः गुणाः कीर्तिताः, [ते] दुर्लभाः एव; अहं बुद्ध्वा [तैः युक्तम्] नरम् वक्ष्यामि, सः श्रूयताम्।"
-English Translation: "O sage, [the] many qualities which have been praised by you are indeed rare; having considered, I will tell of a man [endowed with them], let him be heard."
+"हे मुने, त्वया [ये] बहवः गुणाः कीर्तिताः, [ते] दुर्लभाः एव; अहं बुद्ध्वा [तैः
+युक्तम्] नरम् वक्ष्यामि, सः श्रूयताम्।"
+English Translation: "O sage, [the] many qualities which have been praised by
+you are indeed rare; having considered, I will tell of a man [endowed with
+them], let him be heard."
 
 (1.1.8)
-[इक्ष्वाकुवंशे प्रभवः] [नियतात्मा] [महावीर्यः] [द्युतिमान्] [धृतिमान्] [वशी] रामः नाम जनैः श्रुतः अस्ति।
-English Translation: A man named Rama, [born in the Ikshvaku dynasty], [self-controlled], [of great heroism], [brilliant], [steadfast], and [in control of his senses], is heard of among the people.
+[इक्ष्वाकुवंशे प्रभवः] [नियतात्मा] [महावीर्यः] [द्युतिमान्] [धृतिमान्] [वशी]
+रामः नाम जनैः श्रुतः अस्ति।
+English Translation: A man named Rama, [born in the Ikshvaku dynasty],
+[self-controlled], [of great heroism], [brilliant], [steadfast], and [in control
+of his senses], is heard of among the people.
 
 (1.1.9)
-सः [बुद्धिमान्] [नीतिमान्] [वाग्मी] [श्रीमान्] [शत्रु-निबर्हणः] [विपुलांसः] [महाबाहुः] [कम्बुग्रीवः] [महाहनुः] च अस्ति।
-English Translation: He is [intelligent], [ethical], [eloquent], [glorious], the [destroyer of enemies], [broad-shouldered], [mighty-armed], [with a conch-shell-like neck], and [with a prominent jaw].
+सः [बुद्धिमान्] [नीतिमान्] [वाग्मी] [श्रीमान्] [शत्रु-निबर्हणः] [विपुलांसः]
+[महाबाहुः] [कम्बुग्रीवः] [महाहनुः] च अस्ति।
+English Translation: He is [intelligent], [ethical], [eloquent], [glorious], the
+[destroyer of enemies], [broad-shouldered], [mighty-armed], [with a
+conch-shell-like neck], and [with a prominent jaw].
 
 (1.1.10)
-सः रामः [महोरस्कः] [महेष्वासः] [गूढजत्रुः] [अरिन्दमः] [आजानुबाहुः] [सुशिराः] [सुललाटः] [सुविक्रमः] च अस्ति।
-English Translation: That Rama has a [broad chest], [a mighty bow], [a well-covered collarbone], is a [subduer of foes], has [arms reaching his knees], a [well-formed head], a [beautiful forehead], and [possesses great valor].
+सः रामः [महोरस्कः] [महेष्वासः] [गूढजत्रुः] [अरिन्दमः] [आजानुबाहुः] [सुशिराः]
+[सुललाटः] [सुविक्रमः] च अस्ति।
+English Translation: That Rama has a [broad chest], [a mighty bow], [a
+well-covered collarbone], is a [subduer of foes], has [arms reaching his knees],
+a [well-formed head], a [beautiful forehead], and [possesses great valor].
 
 (1.1.11)
-सः रामः [समः] [समविभक्ताङ्गः] [स्निग्धवर्णः] [प्रतापवान्] [पीनवक्षाः] [विशालाक्षः] [लक्ष्मीवान्] [शुभलक्षणः] च अस्ति।
-English Translation: That Rama is [well-proportioned], [with symmetrically divided limbs], [of lustrous complexion], [majestic], [with a full chest], [large eyes], [possessed of fortune], and [endowed with auspicious marks].
+सः रामः [समः] [समविभक्ताङ्गः] [स्निग्धवर्णः] [प्रतापवान्] [पीनवक्षाः]
+[विशालाक्षः] [लक्ष्मीवान्] [शुभलक्षणः] च अस्ति।
+English Translation: That Rama is [well-proportioned], [with symmetrically
+divided limbs], [of lustrous complexion], [majestic], [with a full chest],
+[large eyes], [possessed of fortune], and [endowed with auspicious marks].
 
 (1.1.12)
-सः रामः [धर्मज्ञः] [सत्यसन्धः] प्रजानां च हिते रतः, [यशस्वी] [ज्ञानसम्पन्नः] [शुचिः] [वश्यः] [समाधिमान्] च अस्ति।
-English Translation: That Rama is a [knower of dharma], [true to his promise], and devoted to the welfare of his subjects; he is [famous], [endowed with knowledge], [pure], [self-controlled], and [meditative].
+सः रामः [धर्मज्ञः] [सत्यसन्धः] प्रजानां च हिते रतः, [यशस्वी] [ज्ञानसम्पन्नः]
+[शुचिः] [वश्यः] [समाधिमान्] च अस्ति।
+English Translation: That Rama is a [knower of dharma], [true to his promise],
+and devoted to the welfare of his subjects; he is [famous], [endowed with
+knowledge], [pure], [self-controlled], and [meditative].
 
 (1.1.13)
-सः रामः [प्रजापतिसमः] [श्रीमान्] [धाता] [रिपुनिषूदनः] जीवलोकस्य रक्षिता धर्मस्य परिरक्षिता च अस्ति।
-English Translation: That Rama is [equal to Prajapati], [glorious], the [sustainer], the [destroyer of enemies], the protector of the world of living beings, and the supreme guardian of Dharma.
+सः रामः [प्रजापतिसमः] [श्रीमान्] [धाता] [रिपुनिषूदनः] जीवलोकस्य रक्षिता धर्मस्य
+परिरक्षिता च अस्ति।
+English Translation: That Rama is [equal to Prajapati], [glorious], the
+[sustainer], the [destroyer of enemies], the protector of the world of living
+beings, and the supreme guardian of Dharma.
 
 (1.1.14)
-सः रामः स्वस्य धर्मस्य स्वजनस्य च रक्षिता, [वेद-वेदाङ्ग-तत्त्वज्ञः] धनुर्वेदे च निष्ठितः अस्ति।
-English Translation: That Rama is the protector of his own dharma and of his own people; he is a [knower of the essence of the Vedas and Vedangas], and is highly skilled in the science of archery.
+सः रामः स्वस्य धर्मस्य स्वजनस्य च रक्षिता, [वेद-वेदाङ्ग-तत्त्वज्ञः] धनुर्वेदे च
+निष्ठितः अस्ति।
+English Translation: That Rama is the protector of his own dharma and of his own
+people; he is a [knower of the essence of the Vedas and Vedangas], and is highly
+skilled in the science of archery.
 
 (1.1.15)
-सः रामः [सर्व-शास्त्रार्थ-तत्त्वज्ञः] [स्मृतिमान्] [प्रतिभानवान्] [सर्व-लोक-प्रियः] [साधुः] [अदीनात्मा] [विचक्षणः] च अस्ति।
-English Translation: That Rama is the [knower of the essence and meaning of all scriptures], [possessed of a great memory], [quick-witted], [beloved of all worlds], [righteous], [of an un-depressed spirit], and [discerning].
+सः रामः [सर्व-शास्त्रार्थ-तत्त्वज्ञः] [स्मृतिमान्] [प्रतिभानवान्]
+[सर्व-लोक-प्रियः] [साधुः] [अदीनात्मा] [विचक्षणः] च अस्ति।
+English Translation: That Rama is the [knower of the essence and meaning of all
+scriptures], [possessed of a great memory], [quick-witted], [beloved of all
+worlds], [righteous], [of an un-depressed spirit], and [discerning].
 
 (1.1.16)
-सः रामः [आर्यः] [सर्वसमः] च एव [सदा प्रियदर्शनः] च सन्, सिन्धुभिः समुद्रः इव, सद्भिः सर्वदा अभिगतः अस्ति।
-English Translation: That Rama, being [noble], [equitable towards all], and [always pleasant to behold], is always sought by the good, just as the ocean is by the rivers.
+सः रामः [आर्यः] [सर्वसमः] च एव [सदा प्रियदर्शनः] च सन्, सिन्धुभिः समुद्रः इव,
+सद्भिः सर्वदा अभिगतः अस्ति।
+English Translation: That Rama, being [noble], [equitable towards all], and
+[always pleasant to behold], is always sought by the good, just as the ocean is
+by the rivers.
 
 (1.1.17)
-[कौसल्यानन्दवर्धनः] सः रामः च [सर्वगुणोपेतः] सन्, गाम्भीर्ये समुद्रः इव, धैर्येण हिमवान् इव च अस्ति।
-English Translation: That Rama, [the enhancer of Kausalya's joy] and [endowed with all virtues], is like the ocean in profundity, and like the Himalayas in fortitude.
+[कौसल्यानन्दवर्धनः] सः रामः च [सर्वगुणोपेतः] सन्, गाम्भीर्ये समुद्रः इव, धैर्येण
+हिमवान् इव च अस्ति।
+English Translation: That Rama, [the enhancer of Kausalya's joy] and [endowed
+with all virtues], is like the ocean in profundity, and like the Himalayas in
+fortitude.
 
 (1.1.18)
-सः रामः [वीर्ये विष्णुना सदृशः], [सोमवत् प्रियदर्शनः], [क्रोधे कालाग्निसदृशः], [क्षमया पृथिवीसमः] च अभूत्।
-English Translation: That Rama was [equal to Vishnu in valor], [pleasant to behold like the moon], [like the fire of cosmic dissolution in anger], and [equal to the Earth in forgiveness].
+सः रामः [वीर्ये विष्णुना सदृशः], [सोमवत् प्रियदर्शनः], [क्रोधे कालाग्निसदृशः],
+[क्षमया पृथिवीसमः] च अभूत्।
+English Translation: That Rama was [equal to Vishnu in valor], [pleasant to
+behold like the moon], [like the fire of cosmic dissolution in anger], and
+[equal to the Earth in forgiveness].
 
 (1.1.19)
-रामः [त्यागे धनदेन समः], [सत्ये अपरः धर्मः इव], [एवङ्गुणसम्पन्नः], [सत्यपराक्रमेण युक्तः] च अभूत्।
-English Translation: Rama was [equal to Kubera in generosity], [like a second Dharma in truthfulness], [endowed with such qualities], and [possessed of true prowess].
+रामः [त्यागे धनदेन समः], [सत्ये अपरः धर्मः इव], [एवङ्गुणसम्पन्नः],
+[सत्यपराक्रमेण युक्तः] च अभूत्।
+English Translation: Rama was [equal to Kubera in generosity], [like a second
+Dharma in truthfulness], [endowed with such qualities], and [possessed of true
+prowess].
 
 (1.1.20)
-रामः [ज्येष्ठः], [श्रेष्ठगुणैः युक्तः], [प्रियः], [प्रजानां हितैः युक्तः] [दशरथसुतः] अभूत्। दशरथः प्रजानां प्रियकामनाम् अनुसृतवान् अभूत्।
-English Translation: Rama was the [eldest] son of Dasharatha, [endowed with the best qualities], [beloved], and [devoted to the welfare of the subjects]. Dasharatha followed the dear wish of his subjects.
+रामः [ज्येष्ठः], [श्रेष्ठगुणैः युक्तः], [प्रियः], [प्रजानां हितैः युक्तः]
+[दशरथसुतः] अभूत्। दशरथः प्रजानां प्रियकामनाम् अनुसृतवान् अभूत्।
+English Translation: Rama was the [eldest] son of Dasharatha, [endowed with the
+best qualities], [beloved], and [devoted to the welfare of the subjects].
+Dasharatha followed the dear wish of his subjects.
 
 (1.1.21)
-सः [महीपतिः] दशरथः प्रीत्या रामं‌ यौवराज्येन नियोक्तुम् इष्टवान् अभूत्। अथ तस्य दशरथस्य भार्या कैकेयी अभिषेक-सज्जताः दृष्टवती अभूत्।
-English Translation: That [lord of the earth], Dasharatha, out of love, wished to install Rama as the heir-apparent. Then his wife, Kaikeyi, saw the preparations for the consecration.
+सः [महीपतिः] दशरथः प्रीत्या रामं यौवराज्येन नियोक्तुम् इष्टवान् अभूत्। अथ तस्य
+दशरथस्य भार्या कैकेयी अभिषेक-सज्जताः दृष्टवती अभूत्।
+English Translation: That [lord of the earth], Dasharatha, out of love, wished
+to install Rama as the heir-apparent. Then his wife, Kaikeyi, saw the
+preparations for the consecration.
 
 (1.1.22)
-[पूर्वं वरं लब्धवती] सा देवी कैकेयी रामस्य वनवासं, भरतस्य राज्याभिषेकं च याचितवती अभूत्।
-English Translation: That queen Kaikeyi, [having previously received boons], asked for the exile of Rama and the coronation of Bharata.
+[पूर्वं वरं लब्धवती] सा देवी कैकेयी रामस्य वनवासं, भरतस्य राज्याभिषेकं च
+याचितवती अभूत्।
+English Translation: That queen Kaikeyi, [having previously received boons],
+asked for the exile of Rama and the coronation of Bharata.
 
 (1.1.23)
-[धर्मपाशेन बद्धः] सः राजा दशरथः सत्यवचनात् [प्रियं] पुत्रं रामं वनवासं प्रति प्रेषितवान् अभूत्।
-English Translation: That king Dasharatha, [bound by the noose of dharma] and by his truthful words, sent his [beloved] son Rama to exile in the forest.
+[धर्मपाशेन बद्धः] सः राजा दशरथः सत्यवचनात् [प्रियं] पुत्रं रामं वनवासं प्रति
+प्रेषितवान् अभूत्।
+English Translation: That king Dasharatha, [bound by the noose of dharma] and by
+his truthful words, sent his [beloved] son Rama to exile in the forest.
 
 (1.1.24)
-[वीरः] सः रामः, पितुः वचन-निर्देशात् कैकेय्याः प्रियचिकीर्षया च, प्रतिज्ञाम् अनुपालयन् वनं गतवान् अभूत्।
-English Translation: That [heroic] Rama, by the command of his father's words and with a desire to please Kaikeyi, honoring the promise, went to the forest.
+[वीरः] सः रामः, पितुः वचन-निर्देशात् कैकेय्याः प्रियचिकीर्षया च, प्रतिज्ञाम्
+अनुपालयन् वनं गतवान् अभूत्।
+English Translation: That [heroic] Rama, by the command of his father's words
+and with a desire to please Kaikeyi, honoring the promise, went to the forest.
 
 (1.1.25)
-[विनय-सम्पन्नः], [सुमित्रा-नन्द-वर्धनः], [प्रियः] भ्राता लक्ष्मणः स्नेहात् [गच्छन्तं] तं रामम् अनुगतवान् अभूत्।
-English Translation: The dear brother Lakshmana, [who was endowed with humility], [the enhancer of Sumitra's joy], out of affection, followed that Rama [who was departing].
+[विनय-सम्पन्नः], [सुमित्रा-नन्द-वर्धनः], [प्रियः] भ्राता लक्ष्मणः स्नेहात्
+[गच्छन्तं] तं रामम् अनुगतवान् अभूत्।
+English Translation: The dear brother Lakshmana, [who was endowed with
+humility], [the enhancer of Sumitra's joy], out of affection, followed that Rama
+[who was departing].
 
 (1.1.26)
-भ्राता लक्ष्मणः, [दयितः], भ्रातरम् रामं प्रति [सौभ्रात्रम् अनुदर्शयन्], वनं व्रजन्तं तं भ्रातरं रामम् अनुगतवान् अभूत्। रामस्य भार्या सीता, [दयिता], [नित्यं प्राणसमा], [हिता] अभूत्।
-English Translation: The brother Lakshmana, [who was beloved], [demonstrating brotherly affection] towards his brother Rama, followed that brother Rama who was going to the forest. Rama's wife Sita was [beloved], [always as dear as life itself], and [devoted to his welfare].
+भ्राता लक्ष्मणः, [दयितः], भ्रातरम् रामं प्रति [सौभ्रात्रम् अनुदर्शयन्], वनं
+व्रजन्तं तं भ्रातरं रामम् अनुगतवान् अभूत्। रामस्य भार्या सीता, [दयिता], [नित्यं
+प्राणसमा], [हिता] अभूत्।
+English Translation: The brother Lakshmana, [who was beloved], [demonstrating
+brotherly affection] towards his brother Rama, followed that brother Rama who
+was going to the forest. Rama's wife Sita was [beloved], [always as dear as life
+itself], and [devoted to his welfare].
 
 (1.1.27)
-(सा) [जनकस्य कुले जाता], [देवमाया इव निर्मिता], [सर्वैः लक्षणैः सम्पन्ना], [नारीणाम् उत्तमा] वधूः सीता रामम् अनुगतवती अभूत्।
-English Translation: (She), the bride Sita, [born in the family of Janaka], [created as if by divine illusion], [endowed with all auspicious qualities], and [the best among women], followed Rama.
+(सा) [जनकस्य कुले जाता], [देवमाया इव निर्मिता], [सर्वैः लक्षणैः सम्पन्ना],
+[नारीणाम् उत्तमा] वधूः सीता रामम् अनुगतवती अभूत्।
+English Translation: (She), the bride Sita, [born in the family of Janaka],
+[created as if by divine illusion], [endowed with all auspicious qualities], and
+[the best among women], followed Rama.
 
 (1.1.28)
-यथा रोहिणी शशिनम् अनुगच्छति, तथा सीता अपि रामम् अनुगतवती अभूत्। पौराः पिता दशरथः च तं रामं दूरम् अनुगतवन्तः अभूवन्।
-English Translation: Just as Rohini follows the Moon, so too Sita followed Rama. The citizens and father Dasharatha followed him, Rama, for a long distance.
+यथा रोहिणी शशिनम् अनुगच्छति, तथा सीता अपि रामम् अनुगतवती अभूत्। पौराः पिता दशरथः
+च तं रामं दूरम् अनुगतवन्तः अभूवन्।
+English Translation: Just as Rohini follows the Moon, so too Sita followed Rama.
+The citizens and father Dasharatha followed him, Rama, for a long distance.
 
 (1.1.29)
-[धर्मात्मा] रामः, [प्रियं] [निषाद-राजानम्] गुहम् आसाद्य, शृङ्गिबेरपुरे गङ्गाकूले [सूतं] सुमन्त्रम् प्रतिनिवर्तितवान् अभूत्।
-English Translation: [The virtuous] Rama, after meeting Guha, [the beloved] [king of the Nishadas], sent the charioteer Sumantra back from Shringiberapura on the bank of the Ganga.
+[धर्मात्मा] रामः, [प्रियं] [निषाद-राजम्] गुहम् आसाद्य, शृङ्गवेरपुरे गङ्गाकूले
+[सूतं] सुमन्त्रम् प्रतिनिवर्तितवान् अभूत्।
+English Translation: [The virtuous] Rama, after meeting Guha, [the beloved]
+[king of the Nishadas], sent the charioteer Sumantra back from Shringiberapura
+on the bank of the Ganga.
 
 (1.1.30)
-[गुहेन सहितः] रामः, लक्ष्मणः, सीता च, (ते सर्वे) वना वनं गत्वा, [बहुजलेन युक्ताः] नदीः तीर्णवन्तः अभूवन्।
-English Translation: Rama, [accompanied by Guha], along with Lakshmana and Sita, (all of them), having gone from forest to forest, crossed rivers [that were endowed with abundant water].
+[गुहेन सहितः] रामः, लक्ष्मणः, सीता च, (ते सर्वे) वनात् वनं गत्वा, [बहुजलेन
+युक्ताः] नदीः तीर्णवन्तः अभूवन्।
+English Translation: Rama, [accompanied by Guha], along with Lakshmana and Sita,
+(all of them), having gone from forest to forest, crossed rivers [that were
+endowed with abundant water].
 
 (1.1.31)
-भरद्वाजस्य आदेशात् चित्रकूटं प्राप्य ते त्रयः [रामः लक्ष्मणः सीता च] वने रममाणाः तत्र [रम्यम्] कुटीरं निर्मितवन्तः अभूवन्।
-By the command of Bharadwaja, having reached Chitrakuta and having built a [beautiful] hut there, those three [Rama, Lakshmana, and Sita], rejoicing in the forest.
+भरद्वाजस्य आदेशात् चित्रकूटं प्राप्य ते त्रयः [रामः लक्ष्मणः सीता च] वने रममाणाः
+तत्र [रम्यम्] कुटीरं निर्मितवन्तः अभूवन्।
+English Translation: By the command of Bharadwaja, having reached Chitrakuta and
+having built a [beautiful] hut there, those three [Rama, Lakshmana, and Sita],
+rejoicing in the forest.
 
 (1.1.32)
-ते [देवैः गन्धर्वैः सहिताः रामः लक्ष्मणः सीता च] तत्र [चित्रकूटे] सुखं निवसितवन्तः अभूवन्। तथा, रामे चित्रकूटं गते सति, [राजा दशरथः] पुत्रशोकातुरः अभूत्।
-There [at Chitrakuta], they [Rama, Lakshmana, and Sita], who resembled gods and Gandharvas, dwelt happily. Meanwhile, when Rama had gone to Chitrakuta, [King Dasharatha] became overwhelmed with grief for his son.
+ते [देवैः गन्धर्वैः सहिताः रामः लक्ष्मणः सीता च] तत्र [चित्रकूटे] सुखं
+न्युषितवन्तः अभूवन्। तथा, रामे चित्रकूटं गते सति, [राजा दशरथः] पुत्रशोकातुरः
+अभूत्।
+English Translation: There [at Chitrakuta], they [Rama, Lakshmana, and Sita],
+who resembled gods and Gandharvas, dwelt happily. Meanwhile, when Rama had gone
+to Chitrakuta, [King Dasharatha] became overwhelmed with grief for his son.
 
 (1.1.33)
-स्वसुतं [रामं] विलपन्, [राजा] दशरथः स्वर्गं गतवान् अभूत्। तस्मिन् [दशरथे] मृते सति तु, भरतः वसिष्ठप्रमुखैः द्विजैः [सिंहासने नियुक्तः] अभूत्।
-Lamenting his own son [Rama], [King] Dasharatha went to heaven. But when he [Dasharatha] had died, Bharata was appointed to the throne by the Brahmins led by Vasishtha.
+स्वसुतं [रामं] विलपन्, [राजा] दशरथः स्वर्गं गतवान् अभूत्। तस्स्मिन् [दशरथे] मृते
+सति तु, भरतः वसिष्ठप्रमुखैः द्विजैः [सिंहासने नियुक्तः] अभूत्।
+English Translation: Lamenting his own son [Rama], [King] Dasharatha went to
+heaven. But when he [Dasharatha] had died, Bharata was appointed to the throne
+by the Brahmins led by Vasishtha.
 
 (1.1.34)
-राज्याय नियुज्यमानः अपि, सः [महाबलः] भरतः राज्यं न इष्टवान् अभूत्। अतः सः [वीरः], [रामस्य पादयोः प्रसादकः सन्], वनं गतवान् अभूत्।
-Even while being appointed to the kingdom, he, the [mighty] Bharata, did not desire the kingdom. Therefore the [hero] Bharata being one who seeks to please Rama's feet, went to the forest.
+राज्याय नियुज्यमानः अपि, सः [महाबलः] भरतः राज्यं न इष्टवान् अभूत्। अतः सः
+[वीरः], [रामस्य पादयोः प्रसादकः सन्], वनं गतवान् अभूत्।
+English Translation: Even while being appointed to the kingdom, he, the [mighty]
+Bharata, did not desire the kingdom. Therefore the [hero] Bharata being one who
+seeks to please Rama's feet, went to the forest.
 
 (1.1.35)
-[आर्यभावेन पुरस्कृतः] भरतः तु, [सुमहात्मानं] [सत्य-पराक्रमेण युक्तं] [भ्रातरं] रामं गत्वा, तं प्रत्यागन्तुम् याचितवान् अभूत्।
-But Bharata, impelled by noble sentiment, having gone to his [brother] Rama—the great-souled one endowed with true valor—requested [him to return]."
+[आर्यभावेन पुरस्कृतः] भरतः तु, [सुमहात्मानं] [सत्य-पराक्रमेण युक्तं] [भ्रातरं]
+रामं गत्वा, तं प्रत्यागन्तुम् याचितवान् अभूत्।
+English Translation: But Bharata, impelled by noble sentiment, having gone to
+his [brother] Rama—the great-souled one endowed with true valor—requested [him
+to return]."
 
 (1-1-36)
-"त्वम् एव राजा धर्मज्ञः," इति वचः रामम् भरतः उक्तवान् अभूत्। सः रामः अपि [परमोदारः], [सुमुखः], [सुमहायशाः] च अभूत्।
-Translation: "O knower of Dharma, you alone are the king,"—these words Bharata had spoken to Rama. That Rama was also [most generous], [handsome-faced], and [of very great fame].
+"त्वम् एव राजा धर्मज्ञः," इति वचः रामम् भरतः उक्तवान् अभूत्। सः रामः अपि
+[परमोदारः], [सुमुखः], [सुमहायशाः] च अभूत्।
+English Translation: "O knower of Dharma, you alone are the king,"—these words
+Bharata had spoken to Rama. That Rama was also [most generous],
+[handsome-faced], and [of very great fame].
 
 (1-1-37)
-[महाबलः] रामः पितुः आदेशात् राज्यं न इष्टवान् अभूत्। सः च भरताय स्व-पादुके राज्याय न्यास-रुपेण दत्त्वा पुनः पुनः भरतस्य निवर्तन-प्रार्थनाम् अकार्षीत्।
-Translation: The [mighty] Rama, due to his father's command, had not desired the kingdom. And he, having given his own two sandals to Bharata as a trust for the kingdom, repeatedly made the request for Bharata's return.
+[महाबलः] रामः पितुः आदेशात् राज्यं न इष्टवान् अभूत्। सः च भरताय स्व-पादुके
+राज्याय न्यास-रूपेण दत्त्वा पुनः पुनः भरतस्य निवर्तन-प्रार्थनाम् अकार्षीत्।
+English Translation: The [mighty] Rama, due to his father's command, had not
+desired the kingdom. And he, having given his own two sandals to Bharata as a
+trust for the kingdom, repeatedly made the request for Bharata's return.
 
 (1-1-38)
-ततः [भरताग्रजः] रामः भरतं निवर्तितवान् अभूत्। सः भरतः तु इच्छाम् अपूरयित्वा एव, रामस्य पादौ उपस्पृशन् निवृत्तवान् अभूत्।
-Translation: Then Rama, [the elder brother of Bharata], had sent Bharata back. That Bharata, however, with his desire unfulfilled, had returned, touching the feet of Rama.
+ततः [भरताग्रजः] रामः भरतं निवर्तितवान् अभूत्। सः भरतः तु इच्छाम् अपूरयित्वा एव,
+रामस्य पादौ उपस्पृशन् निवृत्तवान् अभूत्।
+English Translation: Then Rama, [the elder brother of Bharata], had sent Bharata
+back. That Bharata, however, with his desire unfulfilled, had returned, touching
+the feet of Rama.
 
 (1-1-39)
-सः भरतः रामस्य आगमनस्य काङ्क्षया नन्दिग्रामे राज्यम् कृतवान् अभूत्। भरते गते सति तु, [श्रीमान्], [सत्यसन्धः], [जितेन्द्रियः] च रामः वने एव स्थितवान् अभूत्।
-Translation: That Bharata, with the longing for Rama's arrival, had performed the kingship in Nandigrama. But with Bharata having gone, Rama, who was [glorious], [true to his promise], and [one who had conquered his senses], had remained in the forest itself.
+सः भरतः रामस्य आगमनस्य काङ्क्षया नन्दिग्रामे राज्यम् कृतवान् अभूत्। भरते गते सति
+तु, [श्रीमान्], [सत्यसन्धः], [जितेन्द्रियः] च रामः वने एव स्थितवान् अभूत्।
+English Translation: That Bharata, with the longing for Rama's arrival, had
+performed the kingship in Nandigrama. But with Bharata having gone, Rama, who
+was [glorious], [true to his promise], and [one who had conquered his senses],
+had remained in the forest itself.
 
 (1-1-40)
-पुनः तु [एकाग्रतया युक्तः] रामः तत्र चित्रकूटे नगर-जनस्य आगमनम् आलक्ष्य दण्डकारण्यं प्रविष्टवान् अभूत्।
-Translation: But then Rama, [endowed with single-pointed focus], having noticed the arrival of the city-folk there at Chitrakuta, had entered the Dandaka forest.
+पुनः तु [एकाग्रतया युक्तः] रामः तत्र चित्रकूटे नगर-जनस्य आगमनम् आलक्ष्य
+दण्डकारण्यं प्रविष्टवान् अभूत्।
+English Translation: But then Rama, [endowed with single-pointed focus], having
+noticed the arrival of the city-folk there at Chitrakuta, had entered the
+Dandaka forest.
 
 (1-1-41)
-[राजीव-लोचनः] रामः महारण्यं प्रविश्य, विराध-राक्षसं हत्वा शरभङ्ग-मुनिं दृष्टवान् अभूत्।
-Translation: The [lotus-eyed] Rama, having entered the great forest and having killed the rakshasa Viradha, had seen the sage Sharabhanga.
+[राजीव-लोचनः] रामः महारण्यं प्रविश्य, विराध-राक्षसं हत्वा शरभङ्ग-मुनिं दृष्टवान्
+अभूत्।
+English Translation: The [lotus-eyed] Rama, having entered the great forest and
+having killed the rakshasa Viradha, had seen the sage Sharabhanga.
 
 (1-1-42)
-सः रामः सुतीक्ष्ण-मुनिम् अगस्त्यम् अगस्त्य-भ्रातरं च अपि दृष्टवान् अभूत्। सः च अगस्त्यस्य वचनात् एव [ऐन्द्रं] बाणं स्वीकृतवान् अभूत्।
-Translation: That Rama had also seen the sage Sutikshna, Agastya, and the brother of Agastya. And, on the word of Agastya, he had accepted the [divine] arrow [of Indra].
+सः रामः सुतीक्ष्ण-मुनिम् अगस्त्यम् अगस्त्य-भ्रातरं च अपि दृष्टवान् अभूत्। सः च
+अगस्त्यस्य वचनात् एव [ऐन्द्रं] बाणं स्वीकृतवान् अभूत्।
+English Translation: That Rama had also seen the sage Sutikshna, Agastya, and
+the brother of Agastya. And, on the word of Agastya, he had accepted the
+[divine] arrow [of Indra].
 
 (1-1-43)
-[परमप्रीतः] सन् सः रामः खड्गं च अक्षय-तूणीरौ च स्वीकृतवान् अभूत्। तस्मिन् काले सः रामः वने वनचरैः सह वसितवान् अभूत्।
-Translation: Being [greatly pleased], that Rama had accepted a sword and two inexhaustible quivers. At that time, that Rama had dwelt in the forest with the forest-dwellers.
+[परमप्रीतः] सन् सः रामः खड्गं च अक्षय-तूणीरौ च स्वीकृतवान् अभूत्। तस्मिन् काले
+सः रामः वने वनचरैः सह उषितवान् अभूत्।
+English Translation: Being [greatly pleased], that Rama had accepted a sword and
+two inexhaustible quivers. At that time, that Rama had dwelt in the forest with
+the forest-dwellers.
 
 (1-1-44)
-सर्वे ऋषयः असुराणां राक्षसानां वधाय रामम् अभ्यागतवन्तः अभूवन्। सः रामः च वने तेभ्यः ऋषिभ्यः राक्षसानां वधं प्रतिज्ञातवान् अभूत्।
-Translation: All the sages had approached Rama for the slaughter of the asuras and rakshasas. And that Rama, in the forest, had promised the slaughter of the rakshasas to those sages.
+सर्वे ऋषयः असुराणां राक्षसानां वधाय रामम् अभ्यागतवन्तः अभूवन्। सः रामः च वने
+तेभ्यः ऋषिभ्यः राक्षसानां वधं प्रतिज्ञातवान् अभूत्।
+English Translation: All the sages had approached Rama for the slaughter of the
+asuras and rakshasas. And that Rama, in the forest, had promised the slaughter
+of the rakshasas to those sages.
 
 (1-1-45)
-होमाग्नि-प्रभासेन रामेण च युद्धे दण्डकारण्यवासिनाम् युक्तानाम् ऋषिभ्यः राक्षसवधः प्रतिज्ञातः।
-Translation: And by Rama, the slaughter in battle of the rakshasas [tormenting] the sages dwelling in the Dandaka forest, who were as radiant as the sacrificial fire, had been promised.
+होमाग्नि-प्रभासेभ्यः दण्डकारण्यवासिभ्यः युक्तेभ्यः ऋषिभ्यः रामेण च युद्धे
+राक्षसवधः प्रतिज्ञातः।
+English Translation: And by Rama, the slaughter in battle of the rakshasas
+[tormenting] the sages dwelling in the Dandaka forest, who were as radiant as
+the sacrificial fire, had been promised.
 
 (1-1-46)
-तत्रैव दण्डकारण्ये [स्थिते] [जनस्थान-नामके] स्थले [वसन्] [सः] रामः [स्वेच्छारूपधारिणीं] [जनस्थाननिवासिनीं] [राक्षसीं] शूर्पणखां विरूपितवान् अभूत्।
-While dwelling right there in the Dandaka forest, at the place named Janasthana which was situated there, he, Rama, had disfigured the demoness Shurpanakha, an inhabitant of Janasthana who could assume any form at will.
+तत्रैव दण्डकारण्ये [स्थिते] [जनस्थान-नामके] स्थले [वसन्] [सः] रामः
+[स्वेच्छारूपधारिणीं] [जनस्थाननिवासिनीं] [राक्षसीं] शूर्पणखां विरूपितवान् अभूत्।
+English Translation: While dwelling right there in the Dandaka forest, at the
+place named Janasthana which was situated there, he, Rama, had disfigured the
+demoness Shurpanakha, an inhabitant of Janasthana who could assume any form at
+will.
 
 (1.1.47)
-ततः शूर्पणखा-वाक्यात् उद्युक्ताः जाताः खरः त्रिशिराः दूषणः इत्यादय‌ः राक्षसाः च सर्वे।
-Then, from Shurpanakha's words, the rakshasas Khara, Trishiras, Dushana, and other rakshasas, became instigated.
+ततः शूर्पणखा-वाक्यात् उद्युक्ताः जाताः खरः त्रिशिराः दूषणः इत्यादयः राक्षसाः च
+सर्वे।
+English Translation: Then, from Shurpanakha's words, the rakshasas Khara,
+Trishiras, Dushana, and other rakshasas, became instigated.
 
 (1.1.48)
-तस्मिन् वने निवसन् सः रामः रणे [जनस्थाननिवासिनः] राक्षसान्, तेषाम् अनुचरान् च निहतवान् अभूत्।
-While dwelling in that forest, he, Rama, had also slain in battle the followers of them, the inhabitants of Janasthana.
+तस्मिन् वने निवसन् सः रामः रणे [जनस्थाननिवासिनः] राक्षसान्, तेषाम् अनुचरान् च
+निहतवान् अभूत्।
+English Translation: While dwelling in that forest, he, Rama, had also slain in
+battle the followers of them, the inhabitants of Janasthana.
 
 (1.1.49)
-रामः रक्षसां चतुर्दश सहस्राणि निहतवान् अभूत्। ततः बन्धूनां वधं श्रुत्वा रावणः क्रोधात् मूर्छां गतवान् अभूत्। 
-Rama had slain fourteen thousand of the Rakshasas. Then, having heard of the slaughter of his kinsmen, Ravana had fainted from anger.
+रामः रक्षसां चतुर्दश सहस्राणि निहतवान् अभूत्। ततः बन्धूनां वधं श्रुत्वा रावणः
+क्रोधात् मूर्च्छाम् गतवान् अभूत्।
+English Translation: Rama had slain fourteen thousand of the Rakshasas. Then,
+having heard of the slaughter of his kinsmen, Ravana had fainted from anger.
 
 (1.1.50)
-बहुवारं मारीचेन कृतेषु निवारण-प्रयत्नेषु अपि सः रावणः मारीचस्य साहाय्यम् अभिलाषितवान् अभूत्।
-Even with the efforts of dissuasion having been made many times by Maricha, he, Ravana, had desired the help of Maricha.
+बहुवारं मारीचेन कृतेषु निवारण-प्रयत्नेषु अपि सः रावणः मारीचस्य साहाय्यम्
+अभिलषितवान् अभूत्।
+English Translation: Even with the efforts of dissuasion having been made many
+times by Maricha, he, Ravana, had desired the help of Maricha.
 
 (1.1.51)
-[कालेन प्रोत्साहितः] सः रावणः, "हे रावण, [बलवता] तेन [रामेण] सह विरोधः तव कृते न क्षमः" इति मारीचस्य तत् वाक्यम् अवगणितवान् अभूत्।
-Impelled by fate, he, Ravana, had disregarded that statement of Maricha: "O Ravana, conflict with that powerful one [Rama] is not suitable for you."
+[कालेन प्रोत्साहितः] सः रावणः, "हे रावण, [बलवता] तेन [रामेण] सह विरोधः तव कृते न
+क्षमः" इति मारीचस्य तत् वाक्यम् अवगणितवान् अभूत्।
+English Translation: Impelled by fate, he, Ravana, had disregarded that
+statement of Maricha: "O Ravana, conflict with that powerful one [Rama] is not
+suitable for you."
 
 (1.1.52)
-तदा सः मायावी मारीचः राजकुमारौ रामः लक्ष्मणः च दूरम् अपवाहितवान् अभूत्। ततः [सः] रावणः [तस्य] रामस्य आश्रमपदं गतवान् अभूत्।
-Then, that magical Maricha had lured the two princes, Rama and Lakshmana, far away. Thereafter, he, Ravana, had gone to his, Rama's, hermitage.
+तदा सः यामावी मारीचः राजकुमारौ रामं लक्ष्मणं च दूरम् अपवाहितवान् अभूत्। ततः [सः]
+रावणः [तस्य] रामस्य आश्रमपदं गतवान् अभूत्।
+English Translation: Then, that magical Maricha had lured the two princes, Rama
+and Lakshmana, far away. Thereafter, he, Ravana, had gone to his, Rama's,
+hermitage.
 
 (1.1.53)
-सः रावणः जटायुषं नाम गृध्रं हत्वा [राम-भार्यां] सीताम् अपहृतवान् अभूत्। ततः सः रामः [निहतं तं गृध्रं] जटायुषं दृष्ट्वा [मैथिल्याः] सीतायाः हरणं श्रुत्वा च विलपितवान् अभूत्।
-He, Ravana, having killed the vulture named Jatayu, had abducted Sita, Rama's wife. Thereafter, he, Rama, having seen that killed vulture and having heard that Maithili Sita, was abducted, had lamented.
+सः रावणः जटायुषं नाम गृध्रं हत्वा [राम-भार्यां] सीताम् अपहृतवान् अभूत्। ततः सः
+रामः [निहतं तं गृध्रं] जटायुषं दृष्ट्वा [मैथिल्याः] सीतायाः हरणं श्रुत्वा च
+विलपितवान् अभूत्।
+English Translation: He, Ravana, having killed the vulture named Jatayu, had
+abducted Sita, Rama's wife. Thereafter, he, Rama, having seen that killed
+vulture and having heard that Maithili Sita, was abducted, had lamented.
 
 (1.1.54)
-[शोकेन सन्तप्तः] [आकुलैः इन्द्रियैः युक्तः] च सः [राघवः] रामः विलपितवान् अभूत्। ततः सः तेन एव शोकेन जटायुषं दग्धवान् अभूत्।
-Afflicted by grief and endowed with agitated senses, he, Raghava Rama, had lamented. Then, with that very grief, he had cremated Jatayu.
+[मन्तापेन सन्तप्तः] [आकुलैः इन्द्रियैः युक्तः] च सः [राघवः] रामः विलपितवान्
+अभूत्। ततः सः तेन एव शोकेन जटायुषं दग्धवान् अभूत्।
+English Translation: Afflicted by grief and endowed with agitated senses, he,
+Raghava Rama, had lamented. Then, with that very grief, he had cremated Jatayu.
 
 (1.1.55)
-वने [सीतायाः अन्वेषणे रतः] सः रामः कबन्धं नाम रूपेण विकृतं घोरदर्शनं च राक्षसं सन्दृष्टवान् अभूत्।
-While engaged in the search for Sita in the forest, he, Rama, had seen a demon named Kabandha, who was deformed in shape and of terrible appearance.
+वने [सीतायाः अन्वेषणे रतः] सः रामः कबन्धं नाम रूपेण विकृतं घोरदर्शनं च राक्षसं
+सन्दृष्टवान् अभूत्।
+English Translation: While engaged in the search for Sita in the forest, he,
+Rama, had seen a demon named Kabandha, who was deformed in shape and of terrible
+appearance.
 
 (1-1-56)
-Sanskrit: [महाबाहुः] [सः] रामः [तं] कबन्धं निहत्य दग्धवान् अभूत्। ततः [सः] कबन्धः स्वर्गं गतवान् अभूत्। [सः] कबन्धः च [अस्मै] रामाय [धर्मचारिणीं] शबरीं कथितवान् अभूत्।
-English: [The great-armed] [he], Rama, having killed [that] Kabandha, had cremated him. Thereafter, [he], Kabandha, had gone to heaven. And [he], Kabandha, had told [to him], Rama, about [the righteous] Shabari.
+[महाबाहुः] [सः] रामः [तं] कबन्धं निहत्य दग्धवान् अभूत्। ततः [सः] कबन्धः स्वर्गं
+गतवान् अभूत्। [सः] कबन्धः च [अस्मै] रामाय [धर्मचारिण्याः] शबर्याः विषये कथितवान्
+अभूत्।
+English Translation: [The great-armed] [he], Rama, having killed [that]
+Kabandha, had cremated him. Thereafter, [he], Kabandha, had gone to heaven. And
+[he], Kabandha, had told [to him], Rama, about [the righteous] Shabari.
 
 (1-1-57)
-Sanskrit: [सः] कबन्धः [तस्मै] [राघवाय] रामाय, "[त्वं] [धर्मनिपुणां] [तां] श्रमणां शबरीम् अभिगच्छ" इति आदिष्टवान् अभूत्। ततः [महातेजाः] [शत्रुसूदनः] [सः] [राघवः] रामः [तां] शबरीम् अभिगतवान् अभूत्।
-English: [He], Kabandha, had instructed [to that] Raghava: "[You] go to [that] [dharma-skilled] ascetic Shabari." Then, [the greatly splendid], [destroyer of enemies], [he], Raghava, had approached [that] Shabari.
+[सः] कबन्धः [तम्] [राघवम्] रामम्, "[त्वं] [धर्मनिपुणां] [तां] श्रमणां शबरीम्
+अभिगच्छ" इति आदिष्टवान् अभूत्। ततः [महातेजाः] [शत्रुसूदनः] [सः] [राघवः] रामः
+[तां] शबरीम् अभिगतवान् अभूत्।
+English Translation: [He], Kabandha, had instructed [that] Raghava: "[You] go to
+[that] [dharma-skilled] ascetic Shabari." Then, [the greatly splendid],
+[destroyer of enemies], [he], Raghava, had approached [that] Shabari.
 
 (1-1-58)
-Sanskrit: [सा] शबरी [दशरथ-आत्मजं] रामं सम्यक् पूजितवती अभूत्। ततः पंपातीरे [सः] रामः [वानरेण] हनुमता सह सङ्गतवान् अभूत्।
-English: [She], Shabari, had properly worshipped Rama, [the son of Dasharatha]. Then, on the bank of the Pampa, [he], Rama, had met with Hanuman, [the Vanara].
+[सा] शबरी [दशरथ-आत्मजं] रामं सम्यक् पूजितवती अभूत्। ततः पंपातीरे [सः] रामः
+[वानरेण] हनुमता सह सङ्गतवान् अभूत्।
+English Translation: [She], Shabari, had properly worshipped Rama, [the son of
+Dasharatha]. Then, on the bank of the Pampa, [he], Rama, had met with Hanuman,
+[the Vanara].
 
 (1-1-59)
-Sanskrit: ततः हनुमतः वचनात् [सः] रामः सुग्रीवेण सह सङ्गतवान् अभूत्। [महाबलः] [सः] रामः सुग्रीवाय [तत्] [सर्वम्] वृत्तं शंसितवान् अभूत्।
-English: Then, from the word of Hanuman, [he], Rama, had met with Sugriva. [The mighty] [he], Rama, had narrated [that] [entire] story to Sugriva.
+ततः हनुमतः वचनात् [सः] रामः सुग्रीवेण सह सङ्गतवान् अभूत्। [महाबलः] [सः] रामः
+सुग्रीवाय [तत्] [सर्वम्] वृत्तं शंसितवान् अभूत्।
+English Translation: Then, from the word of Hanuman, [he], Rama, had met with
+Sugriva. [The mighty] [he], Rama, had narrated [that] [entire] story to Sugriva.
 
 (1-1-60)
-आदितः रामस्य [तत्] [सर्वं] वृत्तं विशेषतः सीतायाः विषये [वानरः] सुग्रीवः च अपि श्रुतवान् अभूत्।
-And also [the Vanara] Sugriva had heard from the beginning [that] [entire] story of Rama, especially concerning Sita.
+आदितः रामस्य [तत्] [सर्वं] वृत्तं विशेषतः सीतायाः विषये [वानरः] सुग्रीवः च अपि
+श्रुतवान् अभूत्।
+English Translation: And also [the Vanara] Sugriva had heard from the beginning
+[that] [entire] story of Rama, especially concerning Sita.
 
 (1-1-61)
-[प्रीतः] [सः] सुग्रीवः रामेण सह [अग्निसाक्षिकं] सख्यं कृतवान् अभूत्। ततः [वानरराजस्य] सुग्रीवस्य वैरस्य अनुकथनम्।
-[Pleased], [he], Sugriva, had made a friendship with Rama, [with fire as a witness]. Then, the narration of the enmity of [the Vanara king] Sugriva.
-
+[प्रीतः] [सः] सुग्रीवः रामेण सह [अग्निसाक्षिकं] सख्यं कृतवान् अभूत्। ततः
+[वानरराजस्य] सुग्रीवस्य वैरस्य अनुकथनम्।
+English Translation: [Pleased], [he], Sugriva, had made a friendship with Rama,
+[with fire as a witness]. Then, the narration of the enmity of [the Vanara king]
+Sugriva.
 
 (1-1-62)
-[दुःखितेन] [तेन] सुग्रीवेण प्रणयात् रामाय [तत्] [सर्वं] वृत्तम् आवेदितम्। तदा [तेन] रामेण वालिनः वधः प्रतिज्ञातः।
-By [that] [grieved] Sugriva, [that] [entire] story was narrated to Rama out of affection. Then, by [that] Rama, the killing of Vali was promised.
-
+[दुःखितेन] [तेन] सुग्रीवेण प्रणयात् रामाय [तत्] [सर्वं] वृत्तम् आवेदितम्। तदा
+[तेन] रामेण वालिनः वधः प्रतिज्ञातः।
+English Translation: By [that] [grieved] Sugriva, [that] [entire] story was
+narrated to Rama out of affection. Then, by [that] Rama, the killing of Vali was
+promised.
 
 (1-1-63)
-तत्र [वानरः] सुग्रीवः वालिनः बलं कथितवान् अभूत्। [सः] सुग्रीवः [राघवस्य] [रामस्य] वीर्ये नित्यं शङ्कितः।
-In that context, [the Vanara] Sugriva had told of Vali's strength. [He], Sugriva, was constantly doubtful regarding the valor of Raghava.
-
+तत्र [वानरः] सुग्रीवः वालिनः बलं कथितवान् अभूत्। [सः] सुग्रीवः [राघवस्य]
+[रामस्य] वीर्ये नित्यं शङ्कितः।
+English Translation: In that context, [the Vanara] Sugriva had told of Vali's
+strength. [He], Sugriva, was constantly doubtful regarding the valor of Raghava.
 
 (1-1-64)
-परीक्षार्थं सुग्रीवेण [तस्मै] [राघवाय] रामाय दुन्दुभि-राक्षसस्य उत्तमं शरीरं दर्शितम्।
-For the sake of a test, the great body of the Dundubhi rakshasa was shown by Sugriva to [him], [to Raghava] Rama.
-
+परीक्षार्थं सुग्रीवेण [तस्मै] [राघवाय] रामाय दुन्दुभि-राक्षसस्य उत्तमं शरीरं
+दर्शितम्।
+English Translation: For the sake of a test, the great body of the Dundubhi
+rakshasa was shown by Sugriva to [him], [to Raghava] Rama.
 
 (1-1-65)
-[महाबाहुः] [महाबलः] [सः] रामः उत्स्मित्य [तत्] अस्थि प्रेक्ष्य च पाद-अङ्गुष्ठेन संपूर्णम् दश योजनानि क्षिप्तवान् अभूत्।
-[The great-armed] and [very strong] [he], Rama, having smiled and looked at [that] skeleton, had thrown it a full ten yojanas with his big toe.
+[महाबाहुः] [महाबलः] [सः] रामः उत्स्मित्य [तत्] अस्थि प्रेक्ष्य च पादाङ्गुष्ठेन
+संपूर्णानि दश योजनानि क्षिप्तवान् अभूत्।
+English Translation: [The great-armed] and [very strong] [he], Rama, having
+smiled and looked at [that] skeleton, had thrown it a full ten yojanas with his
+big toe.
 
 (1-1-66)
-तथा [सः] रामः पुनः विश्वासं [जनयन्] [एकेन] [महता बाणेन] [सप्त] सालान्, गिरिम्, रसातलं च भिन्नवान् अभूत्।
-Thus [generating] trust, [he], Rama, again had pierced [seven] Sal trees, a mountain, and the netherworld with [one] [great arrow].
+तथा [सः] रामः पुनः विश्वासं [जनयन्] [एकेन] [महता बाणेन] [सप्त] सालान्, गिरिम्,
+रसातलं च भिन्नवान् अभूत्।
+English Translation: Thus [generating] trust, [he], Rama, again had pierced
+[seven] Sal trees, a mountain, and the netherworld with [one] [great arrow].
 
 (1-1-67)
-ततः [प्रीतमनस्कः] [विश्वस्तः] च [महाकपिः] [सः] सुग्रीवः तदा रामेण सह किष्किन्धां [गुहां] गतवान् अभूत्।
-Then, [pleased in mind] and [confident], [the great ape] [he], Sugriva, at that time had gone with Rama to the cave Kishkindha.
+ततः [प्रीतमनस्कः] [विश्वस्तः] च [महाकपिः] [सः] सुग्रीवः तदा रामेण सह किष्किन्धां
+[गुहां] गतवान् अभूत्।
+English Translation: Then, [pleased in mind] and [confident], [the great ape]
+[he], Sugriva, at that time had gone with Rama to the cave Kishkindha.
 
 (1-1-68)
-ततः [हरिवरः] [हेम-पिङ्गल-वर्णेन युक्तः] सुग्रीवः गर्जितवान् अभूत्।
-[तस्मात्] [महतः] नादात् [हरीश्वरः] वाली निर्गतवान् अभूत्।
-Then, [the best of monkeys], [endowed with a golden-brown color], Sugriva, had roared. From [that] [great] roar, [the lord of the monkeys], Vali, had come out.
+ततः [हरिवरः] [हेम-पिङ्गल-वर्णेन युक्तः] सुग्रीवः गर्जितवान् अभूत्। [तस्मात्]
+[महतः] नादात् [हरीश्वरः] वाली निर्गतवान् अभूत्।
+English Translation: Then, [the best of monkeys], [endowed with a golden-brown
+color], Sugriva, had roared. From [that] [great] roar, [the lord of the
+monkeys], Vali, had come out.
 
 (1-1-69)
-तदा [सः] वाली [भार्यां] ताराम् आश्वास्य सुग्रीवेण सह समागतवान् अभूत्। तत्र [सः] राघवः [तम्] वालिं [एकेन] शरेण निहतवान् अभूत्।
-Then, [he], Vali, having reassured [his wife] Tara, had met with Sugriva.
-There, [he], Raghava, had slain [him], Vali, with [one] arrow.
+तदा [सः] वाली [भार्यां] ताराम् आश्वास्य सुग्रीवेण सह समागतवान् अभूत्। तत्र [सः]
+राघवः [तम्] वालिं [एकेन] शरेण निहतवान् अभूत्।
+English Translation: Then, [he], Vali, having reassured [his wife] Tara, had met
+with Sugriva. There, [he], Raghava, had slain [him], Vali, with [one] arrow.
 
 (1-1-70)
-ततः [सः] राघवः सुग्रीवस्य वचनात् युद्धे वालिनं हत्वा [तस्मिन्] राज्ये सुग्रीवम् नियुक्तवान् अभूत्।
-And so, at the word of Sugriva, [he], Raghava, having killed Vali in battle, had installed Sugriva himself in [that] kingdom.
+ततः [सः] राघवः सुग्रीवस्य वचनात् युद्धे वालिनं हत्वा [तस्मिन्] राज्ये सुग्रीवम्
+नियुक्तवान् अभूत्।
+English Translation: And so, at the word of Sugriva, [he], Raghava, having
+killed Vali in battle, had installed Sugriva himself in [that] kingdom.
 
 (1-1-71)
-[वानरेषु ऋषभः] [सः] सुग्रीवः च [जनकस्य आत्मजां] सीतां [द्रष्टुकामः] [सर्वान्] वानरान् समानीय दिशः प्रेषितवान् अभूत्।
-The best of monkeys (Sugriva) gathered his monkey forces and despatched them in various directions in search of Janaka's daughter (Sita).
+[वानरेषु ऋषभः] [सः] सुग्रीवः च [जनकस्य आत्मजां] सीतां [द्रष्टुकामः] [सर्वान्]
+वानरान् समानीय दिशः प्रेषितवान् अभूत्।
+English Translation: The best of monkeys (Sugriva) gathered his monkey forces
+and despatched them in various directions in search of Janaka's daughter (Sita).
 
 (1-1-72)
-ततः [बली] हनुमान् संपाति-नामकस्य गृध्रस्य वचनात् [शत-योजन-मितं विस्तीर्णं] समुद्रस्य उपरि प्लुतवान् अभूत्।
-Then, [the strong] Hanuman, from the word of the vulture named Sampati, had leaped across the [hundred-yojana-wide] [salt-ocean].
+ततः [बली] हनुमान् संपाति-नामकस्य गृध्रस्य वचनात् [शत-योजन-मितं विस्तीर्णं]
+समुद्रस्य उपरि प्लुतवान् अभूत्।
+English Translation: Then, [the strong] Hanuman, from the word of the vulture
+named Sampati, had leaped across the [hundred-yojana-wide] [salt-ocean].
 
 (1-1-73)
-तत्र [सः हनुमान्] [रावणेन पालितां] लङ्का-पुरीं प्राप्य अशोकवनिकां गतां ध्यानमग्नां सीतां दृष्टवान् अभूत्।
-There, [he, Hanuman], having reached the city of Lanka, [protected by Ravana], had seen Sita, who was situated in the Ashoka grove and was meditating.
+तत्र [सः हनुमान्] [रावणेन पालितां] लङ्का-पुरीं प्राप्य अशोकवनिकां गतां
+ध्यानमग्नां सीतां दृष्टवान् अभूत्।
+English Translation: There, [he, Hanuman], having reached the city of Lanka,
+[protected by Ravana], had seen Sita, who was situated in the Ashoka grove and
+was meditating.
 
 (1-1-74)
-[सः] हनुमान् अभिज्ञानं प्रवृत्तिं च निवेद्य [वैदेहीं] सीतां समाश्वास्य च तोरणं मर्दितवान् अभूत्।
-Hanuman delivered Rama's ring to Sita as a token of recognition, related the whole story and consoled her. He then crushed the arch (of the outer gate of the garden) before leaving.
+[सः] हनुमान् अभिज्ञानं प्रवृत्तिं च निवेद्य [वैदेहीं] सीतां समाश्वास्य च तोरणं
+मर्दितवान् अभूत्।
+English Translation: Hanuman delivered Rama's ring to Sita as a token of
+recognition, related the whole story and consoled her. He then crushed the arch
+(of the outer gate of the garden) before leaving.
 
 (1-1-75)
-[सः] हनुमान् पञ्च सेना-नायकान् सप्त मन्त्रि-सुतान् अपि अक्ष-नामकं शूरं च मर्दयित्वा निगृहीतः जातः।
-After killing five commanders, seven sons of the counsellors, stamping out valiant Akshayakumara, the son of Ravana, Hanuman got himself captured (to be taken as captive).
+[सः] हनुमान् पञ्च सेना-नायकान् सप्त मन्त्रि-सुतान् अपि अक्ष-नामकं शूरं च
+मर्दयित्वा निगृहीतः जातः।
+English Translation: After killing five commanders, seven sons of the
+counsellors, stamping out valiant Akshayakumara, the son of Ravana, Hanuman got
+himself captured (to be taken as captive).
 
 (1-1-76)
-ब्रह्मणः वरात् स्वस्मिन् अस्त्रप्रयोगः व्यर्थः इति [जानन्] अपि [वीरः] हनुमान् [तान्] [बन्धकान्] राक्षसान् यदृच्छया मर्षितवान् अभूत्।
-Even though the hero Hanuman knew that the use of weapons on himself was futile due to Brahma's boon, he voluntarily tolerated those binding Rakshasas.
+ब्रह्मणः वरात् स्वस्मिन् अस्त्रप्रयोगः व्यर्थः इति [जानन्] अपि [वीरः] हनुमान्
+[तान्] [बन्धकान्] राक्षसान् यदृच्छया मर्षितवान् अभूत्।
+English Translation: Even though the hero Hanuman knew that the use of weapons
+on himself was futile due to Brahma's boon, he voluntarily tolerated those
+binding Rakshasas.
 
 (1-1-77)
-ततः [महाकपिः] हनुमान् [मैथिलीं] सीतायाः ऋते लङ्का-पुरीं दग्ध्वा, रामाय प्रिय-वार्तां दातुं प्रत्यागतः।
-Then, having burned the city of Lanka—except for Sita of Mithila—the great monkey returned to report the welcome news to Rama.
+ततः [महाकपिः] हनुमान् [मैथिल्याः] सीतायाः ऋते लङ्का-पुरीं दग्ध्वा, रामाय
+प्रिय-वार्तां दातुं प्रत्यागतः।
+English Translation: Then, having burned the city of Lanka—except for Sita of
+Mithila—the great monkey returned to report the welcome news to Rama.
 
 (1-1-78)
-[अमेयात्मा] [सः] हनुमान् [महात्मानं] रामम् अभिगम्य, प्रदक्षिणञ्च कृत्वा, "सीता दृष्टा" इति तत्त्वतः निवेदितवान् अभूत्।
-Approaching the great-souled Rama and circumambulating him respectfully, he of immeasurable spirit reported truthfully: "Sita has been seen."
+[अमेयात्मा] [सः] हनुमान् [महात्मानं] रामम् अभिगम्य, प्रदक्षिणाञ्च कृत्वा, "सीता
+दृष्टा" इति तत्त्वतः निवेदितवान् अभूत्।
+English Translation: Approaching the great-souled Rama and circumambulating him
+respectfully, he of immeasurable spirit reported truthfully: "Sita has been
+seen."
 
 (1-1-79)
-ततः [सः] रामः [सुग्रीवेण सहितः] भूत्वा समुद्र-तीरं गत्वा, सूर्येण सदृशैः शरैः समुद्रं क्षोभितवान् अभूत्।
-Then, accompanied by Sugriva, he went to the shore of the great ocean and agitated the sea with arrows as radiant as the sun.
+ततः [सः] रामः [सुग्रीवेण सहितः] भूत्वा समुद्र-तीरं गत्वा, सूर्येण सदृशैः शरैः
+समुद्रं क्षोभितवान् अभूत्।
+English Translation: Then, accompanied by Sugriva, he went to the shore of the
+great ocean and agitated the sea with arrows as radiant as the sun.
 
 (1-1-80)
-ततः [सरितां पतिः] समुद्रः च आत्मानं दर्शितवान् अभूत्। [सः] रामः च समुद्रस्य वचनात् एव नलं सेतुं कारितवान् अभूत्।
-The Ocean, the lord of the rivers, then revealed himself, and on his advice, he (Rama) had Nala build the bridge.
+ततः [सरितां पतिः] समुद्रः च आत्मानं दर्शितवान् अभूत्। [सः] रामः च समुद्रस्य
+वचनात् एव नलं सेतुं कारितवान् अभूत्।
+English Translation: The Ocean, the lord of the rivers, then revealed himself,
+and on his advice, he (Rama) had Nala build the bridge.
 
 (1-1-81)
-(ततः) रामः तेन (सेतुना) लङ्कां पुरीं गत्वा, आहवे रावणं हत्वा, सीताम् अनुप्राप्य, परां व्रीडाम् उपागतवान् अभूत्।
-Having gone to the city of Lanka by that (bridge) and having killed Ravana in battle, Rama, upon regaining Sita, experienced great shame.
+(ततः) रामः तेन (सेतुना) लङ्कां पुरीं गत्वा, आहवे रावणं हत्वा, सीताम् अनुप्राप्य,
+परां व्रीडाम् उपागतवान् अभूत्।
+English Translation: Having gone to the city of Lanka by that (bridge) and
+having killed Ravana in battle, Rama, upon regaining Sita, experienced great
+shame.
 
 (1-1-82)
-ततः रामः जनसंसदि [तां] सीताम् परुषम् उक्तवान् अभूत्। [तत्] वचनम् [सोढुम् अशक्या] [सा] [सती] सीता अग्निप्रवेशम् अकार्षीत्।
-Then, in the assembly of people, Rama spoke harshly to Sita. Unable to bear that speech, the chaste Sita entered the fire.
+ततः रामः जनसंसदि [तां] सीताम् परुषम् उक्तवान् अभूत्। [तत्] वचनम् [सोढुम् अशक्ता]
+[सा] [सती] सीता अग्निप्रवेशम् अकार्षीत्।
+English Translation: Then, in the assembly of people, Rama spoke harshly to
+Sita. Unable to bear that speech, the chaste Sita entered the fire.
 
 (1-1-83)
-ततः रामः अग्निवचनात् सीतायाः कल्मषं विगतम् इति ज्ञात्वा, सर्व-दैवैः पूजितः सम्प्रहृष्टः च (सन्) भातवान् अभूत्।
-Then, on Agni's testimony, having learned that Sita's blemish was gone, Rama—worshipped by all the gods and greatly delighted—shone with glory.
+ततः रामः अग्निवचनात् सीतायाः कल्मषं विगतम् इति ज्ञात्वा, सर्व-देवैः पूजितः
+सम्प्रहृष्टः च (सन्) भातवान् अभूत्।
+English Translation: Then, on Agni's testimony, having learned that Sita's
+blemish was gone, Rama—worshipped by all the gods and greatly delighted—shone
+with glory.
 
 (1-1-84)
-[महात्मनः] [राघवस्य] रामस्य तेन महता कर्मणा [चराचर-सहितं] [देवर्षिगण-सहितं] त्रैलोक्यं तुष्टम् अभूत्।
-By that great deed of the great-souled Raghava, the three worlds—along with all moving and unmoving beings and the hosts of gods and sages—became pleased.
+[महात्मनः] [राघवस्य] रामस्य तेन महता कर्मणा [चराचर-सहितं] [देवर्षिगण-सहितं]
+त्रैलोक्यं तुष्टम् अभूत्।
+English Translation: By that great deed of the great-souled Raghava, the three
+worlds—along with all moving and unmoving beings and the hosts of gods and
+sages—became pleased.
 
 (1-1-85)
-तदा रामः लङ्कायां [राक्षसेन्द्रस्य] विभीषणस्य राज्याभिषेकं कारयित्वा कृतकृत्यः विज्वरः च (सन्), प्रमुदितवान् अभूत्।
-Then Rama, having caused the coronation of Vibhishana, the lord of the Rakshasas, to be performed in Lanka, felt his duty was accomplished and, being free from anxiety, rejoiced greatly.
+तदा रामः लङ्कायां [राक्षसेन्द्रस्य] विभीषणस्य राज्याभिषेकं कारयित्वा कृतकृत्यः
+विज्वरः च (सन्), प्रमुदितवान् अभूत्।
+English Translation: Then Rama, having caused the coronation of Vibhishana, the
+lord of the Rakshasas, to be performed in Lanka, felt his duty was accomplished
+and, being free from anxiety, rejoiced greatly.
 
 (1-1-86)
-ततः सुहृद्भिः वृतः रामः देवताभ्यः वरं प्राप्य, वानरान् च समुत्थाप्य, पुष्पक-विमानेन अयोध्यां प्रति प्रस्थितवान् अभूत्।
-Then Rama, surrounded by his friends, having received a boon from the gods and having revived the vanaras, set out towards Ayodhya by the Pushpaka aircraft.
+ततः सुहृद्भिः वृतः रामः देवताभ्यः वरं प्राप्य, वानरान् च समुत्थाप्य,
+पुष्पक-विमानेन अयोध्यां प्रति प्रस्थितवान् अभूत्।
+English Translation: Then Rama, surrounded by his friends, having received a
+boon from the gods and having revived the vanaras, set out towards Ayodhya by
+the Pushpaka aircraft.
 
 (1-1-87)
-[सत्यपराक्रम-युक्तः] रामः भरद्वाजाश्रमं गत्वा, भरतस्य समीपं हनूमन्तं प्रेषितवान् अभूत्।
-Rama, endowed with true valor, having gone to the ashram of Bharadwaja, sent Hanuman to the presence of Bharata.
+[सत्यपराक्रम-युक्तः] रामः भरद्वाजाश्रमं गत्वा, भरतस्य समीपं हनूमन्तं प्रेषितवान्
+अभूत्।
+English Translation: Rama, endowed with true valor, having gone to the ashram of
+Bharadwaja, sent Hanuman to the presence of Bharata.
 
 (1-1-88)
-तदा सः रामः [सुग्रीवेण सहितः सन्] पुनः आख्यायिकां जल्पन्, तत् पुष्पक-विमानं समारुह्य, नन्दिग्रामं गतवान् अभूत्।
-Then that Rama, accompanied by Sugriva, while conversing and telling stories again, having boarded that Pushpaka aircraft, went to Nandigrama.
+तदा सः रामः [सुग्रीवेण सहितः सन्] पुनः आख्यायिकां जल्पन्, तत् पुष्पक-विमानं
+समारुह्य, नन्दिग्रामं गतवान् अभूत्।
+English Translation: Then that Rama, accompanied by Sugriva, while conversing
+and telling stories again, having boarded that Pushpaka aircraft, went to
+Nandigrama.
 
 (1-1-89)
-[अनघः] रामः नन्दिग्रामे [भ्रातृभिः सहितः सन्] जटां हित्वा, सीताम् अनुप्राप्य, पुनः राज्यम् अवाप्तवान् अभूत्।
-In Nandigrama, the sinless Rama, accompanied by his brothers, having given up his matted hair and regained Sita, obtained the kingdom once more.
+[अनघः] रामः नन्दिग्रामे [भ्रातृभिः सहितः सन्] जटां हित्वा, सीताम् अनुप्राप्य,
+पुनः राज्यम् अवाप्तवान् अभूत्।
+English Translation: In Nandigrama, the sinless Rama, accompanied by his
+brothers, having given up his matted hair and regained Sita, obtained the
+kingdom once more.
 
 (1-1-90)
-तस्मिन् काले लोकः [प्रहृष्टः], [मुदितः], [तुष्टः], [पुष्टः], [सुधार्मिकः], [निरामयः], [अरोगः], [दुर्भिक्षेण भयेन वर्जितः] च हि अभूत्।
-The world (the people) in that time became overjoyed and delighted, content and prosperous, highly righteous, healthy and free from disease, and indeed was devoid of the fear of famine.
+तस्मिन् काले लोकः [प्रहृष्टः], [मदितः], [तुष्टः], [पुष्टः], [सुधार्मिकः],
+[निरामयः], [अरोगः], [दुर्भिक्ष-भयेन वर्जितः] च हि अभूत्।
+English Translation: The world (the people) in that time became overjoyed and
+delighted, content and prosperous, highly righteous, healthy and free from
+disease, and indeed was devoid of the fear of famine.
 
 (1.1.91)
-तस्मिन् राज्ये पुरुषा: क्वचित् किञ्चित् पुत्रमरणं न द्रक्ष्यन्ति। नार्यः च नित्यं पतिव्रताः अविधवाः च भविष्यन्ति।
-Men will never witness the death of their sons, and women, ever devoted to their husbands, will not be widowed.
+तस्मिन् राज्ये पुरुषाः क्वचित् किञ्चित् पुत्रमरणं न द्रक्ष्यन्ति। नार्यः च
+नित्यं पतिव्रताः अविधवाः च भविष्यन्ति।
+English Translation: Men will never witness the death of their sons, and women,
+ever devoted to their husbands, will not be widowed.
 
 (1.1.92)
-तस्मिन् राज्ये किञ्चित् अग्नेः भयं च न भविष्यति। जन्तवः जले न मज्जन्ति। किञ्चित् वातात् भयं, तथा ज्वरात् भयम् अपि न भविष्यति।
-In that kingdom, there will be no fear of fire. Living beings will not drown in water. There will also be no fear of wind, nor of fever.
+तस्मिन् राज्ये किञ्चित् अग्नेः भयं च न भविष्यति। जन्तवः जले न मङ्क्ष्यन्ति।
+किञ्चित् वातात् भयं, तथा ज्वरात् भयम् अपि न भविष्यति।
+English Translation: In that kingdom, there will be no fear of fire. Living
+beings will not drown in water. There will also be no fear of wind, nor of
+fever.
 
 (1.1.93)
-तत्र क्षुधायाः भयं तथा चौर्यात् भयं च अपि न भविष्यति। नगराणि राष्ट्राणि च धन-धान्यैः युतानि भविष्यन्ति।
-In that place, there will be no fear from hunger, nor fear from theft. The cities and the nations will be endowed with wealth and grain.
+तत्र क्षुधायाः भयं तथा चौर्यात् भयं च अपि न भविष्यति। नगराणि राष्ट्राणि च
+धन-धान्यैः युतानि भविष्यन्ति।
+English Translation: In that place, there will be no fear from hunger, nor fear
+from theft. The cities and the nations will be endowed with wealth and grain.
 
 (1.1.94)
-(तस्मिन् राज्ये) सर्वे (जनाः) कृतयुग-वासिभिः सदृशाः नित्यं प्रमुदिताः भविष्यन्ति। (सः रामः) बहु-सुवर्णक-यागान् अश्वमेधयागशतानि च करिष्यति।
-Everyone will always be joyful, just as in the Krita Yuga. He (Rama) will perform hundreds of Ashvamedha yajnas and Bahusuvarnaka yajnas.
+(तस्मिन् राज्ये) सर्वे (जनाः) कृतयुग-वासिभिः सदृशाः नित्यं प्रमुदिताः
+भविष्यन्ति। (सः रामः) बहु-सुवर्णक-यागान् अश्वमेधयागशतानि च करिष्यति।
+English Translation: Everyone will always be joyful, just as in the Krita Yuga.
+He (Rama) will perform hundreds of Ashvamedha yajnas and Bahusuvarnaka yajnas.
 
 (1.1.95)
-[महायशाः] रामः ब्राह्मणेभ्यः असङ्ख्येयं धनं दत्वा, गवां कोट्ययुतं च दत्वा, ब्रह्मलोकं प्रयास्यति।
-The greatly renowned Rama, having given innumerable wealth to the Brahmanas and having given a koti-ayuta (one hundred trillion) of cows, will go to the realm of Brahma.
+[महायशाः] रामः ब्राह्मणेभ्यः असङ्ख्येयं धनं दत्त्वा, गवां कोट्ययुतं च दत्त्वा,
+ब्रह्मलोकं प्रयास्यति।
+English Translation: The greatly renowned Rama, having given innumerable wealth
+to the Brahmanas and having given a koti-ayuta (one hundred trillion) of cows,
+will go to the realm of Brahma.
 
-1.1.96
-[राघवः] रामः शतगुणान् राजवंशान् स्थापयिष्यति।  अस्मिन् लोके चातुर्वर्ण्यं च स्वे स्वे धर्मे नियोक्ष्यति।
-Raghava (Rama) will establish royal dynasties a hundredfold, and in this world, he will engage the four social orders, each in its own respective duty.
+(1.1.96)
+[राघवः] रामः शतगुणान् राजवंशान् स्थापयिष्यति। अस्मिन् लोके चातुर्वर्ण्यं च स्वे
+स्वे धर्मे नियोक्ष्यति।
+English Translation: Raghava (Rama) will establish royal dynasties a
+hundredfold, and in this world, he will engage the four social orders, each in
+its own respective duty.
 
 (1.1.97)
 रामः दशवर्षसहस्राणि दशवर्षशतानि च राज्यम् उपास्य ब्रह्मलोकं प्रयास्यति।
-Rama, having ruled the kingdom for ten thousand years and ten hundred years, will go to the realm of Brahma.
+English Translation: Rama, having ruled the kingdom for ten thousand years and
+ten hundred years, will go to the realm of Brahma.
 
-1.1.98
-यः इदं पवित्रं, पापघ्नं, पुण्यं, वेदैः च सम्मितं रामचरितं पठेत्, सः सर्वपापेभ्यः प्रमुच्यते।
-He who reads this story of Rama—which is sacred, a destroyer of sins, meritorious, and equal to the Vedas—is freed from all sins.
+(1.1.98)
+यः इदं पवित्रं, पापघ्नं, पुण्यं, वेदैः च सम्मितं रामचरितं पठेत्, सः सर्वपापेभ्यः
+प्रमुच्यते।
+English Translation: He who reads this story of Rama—which is sacred, a
+destroyer of sins, meritorious, and equal to the Vedas—is freed from all sins.
 
 (1.1.99)
-एतत् आयुष्यम् आख्यानं रामायणं पठन् नरः, सपुत्रपौत्रः सगणः च (सन्), प्रेत्य स्वर्गे महीयते।
-A person who reads this life-giving narrative, the Ramayana, will, along with his sons, grandsons, and attendants, be glorified in heaven after death.
+एतत् आयुष्यम् आख्यानं रामायणं पठन् नरः, सपुत्रपौत्रः सगणः च (सन्), प्रेत्य
+स्वर्गे महीयते।
+English Translation: A person who reads this life-giving narrative, the
+Ramayana, will, along with his sons, grandsons, and attendants, be glorified in
+heaven after death.
 
 (1.1.100)
-इदं रामायणं पठन् द्विजः वागृषभत्वम् प्राप्नुयात्। क्षत्रियः पठेत् चेत् भूमि-पतित्वम् प्राप्नुयात्। वणिग्जनः पठेत् चेत् पण्य-फलत्वम् प्राप्नुयात्। शूद्र-जनः अपि च पठेत् चेत् महत्त्वम् प्राप्नुयात्।
-A Brahmin who reads this would attain excellence in speech. A Kshatriya would attain lordship over the land. A merchant would attain profit from his trade. And even a Shudra would attain greatness.
+इदं रामायणं पठन् द्विजः वागृषभत्वम् प्राप्नुयात्। क्षत्रियः पठेत् चेत्
+भूमि-पतित्वम् प्राप्नुयात्। वणिग्जनः पठेत् चेत् पण्य-फलत्वम् प्राप्नुयात्।
+शूद्र-जनः अपि च पठेत् चेत् महत्त्वम् प्राप्नुयात्।
+English Translation: A Brahmin who reads this would attain excellence in speech.
+A Kshatriya would attain lordship over the land. A merchant would attain profit
+from his trade. And even a Shudra would attain greatness.
