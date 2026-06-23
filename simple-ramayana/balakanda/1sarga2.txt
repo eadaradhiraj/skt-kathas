@@ -1,171 +1,356 @@
 1.2.1
-[वाक्यविशारदः] [धर्मात्मा] [सः] [महामुनिः] [वाल्मीकिः] शिष्यैः सह नारदस्य [तत्] वाक्यं श्रुत्वा तम् [नारदं] पूजितवान् अभूत्।
-On hearing the words of Narada the distinguished and righteous sage Valmiki, proficient in composing slokas worshipped him along with his disciples.
+
+वाक्यविशारदः धर्मात्मा सः महामुनिः वाल्मीकिः शिष्यैः सह नारदस्य तत् वाक्यं
+श्रुत्वा तम् नारदं पूजितवान् अभूत्।
+
+On hearing the words of Narada, the distinguished and righteous sage Valmiki,
+proficient in composing slokas, worshipped him along with his disciples.
 
 1.2.2
-तदा [तेन वाल्मीकिना यथावत् पूजितः], [आपृच्छ्य एव अभ्यनुज्ञातः] [सः] [देवर्षिः] नारदः स्वर्गम् गतवान् अभूत्।
-The divine sage Narada after having been worshipped by Valmiki in a befitting manner sought his leave and went to heaven.
+
+तदा तेन वाल्मीकिना यथावत् पूजितः आपृच्छ्य एव अभ्यनुज्ञातः सः देवर्षिः नारदः
+स्वर्गम् गतवान् अभूत्।
+
+The divine sage Narada, after having been worshipped by Valmiki in a befitting
+manner, sought his leave and went to heaven.
 
 1.2.3
-तदा, [तस्मिन्] देवलोकं [गते] नारदे [सः] मुनिः [जाह्नव्याः अनतिदूरे] तमसायाः तीरं गतवान् अभूत्।
-After Narada had gone to devaloka, sage Valmiki reached the bank of river Tamasa which is not very far from the Ganges for morning ablutions.
+
+तदा तस्मिन् देवलोकं गते नारदे सः मुनिः जाह्नव्याः अनतिदूरे तमसायाः तीरं गतवान्
+अभूत्।
+
+After Narada had gone to devaloka, sage Valmiki reached the bank of river Tamasa
+which is not very far from the Ganges for morning ablutions.
 
 1.2.4
-[सः] [महामुनिः] [वाल्मीकिः] तु तमसायाः तीरं समासाद्य, [विना कर्दमं] तीर्थं दृष्ट्वा, [पार्श्वे स्थितं] शिष्यम् उक्तवान् अभूत्।
-The eminent sage Valmiki reached the bank of Tamasa and seen a descent into the river with clear waters, spoke to the disciple standing by the side.
+
+सः महामुनिः वाल्मीकिः तु तमसायाः तीरं समासाद्य विना कर्दमं तीर्थं दृष्ट्वा
+पार्श्वे स्थितं शिष्यम् उक्तवान् अभूत्।
+
+The eminent sage Valmiki reached the bank of Tamasa and having seen a descent
+into the river with clear waters, spoke to the disciple standing by the side.
 
 1.2.5
-(हे) भरद्वाज! यथा साधोः मनुष्यस्य मनः (भवति तथा), [इदम्] [विना कर्दमं] [रमणीयं] [प्रसन्न-जल-युक्तम्] तीर्थं पश्यतु भवान्।
-"O Bharadwaja, behold the beautiful and pleasant waters of this river. This holy spot is as clear and pure as the mind of a virtuous man.
+
+हे भरद्वाज यथा साधोः मनुष्यस्य मनः भवति तथा इदम् विना कर्दमं रमणीयं
+प्रसन्नजलयुक्तम् तीर्थं पश्यतु भवान्।
+
+"O Bharadwaja, behold the beautiful and pleasant waters of this river. This holy
+spot is as clear and pure as the mind of a virtuous man."
 
 1.2.6
-हे वत्स ! कलशः न्यस्यताम्। मम वल्कलं दीयताम्। अहम् इदम् उत्तमं तमसा-तीर्थम् एव प्रवेक्ष्यामि।
-"O child! Let the water pot be put down. Let my bark garment be given to me. I will enter this very excellent sacred ford of the Tamasa."
+
+हे वत्स कलशः न्यस्यताम्। मम वल्कलं दीयताम्। अहम् इदम् उत्तमं तमसातीर्थम् एव
+प्रवेक्ष्यामि।
+
+"O child! Let the water pot be put down. Let my bark garment be given to me. I
+will enter this very excellent sacred ford of the Tamasa."
 
 1.2.7
-[महात्मना] वाल्मीकिना एवम् उक्तः [नियतः] भरद्वाजः तस्मै गुरवे मुनये वल्कलं प्रदत्तवान् अभूत्।
-Thus addressed by the [great-souled] Valmiki, the [obedient] Bharadwaja gave the bark garment to that sage, his guru.
+
+महात्मना वाल्मीकिना एवम् उक्तः नियतः भरद्वाजः तस्मै गुरवे मुनये वल्कलं
+प्रदत्तवान् अभूत्।
+
+Thus addressed by the great-souled Valmiki, the obedient Bharadwaja gave the
+bark garment to that sage, his guru.
 
 1.2.8
-[नियतेन्द्रियः] सः शिष्य-हस्तात् वल्कलम् आदाय, तत् [विपुलं] वनं सर्वतः पश्यन्, विचरितवान् अभूत्।
-Valmiki who had his senses under his command received the barkgarment from the hands of his disciple and wandered about in that extensive forest, looking all around.
+
+नियतेन्द्रियः सः शिष्यहस्तात् वल्कलम् आदाय तत् विपुलं वनं सर्वतः पश्यन्
+विचरितवान् अभूत्।
+
+Valmiki who had his senses under his command received the bark garment from the
+hands of his disciple and wandered about in that extensive forest, looking all
+around.
 
 1.2.9
-[नियतेन्द्रियः] सः [वाल्मीकिः] शिष्य-हस्तात् वल्कलम् आदाय, तत् [विपुलं] वनं सर्वतः पश्यन्, विचरितवान् अभूत्।
-He, [with his senses controlled], having taken the bark garment from the disciple's hand, roamed about, looking everywhere at that [vast] forest.
+
+नियतेन्द्रियः सः वाल्मीकिः शिष्यहस्तात् वल्कलम् आदाय तत् विपुलं वनं सर्वतः
+पश्यन् विचरितवान् अभूत्।
+
+He, with his senses controlled, having taken the bark garment from the
+disciple's hand, roamed about, looking everywhere at that vast forest.
 
 1.2.10
-तस्य वाल्मीकेः पुरतः एव, [पापनिश्चयेन युक्तः] [वैरस्य निलयेन सदृशः] कश्चन निषादः तस्मात् मिथुनात् एकं पुमांसं हतवान् अभूत्।
-Right before his very eyes, a hunter, [of sinful resolve] and [an abode of enmity], killed the one male from that pair.
+
+तस्य वाल्मीकेः पुरतः एव पापनिश्चयेन युक्तः वैरस्य निलयेन सदृशः कश्चन निषादः
+तस्मात् मिथुनात् एकं पुमांसं हतवान् अभूत्।
+
+Right before his very eyes, a hunter of sinful resolve and an abode of enmity
+killed the one male from that pair.
 
 1.2.11
-तस्य क्रौञ्चस्य भार्या तु [निहतं], [रक्तेन परीताङ्गं], महीतले [वेष्टमानं] तं क्रौञ्चं दृष्ट्वा, [करुणां] गिरं रुदितवती अभूत्।
-But the mate of that krauncha bird, having seen him [killed], [with his body covered in blood], and [writhing] on the ground, cried out a [piteous] lament.
+
+तस्य क्रौञ्चस्य भार्या तु निहतं रक्तेन परीताङ्गं महीतले वेष्टमानं तं क्रौञ्चं
+दृष्ट्वा करुणां गिरं रुदितवती अभूत्।
+
+But the mate of that krauncha bird, having seen him killed, with his body
+covered in blood, and writhing on the ground, cried out a piteous lament.
 
 1.2.12
-[सा] क्रौञ्ची तेन [सहचारिणा], [ताम्रशीर्ष-युक्तेन], [मत्तेन], [पत्र-युक्तेन], [सहितेन] पक्षिणा पतिना वियुक्ता अभूत् वै।
-She, the krauncha bird, was indeed separated from that husband of hers, the bird who was her [companion], [endowed with a copper head], [impassioned], [endowed with wings], and [the one she was always with].
+
+सा क्रौञ्ची तेन सहचारिणा ताम्रशीर्षयुक्तेन मत्तेन पत्रयुक्तेन सहितेन पक्षिणा
+पतिना वियुक्ता अभूत् वै।
+
+She, the krauncha bird, was indeed separated from that husband of hers, the bird
+who was her companion, endowed with a copper head, impassioned, endowed with
+wings, and the one she was always with.
 
 1.2.13
-तदा तु निषादेन [निपातितं] तं पक्षिणं दृष्ट्वा, तस्य [धर्मात्मनः] [ऋषेः] वाल्मीकेः कारुण्यम् उत्पन्नम् अभूत्।
-Then, upon seeing that bird [struck down] by the hunter, compassion arose in that [righteous-souled] [sage] Valmiki.
+
+तदा तु निषादेन निपातितं तं पक्षिणं दृष्ट्वा तस्य धर्मात्मनः ऋषेः वाल्मीकेः
+कारुण्यम् उत्पन्नम् अभूत्।
+
+Then, upon seeing that bird struck down by the hunter, compassion arose in that
+righteous-souled sage Valmiki.
 
 1.2.14
-ततः सः द्विजः [रुदतीं] क्रौञ्चीं निशाम्य, "अयम् अधर्मः" इति (मत्वा), [करुणया] इदं वचनम् उक्तवान् अभूत्।
-Then that sage, having observed the [crying] kraunchi and thinking, "This is unrighteousness," spoke this utterance [out of compassion].
+
+ततः सः द्विजः रुदतीं क्रौञ्चीं निशाम्य अयम् अधर्मः इति मत्वा करुणया इदं वचनम्
+उक्तवान् अभूत्।
+
+Then that sage, having observed the crying kraunchi and thinking, "This is
+unrighteousness," spoke this utterance out of compassion.
 
 1.2.15
-"हे निषाद! यत् त्वं क्रौञ्चमिथुनात् एकम् [काममोहितं] हतवान् अभूः, तत् कारणात् त्वं कदापि प्रतिष्ठां न प्राप्स्यसि।"
-"O hunter, because you killed one of the krauncha pair while it was [deluded by passion], you will never attain fame!"
+
+हे निषाद यत् त्वं क्रौञ्चमिथुनात् एकम् काममोहितं हतवान् अभूः तत्कारणात् त्वं
+कदापि प्रतिष्ठां न प्राप्स्यसि।
+
+"O hunter, because you killed one of the krauncha pair while it was deluded by
+passion, you will never attain fame!"
 
 1.2.16
-एवम् उक्त्वा [वीक्षमाणः] सः, “अस्य शकुनेः [शोकेन आर्तेन] मया इदं किं व्याहृतम्?” इति हृदि चिन्तितवान् अभूत् वाल्मीकिः।
-Having spoken thus, he, [while reflecting], thought in his heart: "What is this that has been uttered by me, [who am afflicted] by grief for this bird?"
+
+एवम् उक्त्वा वीक्षमाणः सः अस्य शकुनेः शोकेन आर्तेन मया इदं किं व्याहृतम् इति
+हृदि चिन्तितवान् अभूत् वाल्मीकिः।
+
+Having spoken thus, he, while reflecting, thought in his heart: "What is this
+that has been uttered by me, who am afflicted by grief for this bird?"
 
 1.2.17
-सः [महाप्राज्ञः] [मतिमान्] [मुनिपुङ्गवः] वाल्मीकिः चिन्तयन्, मतिं कृत्वा, शिष्यम् इदं वाक्यम् एव उक्तवान् अभूत्।
-That [very wise], [intelligent], and [pre-eminent sage], while thinking, having made a decision, spoke this very sentence to the disciple.
+
+सः महाप्राज्ञः मतिमान् मुनिपुङ्गवः वाल्मीकिः चिन्तयन् मतिं कृत्वा शिष्यम् इदं
+वाक्यम् एव उक्तवान् अभूत्।
+
+That very wise, intelligent, and pre-eminent sage, while thinking, having made a
+decision, spoke this very sentence to the disciple.
 
 1.2.18
-"[शोकार्तस्य] मम मुखात् यः शब्दः प्रवृत्तः, सः [पादैः बद्धः], [यस्य प्रत्येकस्मिन् पादे अक्षरसङ्ख्या समा], [तन्त्री-लयेन समन्वितः] श्लोकः भवतु, न अन्यथा।"
-"Let that which has come forth from me, [who am afflicted by grief], be a shloka that is [bound in metrical feet], [with an equal number of syllables], and [endowed with the rhythm of a stringed instrument]—and not otherwise."
+
+शोकार्तस्य मम मुखात् यः शब्दः प्रवृत्तः सः पादैः बद्धः यस्य प्रत्येकस्मिन् पादे
+अक्षरसङ्ख्या समा तन्त्रीलयेन समन्वितः श्लोकः भवतु न अन्यथा।
+
+"Let that which has come forth from me, who am afflicted by grief, be a shloka
+that is bound in metrical feet, with an equal number of syllables, and endowed
+with the rhythm of a stringed instrument—and not otherwise."
 
 1.2.19
-[संहृष्टः] शिष्यः तु तस्य ब्रुवतः मुनेः [अनुत्तमं] वाक्यं प्रतिगृहीतवान् अभूत्। तस्य गुरुः च तुष्टः अभवत्।
-The [delighted] disciple accepted the [unsurpassed] sentence of the speaking sage. And his guru was pleased with him.
+
+संहृष्टः शिष्यः तु तस्य ब्रुवतः मुनेः अनुत्तमं वाक्यं प्रतिगृहीतवान् अभूत्। तस्य
+गुरुः च तुष्टः अभवत्।
+
+The delighted disciple accepted the unsurpassed sentence of the speaking sage.
+And his guru was pleased with him.
 
 1.2.20
-ततः [सः] [मुनिः] वाल्मीकिः तस्मिन् तीर्थे [यथाविधि] अभिषेकं कृत्वा, तम् एव अर्थं [चिन्तयन्], प्रत्यागतः।
-Then that [sage] Valmiki, having performed his ablution in that sacred ford [according to the rules], returned, [while thinking] about that very matter.
+
+ततः सः मुनिः वाल्मीकिः तस्मिन् तीर्थे यथाविधि अभिषेकं कृत्वा तम् एव अर्थं
+चिन्तयन् प्रत्यागतः।
+
+Then that sage Valmiki, having performed his ablution in that sacred ford
+according to the rules, returned, while thinking about that very matter.
 
 1.2.21
-ततः [मुनेः] वाल्मीकेः [विनीतः] [शास्त्र-विशारदः] [शिष्यः] भरद्वाजः [पूर्णं] कलशम् आदाय, पृष्ठतः अनुगतवान् अभूत्।
-Then Bharadwaja, the [humble], [well-versed] and [attentive] disciple of the sage, having taken the [full] water pot, followed behind him.
+
+ततः मुनेः वाल्मीकेः विनीतः शास्त्रविशारदः शिष्यः भरद्वाजः पूर्णं कलशम् आदाय
+पृष्ठतः अनुगतवान् अभूत्।
+
+Then Bharadwaja, the humble, well-versed and attentive disciple of the sage,
+having taken the full water pot, followed behind him.
 
 1.2.22
-[धर्मज्ञः] सः शिष्येण सह आश्रमपदं प्रविश्य, [ध्यानम् आस्थितः] उपविष्टः च (सन्), अन्याः कथाः च रचितवान् अभूत्।
-He, [the knower of dharma], having entered the hermitage grounds with his disciple, sat down and, [resorting to contemplation], also composed other tales.
+
+धर्मज्ञः सः शिष्येण सह आश्रमपदं प्रविश्य ध्यानम् आस्थितः उपविष्टः च सन् अन्याः
+कथाः च रचितवान् अभूत्।
+
+He, the knower of dharma, having entered the hermitage grounds with his
+disciple, sat down and, resorting to contemplation, also composed other tales.
 
 1.2.23
-ततः [लोककर्ता], [स्वयं प्रभुः], [चतुर्मुखः], [महातेजाः] ब्रह्मा तं मुनिपुङ्गवं द्रष्टुम् आगतवान् अभूत्।
-Then Brahma—[the creator of the worlds], [the lord himself], [the four-faced one], [of great splendor]—came to see that pre-eminent sage.
+
+ततः लोककर्ता स्वयं प्रभुः चतुर्मुखः महातेजाः ब्रह्मा तं मुनिपुङ्गवं द्रष्टुम्
+आगतवान् अभूत्।
+
+Then Brahma—the creator of the worlds, the lord himself, the four-faced one, of
+great splendor—came to see that pre-eminent sage.
 
 1.2.24
-अथ [वाक्संयमेन युक्तः] [परम-विस्मितः] वाल्मीकिः तं दृष्ट्वा, सहसा उत्थाय, [प्राञ्जलिः] [प्रयतः] च भूत्वा, स्थितवान् अभूत्।
-Then Valmiki, [speech-controlled] and [greatly astonished], having seen him, suddenly rose and, becoming [devout and with folded hands], stood still.
+
+अथ वाक्संयमेन युक्तः परमविस्मितः वाल्मीकिः तं दृष्ट्वा सहसा उत्थाय प्राञ्जलिः
+प्रयतः च भूत्वा स्थितवान् अभूत्।
+
+Then Valmiki, speech-controlled and greatly astonished, having seen him,
+suddenly rose and, becoming devout and with folded hands, stood still.
 
 1.2.25
-[सः] वाल्मीकिः तं [विधिवत्] प्रणम्य, [अव्ययम्] अनामयं च पृष्ट्वा, तं देवं पादयोः अर्घ्येण, आसनेन, वन्दनैः च पूजितवान् अभूत्।
-He, Valmiki, having duly bowed to him and having asked after his imperishable well-being, worshipped that god with a water offering for his feet, with a seat, and with salutations.
+
+सः वाल्मीकिः तं विधिवत् प्रणम्य अव्ययम् अनामयं च पृष्ट्वा तं देवं पादयोः
+अर्घ्येण आसनेन वन्दनैः च पूजितवान् अभूत्।
+
+He, Valmiki, having duly bowed to him and having asked after his imperishable
+well-being, worshipped that god with a water offering for his feet, with a seat,
+and with salutations.
 
 1.2.26
-अथ [भगवान्] ब्रह्मा [परम-अर्चिते] आसने उपविश्य, ततः [महर्षये] वाल्मीकये आसनम् सन्दिष्टवान् अभूत्।
-Then the Lord Brahma, having sat down on the [highly honored] seat, thereupon offered a seat to Valmiki, [the great sage].
+
+अथ भगवान् ब्रह्मा परमार्चिते आसने उपविश्य ततः महर्षये वाल्मीकये आसनम्
+सन्दिष्टवान् अभूत्।
+
+Then the Lord Brahma, having sat down on the highly honored seat, thereupon
+offered a seat to Valmiki, the great sage.
 
 1.2.27
-तदा तस्मिन् साक्षात् [लोकपितामहे] ब्रह्मदेवे उपविष्टे (सति), सः अपि ब्रह्मणा [समनुज्ञातः सन्] आसने उपविष्टवान् अभूत्।
-Then, when he, the god Brahma, [the grandfather of the worlds] in person, had sat down, he (Valmiki), [having been permitted] by Brahma, also sat down on a seat.
+
+तदा तस्मिन् साक्षात् लोकपितामहे ब्रह्मदेवे उपविष्टे सति सः अपि ब्रह्मणा
+समनुज्ञातः सन् आसने उपविष्टवान् अभूत्।
+
+Then, when he, the god Brahma, the grandfather of the worlds in person, had sat
+down, he (Valmiki), having been permitted by Brahma, also sat down on a seat.
 
 1.2.28
-वाल्मीकिः गतायां घटनायाम् एव मनसा ध्यानम् कुर्वन्, [आखेटं गृहीतुं वैरबुद्ध्या युक्तेन] [पापात्मना] निषादेन कृतं कष्टं चिन्तितवान् अभूत्।
-Valmiki, [resorting to contemplation] with his mind fixed on that very matter, thought about the cruel deed done by the [evil-souled] one, [whose intention was to catch the prey].
+
+वाल्मीकिः गतायां घटनायाम् एव मनसा ध्यानम् कुर्वन् आखेटं गृहीतुं वैरबुद्ध्या
+युक्तेन पापात्मना निषादेन कृतं कष्टं चिन्तितवान् अभूत्।
+
+Valmiki, resorting to contemplation with his mind fixed on that very matter,
+thought about the cruel deed done by the evil-souled one, whose intention was to
+catch the prey.
 
 1.2.29
-निषादः अकारणात् तादृशं [मधुरेण रवेण युक्तं] क्रौञ्चं हतवान् इति पुनः [शोचन्] एव, सः वाल्मीकिः क्रौञ्चीम् उपलक्ष्य इमम् श्लोकम् उक्तवान् अभूत्।
-While again grieving that the hunter had killed such a [sweet-sounding] krauncha for no reason, he Valmiki, addressing the female krauncha, uttered this shloka.
+
+निषादः अकारणात् तादृशं मधुरेण रवेण युक्तं क्रौञ्चं हतवान् इति पुनः शोचन् एव सः
+वाल्मीकिः क्रौञ्चीम् उपलक्ष्य इमम् श्लोकम् उक्तवान् अभूत्।
+
+While again grieving that the hunter had killed such a sweet-sounding krauncha
+for no reason, he Valmiki, addressing the female krauncha, uttered this shloka.
 
 1.2.30
-ततः ब्रह्मा, पुनः [अन्तर्गतमनस्कं] [शोके परायणं] तं मुनिपुङ्गवम् [प्रहसन्] उक्तवान् अभूत्।
-Then Brahma, [smiling], spoke to that pre-eminent sage, Valmiki, who was again [with his mind turned inward] and [devoted to grief].
+
+ततः ब्रह्मा पुनः अन्तर्गतमनस्कं शोके परायणं तं मुनिपुङ्गवम् प्रहसन् उक्तवान्
+अभूत्।
+
+Then Brahma, smiling, spoke to that pre-eminent sage, Valmiki, who was again
+with his mind turned inward and devoted to grief.
 
 1.2.31
-"हे [ब्रह्मर्षे] वाल्मीके! त्वया अयम् श्लोकः एव रचितः। अत्र विचारणा अनावश्यकी। इयं वाणी मम इच्छानुसारेण एव तव (मुखात्) प्रवृत्ता।"
-"O Brahmarsi Valmiki! What has been composed by you is indeed a shloka; there should be no hesitation in this. This stream of speech (Sarasvati) has flowed from you only by my will."
+
+हे ब्रह्मर्षे वाल्मीके त्वया अयम् श्लोकः एव रचितः। अत्र विचारणा अनावश्यकी। इयं
+वाणी मम इच्छानुसारेण एव तव मुखात् प्रवृत्ता।
+
+"O Brahmarsi Valmiki! What has been composed by you is indeed a shloka; there
+should be no hesitation in this. This stream of speech (Sarasvati) has flowed
+from you only by my will."
 
 1.2.32
-"हे [ऋषिसत्तम] वाल्मीके! त्वं लोके [धर्मात्मनः] [भगवतः] [धीमतः] रामस्य [कृत्स्नं] चरितं रचय।"
-"O [best of sages], Valmiki! You should compose the [entire] story of Rama, who is [righteous], [divine], and [wise] in the world."
+
+हे ऋषिसत्तम वाल्मीके त्वं लोके धर्मात्मनः भगवतः धीमतः रामस्य कृत्स्नं चरितं रचय।
+
+"O best of sages, Valmiki! You should compose the entire story of Rama, who is
+righteous, divine, and wise in the world."
 
 1.2.33
-"हे वाल्मीके! त्वं [धीरस्य] तस्य [धीमतः] रामस्य यत् [रहस्यं] [प्रकाशं] च नारदात् श्रुतं वृत्तम् कथय।"
-"Tell the story of that [steadfast] and [wise] one (Rama)—whatever is [secret] and [public]—just as it was heard by you from Narada."
+
+हे वाल्मीके त्वं धीरस्य तस्य धीमतः रामस्य यत् रहस्यं प्रकाशं च नारदात् श्रुतं
+वृत्तम् कथय।
+
+"Tell the story of that steadfast and wise one (Rama)—whatever is secret and
+public—just as it was heard by you from Narada."
 
 1.2.34
-"त्वं [सौमित्रिणा सह] रामस्य, [सर्वशः] राक्षसानां, वैदेह्याः च एव यत् [प्रकाशं] यदि वा [रहस्यं] सर्वं वृत्तम् कथय।"
-"Tell the entire story of Rama [along with Saumitri], of all the Rakshasas, and of Vaidehi as well—whatever is [public] or [secret]."
+
+त्वं सौमित्रिणा सह रामस्य सर्वशः राक्षसानां वैदेह्याः च एव यत् प्रकाशं यदि वा
+रहस्यं सर्वं वृत्तम् कथय।
+
+"Tell the entire story of Rama along with Saumitri, of all the Rakshasas, and of
+Vaidehi as well—whatever is public or secret."
 
 1.2.35
-तत् सर्वम् अपि यत् त्वया [अविदितम्] तत् सर्वं विदितं भविष्यति। अत्र काव्ये तव काचित् वाक् अनृता न भविष्यति।
-"And all that which is [unknown] to you will become known to you. Not a single word of yours in this poem will be untrue."
+
+तत् सर्वम् अपि यत् त्वया अविदितम् तत् सर्वं विदितं भविष्यति। अत्र काव्ये तव
+काचित् वाक् अनृता न भविष्यति।
+
+"And all that which is unknown to you will become known to you. Not a single
+word of yours in this poem will be untrue."
 
 1.2.36
-"हे वाल्मीके! त्वं [पुण्यां] [मनोरमां] [श्लोकैः बद्धाम्] रामकथां रचय। सा कथा यावत् महीतले गिरयः नद्यः च स्थास्यन्ति, तावत् लोके स्थास्यति।"
-"Oh valmiki, Compose the [holy], [beautiful] story of Rama, [bound in shlokas]. As long as the mountains and rivers shall stand on the face of the earth, so long will that story stand (in the world)."
+
+हे वाल्मीके त्वं पुण्यां मनोरमां श्लोकैः बद्धाम् रामकथां रचय। सा कथा यावत्
+महीतले गिरयः नद्यः च स्थास्यन्ति तावत् लोके स्थास्यति।
+
+"O Valmiki, compose the holy, beautiful story of Rama, bound in shlokas. As long
+as the mountains and rivers shall stand on the face of the earth, so long will
+that story stand (in the world)."
 
 1.2.37
-"हे वाल्मीके! [तावत्] रामायणकथा लोकेषु प्रचरिष्यति, [यावत्] [त्वत्-कृता] रामस्य [कथा] प्रचरिष्यति।"
-"O Vālmīki! The story of the Rāmāyaṇa shall spread among the people as long as the tale of Rāma, [composed by you], continues to be spread."
+
+हे वाल्मीके तावत् रामायणकथा लोकेषु प्रचरिष्यति यावत् त्वत्कृता रामस्य कथा
+प्रचरिष्यति।
+
+"O Vālmīki! The story of the Rāmāyaṇa shall spread among the people as long as
+the tale of Rāma, composed by you, continues to be spread."
 
 1.2.38
-"हे वाल्मीके! [तावत् ऊर्ध्वम् अधः च] त्वं [मत्-लोकेषु] निवत्स्यसि।" इति [उक्त्वा] [भगवान्] ब्रह्मा तत्र एव [अन्तर्धानं कृतवान् अभूत्]। ततः सः [शिष्यैः सहितः] [भगवान्] [मुनिः] [विस्मयम् आगतः अभूत्]।
-"O Vālmīki! You shall dwell in my worlds [above and below] for so long." Having said this, the blessed Brahmā [became disappeared] right there. Then [along with his disciples], the revered [sage], Valmiki, [became filled with wonder].
+
+हे वाल्मीके तावत् ऊर्ध्वम् अधः च त्वं मल्लोकेषु निवत्स्यसि। इति उक्त्वा भगवान्
+ब्रह्मा तत्र एव अन्तर्धानं कृतवान् अभूत्। ततः सः शिष्यैः सहितः भगवान् मुनिः
+विस्मयम् आगतः अभूत्।
+
+"O Vālmīki! You shall dwell in my worlds above and below for so long." Having
+said this, the blessed Brahmā disappeared right there. Then along with his
+disciples, the revered sage, Valmiki, became filled with wonder.
 
 1.2.39
-ततः तस्य [शिष्याः] सर्वे [पुनः पुनः] [रममाणाः] [बहु विस्मिताः च] [इमं श्लोकम्] [गीतवन्तः च प्रोक्तवन्तः अभूवन्]।
-Then all his [disciples], [again and again], [rejoicing] and [greatly astonished], [sang and spoke this verse].
+
+ततः तस्य शिष्याः सर्वे पुनः पुनः रममाणाः बहु विस्मिताः च इमं श्लोकम् गीतवन्तः च
+प्रोक्तवन्तः अभूवन्।
+
+Then all his disciples, again and again, rejoicing and greatly astonished, sang
+and spoke this verse.
 
 1.2.40
-यः [श्लोकः] [अक्षर-समैः चतुर्भिः पादैः] [महर्षिणा] वाल्मीकिना [गीतः अभूत्], सः [पुनरुच्चारणेन बहु] [श्लोकत्वम् प्राप्तवान् अभूत्]।
-That [verse], which was [sung] by the [great sage] Valmīki with [four quarters of equal syllables], through [repeated recitation], [again attained the state of being a verse].
+
+यः श्लोकः अक्षरसमैः चतुर्भिः पादैः महर्षिणा वाल्मीकिना गीतः अभूत् सः
+पुनरुच्चारणेन बहु श्लोकत्वम् प्राप्तवान् अभूत्।
+
+That verse, which was sung by the great sage Valmīki with four quarters of equal
+syllables, through repeated recitation, again attained the state of being a
+verse.
 
 1.2.41
-[भावितात्मनः] तस्य वाल्मीकेः इयं मतिः जाता अभूत्, यत् "अहम् ईदृशैः (श्लोकैः) [कृत्स्नं] रामायणं काव्यं करवाणि" इति।
-This thought arose in that Valmiki, [of purified soul]: "Let me compose the [entire] Ramayana poem with such (shlokas)."
+
+भावितात्मनः तस्य वाल्मीकेः इयं मतिः जाता अभूत् यत् अहम् ईदृशैः श्लोकैः कृत्स्नं
+रामायणं काव्यं करवाणि इति।
+
+This thought arose in that Valmiki, of purified soul: "Let me compose the entire
+Ramayana poem with such shlokas."
 
 1.2.42
-तदा [कीर्तिमान्] [उदारबुद्धिः] [मुनिः] वाल्मीकिः [मनोरमैः] [उदार-वृत्तैः] [अर्थ-पदैः] च [अक्षर-समैः] श्लोक-शतैः च [यशस्विनः] रामस्य [यशस्करं] काव्यं रचितवान् अभूत्।
-The renowned and sagacious sage, Valmiki, composed a kavya with hundreds of charming verses, each containing equal number of syllables and excellent meaningful words set in metre, conferring glory on celebrated Rama.
+
+तदा कीर्तिमान् उदारबुद्धिः मुनिः वाल्मीकिः मनोरमैः उदारवृत्तैः अर्थपदैः च
+अक्षरसमैः श्लोकशतैः च यशस्विनः रामस्य यशस्करं काव्यं रचितवान् अभूत्।
+
+The renowned and sagacious sage, Valmiki, composed a kavya with hundreds of
+charming verses, each containing equal number of syllables and excellent
+meaningful words set in metre, conferring glory on celebrated Rama.
 
 1.2.43
-भोः जनाः! [अन्तर्भूतैः समासैः सन्धिभिः च युक्तं], [समता-युक्तैः मधुरैः उपनतैः अर्थैः वाक्यैः बद्धं], [मुनिना वाल्मीकिना प्रणीतं] [रघुवरस्य] रामस्य चरितं, [दशकण्ठस्य] रावणस्य वधः च श्रूयताम्।
-O people! Let the story of Rama, [the best of the Raghus], and the slaying of Ravana, [the ten-necked one], be heard—[composed by the sage Valmiki], [endowed with embedded compounds and sandhis], and [bound in sentences with balanced, sweet, and well-presented meanings].
+
+भोः जनाः अन्तर्भूतैः समासैः सन्धिभिः च युक्तं समतायुक्तैः मधुरैः उपनतैः अर्थैः
+वाक्यैः बद्धं मुनिना वाल्मीकिना प्रणीतं रघुवरस्य रामस्य चरितं दशकण्ठस्य रावणस्य
+वधः च श्रूयताम्।
+
+O people! Let the story of Rama, the best of the Raghus, and the slaying of
+Ravana, the ten-necked one, be heard—composed by the sage Valmiki, endowed with
+embedded compounds and sandhis, and bound in sentences with balanced, sweet, and
+well-presented meanings.
