@@ -7,7 +7,7 @@ Parashurama - "The breaking of the bow was also heard by me [completely]."
 1.75.2
 परशुरामः - "त्वया धनुषः तत् [अद्भुतम्] [अचिन्त्यम्] च भेदनम् कृतम् ।"
 Parashurama - "That [marvellous] and [unimaginable] breaking of the bow was done by you."
-परशुरामः - "अहम् तत् श्रुत्वा [शुभम्] [अपरम्] धनुः गृह्य अनुप्राप्तः ।"
+परशुरामः - "अहम् तत् श्रुत्वा [शुभम्] [अपरम्] धनुः **गृहीत्वा** अनुप्राप्तः ।"
 Parashurama - "Having heard that, I have arrived bringing [another] [auspicious] bow."
 
 1.75.3
@@ -17,7 +17,7 @@ Parashurama - "This is the [dreadful-looking] [mighty] bow [belonging to the son
 Parashurama - "Fill (the bow) with an arrow only and show your own prowess."
 
 1.75.4
-परशुरामः - "हे राघव । अस्य धनुषः प्रपूरणे तव बलम् दृष्ट्वा (अहम्) [वीर्य-श्लाघ्यस्य] (तुभ्यम्) द्वन्द्व-युद्धम् प्रदास्यामि ।"
+परशुरामः - "हे राघव । अस्य धनुषः प्रपूरणे तव बलम् दृष्ट्वा (अहम्) **[वीर्य-श्लाघ्याय]** (तुभ्यम्) द्वन्द्व-युद्धम् प्रदास्यामि ।"
 Parashurama - "O Rama, having seen your strength in the stringing of this bow, I shall engage (you) [who are praised for your prowess] in a duel."
 
 1.75.5
@@ -45,7 +45,7 @@ Dasharatha - "(You) [have made your residence on Mount Mahendra]."
 1.75.9
 दशरथः - "हे [महामुने] । त्वम् मम सर्व-विनाशाय सम्प्राप्तः ।"
 Dasharatha - "O [great sage], you have arrived for my total destruction."
-दशरथः - "एके रामे हते (सति) वयम् सर्वे न जीवामः ।"
+दशरथः - "**एकस्मिन्** रामे हते (सति) वयम् सर्वे न जीवामः ।"
 Dasharatha - "If the one Rama is killed, we all will not live."
 
 1.75.10
@@ -77,7 +77,7 @@ Parashurama - "Then all the gods asked the Grandsire (Brahma) for the investigat
 Parashurama - "The Grandsire (Brahma), the [foremost among the truthful], having known the intention of the gods, produced a conflict between the two."
 
 1.75.16
-परशुरामः - "विरोधे [परस्पर-जिगीषुणोः] शितिकण्ठस्य विष्णोः च [रोम-हर्षणम्] [महत्] युद्धम् भूतम् ।"
+परशुरामः - "विरोधे **[परस्पर-जिगीष्वोः]** शितिकण्ठस्य विष्णोः च [रोम-हर्षणम्] [महत्] युद्धम् भूतम् ।"
 Parashurama - "In the conflict, a [great], [hair-raising] battle occurred between Shiva and Vishnu [who were both desiring victory over each other]."
 
 1.75.17
