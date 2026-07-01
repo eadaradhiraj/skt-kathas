@@ -3,7 +3,7 @@
 [पुरोहिते] वसिष्ठे गते (सति) रामः स्नातः [नियत-मानसः] च अभूत् । When the priest
 [Vashistha] had gone, Rama bathed and became [one with a controlled mind].
 
-रामः [विशाल-अक्ष्या] पत्न्या सीतया सह नारायणम् उपगतः । Rama approached Lord
+रामः [विशालाक्ष्या] पत्न्या सीतया सह नारायणम् उपगतः । Rama approached Lord
 Narayana along with his [large-eyed] wife Sita.
 
 2.6.2
@@ -17,9 +17,9 @@ Vishnu.
 
 2.6.3
 
-[नर-वर-आत्मजः] रामः [हविषः] शेषम् [आत्मनः] प्रियम् आशासितवान् च प्राशितवान् अभूत् ।
-[The son of the best of men] Rama partook of the remainder of the [oblation]
-and desired his own welfare.
+[नर-वर-आत्मजः] रामः [हविषः] शेषम् [आत्मनः] प्रियम् आशासितवान् च प्राशितवान्
+अभूत् । [The son of the best of men] Rama partook of the remainder of the
+[oblation] and desired his own welfare.
 
 रामः [देवम्] नारायणम् ध्यायन् [सु-आस्तीर्णे] [कुश-संस्तरे] (स्थितः) अभूत् । Rama
 was meditating on [Lord] Narayana (while) on a [well-spread] [bed of kusha
@@ -27,7 +27,7 @@ grass].
 
 2.6.4
 
-रामः [वैदेही-सहितः] [वाक्-यतः] [नियत-मानसः] च अभूत् । Rama became [silent] and
+रामः [वैदेही-सहितः] [वाग्-यतः] [नियत-मानसः] च अभूत् । Rama became [silent] and
 [with a restrained mind] along with [Vaidehi (Sita)].
 
 [नर-वर-आत्मजः] रामः [विष्णोः] [श्रीमति] आयतने सुप्तः । [The son of the best of
@@ -46,9 +46,9 @@ house was caused to be done by Rama.
 तत्र रामेण [सूत-मागध-वन्दिनाम्] [सुखाः] वाचः श्रुताः । There, the [pleasant]
 words [of bards, panegyrists, and singers] were heard by Rama.
 
-[यत-मानसः] रामः [पूर्वाम्] सन्ध्याम् उपासीनः भूत्वा (मन्त्रम्) जपितवान् अभूत् ।
-With [a controlled mind], Rama, having performed the [morning] twilight rites,
-chanted (the prayer).
+[यत-मानसः] रामः [पूर्वाम्] सन्ध्याम् उपास्य (मन्त्रम्) जपितवान् अभूत् । With [a
+controlled mind], Rama, having performed the [morning] twilight rites, chanted
+(the prayer).
 
 2.6.7
 
@@ -95,8 +95,8 @@ people).
 
 2.6.12
 
-[नाना-पण्य-समृद्धेषु] वणिजाम् आपणेषु च (प्रजया) [चित्राः] ध्वजाः [समुच्छ्रिताः] ।
-In the shops of merchants [abounding in various goods], [colorful] banners
+[नाना-पण्य-समृद्धेषु] वणिजाम् आपणेषु च (प्रजया) [चित्राः] ध्वजाः [समुच्छ्रिताः]
+। In the shops of merchants [abounding in various goods], [colorful] banners
 were [raised] (by the people).
 
 कुटुम्बिनाम् [समृद्धेषु] [श्रीमत्सु] भवनेषु च (प्रजया) [चित्राः] पताकाः
@@ -139,7 +139,7 @@ squares and in the houses.
 
 2.6.17
 
-तदा [सिक्त-सम्मृष्ट-रथ्यासु] [बहु-पुष्प-उपहारिषु] राज-मार्गेषु (प्रजाः)
+तदा [सिक्त-सम्मृष्ट-रथ्येषु] [बहु-पुष्प-उपहारिषु] राज-मार्गेषु (प्रजाः)
 (स्थिताः) अभूवन् । Then (citizens) were (present) on the highways
 [whose streets were sprinkled and swept] [which were offering many flowers].
 
@@ -157,7 +157,7 @@ streets, lamp-stands were made (by the people).
 
 2.6.19
 
-[तत्-पुर-वासिभिः] (पौर-प्रजाभिः) पुरस्य अलङ्कारः एवम् कृतः । The decoration of
+[तत्-पुर-वासिनीभिः] (पौर-प्रजाभिः) पुरस्य अलङ्कारः एवम् कृतः । The decoration of
 the city was thus made by (the citizens) [who were the inhabitants of that
 city].
 
@@ -176,7 +176,7 @@ Dasharatha was praised by (the citizens) while conversing with each other.
 
 पौर-प्रजा - "अहो [अयम्] [दशरथः] [इक्ष्वाकु-कुल-नन्दनः] [महा-आत्मा] राजा ।"
 Citizens - "Oh! [This] [Dasharatha] is [the delight of the Ikshvaku race] (and)
-[great-souled] king."
+a [great-souled] king."
 
 पौर-प्रजा - "दशरथः आत्मानम् वृद्धम् ज्ञात्वा रामम् राज्ये अभिषेक्ष्यति ।"
 Citizens - "Dasharatha, having known himself (to be) old, will consecrate Rama
@@ -184,9 +184,9 @@ in the kingdom."
 
 2.6.22
 
-पौर-प्रजा - "[सर्वे] (वयम्) अनुगृहीताः अभूम यतः [मही-पतिः] रामः अस्माकम् (नृपः)
-भविष्यति ।" Citizens - "We [all] have been blessed because [the lord of the
-earth] Rama will be our (king)."
+पौर-प्रजा - "[सर्वे] (वयम्) अनुगृहीताः यतः [मही-पतिः] रामः अस्माकम् (नृपः)
+भविष्यति ।" Citizens - "We [all] are blessed because [the lord of
+the earth] Rama will be our (king)."
 
 पौर-प्रजा - "[दृष्ट-लोक-परावरः] रामः चिराय अस्माकम् [गोप्ता] भविष्यति ।"
 Citizens - "Rama, [who has seen the world's high and low], will be our
@@ -221,11 +221,11 @@ were heard by the [news-informed] [village-people].
 
 2.6.26
 
-[जानपद-प्रजा] राम-अभिषेचनम् द्रष्टुम् दिग्भ्यः पुरीम् प्राप्ता । The
+[जानपद-प्रजा] राम-अभिषेचनम् द्रष्टुम् दिग्भ्यः पूरीम् प्राप्ता । The
 [village-people] arrived at the city from various directions to see the
 coronation of Rama.
 
-रामस्य पुरी [जानपद-प्रजया] पूरिता । The city of Rama was filled by the
+रामस्य पूरी [जानपद-प्रजया] पूरिता । The city of Rama was filled by the
 [village-people].
 
 2.6.27

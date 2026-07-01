@@ -89,14 +89,14 @@ Devas - "The three worlds, [with agitated minds], are as if [bewildered]."
 Devas - "By the brilliance of that [great sage] Visvamitra, the sun indeed is [without radiance]."
 
 1.65.16
-देवाः - "हे देव यावत् [महा-मुनिः] विश्वामित्रः नाशे बुद्धिं न कुरुते ।"
-Devas - "O Lord, as long as [the great ascetic] Visvamitra does not set his mind on destruction."
+देवाः - "हे देव यावत् [महा-मुनिः] विश्वामित्रः नाशे बुद्धिं न कुरुते ,"
+Devas - "O Lord, as long as [the great ascetic] Visvamitra does not set his mind on destruction,"
 देवाः - "तावत् [अग्नि-रूपः] [महा-द्युतिः] [भगवान्] (विश्वामित्रः) प्रसाद्यः (अस्ति) ।"
-Devas - "Until then, the [venerable] (Visvamitra), [having the form of fire] and [greatly effulgent], must be appeased."
+Devas - "until then, the [venerable] (Visvamitra), [having the form of fire] and [greatly effulgent], must be appeased."
 
 1.65.17
 देवाः - "यथा पूर्वं काल-अग्निना [अखिलं] त्रैलोक्यं दह्यते (तथा इदानीं विश्वामित्रेण दह्यते) ।"
-Devas - "Just as the [entire] three worlds are burned by the fire of time previously, (so they are burned by Visvamitra now)."
+Devas - "Just as the [entire] three worlds were burned by the fire of time previously, (so they are burned by Visvamitra now)."
 देवाः - "अस्य विश्वामित्रस्य यत् मतं (तत्) दीयताम् (यदि विश्वामित्रः) देव-राज्यं चिकीर्षेत (तदपि दीयताम्) ।"
 Devas - "Whatever is desired of this Visvamitra, let (that) be given; (if Visvamitra) wishes to rule the kingdom of gods, (let that also be given)."
 
@@ -212,7 +212,7 @@ Janaka - "Your austerity is [immeasurable], and your strength is [immeasurable].
 जनकः - "हे [कुशिक-आत्मज] तव [अप्रमेयाः] गुणाः च एव नित्यम् (सन्ति) ।"
 Janaka - "O [son of Kushika], your [immeasurable] qualities indeed are constant."
 जनकः - "हे विभो मम [आश्चर्य-भूतानां] कथानां तृप्तिः न अस्ति ।"
-Janaka - "O omnipresent Lord, my satisfaction of [wondrous] stories is not."
+Janaka - "O omnipresent Lord, there is no satiety/satisfaction for me from [wondrous] stories."
 
 1.65.36
 जनकः - "हे [मुनि-श्रेष्ठ] कर्म-कालः (अस्ति) रवि-मण्डलं लम्बते ।"
@@ -221,8 +221,8 @@ Janaka - "O [best of ascetics], the time for rituals (is here); the solar disc i
 Janaka - "O [greatly resplendent one], tomorrow in the morning (you) ought to see me again."
 
 1.65.37
-जनकः - "हे तपस्विनाम् [श्रेष्ठ] (तव) स्वागतम् (अहं) माम् अनुज्ञातुम् अर्हसि ।"
-Janaka - "O [best] of ascetics, (your) welcome (is here); (you) ought to grant permission to me."
+जनकः - "हे तपस्विनाम् [श्रेष्ठ] । (तव) स्वागतम् । माम् अनुज्ञातुम् अर्हसि ।"
+Janaka - "O [best] of ascetics! Let there be welcome (to you). (You) ought to grant permission to me."
 एवम् उक्ते [मुनि-वरेण] [पुरुष-ऋषभः] प्रशस्तः ।
 Valmiki - "When it was thus spoken, the [best of men] was praised by the [excellent ascetic]."
 

@@ -1,4 +1,3 @@
-
 1.61.1
 शतानन्दः - अथ [महा-आत्मना] विश्वामित्रेण [प्रस्थिताः] ते ऋषयः प्रेक्षिताः ।
 Shatananda - Thereafter those [departing] sages were seen by the [magnanimous] Vishvamitra.
@@ -27,7 +26,7 @@ Shatananda - [Intense] [unsurpassable] austerity was performed by (Vishvamitra) 
 शतानन्दः - एतस्मिन् एव काले तु [अयोध्या-अधिपतिना] नृपेण ।
 Shatananda - But at this very time, by the king [lord of Ayodhya].
 शतानन्दः - अम्बरीषेण नाम [ख्यातेन] (तेन) यज्ञः आरब्धः ।
-Shatananda - A sacrifice was commenced (by him) [known] as Ambarisha.
+Shatananda - A sacrifice was commenced by that (king) [renowned] by the name of Ambarisha.
 
 1.61.6
 शतानन्दः - इन्द्रेण वै तस्य [यजमानस्य] अम्बरीषस्य पशुः हृतः ।
@@ -56,12 +55,12 @@ Shatananda - An animal was searched for with thousands of cows by the [highly in
 1.61.10
 शतानन्दः - महीपतिना अम्बरीषेण ते ते देशाः जनपदाः नगराणि वनानि च मार्गितानि ।
 Shatananda - Various countries, provinces, cities, and forests were searched by king Ambarisha.
-शतानन्दः - महीपतिना अम्बरीषेण [पुण्यानि] आश्रमाणि च मार्गितानि ।
+शतानन्दः - महीपतिना अम्बरीषेण [पुण्याः] आश्रमाः च मार्गिताः ।
 Shatananda - And the [sacred] hermitages were searched by king Ambarisha.
 
 1.61.11
 शतानन्दः - हे तात [रघु-नन्दन] (राम) । राज्ञा अम्बरीषेण [पुत्र-सहितः] [भार्या-सहितः] ऋचीकः दृष्टः ।
-Shatananda - O child [delight of Raghu] (Rama), Richika [with his sons] and [with his wife] was seen by king Ambarisha.
+Shatananda - O child [delight of Raghu] (Rama), Richika [with his son] and [with his wife] was seen by king Ambarisha.
 शतानन्दः - राज्ञा अम्बरीषेण भृगुतुण्डे [समासीनः] ऋचीकः दृष्टः ।
 Shatananda - Richika [seated] on Bhrigutunda was seen by king Ambarisha.
 
@@ -75,19 +74,19 @@ Shatananda - The [limitlessly radiant] royal sage Ambarisha (spoke) to the brahm
 शतानन्दः - अम्बरीषः सर्वत्र कुशलं पृष्टवान् अभूत् ऋषिम् ऋचीकम् इदं वचः अवोचत् च ।
 Shatananda - Ambarisha had asked about welfare in every respect and spoke this word to the sage Richika.
 अम्बरीषः - "यदि (त्वं) सुतं गवां शत-सहस्रेण विक्रीणीषे ।"
-Ambarisha - "If (you) sell (your) son for a hundred thousand of cows."
+Ambarisha - "If (you) sell (your) son for a hundred thousand cows."
 
 1.61.14
 अम्बरीषः - "हे [महा-भाग] भार्गव । पशोः अर्थे (अहं) [कृत-कृत्यः] भूतः ।"
 Ambarisha - "O [highly fortunate] descendant of Bhrigu. For the sake of the animal (I) have become [successful]."
-अम्बरीषः - "(मया) [सर्वे] देशाः परिसृताः । [याज्ञीयः] पशुः न लब्धः ।"
+अम्बरीषः - "(मया) [सर्वे] देशाः परिसृताः । [यज्ञियः] पशुः न लब्धः ।"
 Ambarisha - "[All] countries were searched (by me). The [sacrificial] animal was not found."
 
 1.61.15
 अम्बरीषः - "मम (यज्ञाय) मूल्येन इतः एकं सुतं दातुम् अर्हसि ।"
 Ambarisha - "(You) ought to give one son from here for a price for my (sacrifice)."
-शतानन्दः - एवं [महा-तेजाः] ऋचीकः उक्तः भूतः वचः अवोचत् ।
-Shatananda - Thus the [exceedingly powerful] Richika had become addressed and spoke a word.
+शतानन्दः - एवं [महा-तेजाः] ऋचीकः उक्तः वचः अवोचत् ।
+Shatananda - Thus the [exceedingly powerful] Richika, being addressed, spoke a word.
 
 1.61.16
 ऋचीकः - "हे [नर-श्रेष्ठ] (अम्बरीष) अहं ज्येष्ठस्य (सुतस्य) कथञ्चन न विक्रयणम् कुर्याम् ।"
@@ -105,13 +104,13 @@ Mother - "The worshipful descendant of Bhrigu called the eldest son [unsalable].
 माता - "हे नृप (त्वं) [कनिष्ठं] शुनकं मम अपि [दयितं] विद्धि ।"
 Mother - "O king, (you) know the [youngest] Shunaka (to be) also [beloved] to me."
 माता - "हे पार्थिव तस्मात् (अहं) [कनीयसं] पुत्रं तुभ्यं न दास्ये ।"
-Mother - "O king, therefore (I) will not give the [youngest] son to you."
+Mother - "O king, therefore (I) will not give the [younger] son to you."
 
 1.61.19
 माता - "हे [नर-श्रेष्ठ] (अम्बरीष) । प्रायेण हि ज्येष्ठाः (सुताः) पितृषु [वल्लभाः] (भवन्ति) ।"
 Mother - "O [best of men] (Ambarisha). For mostly the eldest (sons) (are) [beloved] to the fathers."
 माता - "[कनीयांसः] तु मातॄणां (वल्लभाः भवन्ति) । तस्मात् (अहं) [कनीयसं] रक्षिष्यामि ।"
-Mother - "But the [youngest] (are beloved) to the mothers. Therefore (I) will protect the [youngest] (son)."
+Mother - "But the [younger ones] (are beloved) to the mothers. Therefore (I) will protect the [younger] (son)."
 
 1.61.20
 शतानन्दः - मुनिः ऋचीकः तथा च मुनि-पत्नी वाक्यम् अवोचत् ।
@@ -121,13 +120,13 @@ Shatananda - O Rama, right then the [middle son] Shunahshepha himself spoke a wo
 
 1.61.21
 शुनःशेफः - "पिता ज्येष्ठम् [अ-विक्रेयम्] अवोचत् माता च कनीयसम् ([अ-विक्रेयम्] अवोचत्) ।"
-Shunahshepha - "The father called the eldest [unsalable] and the mother (called) the youngest ([unsalable])."
-शुनःशेफः - "हे राजन् (अहं) स्वम् [मध्यमं] पुत्रं [विक्रीतं] मन्ये । मां नय ।"
-Shunahshepha - "O king, (I) consider myself the [middle] son [sold]. Take me."
+Shunahshepha - "The father called the eldest [unsalable] and the mother (called) the [younger] ([unsalable])."
+शुनःशेफः - "हे राजन् (अहं) आत्मानं [मध्यमं] पुत्रं [विक्रीतं] मन्ये । मां नय ।"
+Shunahshepha - "O king, (I) consider myself, the [middle] son, [sold]. Take me."
 
 1.61.22
 शतानन्दः - नरेश्वरः अम्बरीषः गवां शत-सहस्रेण शुनःशेफं गृहीतवान् अभूत् ।
-Shatananda - The king Ambarisha had taken Shunahshepha for a hundred thousand of cows.
+Shatananda - The king Ambarisha had taken Shunahshepha for a hundred thousand cows.
 शतानन्दः - हे [रघु-नन्दन] (राम) [परम-प्रीतः] अम्बरीषः गतः ।
 Shatananda - O [delight of Raghu] (Rama), the [immensely pleased] Ambarisha went.
 

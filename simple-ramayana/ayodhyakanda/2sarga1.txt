@@ -81,7 +81,7 @@ Even though spoken to [harshly], Rama did not speak a reply.
 2.1.11
 
 रामः कथञ्चित् [कृतेन] [एकेन] उपकारेण तुष्टः ।
-Rama was pleased with a single [performed] benefit.
+Rama was somehow pleased with a single [performed] benefit.
 
 [आत्मा-वत्तया] रामेण अपकाराणाम् शतम् अपि न स्मृतम् ।
 Even a hundred offences were not remembered by Rama [due to (his) self-restraint].
@@ -104,7 +104,7 @@ The [valiant] Rama was not [proud] of his own [great] strength.
 
 2.1.14
 
-[विद्वान्] रामः [अनृत-कथ-रहितः] [वृद्ध-प्रतिपूजकः] च भूतः ।
+[विद्वान्] रामः [अनृत-कथा-रहितः] [वृद्ध-प्रतिपूजकः] च भूतः ।
 The [learned] Rama was [free from false speech] and [a worshipper of elders].
 
 रामः प्रजाभिः [अनुरक्तः] प्रजाः च अपि रामेण [अनुरञ्जिताः] ।
@@ -153,7 +153,7 @@ Rama became [due to (his) qualities] like the [moving-outside] life-breath.
 2.1.20
 
 [सम्यग्-विद्या-व्रत-स्नातः] [भरत-अग्रजः] रामः यथावत् [अङ्ग-सहित-वेद-वित्] भूतः ।
-Rama, [the-elder-brother-of-Bharata], [who-was-properly-purified-by-vows-of-learning], became [a-knower-of-Vedas-with-ancillary-sciences] as per tradition.
+Rama, [who-was-properly-purified-by-vows-of-learning], [the-elder-brother-of-Bharata], became [a-knower-of-Vedas-with-ancillary-sciences] as per tradition.
 
 [इषु-अस्त्रे] रामः पितुः दशरथात् [श्रेष्ठः] भूतः ।
 Rama became [superior] to (his) father Dasharatha in [the-science-of-arrows-and-missiles].
@@ -170,7 +170,6 @@ Rama was [trained] by [aged-Brahmins] [who-discerned-dharma-and-artha].
 
 रामः [धर्म-काम-अर्थ-तत्त्व-ज्ञः] [स्मृतिमान्] [प्रतिभानवान्] (भूतः) ।
 Rama (was) [a-knower-of-the-truth-of-dharma-kama-and-artha], [possessing-memory], and [possessing-genius].
-
 रामः [लौकिके] समय-आचारे [कृत-कल्पः] [विशारदः] (भूतः) ।
 Rama (was) [accomplished-in-rituals] and [skilled] in [worldly] [social-conduct].
 
@@ -358,7 +357,7 @@ The high popularity of [great-souled] Rama in the world [was perceived] by Dasha
 
 2.1.45
 
-[प्राप्त-कालेन] [धर्मात्मा] नृपः दशरथः भक्त्या [त्वरितः] भूतः ।
+[प्राप्त-काले] [धर्मात्मा] नृपः दशरथः भक्त्या [त्वरितः] भूतः ।
 [The-righteous] king Dasharatha became [hurried] with devotion [at-the-opportune-time].
 
 (दशरथेन) [नाना-नगर-वास्तव्याः] पृथक् [जान-पदाः] अपि (जनाः) (आहूताः) ।
@@ -409,5 +408,3 @@ Surrounded by (those kings) [seated-nearby], the king (Dasharatha) was [splendid
 
 यथा [अमरैः] [सहस्र-चक्षुः] [भगवान्] (इन्द्रः) [शोभितः] (भवति) ।
 Just as the [thousand-eyed] [lord] (Indra) [is splendid] [with-the-immortals].
-
-check grammar mistakes and typosandt verify thr narrator

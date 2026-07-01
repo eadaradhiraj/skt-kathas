@@ -25,9 +25,8 @@ Vishwamitra - "Show this bow. May there be prosperity to you. Having their desir
 1.66.7
 एवम् उक्तः जनकः [महामुनिं] विश्वामित्रं प्रत्यवोचत् ।
 Valmiki - Thus addressed, Janaka replied to the great ascetic Vishwamitra.
-जनकः - "अस्य धनुषः यदर्थम् इह तिष्ठति (तत्) श्रूयताम् ।"
-Janaka - "Let the reason for which this bow remains here be heard."
-
+जनकः - "अस्य धनुषः कथा श्रूयताम् ।"
+Janaka - "Let the story of this bow be heard."
 1.66.8
 जनकः - "भगवन् । निमेः षष्ठः देवरातः इति ख्यातः महीपतिः भूतः । तस्य हस्ते अयं न्यासः [महात्मना] (शिवेन) दत्तः ।"
 Janaka - "O venerable one! There was a famous king named Devarata, who was the sixth from Nimi. This trust was given in his hands by the exalted Shiva."
@@ -53,7 +52,7 @@ Janaka - "This is that excellent bow of the magnanimous god of gods."
 Janaka - "O Lord! Then it was deposited as a trust with our ancestor."
 
 1.66.13
-जनकः - "अथ मया क्षेत्रं कृषता लाङ्गूलात् (एका कन्या) उत्थिता ।"
+जनकः - "अथ मया क्षेत्रं कृषता लाङ्गलात् (एका कन्या) उत्थिता ।"
 Janaka - "Thereafter, while I was ploughing the field, a maiden arose from the plough."
 जनकः - "मया क्षेत्रं शोधयता (सा) लब्धा (अतः सा) नाम्ना सीता इति विश्रुता ।"
 Janaka - "She was obtained by me while clearing the field, therefore she is well-known by the name Sita."
@@ -87,8 +86,8 @@ Janaka - "They were not capable in grasping or even lifting that bow."
 Janaka - "O great ascetic! O wealthy in penance! Having known the prowess of those mighty kings to be little, the kings were rejected by me, may you know this."
 
 1.66.20
-जनकः - "[नृपपुङ्गव] । ततः वीर्यसन्देहं प्राप्ताः सर्वे राजानः परमकोपेन (युक्ताः भूताः) ।"
-Janaka - "O eminent king! Thereafter, all the kings who had attained doubt about their prowess, became filled with extreme anger."
+जनकः - "ततः वीर्यसन्देहं प्राप्ताः सर्वे राजानः परमकोपेन (युक्ताः भूताः) ।"
+Janaka - "Thereafter, all the kings who had attained doubt about their prowess, became filled with extreme anger."
 जनकः - "तैः मिथिला अवरुद्धा ।"
 Janaka - "Mithila was besieged by them."
 
@@ -111,7 +110,7 @@ Janaka - "Thereafter, all the multitudes of gods were propitiated by me through 
 Janaka - "An army of four divisions was given by the highly pleased gods."
 
 1.66.24
-जनकः - "ततः [पापकर्मणः] [अवीर्याः] [वीर्यसन्दिग्धाः] नृपतयः हन्यमानाः भग्नाः (सन्तः) अमात्यसहिताः दिशः गताः ।"
+जनकः - "ततः [पापकर्माणः] [अवीर्याः] [वीर्यसन्दिग्धाः] नृपतयः हन्यमानाः भग्नाः (सन्तः) अमात्यसहिताः दिशः गताः ।"
 Janaka - "Then the wicked, powerless kings, doubting their prowess, being struck and broken, went in all directions along with their ministers."
 
 1.66.25

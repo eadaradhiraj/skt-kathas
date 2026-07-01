@@ -1,143 +1,156 @@
-1.4.1
-[भगवान्] [आत्मवान्] ऋषिः वाल्मीकिः [राज्यं प्राप्तवतः] रामस्य [कृत्स्नं] [विचित्रैः पदैः युक्तं] चरितं रचितवान् अभूत्।
-The divine and self-possessed sage Valmiki composed the entire story of Rama, who had obtained his kingdom—a story endowed with wonderful words.
+1.4.1 [भगवान्] [आत्मवान्] ऋषिः वाल्मीकिः [राज्यं प्राप्तवतः] रामस्य [कृत्स्नं]
+[विचित्रैः पदैः युक्तं] चरितं रचितवान् अभूत्। The divine and self-possessed sage
+Valmiki composed the entire story of Rama, who had obtained his kingdom—a story
+endowed with wonderful words.
 
-1.4.2
-सः ऋषिः वाल्मीकिः श्लोकानां चतुर्विंशतिसहस्राणि, तथा पञ्च सर्गशतानि, षट् काण्डानि, तथा उत्तरं काण्डं च उक्तवान् अभूत्।
-The sage Valmiki composed twenty-four thousand shlokas, as well as five hundred cantos, six books kandas, and the final Uttara book.
+1.4.2 सः ऋषिः वाल्मीकिः श्लोकानां चतुर्विंशतिसहस्राणि, तथा पञ्च सर्गशतानि, षट्
+काण्डानि, तथा उत्तरं काण्डं च उक्तवान् अभूत्। The sage Valmiki composed
+twenty-four thousand shlokas, as well as five hundred cantos, six books
+(kandas), and the final Uttara book.
 
-1.4.3
-[महाप्राज्ञः] [प्रभुः] सः वाल्मीकिः [भविष्य-घटनाभिः युक्तं] [उत्तर-काण्डेन युक्तं] तत् (काव्यं) कृत्वा अपि, "कः नु एतत् गायेत्?" इति चिन्तितवान् अभूत्।
-That very wise and able Valmiki, even after composing that poem, endowed with future events and with the Uttara Kanda, thought: "Who, now, will sing this?"
+1.4.3 [महाप्राज्ञः] [प्रभुः] सः वाल्मीकिः [भविष्य-घटनाभिः युक्तं] [उत्तर-काण्डेन
+युक्तं] तत् (काव्यं) कृत्वा अपि, "कः नु एतत् गायेत्?" इति चिन्तितवान् अभूत्।
+That very wise and able Valmiki, even after composing that poem, endowed with
+future events and with the Uttara Kanda, thought: "Who, now, will sing this?"
 
-1.4.4
-ततः, [भावितात्मनः] [चिन्तयमानस्य] तस्य महर्षेः वाल्मीकेः पादौ [मुनि-वेषं धृतवन्तौ] लवः कुशः च गृहीतवन्तौ अभूताम्।
-Then, Lava and Kusha, [who had put on the guise of sages], grasped the feet of that great sage Valmiki, [of purified soul], while he was [thinking].
+1.4.4 ततः, [भावितात्मनः] [चिन्तयमानस्य] तस्य महर्षेः वाल्मीकेः पादौ [मुनि-वेषं
+धृतवन्तौ] लवः कुशः च गृहीतवन्तौ अभूताम्। Then, Lava and Kusha, [who had put on
+the guise of sages], grasped the feet of that great sage Valmiki, [of purified
+soul], while he was [thinking].
 
-1.4.5
-सः वाल्मीकिः [धर्मज्ञौ] [यशस्विनौ] [स्वरसम्पन्नौ] [आश्रमवासिनौ] भ्रातरौ राजपुत्रौ लव-कुशौ दृष्टवान् अभूत्।
-He (Valmiki) saw the two brothers, Lava and Kusha—the princes who were [knowers of dharma], [famous], [endowed with melodious voices], and [dwellers in the hermitage].
-‌
-1.4.6
-‌
-Sanskrit Prose:
-[प्रभुः] सः वाल्मीकिः [मेधाविनौ] [वेदेषु परिनिष्ठितौ] तौ दृष्ट्वा, वेदानां पुष्ट्यर्थं (तत् काव्यं) तौ ग्राहितवान् अभूत्।
-‌
-English:
-The able Valmiki, having seen those two, who were intelligent and well-versed in the Vedas, caused them to learn that poem for the purpose of supporting the Vedas.
-‌
-1.4.7
-‌
-Sanskrit Prose:
-येन व्रतं दृढं कृतम् सः वाल्मीकिः [कृत्स्नं] रामायणं काव्यं, [महत्] सीतायाः चरितं, तथा [पौलस्त्यस्य] रावणस्य वधं च एव कृतवान् अभूत्।
-‌
-English:
-He by whom the vow was firmly undertaken, Valmiki, composed the entire Ramayana poem, the great story of Sita, and also the slaying of Ravana, the descendant of Paulastya.
-‌
-1.4.8
-‌
-Sanskrit Prose:
-(तत् काव्यं) [पठने] [गाने] च [मधुरं], [त्रिभिः प्रमाणैः अन्वितं], [सप्तभिः स्वरैः बद्धं], [तन्त्री-लयेन समन्वितं] च अभूत्।
-‌
-English:
-(That poem) was sweet both in reading and in singing, endowed with the three tempos, composed with the seven musical notes, and endowed with the rhythm of a stringed instrument.
-‌
-1.4.9
-‌
-Sanskrit Prose:
-लवकुशौ [शृङ्गार-कारुण्य-हास्य-वीर-भयानक-रौद्र-आदिभिः] रसैः च [संयुक्तम्] एतत् काव्यम् गीतवन्तौ अभूताम्।
-‌
-English:
-Lava and Kusha sang this poem, which was endowed with the sentiments of love, pity, humor, heroism, terror, fury, and others.
-‌
-1.4.10
-‌
-Sanskrit Prose:
-[गान्धर्वस्य तत्त्वज्ञौ], [मूर्छनासु स्थानेषु च कोविदौ], [स्वरसम्पन्नौ], [रूपिणौ गन्धर्वौ इव] तौ भ्रातरौ अभूताम्।
-‌
-English:
-Those two brothers were knowers of the principles of music, experts in scales and notes, endowed with melodious voices, and like Gandharvas in appearance.
+1.4.5 सः वाल्मीकिः [धर्मज्ञौ] [यशस्विनौ] [स्वरसम्पन्नौ] [आश्रमवासिनौ] भ्रातरौ
+राजपुत्रौ लव-कुशौ दृष्टवान् अभूत्। He (Valmiki) saw the two brothers, Lava and
+Kusha—the princes who were [knowers of dharma], [famous], [endowed with
+melodious voices], and [dwellers in the hermitage]. ‌ 1.4.6 Sanskrit Prose:
+[प्रभुः] सः वाल्मीकिः [मेधाविनौ] [वेदेषु परिनिष्ठितौ] तौ दृष्ट्वा,
+वेदानां पुष्ट्यर्थं (तत् काव्यं) तौ ग्राहितवान् अभूत्। English: The able
+Valmiki, having seen those two, who were intelligent and well-versed in the
+Vedas, caused them to learn that poem for the purpose of supporting the Vedas. ‌
+1.4.7 Sanskrit Prose: येन व्रतं दृढं कृतम् सः वाल्मीकिः [कृत्स्नं] रामायणं
+काव्यं, [महत्] सीतायाः चरितं, तथा [पौलस्त्यस्य] रावणस्य वधं च एव कृतवान् अभूत्।
+English: He by whom the vow was firmly undertaken, Valmiki, composed the entire
+Ramayana poem, the great story of Sita, and also the slaying of Ravana, the
+descendant of Paulastya. ‌ 1.4.8 Sanskrit Prose: (तत् काव्यं) [पठने] [गाने] च
+[मधुरं], [त्रिभिः प्रमाणैः अन्वितं], [सप्तभिः स्वरैः बद्धं], [तन्त्री-लयेन
+समन्वितं] च अभूत्। English: (That poem) was sweet both in reading and in
+singing, endowed with the three tempos, composed with the seven musical notes,
+and endowed with the rhythm of a stringed instrument. ‌ 1.4.9 Sanskrit Prose:
+लवकुशौ [शृङ्गार-कारुण्य-हास्य-वीर-भयानक-रौद्र-आदिभिः] रसैः च [संयुक्तम्]
+एतत् काव्यम् गीतवन्तौ अभूताम्। English: Lava and Kusha sang this poem, which was
+endowed with the sentiments of love, pity, humor, heroism, terror, fury, and
+others. ‌ 1.4.10 Sanskrit Prose: [गान्धर्वस्य तत्त्वज्ञौ], [मूर्छनासु स्थानेषु च
+कोविदौ], [स्वरसम्पन्नौ], [रूपिणौ गन्धर्वौ इव] तौ भ्रातरौ अभूताम्। English: Those
+two brothers were knowers of the principles of music, experts in scales and
+notes, endowed with melodious voices, and like Gandharvas in appearance.
 
-1.4.11
-तौ भ्रातरौ [रूप-लक्षण-सम्पन्नौ], [मधुर-स्वर-भाषिणौ], तथा रामदेहात् उद्धृतौ यथा एकस्मात् बिम्बात् अपरौ बिम्बौ अभूताम्।
-Those two brothers were endowed with beauty and auspicious marks, spoke with sweet voices, and, taken from Rama's body, were just as two other images are from a single image.
+1.4.11 तौ भ्रातरौ [रूप-लक्षण-सम्पन्नौ], [मधुर-स्वर-भाषिणौ], तथा रामदेहात्
+उद्धृतौ यथा एकस्मात् बिम्बात् अपरौ बिम्बौ अभूताम्। Those two brothers were
+endowed with beauty and auspicious marks, spoke with sweet voices, and, taken
+from Rama's body, were just as two other images are from a single image.
 
-1.4.12
-[अनिन्दितौ] तौ राजपुत्रौ [उत्तमं] [धर्म्यं] तत् सर्वम् आख्यानं काव्यं पूर्णतया कण्ठस्थीकृतवन्तौ अभूताम्।
-Those two blameless princes completely committed to memory that entire, excellent, and righteous narrative poem.
+1.4.12 [अनिन्दितौ] तौ राजपुत्रौ [उत्तमं] [धर्म्यं] तत् सर्वम् आख्यानं काव्यं
+पूर्णतया कण्ठस्थीकृतवन्तौ अभूताम्। Those two blameless princes completely
+committed to memory that entire, excellent, and righteous narrative poem.
 
-1.4.13
-[तत्त्वज्ञौ] [सुसमाहितौ] तौ (भ्रातरौ) ऋषीणां, द्विजातीनां, साधूनां च समागमे [यथोपदेशं] गीतवन्तौ अभूताम्।
-Those two (brothers), [knowers of the essence] and [very well-composed], sang in the assembly of rishis, twice-born men, and holy men, [just as they were instructed].
+1.4.13 [तत्त्वज्ञौ] [सुसमाहितौ] तौ (भ्रातरौ) ऋषीणां, द्विजातीनां, साधूनां च
+समागमे [यथोपदेशं] गीतवन्तौ अभूताम्। Those two (brothers), [knowers of the
+essence] and [very well-composed], sang in the assembly of rishis, twice-born
+men, and holy men, [just as they were instructed].
 
-1.4.14
-[महात्मानौ] [महाभागौ] [सर्वलक्षणैः लक्षितौ] तौ भ्रातरौ लवकुशौ कदाचित् [भावितात्मनाम्] [आसीनानाम्] ऋषीणां समीपे इदं काव्यम् गीतवन्तौ अभूताम्।
-Those two brothers, Lava and Kusha, [great-souled], [highly fortunate], and [marked with all auspicious signs], once sang this poem in the presence of rishis [of purified souls] who were [seated].
+1.4.14 [महात्मानौ] [महाभागौ] [सर्वलक्षणैः लक्षितौ] तौ भ्रातरौ लवकुशौ कदाचित्
+[भावितात्मनाम्] [आसीनानाम्] ऋषीणां समीपे इदं काव्यम् गीतवन्तौ अभूताम्। Those two
+brothers, Lava and Kusha, [great-souled], [highly fortunate], and [marked with
+all auspicious signs], once sang this poem in the presence of rishis [of
+purified souls] who were [seated].
 
-1.4.15
-सर्वे मुनयः तत् श्रुत्वा परं विस्मयम् आगताः, तेषां नेत्राणि च बाष्पपूर्णानि अभूवन्। (ततः) ते तौ "साधु साधु" इति उक्तवन्तः अभूवन्।
-All the sages, having heard that, became greatly astonished, and their eyes filled with tears. Then they said to those two, "Excellent, excellent!"
+1.4.15 सर्वे मुनयः तत् श्रुत्वा परं विस्मयम् आगताः, तेषां नेत्राणि च
+बाष्पपूर्णानि अभूवन्। (ततः) ते तौ "साधु साधु" इति उक्तवन्तः अभूवन्। All the
+sages, having heard that, became greatly astonished, and their eyes filled with
+tears. Then they said to those two, "Excellent, excellent!"
 
-1.4.16
-[धर्मवत्सलाः] ते सर्वे मुनयः [प्रीतमनस्काः] भूत्वा, [प्रशस्तव्यौ] [गायन्तौ] लव-कुशौ प्रशंसितवन्तः अभूवन्।
-All those sages, lovers of dharma, being pleased in their minds, praised Lava and Kusha, who were praiseworthy and singing.
+1.4.16 [धर्मवत्सलाः] ते सर्वे मुनयः [प्रीतमनस्काः] भूत्वा, [प्रशस्तव्यौ]
+[गायन्तौ] लव-कुशौ प्रशंसितवन्तः अभूवन्। All those sages, lovers of dharma, being
+pleased in their minds, praised Lava and Kusha, who were praiseworthy and
+singing.
 
-1.4.17
-"अहो, गीतस्य श्लोकानां च विशेषतः माधुर्यम् अस्ति। एतत् चिरप्रवृत्तम् अपि प्रत्यक्षम् इव दर्शितम्।"
-Oh, there is sweetness in the song and especially in the verses. This, though it happened long ago, was shown as if it were right before our eyes.
+1.4.17 "अहो, गीतस्य श्लोकानां च विशेषतः माधुर्यम् अस्ति। एतत् चिरप्रवृत्तम् अपि
+प्रत्यक्षम् इव दर्शितम्।" Oh, there is sweetness in the song and especially in
+the verses. This, though it happened long ago, was shown as if it were right
+before our eyes.
 
-1.4.18
-तौ उभौ सहितौ प्रविश्य, स्वरसम्पदा सम्पन्नं, मधुरम्, अनुरागेण, भावं सुष्ठु सम्यक् च गीतवन्तौ अभूताम्।
-Having entered, both of them together sang excellently and perfectly—sweetly, with affection, filled with emotion, and endowed with a wealth of voice.
+1.4.18 तौ उभौ सहितौ प्रविश्य, स्वरसम्पदा सम्पन्नं, मधुरम्, अनुरागेण, भावं सुष्ठु
+सम्यक् च गीतवन्तौ अभूताम्। Having entered, both of them together sang
+excellently and perfectly—sweetly, with affection, filled with emotion, and
+endowed with a wealth of voice.
 
-1.4.19
-एवं [स्वतपोभिः श्लाघनीयैः] [महात्मभिः] मुनिभिः [प्रशस्यमानौ] तौ लवकुशौ, इतोपि अनुरागेण माधुर्येण च गीतवन्तौ अभूताम्।
-As they were thus being praised by the great-souled sages, themselves admirable for their austerities, the two of them sang even more passionately and with exceeding sweetness.
+1.4.19 एवं [स्वतपोभिः श्लाघनीयैः] [महात्मभिः] मुनिभिः [प्रशस्यमानौ] तौ लवकुशौ,
+इतोपि अनुरागेण माधुर्येण च गीतवन्तौ अभूताम्। As they were thus being praised by
+the great-souled sages, themselves admirable for their austerities, the two of
+them sang even more passionately and with exceeding sweetness.
 
-1.4.20
-कश्चित् मुनिः प्रीतः सन्, उत्थाय ताभ्यां लवकुशाभ्यां कलशं दत्तवान् अभूत्। अपरः कश्चित् [महायशस्कः] मुनिः प्रसन्नः सन्, ताभ्यां लवकुशाभ्यां वल्कलं दत्तवान् अभूत्।
-A certain sage, being pleased, stood up and gave a water pot to them, to Lava and Kusha. Another highly renowned sage, being delighted, gave a bark-garment to them, to Lava and Kusha.
+1.4.20 कश्चित् मुनिः प्रीतः सन्, उत्थाय ताभ्यां लवकुशाभ्यां कलशं दत्तवान् अभूत्।
+अपरः कश्चित् [महायशस्कः] मुनिः प्रसन्नः सन्, ताभ्यां लवकुशाभ्यां वल्कलं दत्तवान्
+अभूत्। A certain sage, being pleased, stood up and gave a water pot to them, to
+Lava and Kusha. Another highly renowned sage, being delighted, gave a
+bark-garment to them, to Lava and Kusha.
 
-1.4.21
-[मुनिना] वाल्मीकिना [इदम्] [आश्चर्यजनकम्] आख्यानं [सम्प्रकीर्तितम्] अभूत्। अयम् कवीनां परः आधारः अस्ति, तथा च यथाक्रमं समाप्तम् अभूत्।
-This wonder-producing narrative was well-recited by the sage, by Valmiki. This is the ultimate foundation of poets, and it was completed in due order.
+1.4.21 [मुनिना] वाल्मीकिना [इदम्] [आश्चर्यजनकम्] आख्यानं [सम्प्रकीर्तितम्]
+अभूत्। अयम् कवीनां परः आधारः अस्ति, तथा च यथाक्रमं समाप्तम् अभूत्। This
+wonder-producing narrative was well-recited by the sage, by Valmiki. This is the
+ultimate foundation of poets, and it was completed in due order.
 
-1.4.22
-[इदम्] [आयुष्यं], [पुष्टिजनकं], [सर्वासाम् श्रुतीनां मनसां च मनोहरं] च गीतं, सर्वगीतेषु [कोविदाभ्याम्] [ताभ्याम्] लवकुशाभ्याम् [अभिगीतम्] अभूत्।
-[This] song—[life-giving], [prosperity-bringing], and [charming to the ears and minds of all]—was [performed] by the two [experts] in all forms of song, [by them,] by Lava and Kusha.
+1.4.22 [इदम्] [आयुष्यं], [पुष्टिजनकं], [सर्वासाम् श्रुतीनां मनसां च मनोहरं] च
+गीतं, सर्वगीतेषु [कोविदाभ्याम्] [ताभ्याम्] लवकुशाभ्याम् [अभिगीतम्] अभूत्। [This]
+song—[life-giving], [prosperity-bringing], and [charming to the ears and minds
+of all]—was [performed] by the two [experts] in all forms of song, [by them,] by
+Lava and Kusha.
 
-1.4.23
-कदाचित् तत्र [भरताग्रजः] रामः, [वीथिषु राजमार्गेषु च सर्वत्र प्रशस्यमानौ] [गायकौ] लवकुशौ [दृष्टवान्] अभूत्।
-Once, there, [Bharata's elder brother,] Rama, [saw] the two [singers,] Lava and Kusha, who were [being praised everywhere in the lanes and in the royal roads].
+1.4.23 कदाचित् तत्र [भरताग्रजः] रामः, [वीथिषु राजमार्गेषु च सर्वत्र प्रशस्यमानौ]
+[गायकौ] लवकुशौ [दृष्टवान्] अभूत्। Once, there, [Bharata's elder brother,] Rama,
+[saw] the two [singers,] Lava and Kusha, who were [being praised everywhere in
+the lanes and in the royal roads].
 
-1.4.24
-तदा सः [शत्रुविनाशकः] रामः, [पूजार्हौ] [भ्रातरौ] लवकुशौ स्वं राजप्रासादम् आनीय, सत्कृतवान् अभूत्।
-Then that [destroyer of enemies,] Rama, having brought the two [brothers] Lava and Kusha, who were [worthy of honor], to his own royal palace, [honored them with the rites due to a guest].
+1.4.24 तदा सः [शत्रुविनाशकः] रामः, [पूजार्हौ] [भ्रातरौ] लवकुशौ स्वं राजप्रासादम्
+आनीय, सत्कृतवान् अभूत्। Then that [destroyer of enemies,] Rama, having brought
+the two [brothers] Lava and Kusha, who were [worthy of honor], to his own royal
+palace, [honored them with the rites due to a guest].
 
-1.4.25
-[परन्तपः] [प्रभुः] सः रामः च, [सचिवैः भ्रातृभिः च सह] [दिव्ये काञ्चने सिंहासने] [आसीनः] अभूत्।
-And that [scorcher of enemies,] the [lord] Rama, [along with his ministers and brothers,] [was seated] [on a divine, golden throne].
+1.4.25 [परन्तपः] [प्रभुः] सः रामः च, [सचिवैः भ्रातृभिः च सह] [दिव्ये काञ्चने
+सिंहासने] [आसीनः] अभूत्। And that [scorcher of enemies,] the [lord] Rama, [along
+with his ministers and brothers,] [was seated] [on a divine, golden throne].
 
-1.4.26
-तदा [नियत:] रामः, [रूपसम्पन्नौ] [तौ] [उभौ] लवकुशौ दृष्ट्वा, लक्ष्मणं भरतं शत्रुघ्नं च [उक्तवान्] अभूत्।
-Then [the attentive] Rama, having seen [those two, Lava and Kusha, endowed with beautiful form], [spoke] to Lakshmana, Bharata, and Shatrughna.
+1.4.26 तदा [नियतः] रामः, [रूपसम्पन्नौ] [तौ] [उभौ] लवकुशौ दृष्ट्वा, लक्ष्मणं भरतं
+शत्रुघ्नं च [उक्तवान्] अभूत्। Then [the attentive] Rama, having seen [those two,
+Lava and Kusha, endowed with beautiful form], [spoke] to Lakshmana, Bharata, and
+Shatrughna.
 
-1.4.27
-"[इदम्] [विचित्रैः अर्थैः पदैः च युक्तम्] [आख्यानम्] [अनयोः] [देववर्चसा युक्तयोः] बालकयोः श्रूयताम्" इति। ततः सः [तौ गायकौ] लवकुशौ [सम्यक्] [चोदितवान्] अभूत्।
-(Rama said to his brothers), "Let [this] [narrative], [which has wonderful meaning and words], [of these two] [of divine splendor] be heard." Then, he [properly] [urged] [those two singers].
+1.4.27 "[इदम्] [विचित्रैः अर्थैः पदैः च युक्तम्] [आख्यानम्] [अनयोः] [देववर्चसा
+युक्तयोः] बालकयोः श्रूयताम्" इति। ततः सः [तौ गायकौ] लवकुशौ [सम्यक्] [चोदितवान्]
+अभूत्। (Rama said to his brothers), "Let [this] [narrative], [which has
+wonderful meaning and words], [of these two] [of divine splendor] be heard."
+Then, he [properly] [urged] [those two singers].
 
-1.4.28
-[तौ] [च] [अपि] लवकुशौ, [मधुरम्], [अनुरागेण युक्तं], [साधुना अञ्चितेन आयतेन च निस्वनेन युक्तं], [तन्त्री-लय-वत्], [अत्यन्तं], [विश्रुतेन अर्थेन युक्तं च] [गीतवन्तौ] अभूताम्।
-[And] [also] [those two], Lava and Kusha, [sang] [sweetly], [endowed with passion], [endowed with an excellent, graceful, and prolonged tone], [like the rhythm of a stringed instrument], [exceedingly], [and endowed with a clearly understood meaning].
+1.4.28 [तौ] [च] [अपि] लवकुशौ, [मधुरम्], [अनुरागेण युक्तं], [साधुना अञ्चितेन
+आयतेन च निःस्वनेन युक्तं], [तन्त्री-लय-वत्], [अत्यन्तं], [विश्रुतेन अर्थेन
+युक्तं च] [गीतवन्तौ] अभूताम्। [And] [also] [those two], Lava and Kusha, [sang]
+[sweetly], [endowed with passion], [endowed with an excellent, graceful, and
+prolonged tone], [like the rhythm of a stringed instrument], [exceedingly], [and
+endowed with a clearly understood meaning].
 
-1.4.29
-[सर्वाणि गात्राणि, मनांसि, हृदयानि च] [ह्लादयत् सत्], [श्रोत्रयोः कृते सुखदं] [तत्] [गेयं] [जनसंसदि] [शोभितम्] अभूत्।
-[Gladdening] [all the limbs, the minds, and the hearts], [and] [giving pleasure to the ears], [that] [song] [was resplendent] [in the assembly of people].
+1.4.29 [सर्वाणि गात्राणि, मनांसि, हृदयानि च] [ह्लादयत् सत्], [श्रोत्रयोः कृते
+सुखदं] [तत्] [गेयं] [जनसंसदि] [शोभितम्] अभूत्। [Gladdening] [all the limbs, the
+minds, and the hearts], [and] [giving pleasure to the ears], [that] [song] [was
+resplendent] [in the assembly of people].
 
-1.4.30
-"[इमौ] [महातपस्विनौ] लवकुशौ [पार्थिव-लक्षणैः अन्वितौ] स्तः। [एतौ] [मम अपि भूतिकरं], [महानुभावं] चरितं प्रवक्ष्यतः। [तत्] यूयं निबोधत" इति।
-(Rama said to his brothers,) "[These two] [great ascetics], Lava and Kusha, are [endowed with the marks of a king]. [These two] will narrate the [noble] story that is [also prosperity-bringing for me]. You all listen to [that]."
+1.4.30 "[इमौ] [महातपस्विनौ] लवकुशौ [पार्थिव-लक्षणैः अन्वितौ] स्तः। [एतौ] [मम अपि
+भूतिकरं], [महानुभावं] चरितं प्रवक्ष्यतः। [तत्] यूयं निबोधत" इति। (Rama said to
+his brothers,) "[These two] [great ascetics], Lava and Kusha, are [endowed with
+the marks of a king]. [These two] will narrate the [noble] story that is [also
+prosperity-bringing for me]. You all listen to [that]."
 
-1.4.31
-ततः तु तौ लवकुशौ, [रामस्य वचसा प्रचोदितौ], [मार्गविधानस्य सम्पदा युक्तम्] गीतवन्तौ अभूताम्। [परिषदि गतः] सः च अपि रामः, [शनैः], [पुनः श्रोतुम् इच्छया असक्तमनस्कः] जातः।
-Then, however, those two, Lava and Kusha, [urged by Rama's word], sang, [endowed with the richness of the Mārga style]. And that Rama, [present in the assembly], [slowly] became [one whose mind was absorbed by the desire to hear again].
+1.4.31 ततः तु तौ लवकुशौ, [रामस्य वचसा प्रचोदितौ], [मार्गविधानस्य सम्पदा युक्तम्]
+गीतवन्तौ अभूताम्। [परिषदि गतः] सः च अपि रामः, [शनैः], [पुनः श्रोतुम् इच्छया
+आसक्तमनस्कः] जातः। Then, however, those two, Lava and Kusha, [urged by Rama's
+word], sang, [endowed with the richness of the Mārga style]. And that Rama,
+[present in the assembly], [slowly] became [one whose mind was absorbed by the
+desire to hear again].

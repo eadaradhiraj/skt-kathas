@@ -55,7 +55,7 @@ Shatananda - (He) became as if accompanied by shame, entirely absorbed in anxiet
 1.63.10
 शतानन्दः - [रघु-नन्दन] (राम) मुनेः [अमर्ष-सहिता] बुद्धिः उत्पन्ना ।
 Shatananda - O delight of the Raghus (Rama), a thought accompanied by indignation arose for the ascetic.
-विश्वामित्रः - "एतत् [सर्वं] [महत्] तपोऽपहरणं सुराणां कर्म (अस्ति) ।"
+विश्वामित्रः - "एतत् [सर्वं] [महत्] तपोऽप_ह_रणं सुराणां कर्म (अस्ति) ।"
 Viswamitra - "All this great deprivation of austerities is the deed of the gods."
 
 1.63.11
@@ -67,7 +67,7 @@ Viswamitra - "This obstacle has befallen (me), overcome by lust and delusion."
 1.63.12
 शतानन्दः - पश्चात्तापात् [दुःखितेन] [मुनि-वरेण] निःश्वसितम् ।
 Shatananda - A sigh was heaved by the best of ascetics distressed from repentance.
-शतानन्दः - (तेन) [भीता] अप्सरा [वेपमाना] [प्राञ्जलिं] [स्थिता] दृष्टा ।
+शतानन्दः - (तेन) [भीता] अप्सराः [वेपमाना] [प्राञ्जलिः] [स्थिता] दृष्टा ।
 Shatananda - (He) saw the frightened apsara standing trembling with folded hands.
 
 1.63.13
@@ -117,8 +117,8 @@ Shatananda - Then the mighty ascetic Viswamitra became bowed with folded hands t
 Shatananda - (He) spoke these words in reply.
 
 1.63.21
-विश्वामित्रः - "भगवता स्वार्जितैः [शुभैः] कर्मभिः [अतुलम्] महर्षिपदम् दत्तम् मह्यम् ।"
-Viswamitra - "O adorable one, the incomparable title of Maharshi earned by my own auspicious deeds has been given to me by you."
+विश्वामित्रः - "भगवता स्वार्जितैः [शुभैः] कर्मभिः [अतुलम्] ब्रह्मर्षिपदम् दत्तम् मह्यम् ।"
+Viswamitra - "O adorable one, the incomparable title of Brahmarshi earned by my own auspicious deeds has been given to me by you."
 विश्वामित्रः - "ततः अहं विजितेन्द्रियः (अस्मि) ।"
 Viswamitra - "Then I (am) one who has conquered his senses."
 
@@ -129,7 +129,7 @@ Shatananda - Then Brahma spoke to him, "You (are) not yet one who has conquered 
 Shatananda - "O tiger among ascetics, strive," thus (Brahma) having spoken, went to heaven.
 
 1.63.23
-शतानन्दः - देवेषु गतेषु सत्सु [महा-मुनिः] विश्वामित्रः ।
+शतानन्दः - देवेषु गतेषु सत्सु [महा-मुनिना] विश्वामित्रेण ।
 Shatananda - The gods having departed, the mighty ascetic Viswamitra.
 शतानन्दः - [ऊर्ध्व-बाहुना] [निर्-आलम्बेन] [वायु-भक्षेण] (तेन) तपः आचरितम् ।
 Shatananda - With arms raised upwards, without support, and subsisting on air, penance was performed (by him).

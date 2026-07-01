@@ -1,37 +1,83 @@
-### 1. Structure & Formatting
-* **Verse Number**: Place the verse number (e.g., 1.57.1) at the top.
-* **Sentence Structure**: One prose line per verse line.
-* **Formatting**: Use no bullets, numbering, or headers for the sentences.
-* **Punctuation**: Use strictly dandas (।) for all punctuation and pauses in the Sanskrit text. Never use commas (,) in the Sanskrit sentences; replace them with dandas (।). (Note: Commas are still permitted in the English translation).
-* **Direct Speech**: Use double quotation marks (**"..."**) for direct dialogue.
-* **Translation**: Provide a literal yet fluid English translation directly under each Sanskrit sentence.
+## 1. Structural Breakdowns & Sentence Simplification
 
-### 2. Speaker & Narrator Identification
-* **Sanskrit**: Name in the Nominative case followed by a hyphen before every sentence (e.g., `वसिष्ठः -`).
-* **English**: Name followed by a hyphen before the translation (e.g., `Vashistha -`).
-* **Narrator**: Always include the speaker's name (e.g., `शतानन्दः -`) when they are relaying the story. No need to name Valmiki unless he is speaking something as a character within the story.
+To prevent overwhelming grammatical complexity, large, descriptive verses (such as the massive block in 2.15.32–2.15.40) are broken down into **very small, single-clause sentences**. Each Sanskrit sentence is immediately followed by its literal English translation.
 
-### 3. Grammar & Voice (Rules for Past Tense ONLY)
-* **General Past Tense**: Use **Passive Voice** with the *kta* pratyaya (e.g., *kṛtam*, *dṛṣṭam*, *kṣiptam*).
-* **'To be' / 'To become'**: Use the **Participle form** (*bhūtaḥ / bhūtā / bhūtam*). Strictly no *abhūt* or *āsīt* unless there is a ktvatu preceding.
-* **Verbs of Motion**: Use **Active Voice** with the *kta* pratyaya (e.g., *gataḥ*, *prāptaḥ*).
-* **Verbs of Speaking**: Use the **Active Voice** with the **Aorist** form (**अवोचत्**).
-* **Gerunds**: If you are using gerunds, Either convert sentence to passive (e.g., *samavekṣitam*) or the ending verb should be a periphrastic active construction and the restriction against abhūt does not apply when it acts as an auxiliary verb here. (*tavatu + abhūt*, e.g., *kṛtavān abhūt*).
-* **Exclusions**: Strictly avoid *liṭ* (perfect) or *laṅ* (imperfect) verb forms.
+### Sentence Splitting Example (2.15.46)
+*   **Original English:** "He saw villagers and others in crores and parardhas, leaving their chariots and thronging the gateway..."
+*   **Deconstructed Prose:**
+    1.  By the people, their chariots were left. -> `जनैः स्व-रथाः त्यक्ताः ।`
+    2.  They became gathered at the gate. -> `ते (नागरिकाः) द्वारे एकत्र भूताः ।`
+    3.  By Sumantra, those villagers were seen. -> `सुमन्त्रेण ते [...] ग्राम-जनाः दृष्टाः ।`
 
-### 4. Bracketing & Vocabulary
-* **Square Brackets `[]`**: Strictly for **adjectives and descriptive aliases** (e.g., `[महा-तपाः]`).
-* **Parentheses `()`**: For **implicit words** added for clarity (e.g., `(अहं)`, `(अस्त्राणि)`).
-* **Bare Text**: Nouns, verbs, pronouns, and **adverbs** stay bare.
-* **Proper Names**: No brackets around proper names.
-* **Simplification**: Always replace complex verbs, heavy prefixes (upasargas), and obscure nouns with their most common, everyday equivalents.
-* **Compound Dissolution**: Break long compounds with hyphens but not well known ones (e.g., `ब्रह्म-तेजो-बलं`).
-* **Pronouns**: Replace pronouns with character names or generic nouns if and only known. if not known than use the generic noun if known. Add the name after the generic noun if known. Do not add the character's name after first-person and second-person pronouns. 
-* **Prefixes**: Replace compounds beginning with the prefix स- (meaning "with") by attaching -सहित to the end of the noun. Ensure the new compound matches the gender, number, and case of the noun it modifies (e.g., स-शरीरः → शरीर-सहितः).
+---
 
-### 5. Orthography & Paninian Standards
-* **The M/Anusvara Rule**: Replace **Anusvara (ं)** always with **'m' (म्)** at the end of a word if it exists.
-* **Sandhi Neutralization**: Remove internal sandhi between separate words (e.g., `ततः आश्रमम्`).
-* **Enclitics**: Replace *te, me, naḥ* with full forms (*tava, mama, asmākam*).
-* **Case Consistency**: Adjectives must match the noun's case/gender/number.
-* **Paninian Consistency**: All forms must follow **Ashtadhyayi** rules.
+## 2. Strict Past Tense Rules (Voice & Verbs)
+
+Sanskrit past-tense narrations can become highly complex. To maintain consistency and structural simplicity, three strict verb-form rules are applied:
+
+### A. General Past Tense: Passive Voice (*Karmaṇi / Bhāve Prayoga*)
+Wherever possible, active past-tense verbs are converted into the **passive voice** using the past passive participle (*kta pratyaya*, ending in `-ta`). 
+*   The **agent (subject)** is placed in the **Instrumental case** (*tṛtīyā*).
+*   The **patient (object)** is placed in the **Nominative case** (*prathamā*).
+*   The participle agrees with the nominative object in gender, number, and case.
+*   **Example (Transitive):** "Sumantra saw the highway" $\to$ "By Sumantra, the highway was seen" $\to$ `सुमन्त्रेण राज-मार्गः दृष्टः ।` (where `दृष्टः` is masculine singular matching `राज-मार्गः`).
+*   **Example (Intransitive / *Bhāve*):** "I did not sleep" $\to$ "By me, sleeping was not done" $\to$ `मया न सुप्तम् ।` (where `सुप्तम्` is neuter singular, as there is no object).
+
+### B. Verbs of "To Be" or "To Become"
+Finite past-tense verbs of being (such as *āsīt* or *abhūt*) are avoided to prevent tense-switching errors. Instead, the past participle forms of **भू** (*bhū* $\to$ `भूतः / भूता / भूतम्`) or **जन्** (*jan* $\to$ `जातः / जाता / जातम्`) are used as finite predicates.
+*   **Example:** "They became filled with joy" $\to$ `ते [हर्ष-पूर्णाः] जाताः ।`
+
+### C. Verbs of Motion
+Verbs of motion utilize the active voice with the past participle (*kta pratyaya*), which naturally carries an active meaning for intransitive verbs of movement.
+*   **Example:** "He entered the inner apartment" $\to$ `सः (सुमन्त्रः) अन्तःपुरम् प्रविष्टः ।` (where `प्रविष्टः` is active/intransitive past participle of *praviś*).
+
+### D. Verbs of Speaking
+Verbs of speaking are kept in the active voice using the **Aorist** (*luṅ lakāra*) paradigm, specifically `अवोचत्` (singular) and `अवोचन्` (plural).
+*   **Example:** "The king spoke again" $\to$ `राजा पुनः अवोचत् ।`
+
+---
+
+## 3. Bracketing and Vocabulary Markup
+
+To make the grammatical function of each word transparent, a standardized bracketing system is utilized:
+
+### A. Square Brackets `[]` (Adjectives and Descriptive Aliases)
+All adjectives, participle-based descriptors, and epithets are enclosed in square brackets. This separates qualifiers from core nouns.
+*   **Example:** `[जल-पूर्णाः] सुवर्ण-घटाः` $\to$ The [water-filled] golden jars.
+
+### B. Parentheses `()` (Implicit Words)
+Words that are not explicitly written in the Sanskrit text but are necessary to complete the English meaning, or names that clarify generic pronouns, are placed in parentheses.
+*   **Example:** `(ते)` $\to$ (They); `राज्ञः (दशरथस्य)` $\to$ of the king (Dasaratha).
+
+### C. Bare Nouns, Verbs, and Proper Names
+Nouns, verbs, adverbs, and proper names (such as `रामः`, `दशरथः`, `सुमन्त्रः`) remain entirely bare without brackets to emphasize their role as primary anchors.
+
+### D. Pronoun Clarification
+Third-person pronouns are accompanied by their referents in parentheses to maintain narrative clarity.
+*   **Example:** `तेन (सुमन्त्रेण) चर्चा श्रुता ।` $\to$ By him (Sumantra), the conversation was heard.
+*   *Note:* First-person (`मया`) and second-person (`त्वम्`) pronouns are left bare without character names to match standard conversational flow.
+
+### E. Attaching `-sahita` for `sa-` Prefixes
+Compounds beginning with the prefix `स-` (meaning "with" or "accompanied by") are dissolved. The prefix is removed, and `-सहित` is attached as a suffix to the end of the noun base, matching the gender, number, and case of the noun being qualified.
+*   **Example:** `स-हर्षः सूतः` $\to$ `सूतः हर्ष-सहितः` (The charioteer, accompanied by joy).
+
+---
+
+## 4. Orthography & Paninian Standards
+
+To ensure readability and adhere to classical grammar, several strict phonetic and spelling standards are enforced:
+
+### A. The Word-Final "M" Rule
+Any anusvara (`ं`) occurring at the very end of a word is replaced with the explicit halanta "m" (`म्`). Anusvaras are reserved strictly for internal word-positions before consonants.
+*   **Correct:** `अन्तःपुरम्` | **Incorrect:** `अन्तःपुरं`
+*   **Correct:** `अभिषेकार्थम्` | **Incorrect:** `अभिषेकार्थं`
+
+### B. Sandhi Neutralization between Words
+To make words easily identifiable, phonetic mergers (sandhi) across word boundaries are systematically neutralized. Words are kept strictly separate.
+*   **Correct:** `सूर्यः उदितः` | **Incorrect:** `सूर्योदितः`
+*   **Correct:** `ततः परम्` | **Incorrect:** `ततस्परम्`
+*   **Correct:** `कः अस्माकम्` | **Incorrect:** `कोऽस्माकम्`
+
+### D. Enclitic Replacements
+Unaccented enclitic pronouns (*te, me, naḥ*) are replaced with their full, accented pronominal equivalents (*tava, mama, asmākam*) to avoid syntactic ambiguity.
+*   **Example:** `"कः अस्माकम् आगमनम् सूचयिष्यति"` $\to$ "Who will inform [them] of our arrival?" (using `अस्माकम्` instead of `नः`).

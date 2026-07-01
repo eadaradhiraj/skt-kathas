@@ -64,7 +64,7 @@ Nurse - "King Dasharatha will be the consecrator of [blameless] Rama
 
 2.7.12 मन्थरया धात्र्याः वचनम् श्रुतम् । मन्थरा [अमर्षिता] भूता । The words of
 the nurse were heard by Manthara. Manthara became [furious]. मन्थरा
-[कैलास-शिखर-आकार] प्रासादात् क्षिप्रम् अवरूढा । Manthara
+[कैलास-शिखर-आकारात्] प्रासादात् क्षिप्रम् अवरूढा । Manthara
 speedily descended from the [Kailasa-peak-like] palace.
 
 2.7.13 [पाप-दर्शिनी] मन्थरा कोपेन [दह्य-माना] भूता । [The malevolent] Manthara
@@ -74,7 +74,7 @@ Kaikeyi. Manthara spoke these words (to her).
 
 2.7.14 मन्थरा - "[मूढे] उत्तिष्ठ । किम् (त्वम्) शेषे ? भयम् त्वाम् अभिवर्तते ।"
 Manthara - "Get up, [O foolish one]! Why are (you) lying down? Fear is
-approaching you." मन्थरा - "किम् आत्मानम् [ओघ-उप-प्लुताम्] न बुध्यसे ?" Manthara
+approaching you." मन्थरा - "किम् आत्मानम् [ओघ-उप-प्लुतम्] न बुध्यसे ?" Manthara
 - "Why do you not realize yourself to be [submerged in a torrent]?"
 
 2.7.15 मन्थरा - "[अनिष्टे] [सु-भग-आकारे] (त्वम्) सौभाग्येन विकत्थसे ।" Manthara
@@ -99,7 +99,7 @@ sentence.
 
 2.7.19 (कैकेय्याः) [हित-एषिणी] सा मन्थरा [विषण्ण-तरा] भूता । That Manthara,
 [desiring (Kaikeyi's) welfare], became [more dejected]. मन्थरा (कैकेयीम्)
-[वि-षाद-यन्ती] रामम् [भे-दयन्ती] च अवोचत् । Manthara spoke, [causing
+[वि-षाद-यन्ती] रामम् [भेदयन्ती] च अवोचत् । Manthara spoke, [causing
 despondency (in Kaikeyi)] and [distancing] Rama (from her).
 
 2.7.20 मन्थरा - "देवि । [अ-क्षय्यम्] [सु-महत्] [त्वत्-वि-नाशनम्] प्र-वृत्तम् ।"
@@ -137,13 +137,13 @@ been beguiled] by that Dasharatha alone. (You) do not understand (that)."
 "तव भर्ता दशरथः अद्य कौसल्याम् एव अर्थेन योजयिष्यति ।" Manthara - "Your husband
 Dasharatha will join Kausalya alone with wealth today."
 
-2.7.26 मन्थरा - "[दुष्टात्मा] दशरथेन तव बन्धून् भरतः [अप-वाहितः] ।" Manthara -
+2.7.26 मन्थरा - "[दुष्टात्मना] दशरथेन तव बन्धून् भरतः [अप-वाहितः] ।" Manthara -
 Bharata [was sent away] to your relatives by the [evil-minded] Dasharatha.
 मन्थरा - "दशरथः काल्ये [नि-हत-कण्टके] राज्ये रामम् स्थापयिष्यति ।"
 Manthara - "Dasharatha will establish Rama in the [cleared-of-thorns] kingdom at
 dawn."
 
-2.7.27 मन्थरा - "शत्रुः (दशरथः) [पति-प्रवादेन] [माता] इव [हित-काम्यया] (अस्ति)
+2.7.27 मन्थरा - "शत्रुः (दशरथः) [पति-प्रवादेन] [मात्रा] इव [हित-काम्यया] (अस्ति)
 ।" Manthara - (Dasharatha) is an enemy under the [pretext of being a husband],
 like a [mother] (acting) with a [desire for welfare]. मन्थरा - "[बाले] ! (सः)
 [आशी-विषः] इव अङ्के त्वया [परि-धृतः] ।" Manthara - [O child]! (He) [was
@@ -199,8 +199,9 @@ Kaikeyi - "Therefore (I) am [contented] that king Dasharatha will consecrate Ram
 2.7.36
 कैकेयी - "मम [अस्मात्] [परम्] किञ्चित् न (अस्ति) । त्वया पुनः (तत् उक्तम्) ।"
 Kaikeyi - "There is nothing [greater] than [this] for me. (That) was again (said) by you."
-कैकेयी - "[प्रिया-अर्हे] ! [प्रियम्] [सु-वचम्] [वचः-परम्] (वचनम्) (अस्ति) ।"
-Kaikeyi - "[O woman worthy of affection]! (This) is a [pleasant], [well-spoken], and [exceedingly dear] (word)." कैकेयी - "त्वम्
-हि [तथा] [प्रिय-उत्तरम्] (वचनम्) अवोचः ।" Kaikeyi - "Indeed you spoke the [most pleasant] (word) [in that way]."
+कैकेयी - "[प्रिय-अर्हे] ! [प्रियम्] [सु-वचम्] [वचः] [वरम्] (अस्ति) ।"
+Kaikeyi - "[O woman worthy of affection]! (This) is a [pleasant], [well-spoken], and [excellent] [word]."
+कैकेयी - "त्वम् हि [तथा] [प्रिय-उत्तरम्] (वचनम्) अवोचः ।"
+Kaikeyi - "Indeed you spoke the [most pleasant] (word) [in that way]."
 कैकेयी - "(अहम्) तव [परम्] वरम् प्र-ददामि । [तम्] वृणु ।"
 Kaikeyi - "(I) give a [great] reward to you. Choose [that]."

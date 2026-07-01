@@ -48,7 +48,7 @@ beautiful garlands and divine ornaments were cast away (by Kaikeyi).
 
 2.10.7
 
-कैकेय्या [त्यक्तानि] माल्यानि आभरणानि च भूमिम् पतितानि । The garlands and
+कैकेय्या [त्यक्तानि] माल्यानि आभरणानि च भूमौ पतितानि । The garlands and
 ornaments, cast away by Kaikeyi, fell to the ground.
 
 तया कैकेय्या तानि माल्यानि आभरणानि च [त्यक्तानि] । Those garlands and ornaments
@@ -124,7 +124,7 @@ various foods, drinks, and diverse eatables;
 
 2.10.16
 
-[महार्हैः] भूषितैः च [उपपन्नम्] [त्रिदिव-उपमम्] । endowed with expensive
+[महार्हैः] [भूषणैः] च [उपपन्नम्] [त्रिदिव-उपमम्] । endowed with expensive
 decorations, resembling heaven;
 
 तत् [ऋद्धिमत्] स्वम् अन्तः-पुरम् महाराजेन दशरथेन प्रविश्य । having entered that
@@ -215,7 +215,7 @@ an [abandoned] Kinnari, and like a [fallen] celestial nymph (Apsaras).
 forest, like a she-elephant [struck] by a hunter with a [poisoned] (arrow),
 (she, Kaikeyi) (was lying).
 
-अरण्ये [महा-गजेन] इव (राज्ञा दशरथेन) स्नेहआत् सा कैकेयी परिमृष्टा । Like by a
+अरण्ये [महा-गजेन] इव (राज्ञा दशरथेन) स्नेहात् सा कैकेयी परिमृष्टा । Like by a
 [mighty elephant] in the forest, she, Kaikeyi, was lovingly caressed (by King
 Dasharatha).
 
@@ -303,8 +303,8 @@ in your mind."
 
 2.10.36
 
-दशरथः - "अहम् तव प्रीतिम् करिष्यामि (मम) सुकृतेन अपि तव शपे" । Dasharatha - "I
-will do your pleasure, I swear to you even by my merits."
+दशरथः - "अहम् तव प्रीतिम् करिष्यामि (मम) सुकृतेन अपि त्वया शपे" । Dasharatha - "I
+will do your pleasure, I swear even by my merits, and by you."
 
 दशरथः - "यावत् (मम) चक्रम् आवर्तते [तावती] मम वसुन्धरा" । Dasharatha - "As far
 as (my) chariot wheel turns, so much of the earth is mine."
@@ -338,7 +338,7 @@ tell me the truth (about) from where your fear has come."
 
 2.10.40
 
-दशरथः - "यथा रश्मिवान् नीहारम् (व्यपनयति) (तथा) अहम् तव तत् (भयम्)
+दशरथः - "यथा रश्मिवान् नीहारम् (व्यपनयति) (तथा) अहम् तव (भयम्)
 व्यपनयिष्यामि" । Dasharatha - "As the sun (dispels) mist, (so) I will dispel
 that (fear) of yours."
 

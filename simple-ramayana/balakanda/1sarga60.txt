@@ -1,6 +1,6 @@
 1.60.1
-शतानन्दः - (विश्वामित्रेण) महोदय-सहिताः वासिष्ठाः तपो-बल-हताः कृताः ।
-Shatananda - The sons of Vashistha, along with Mahodaya, were destroyed by (Vishvamitra) through his ascetic power.
+शतानन्दः - (विश्वामित्रेण) महोदय-सहिताः वासिष्ठाः तपो-बल-हताः (भूताः) ।
+Shatananda - The sons of Vashistha, along with Mahodaya, were destroyed (became destroyed) by (Vishvamitra) through his ascetic power.
 शतानन्दः - [महातेजाः] विश्वामित्रः ऋषि-मध्ये अवोचत् ।
 Shatananda - The most brilliant Vishvamitra spoke in the midst of the sages.
 
@@ -25,26 +25,22 @@ Shatananda - The words of Vishvamitra were heard by all the great sages.
 1.60.5
 शतानन्दः - [सहिताः] [धर्मज्ञाः] (महर्षयः) समवेताः धर्म-संहितम् अवोचन् च ।
 Shatananda - The united great sages, knowers of dharma, gathered together and spoke words consistent with dharma.
-महर्षयः - "कुशिक-दायादः मुनिः विश्वामित्रः [परम-कोपनः] भूतः ।"
-The Great Sages - "The sage Vishvamitra, the descendant of Kushika, is exceedingly wrathful."
+The Great Sages - "कुशिक-दायादः मुनिः विश्वामित्रः [परम-कोपनः] भूतः ।"
+The Great Sages - "The sage Vishvamitra, the descendant of Kushika, became exceedingly wrathful."
 
 1.60.6
+The Great Sages - "यत् वचनम् [कुशिक-पुत्रेण] विश्वामित्रेण उक्तम् (तत्) सम्यक् । एतत् कार्यम् । अत्र संशयः न ।"
+The Great Sages - "The word which was spoken by Vishvamitra, [the son of Kushika], is right. This must be done. There is no doubt here."
 
-महर्षयः - "यत् वचनम् [कुशिक-पुत्रेण] विश्वामित्रेण उक्तम् (तत्) सम्यक् । एतत्
-कार्यम् । अत्र संशयः न ।" Sages - "The word which was spoken by
-Vishvamitra, [the son of Kushika], is right. This is the task. There is no doubt
-here."
-
-महर्षयः - "[अग्नि-कल्पः] [भगवान्] विश्वामित्रः [रोषितः] (सन्) शापम् दास्यति ।"
-Sages - "The [Lord] Vishvamitra, [who is like fire], will give a curse (if he
-is) [enraged]."
+The Great Sages - "[अग्नि-कल्पः] [भगवान्] विश्वामित्रः [रोषितः] (सन्) शापम् दास्यति ।"
+The Great Sages - "The [Lord] Vishvamitra, [who is like fire], will give a curse (if he is) [enraged]."
 
 1.60.7
-महर्षयः - "तस्मात् यज्ञः प्रवर्त्यतां यथा शरीर-सहितः इक्ष्वाकु-दायादः विश्वामित्रस्य तेजसा दिवं गच्छेत् ।"
+The Great Sages - "तस्मात् यज्ञः प्रवर्त्यताम् यथा शरीर-सहितः इक्ष्वाकु-दायादः विश्वामित्रस्य तेजसा दिवं गच्छेत् ।"
 The Great Sages - "Therefore, let the sacrifice be performed so that the descendant of Ikshvaku may go to heaven with his physical body by the power of Vishvamitra."
 
 1.60.8
-महर्षयः - "तथा यज्ञः प्रवर्त्यतां सर्वे समधितिष्ठत ।"
+The Great Sages - "तथा यज्ञः प्रवर्त्यताम् सर्वे समधितिष्ठत ।"
 The Great Sages - "Let the sacrifice be performed in that manner. May all of you preside over it."
 शतानन्दः - महर्षिभिः एवम् उक्तं तदा (तैः) ताः ताः क्रियाः कृताः ।
 Shatananda - It was spoken thus by the great sages, then those various actions were performed (by them).
@@ -75,7 +71,7 @@ Shatananda - Vishvamitra, [filled with anger], having lifted the ladle, spoke th
 
 1.60.13
 विश्वामित्रः - "[नरेश्वर] ! स्वार्जितस्य मम तपसः वीर्यं पश्य ।"
-Vishvamitra - "[O lord of men]! You see the power of my own earned asceticism."
+Vishvamitra - "[O lord of men]! See the power of my own earned asceticism."
 विश्वामित्रः - "एषः (अहं) त्वां शरीर-सहितं स्वर्गम् ओजसा नयामि ।"
 Vishvamitra - "This (I) lead you to heaven, along with your physical body, by my energy."
 
@@ -105,7 +101,7 @@ Indra - "O Trishanku! You go back, (you) are not [one who has made an abode in h
 
 1.60.18
 इन्द्रः - "[मूढ] ! [गुरु-शाप-हतः] त्वम् [अधः-शिराः] भूमिं पत ।"
-Indra - "[O fool]! [Struck by the curse of your guru], you fall to the earth [with your head downwards]."
+Indra - "[O fool]! [Struck by the curse of your guru], fall to the earth [with your head downwards]!"
 शतानन्दः - महेन्द्रेण एवम् [उक्तः] त्रिशङ्कुः पुनः पतितः ।
 Shatananda - [Spoken] to thus by the great Indra, Trishanku fell again.
 
@@ -172,8 +168,8 @@ Vishvamitra - "And moreover, (let) all my stars (be) [permanent]."
 1.60.29
 विश्वामित्रः - "यावत् लोकाः धरिष्यन्ति (तावत्) एतानि तिष्ठन्तु ।"
 Vishvamitra - "As long as the worlds shall endure, let these remain."
-विश्वामित्रः - "सर्वे सुराः ! [मत्-कृतानि] तत् अनुज्ञातुम् अर्हथ ।"
-Vishvamitra - "O all gods! You should permit that (which is) [created by me]."
+विश्वामित्रः - "सर्वे सुराः ! [मत्-कृतानि] अनुज्ञातुम् अर्हथ ।"
+Vishvamitra - "O all gods! You should permit (that which is) [created by me]."
 
 1.60.30
 शतानन्दः - एवम् उक्ताः सर्वे सुराः [मुनि-पुङ्गवं] विश्वामित्रं प्रति अवोचन् ।
@@ -196,7 +192,7 @@ The Gods - "And these stars will follow Trishanku, [the best of kings]."
 1.60.33
 सुराः - "(एतानि ज्योतींषि) [कृतार्थं] च [कीर्तिमन्तं] [स्वर्ग-लोक-गतं] यथा (तम् अनुयास्यन्ति) ।"
 The Gods - "(These stars will follow him) [whose purpose is accomplished] and [who is glorious], as if [he has gone to the heavenly realm]."
-शतानन्दः - तु [धर्मात्मा] विश्वामित्रः सर्व-देवैः अभिष्टुतः (भूतः) ।
+शतानन्दः - [धर्मात्मा] तु विश्वामित्रः सर्व-देवैः अभिष्टुतः (भूतः) ।
 Shatananda - But the [righteous-souled] Vishvamitra (became) praised by all the gods.
 
 1.60.34

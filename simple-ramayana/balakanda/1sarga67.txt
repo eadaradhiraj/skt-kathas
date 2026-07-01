@@ -75,7 +75,7 @@ Valmiki - The king and the ascetic spoke to him, "Be it so".
 Valmiki - By the words of the ascetic, the bow was easily grasped in the middle by him.
 
 1.67.16
-पश्यतां बहूनां नृप-सहस्राणां [समीपे] तेन [धर्म-आत्मना] रघु-नन्दनेन तत् धनुः लीला-सहितम् इव आरोपितम् ।
+पश्यतां बहूनां नृप-सहस्राणां [समीपे] तेन **[धर्म-आत्मना]** रघु-नन्दनेन तत् धनुः लीला-सहितम् इव आरोपितम् ।
 Valmiki - In the presence of many thousands of kings looking on, that bow was strung by that virtuous delight of the Raghus as if with ease.
 
 1.67.17
@@ -135,7 +135,7 @@ Janaka - "Let those swift-going ministers bring the delighted king."
 Valmiki - And Kausika spoke thus: "So be it."
 
 1.67.28
-तदा [धर्म-आत्मा] राज्ञा मन्त्रिणः सम्भाष्य [कृत-शासनाः] ते अयोध्यां प्रेषिताः ।
+तदा **[धर्म-आत्मना]** राज्ञा मन्त्रिणः सम्भाष्य [कृत-शासनाः] ते अयोध्यां प्रेषिताः ।
 Valmiki - Then, having consulted the ministers, those order-bearers were sent to Ayodhya by the virtuous king.
 
 यथा-वृत्तं समाख्यातुं नृपम् आनेतुं च (ते प्रेषिताः) ।

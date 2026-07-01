@@ -32,7 +32,7 @@ Dasharatha - "By my [earlier] great kings (this kingdom) was protected like (the
 
 2.2.5
 
-दशरथः - "[सः] अहम् [सर्वैः] [इक्ष्वाकु-नरेन्द्रैः] परिपालितम् (राज्यम्) पालितवान् अभूत् ।"
+दशरथः - "[सः] अहम् [सर्वैः] [इक्ष्वाकु-नरेन्द्रैः] परिपालितम् (राज्यम्) पालितवान् अभूवम् ।"
 Dasharatha - "I [that same one] protected the (kingdom) [protected] by [all] [Ikshvaku kings]."
 
 दशरथः - "अहम् [सुख-अर्हम्] [अखिलम्] जगत् श्रेयसा योक्तु-कामः अस्मि ।"
@@ -184,13 +184,13 @@ Dasharatha - King Dasharatha spoke these words [as if not knowing] and [being de
 
 2.2.24
 
-दशरथः - "राजानः । मम वचनम् श्रुत्वा एव (भवन्तः) राघवम् पतिम् इच्छथ ।"
+दशरथः - "राजानः । मम वचनम् श्रुत्वा एव (यूयम्) राघवम् पतिम् इच्छथ ।"
 Dasharatha - "O kings, immediately after hearing my word, you desire Rama as (your) lord."
 
 दशरथः - "मम [अयम्] संशयः (अस्ति) ।"
 Dasharatha - "This is my doubt."
 
-दशरथः - "(भवन्तः) [तत्त्वतः] इदम् ब्रूत ।"
+दशरथः - "(भवन्तः) [तत्त्वतः] इदम् ब्रुवन्तु ।"
 Dasharatha - "You speak this [truly]."
 
 2.2.25
@@ -238,9 +238,6 @@ The Kings - "Dharma also [along with prosperity] emerged directly from Rama."
 राजानः - "रामः [प्रजा-सुख-करणे] चन्द्रस्य (तुल्यः) [क्षमा-गुणैः] च वसुधायाः तुल्यः (अस्ति) ।"
 The Kings - "Rama is (equal) to the Moon [in causing happiness to the people] and equal to the earth [by the qualities of forbearance]."
 
-राजानः - "रामः बुद्ध्या बृहस्पतेः तुल्यः वीर्ये साक्षात् इन्द्रस्य (तुल्यः) (अस्ति) ।"
-The Kings - "Rama is equal to Brihaspati by wisdom and directly (equal) to Indra in prowess."
-
 2.2.31
 
 राजानः - "रामः [धर्मज्ञः] [सत्य-सन्धः] च [शीलवान्] [अनसूयकः] (अस्ति) ।"
@@ -287,7 +284,7 @@ The Kings - "Rama (is) [noble-born], [virtuous], [noble-minded], and [highly-int
 The Kings - "Rama became well-trained by the [best] Brahmins [expert in dharma and artha]."
 
 राजानः - "रामः [ग्राम-अर्थे] वा नगरस्य कृते वा सङ्ग्रामम् गच्छति।"
-The Kings - "Rama went to battle for [the sake of a village] or for the sake of the city."
+The Kings - "Rama goes to battle for [the sake of a village] or for the sake of the city."
 
 2.2.37
 
@@ -334,9 +331,6 @@ The Kings - "Rama (is) [truthful], [a great archer], [a servant of the elderly],
 राजानः - "रामः [स्मित-पूर्व-अभिभाषी] च [सर्व-आत्मना] धर्मम् आश्रितः (अस्ति) ।"
 The Kings - "Rama (is) [one who speaks with a smile first] and supported dharma [with his whole soul]."
 
-राजानः - "रामः [श्रेयसाम्] [सम्यक्] दाता (अस्ति) [विवाद-कथायाम्] तस्य रुचिः न (अस्ति) ।"
-The Kings - "Rama (is) a [proper] giver [of welfare], and his interest is not present [in argumentative talk]."
-
 2.2.43
 
 राजानः - "रामः [वाचस्पतिः] इव [उत्तर-उत्तर-युक्तः] वक्ता (अस्ति) ।"
@@ -366,13 +360,10 @@ The Kings - "The anger and grace of Rama are never [useless]."
 राजानः - "रामः [नियमात्] [वध्यान्] एव हन्ति । [अ-वध्याय] च न कुप्यति ।"
 The Kings - "Rama surely kills [those deserving death] [according to rule], and he does not get angry [at one who should not be killed]."
 
-राजानः - "[प्रहृष्टः] रामः यस्मिन् तुष्यति (तस्मै) धनम् ददाति ।"
-The Kings - "[Greatly pleased], Rama gives wealth (to him) with whom he is satisfied."
-
 2.2.47
 
 राजानः - "रामः [शान्तैः] [सर्व-प्रजा-कान्तैः] [नृणाम्] [प्रीति-सञ्जननैः] गुणैः युक्तः ।"
-The Kings - "Rama endowed with [calm] and [pleasing to all subjects] qualities [producing affection] for men."
+The Kings - "Rama is endowed with [calm] and [pleasing to all subjects] qualities [producing affection] for men."
 
 राजानः - "रामः [दीप्तः] सूर्यः अंशुभिः इव (स्व-गुणैः) शोभितः ।"
 The Kings - "Rama shone (with his qualities) like the [shining] sun with its rays."
@@ -387,13 +378,13 @@ The Kings - "Rama, [endowed with such qualities], [of true prowess], and [compar
 राजानः - "हे राघव ! [दिष्ट्या] [असौ] वत्सः रामः तव श्रेयसे जातः ।"
 The Kings - "O descendant of Raghu! [Fortunately] [this] son Rama was born for your welfare."
 
-राजानः - "रामः [मारीचस्य काश्यपः] इव [पुत्र-गुणैः] युक्तः ।"
-The Kings - "Rama became endowed with [filial virtues] like [Kashyapa] (the son) [of Maricha]."
+राजानः - "रामः [मारीचः इव काश्यपः] [पुत्र-गुणैः] युक्तः ।"
+The Kings - "Rama became endowed with [filial virtues] like [Kashyapa, the son of Marichi]."
 
 2.2.50
 
 राजानः - "[विदित-आत्मनः] रामस्य बलम् आरोग्यम् आयुः च (सर्वैः इष्टम्) ।"
-The Kings - "Strength, health, and long life of the [celebrated] Rama (were desired by all)."
+The Kings - "Strength, health, and long life of the [self-realized] Rama (were desired by all)."
 
 राजानः - "[गन्धर्व-उरग-सहितैः] [देव-असुर-मनुष्यैः] च (एतत्) (विदितम्) ।"
 The Kings - "(This) (is known) by [gods, demons, and men along with gandharvas and uragas]."
@@ -411,7 +402,7 @@ The Kings - "The [inner] or [outer], [city or village] person had prayed (for th
 राजानः - "[वृद्धाः] [तरुण्यः] च स्त्रियः सायम् प्रातः [समाहिताः] (भूत्वा) (तिष्ठन्ति) ।"
 The Kings - "[Aged] and [young] women (remain) [composed] at evening and morning."
 
-राजानः - "ते [यशस्विनः] रामस्य अर्थे सर्वान् देवान् नमस्कृतवन्तः अभूवन् ।"
+राजानः - "ताः [यशस्विनः] रामस्य अर्थे सर्वान् देवान् नमस्कृतवत्यः अभूवन् ।"
 The Kings - "They had offered salutations to all the gods for the sake of the [illustrious] Rama."
 
 2.2.53

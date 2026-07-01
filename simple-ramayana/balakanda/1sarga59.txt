@@ -17,23 +17,23 @@ Vishvamitra - "(O) [best of kings] (Trishanku), (I) will become your refuge. (Yo
 1.59.3
 
 विश्वामित्रः - "(त्वं) पुण्यान् आह्वय । तव भद्रम् (अस्तु) । ये याजयिष्यन्ति ।"
-Vishvamitra - "(You) invite the pious ones. Let there be auspiciousness for you. Who will officiate the sacrifice."
+Vishvamitra - "(You) invite the pious ones, who will officiate the sacrifice; let there be auspiciousness for you."
 
-विश्वामित्रः - "(अहं) [शरीर-सहितं] दिवं गतं त्रिशङ्कुं याजयिष्यामि ।"
-Vishvamitra - "(I) will cause Trishanku who has gone to heaven [along with his physical body] to sacrifice."
+विश्वामित्रः - "(अहं) [शरीर-सहितं] दिवं गन्तुं त्रिशङ्कुं याजयिष्यामि ।"
+Vishvamitra - "(I) will cause Trishanku to sacrifice in order to go to heaven [along with his physical body]."
 
 1.59.4
 
 विश्वामित्रः - "यत् इदं [गुरु-शाप-कृतं] रूपं त्वयि वर्तते ।"
-Vishvamitra - "Whatever this form [created by the guru's curse] exists in you."
+Vishvamitra - "Whatever this form [created by the guru's curse] that exists in you,"
 
 विश्वामित्रः - "(त्वम्) अनेन रूपेण सह [शरीर-सहितः] (स्वर्गं) गमिष्यसि ।"
-Vishvamitra - "(You) will go (to heaven) [with your physical body] along with this form."
+Vishvamitra - "(you) will go (to heaven) [with your physical body] along with this form."
 
 1.59.5
 
 विश्वामित्रः - "(हे) [नर-अधिप] (त्रिशङ्को) यः (त्वं) [शरण्यं] कौशिकम् आगम्य [शरण-आगतः] (असि) ।"
-Vishvamitra - "(O) [lord of men] (Trishanku), you who have taken refuge having reached Kaushika [who is a protector]."
+Vishvamitra - "(O) [lord of men] (Trishanku), since you have taken refuge having approached Kaushika [who is a protector],"
 
 विश्वामित्रः - "(अहं) तव स्वर्गं [हस्त-प्राप्तं] मन्ये ।"
 Vishvamitra - "(I) consider your heaven [as attained in hand]."
@@ -60,15 +60,15 @@ Vishvamitra - "(Bring them) [along with their disciples and friends] and indeed 
 1.59.8
 
 विश्वामित्रः - "[मद्-वाक्य-बल-चोदितः] अन्यः (जनः) यत् वचनं ब्रूयात् ।"
-Vishvamitra - "Whatever word another (person) [incited by the strength of my words] may speak."
+Vishvamitra - "Whatever word another (person) [incited by the strength of my words] may speak,"
 
 विश्वामित्रः - "तत् सर्वम् अखिलेन अनादृतम् उक्तं (वचनं) मह्यं निवेदनीयम् ।"
-Vishvamitra - "All that (word) spoken entirely disrespectfully should be reported to me."
+Vishvamitra - "all that (word) spoken entirely disrespectfully should be reported to me."
 
 1.59.9
 
 शतानन्दः - (शिष्यैः) तस्य (विश्वामित्रस्य) तत् वचनं श्रुतम् । (ते शिष्याः) (विश्वामित्रस्य) आज्ञया दिशः गताः ।
-Shatananda - That word of his (Vishvamitra's) was heard (by the disciples). (Those disciples) went to the directions by (Vishvamitra's) order.
+Shatananda - That word of his (Vishvamitra's) was heard (by the disciples). (Those disciples) went in all directions by (Vishvamitra's) order.
 
 शतानन्दः - अथ ब्रह्म-वादिनः [सर्वेभ्यः] देशेभ्यः आगताः ।
 Shatananda - Thereafter the expounders of the Veda arrived from [all] countries.
@@ -100,26 +100,26 @@ Disciples - "(O) [best of ascetics] (Vishvamitra), whatever [entire] word (those
 1.59.13
 
 शिष्याः - "(ते पुत्राः अवोचन्) यस्य क्षत्रियः याजकः (अस्ति) ।"
-Disciples - "(Those sons spoke) for whom a Kshatriya (is) the priest of the sacrifice."
+Disciples - "(Those sons spoke) 'For whom a Kshatriya (is) the priest of the sacrifice,"
 
 शिष्याः - "(ते पुत्राः अवोचन्) विशेषतः तस्य चण्डालस्य सदसि [सुर-ऋषयः] हविः कथं भोक्तारः (भवेयुः) ।"
-Disciples - "(Those sons spoke) particularly in the assembly of that Chandala how (would) [the gods and sages] (be) the enjoyers of the oblation."
+Disciples - "particularly in the assembly of that Chandala, how would [the gods and sages] be the enjoyers of the oblation?'"
 
 1.59.14
 
 शिष्याः - "(ते पुत्राः अवोचन्) वा [महा-आत्मानः] ब्राह्मणाः [चण्डाल-भोजनं] भुक्तवन्तः ।"
-Disciples - "(Those sons spoke) or the [great-souled] Brahmins had eaten [the food of a Chandala]."
+Disciples - "(Those sons spoke) 'Or how have the [great-souled] Brahmins eaten [the food of a Chandala]?"
 
 शिष्याः - "(ते पुत्राः अवोचन्) [विश्वामित्रेण] [पालिताः] (ते ब्राह्मणाः) स्वर्गं कथं गमिष्यन्ति ।"
-Disciples - "(Those sons spoke) how will (those Brahmins) [protected] by Vishvamitra go to heaven."
+Disciples - "How will (those Brahmins) [protected] by Vishvamitra go to heaven?'"
 
 1.59.15
 
 शिष्याः - "(हे) [मुनि-शार्दूल] (विश्वामित्र) [महोदय-सहिताः] [सं-रक्त-लोचनाः] ते [सर्वे] वसिष्ठस्य (पुत्राः) ।"
-Disciples - "(O) [tiger among sages] (Vishvamitra), those [all] (sons) of Vashistha [along with Mahodaya] [with completely reddened eyes]."
+Disciples - "(O) [tiger among sages] (Vishvamitra), all those (sons) of Vashistha [along with Mahodaya], [with completely reddened eyes],"
 
 शिष्याः - "एतत् [वचन-नैष्ठुर्यम्] अवोचन् ।"
-Disciples - "Spoke this [harshness of words]."
+Disciples - "spoke this [harshness of words]."
 
 1.59.16
 
@@ -132,10 +132,10 @@ Shatananda - [The preeminent among ascetics] [whose eyes were completely reddene
 1.59.17
 
 विश्वामित्रः - "ये [दुरात्मानः] (पुत्राः) [अ-दुष्टं] [उग्रं] तपः समास्थितं मां दूषयन्ति ।"
-Vishvamitra - "Which [wicked-minded] (sons) find fault with me [who is free from blemish] (and) who am established in [terrible] penance."
+Vishvamitra - "Those [wicked-minded] (sons) who find fault with me, [who am free from blemish] (and) who am established in [terrible] penance,"
 
 विश्वामित्रः - "(ते पुत्राः) [भस्मी-भूताः] भविष्यन्ति । संशयः न (अस्ति) ।"
-Vishvamitra - "(Those sons) will become [reduced to ashes]. There (is) no doubt."
+Vishvamitra - "(those sons) will become [reduced to ashes]. There (is) no doubt."
 
 1.59.18
 
@@ -167,11 +167,11 @@ Vishvamitra - "Blamed in all worlds (that Mahodaya) will attain the state of a N
 Vishvamitra - "(That Mahodaya) (being) [engaged in the taking of life] will attain [ruthlessness] because of my anger."
 
 विश्वामित्रः - "(सः महोदयः) दीर्घ-कालं दुर्गतिं वर्तयिष्यति ।"
-Vishvamitra - "(That Mahodaya) will continue an evil state for a long time."
+Vishvamitra - "(That Mahodaya) will continue in an evil state for a long time."
 
 1.59.22
 
-शतानन्दः - [महा-तपाः] विश्वामित्रेण एतावत् वचनम् उक्तम् ।
+शतानन्दः - [महा-तपसा] विश्वामित्रेण एतावत् वचनम् उक्तम् ।
 Shatananda - This much word was spoken by Vishvamitra [possessing fierce asceticism].
 
 शतानन्दः - [महा-तेजाः] [महा-मुनिः] (सः विश्वामित्रः) ऋषि-मध्ये विरतः ।

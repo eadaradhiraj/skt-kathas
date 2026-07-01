@@ -1,111 +1,194 @@
 1.6.1
-तस्याम् अयोध्यायां पुर्याम्, [वेदवित्], [सर्वसाधनसम्पन्नः], [दीर्घदर्शी], [महातेजाः], [पौर-जानपदानां प्रियः च] राजा दशरथः अभूत्।
-In that city of Ayodhya, there was King Dasharatha, who was a [knower of the Vedas], [endowed with all resources], [farsighted], [of great majesty], and [the beloved of the city and country folk].
+तस्याम् अयोध्यायां पुर्याम्, [वेदवित्], [सर्वसाधनसम्पन्नः], [दीर्घदर्शी],
+[महातेजाः], [पौर-जानपदानां प्रियः च] राजा दशरथः अभूत्।
+In that city of Ayodhya, there was King Dasharatha, who was a [knower of the
+Vedas], [endowed with all resources], [farsighted], [of great majesty], and [the
+beloved of the city and country folk].
 
 1.6.2
-सः [इक्ष्वाकूणाम् अतिरथः], [यज्वा], [धर्मे रतः], [वशी], [महर्षिणा समः] [राजर्षिः] दशरथः, [त्रिषु लोकेषु विश्रुतः च] अभूत्।
-He, the [royal sage] Dasharatha, was [a great chariot-warrior of the Ikshvakus], [a performer of sacrifices], [devoted to dharma], [self-controlled], [equal to a great sage], and [was famous in the three worlds].
+सः [इक्स्वाकूणाम् अतिरथः], [यज्वा], [धर्मे रतः], [वशी], [महर्षिणा समः]
+[राजर्षिः] दशरथः, [त्रिषु लोकेषु विश्रुतः च] अभूत्।
+He, the [royal sage] Dasharatha, was [a great chariot-warrior of the Ikshvakus],
+[a performer of sacrifices], [devoted to dharma], [self-controlled], [equal to a
+great sage], and [was famous in the three worlds].
 
 1.6.3
-सः राजा दशरथः [बलवान्], [शत्रुनाशकः], [मित्रवान्], [विजितेन्द्रियः], [धनैः अन्यैः सङ्ग्रहैः च युक्तः], [इन्द्रेण कुबेरेण च समः च] अभूत्।
-He, King Dasharatha, was [strong], [a destroyer of enemies], [one who had friends], [one who had conquered his senses], [endowed with riches and other accumulations], and [was equal to Indra and Kubera].
+सः राजा दशरथः [बलवान्], [शत्रुनाशकः], [मित्रवान्], [विजितेन्द्रियः], [धनैः
+अन्यैः सङ्ग्रहैः च युक्तः], [इन्द्रेण कुबेरेण च समः च] अभूत्।
+He, King Dasharatha, was [strong], [a destroyer of enemies], [one who had
+friends], [one who had conquered his senses], [endowed with riches and other
+accumulations], and [was equal to Indra and Kubera].
 
 1.6.4
-यथा [महातेजाः] मनुः लोकस्य परिरक्षकः अभूत्, तथा [राजा] दशरथः वसन् जगत् पालितवान् अभूत्।
-Just as the [greatly majestic] Manu was the protector of the world, so also [King] Dasharatha, while ruling, protected the world.
+यथा [महातेजाः] मनुः लोकस्य परिरक्षकः अभूत्, तथा [राजा] दशरथः वसन् जगत् पालितवान्
+अभूत्।
+Just as the [greatly majestic] Manu was the protector of the world, so also
+[King] Dasharatha, while ruling, protected the world.
 
 1.6.5
-[सत्येन अभिसन्धेन] [त्रिवर्गम् अनुतिष्ठता च] तेन राज्ञा दशरथेन, सा [श्रेष्ठा] पुरी, [यथा इन्द्रेण अमरावती], पालिता अभूत्।
-By that king, Dasharatha, who was [endowed with a true promise] and [who was practicing the Trivarga], that [excellent] city was protected, [just as Amaravati is by Indra].
+[सत्याभिसन्धेन] [त्रिवर्गम् अनुतिष्ठता च] तेन राज्ञा दशरथेन, सा [श्रेष्ठा] पुरी,
+[यथा इन्द्रेण अमरावती], पालिता अभूत्।
+By that king, Dasharatha, who was [endowed with a true promise] and [who was
+practicing the Trivarga], that [excellent] city was protected, [just as
+Amaravati is by Indra].
 
 1.6.6
-तस्मिन् अयोध्या-नामके [उत्तमे] [नगरे] [धर्मात्मनः, बहुश्रुताः, अलुब्धाः, सत्यवादिनः] नराः [स्वैः स्वैः धनैः तुष्टाः सन्तः] हृष्टाः अभूवन्।
-In that excellent city, the men—[righteous, very learned, non-greedy, and truthful]—being content with their own wealth, were joyful.
+तस्मिन् अयोध्या-नामके [उत्तमे] [नगरे] [धर्मात्मानः, बहुश्रुताः, अलुब्धाः,
+सत्यवादिनः] नराः [स्वैः स्वैः धनैः तुष्टाः सन्तः] हृष्टाः अभूवन्।
+In that excellent city, the men—[righteous, very learned, non-greedy, and
+truthful]—being content with their own wealth, were joyful.
 
 1.6.7
-तस्मिन् अयोध्या-नामके [उत्तमे] [नगरे] कश्चित् कुटुम्बी एतादृशः न अभूत् यस्य सन्निचयः अल्पः अभूत्, यस्य अर्थः सिद्धः न अभूत्, यस्य समीपे च गावः, अश्वाः, धनं, धान्यं न अभूवन्।
-In that best of cities, there was no such householder whose accumulation (of wealth) was small, whose purpose was unfulfilled, and near whom there were no cows, horses, wealth, and grain.
+तस्मिन् अयोध्या-नामके [उत्तमे] [नगरे] कश्चित् कुटुम्बी एतादृशः न अभूत् यस्य
+सन्निचयः अल्पः अभूत्, यस्य अर्थः सिद्धः न अभूत्, यस्य समीपे च गावः, अश्वाः, धनं,
+धान्यं न अभूवन्।
+In that best of cities, there was no such householder whose accumulation (of
+wealth) was small, whose purpose was unfulfilled, and near whom there were no
+cows, horses, wealth, and grain.
 
 1.6.8
-अयोध्यायां क्वचित् [कामी, कदर्यः, नृशंसः, अविद्वान्, नास्तिकः च] पुरुषः द्रष्टुं शक्यः न अभूत्।
-Nowhere in Ayodhya was it possible to see a person who was lustful, miserly, cruel, unlearned, or an atheist.
+अयोध्यायां क्वचित् [कामी, कदर्यः, नृशंसः, अविद्वान्, नास्तिकः च] पुरुषः द्रष्टुं
+शक्यः न अभूत्।
+Nowhere in Ayodhya was it possible to see a person who was lustful, miserly,
+cruel, unlearned, or an atheist.
 
 1.6.9
-सर्वे नराः नार्यः च [धर्मशीलाः, सुसंयताः, शीलवृत्ताभ्याम् उदिताः, अमलाः, महर्षयः इव च] अभूवन्।
-All the men and women were righteous, well-restrained, spotless, distinguished by their character and conduct, and like great sages.
+सर्वे नराः नार्यः च [धर्मशीलाः, सुसंयताः, शीलवृत्ताभ्याम् उदिताः, अमलाः, महर्षयः
+इव च] अभूवन्।
+All the men and women were righteous, well-restrained, spotless, distinguished
+by their character and conduct, and like great sages.
 
 1.6.10
-अयोध्यायाम् [कुण्डल-हीनः, मकुट-हीनः, माला-हीनः, अल्पभोगवान्, अमृष्टः, अनुलिप्तैः अङ्गैः विहीनः, सुगन्ध-हीनः च] कश्चित् पुरुषः न अभूत्।
-In Ayodhya, there was no person who was without earrings, without a crown, without a garland, who had little enjoyment, was unpolished, had un-anointed limbs, or was without a good fragrance.
+अयोध्यायाम् [कुण्डल-हीनः, मकुट-हीनः, माला-हीनः, अल्पभोगवान्, अमृष्टः, अनुलिप्तैः
+अङ्गैः विहीनः, सुगन्ध-हीनः च] कश्चित् पुरुषः न अभूत्।
+In Ayodhya, there was no person who was without earrings, without a crown,
+without a garland, who had little enjoyment, was unpolished, had un-anointed
+limbs, or was without a good fragrance.
 
 1.6.11
-[सः रामः] अमृष्टं न कदापि खादितवान् अभूत्। [सः] अदाता न अभूत्। [सः] विना अङ्गदे च निष्कं च अपि न अभूत्। [सः] विना हस्ताभरणं वा अपि न अभूत्। [सः] अनात्मवान् अपि न दृष्टः।
-[He, Rama,] had never eaten impure food. He was not a non-giver. He was not without both armlets and a neck-chain either. Nor was he without an ornament on his hand. He is not seen as one lacking self-possession either.
+कश्चन [जनः] अमृष्टं न कदापि खादितवान् अभूत्। कश्चन [जनः] अदाता न अभूत्। कश्चन
+[जनः] विना अङ्गदं च निष्कं च अपि न अभूत्। कश्चन [जनः] विना हस्ताभरणं वा अपि न
+अभूत्। कश्चन [जनः] अनात्मवान् अपि न दृष्टः।
+No person had ever eaten dissatisfying food. No one was a non-giver. No one was
+without both armlets and a neck-chain either. Nor was anyone without an ornament
+on his hand. No one was seen as lacking self-possession either.
 
 1.6.12
-अयोध्यायां न केनापि [जनेन] अनाहितः अग्निः। [कश्चित् जनः] अयज्वा न अभूत्। [कश्चित् जनः] क्षुद्रः वा तस्करः वा न अभूत्। निर्वृत्तसङ्करः च न [कश्चित् जनः] अभूत्।
-In Ayodhya, no person was one who had not established the sacred fire. No one was a non-sacrificer. No one was either mean or a thief. And there was no person of mixed caste.
+अयोध्यायां न केनापि [जनेन] अग्न्याधानम् अकृतम् अभूत्। [कश्चित् जनः] अयज्वा न
+अभूत्। [कश्चित् जनः] क्षुद्रः वा तस्करः वा न अभूत्। निर्वृत्तसङ्करः च न [कश्चित्
+जनः] अभूत्।
+In Ayodhya, by no person was the establishment of the sacred fire left
+unperformed. No one was a non-sacrificer. No one was either mean or a thief. And
+there was no person of mixed caste.
 
 1.6.13
-ब्राह्मणाः नित्यं स्वकर्मनिरताः अभूवन्। [ते] विजितेन्द्रियाः अभूवन्। [ते] दानाध्ययनशीलाः च अभूवन्। [ते] दानस्वीकरणे संयताः च अभूवन्।
-The Brahmins were always [engaged in their own duties]. They were [those who had conquered their senses]. They were also [habituated to charity and study], and were [restrained in accepting gifts].
+ब्राह्मणाः नित्यं स्वकर्मनिरताः अभूवन्। [ते] विजितेन्द्रियाः अभूवन्। [ते]
+दानाध्ययनशीलाः च अभूवन्। [ते] दानस्वीकरणे संयताः च अभूवन्।
+The Brahmins were always [engaged in their own duties]. They were [those who had
+conquered their senses]. They were also [habituated to charity and study], and
+were [restrained in accepting gifts].
 
 1.6.14
-तदा कश्चित् [नास्तिकः] न अभूत्। [कश्चित्] [असत्यवादी] न अभूत्। कश्चित् [अबहुश्रुतः] न अभूत्। कश्चित् [असूयकः] न अभूत्। कश्चित् [अशक्तः] च न अभूत्। [कश्चित्] अविद्वान् न अभूत्।
-At that time, no one was [an atheist]. No one was [a liar]. No one was [of little learning]. No one was [envious]. And no one was [incapable]. No [ignorant] person was to be found.
+तदा कश्चित् [नास्तिकः] न अभूत्। [कश्चित्] [असत्यवादी] न अभूत्। कश्चित्
+[अबहुश्रुतः] न अभूत्। कश्चित् [असूयकः] न अभूत्। कश्चित् [अशक्तः] च न अभूत्।
+[कश्चित्] अविद्वान् न अभूत्।
+At that time, no one was [an atheist]. No one was [a liar]. No one was [of
+little learning]. No one was [envious]. And no one was [incapable]. No
+[ignorant] person was to be found.
 
 1.6.15
-अत्र कश्चन [षड्वेदाङ्ग-ज्ञानं विना] न अभूत्। कश्चन [विना व्रतम्] न अभूत्। कश्चन [असहस्रदः] न अभूत्। कश्चन [दीनः] वा [व्याकुलचित्तः] वा [व्यथितः] वा अपि न अभूत्।
-Here, no one was [ignorant of the six Vedangas]. No one was [without religious vows]. No one was [a non-giver of thousands]. And no one was [miserable], or [of a distracted mind], or even [afflicted].
+अत्र कश्चन [षड्वेदाङ्ग-ज्ञानं विना] न अभूत्। कश्चन [विना व्रतम्] न अभूत्। कश्चन
+[असहस्रदः] न अभूत्। कश्चन [दीनः] वा [व्याकुलचित्तः] वा [व्यथितः] वा अपि न अभूत्।
+Here, no one was [ignorant of the six Vedangas]. No one was [without religious
+vows]. No one was [a non-giver of thousands]. And no one was [miserable], or [of
+a distracted mind], or even [afflicted].
 
 1.6.16
-अयोध्यायां कश्चित् नरः वा नारी वा [अश्रीमान्] द्रष्टुं न शक्यः अभूत्। [कश्चित् नरः वा नारी वा] [अरूपवान्] अपि द्रष्टुं न शक्यः अभूत्। [कश्चित् नरः वा नारी वा] [राजनि अभक्तिमान्] अपि न अभूत्।
-In Ayodhya, no man or woman could be seen who was [without prosperity]. Nor could any man or woman be seen who was [lacking beauty]. Nor was there any man or woman who was [undevoted to the king].
+अयोध्यायां कश्चित् नरः (अश्रीमान्) वा नारी (अश्रीमती) वा द्रष्टुं न शक्यम्
+अभूत्। [कश्चित् नरः वा नारी वा] [अरूपवान् (अरूपवती वा)] अपि द्रष्टुं न शक्यम्
+अभूत्। [कश्चित् नरः वा नारी वा] [राजनि अभक्तिमान् (अभक्तिमती वा)] अपि न अभूत्।
+In Ayodhya, no man [who was without prosperity] or woman [who was without
+prosperity] could be seen. Nor could any man [lacking beauty] or woman [lacking
+beauty] be seen. Nor was there any man or woman who was [undevoted to the king].
 
 1.6.17
-सर्वेषु वर्णेषु जनाः [देवतानाम् अतिथीनाम् च पूजकाः], [कृतज्ञाः], [दानशीलाः], [शूराः], [विक्रमेण संयुताः] च अभूवन्।
-In all the varnas, the people were [worshippers of gods and guests], [grateful], [charitable], [brave], and [endowed with valor].
+सर्वेषु वर्णेषु जनाः [देवतानाम् अतिथीनाम् च पूजकाः], [कृतज्ञाः], [दानशीलाः],
+[शूराः], [विक्रमेण संयुताः] च अभूवन्।
+In all the varnas, the people were [worshippers of gods and guests], [grateful],
+[charitable], [brave], and [endowed with valor].
 
 1.6.18
-उत्तमे अयोध्या-नगरे सर्वे नराः [दीर्घायुषा युक्ताः], [धर्मं सत्यं च संश्रिताः], [नित्यं पुत्र-पौत्रैः स्त्रीभिः च सहिताः] च अभूवन्।
-In the excellent city of Ayodhya, all the men were [endowed with long life], [devoted to Dharma and Truth], and [always together with their sons, grandsons, and wives].
+उत्तमे अयोध्या-नगरे सर्वे नराः [दीर्घायुषा युक्ताः], [धर्मं सत्यं च संश्रिताः],
+[नित्यं पुत्र-पौत्रैः स्त्रीभिः च सहिताः] च अभूवन्।
+In the excellent city of Ayodhya, all the men were [endowed with long life],
+[devoted to Dharma and Truth], and [always together with their sons, grandsons,
+and wishes/wives].
 
 1.6.19
-क्षत्रम् [ब्राह्मणान् प्रमुखान् मन्यमानम्] अभूत्। वैश्याः [क्षत्रस्य अनुगामिनः] अभूवन्। शूद्राः [स्वधर्मे निरताः] [त्रीन् वर्णान् सेवमानाः] च अभूवन्।
-The Kshatriya class was [one that considered the Brahmins as foremost]. The Vaishyas were [followers of the Kshatriyas]. The Shudras were [engaged in their own duty] and [serving the three other varnas].
+क्षत्रम् [ब्राह्मणान् प्रमुखान् मन्यमानम्] अभूत्। वैश्याः [क्षत्रस्य अनुगामिनः]
+अभूवन्। शूद्राः [स्वधर्मे निरताः] [त्रीन् वर्णान् सेवमानाः] च अभूवन्।
+The Kshatriya class was [one that considered the Brahmins as foremost]. The
+Vaishyas were [followers of the Kshatriyas]. The Shudras were [engaged in their
+own duty] and [serving the three other varnas].
 
 1.6.20
-[सा पुरी] अयोध्या [तेन इक्ष्वाकु-नाथेन] दशरथेन [सुपरिरक्षिता] अभूत्, यथा पूर्वं [धीमता मानवेन्द्रेण] मनुना [सा पुरी] अयोध्या रक्षिता अभूत्। is what i expected
-[That city], Ayodhya, was [well-protected] by [that lord of the Ikshvakus], Dasharatha, just as previously [that city], Ayodhya, had been protected by the [wise lord of men], Manu.
+[सा पुरी] अयोध्या [तेन इक्ष्वाकु-नाथेन] दशरथेन [सुपरिरक्षिता] अभूत्, यथा पूर्वं
+[धीमता मानवेन्द्रेण] मनुना [सा पुरी] अयोध्या रक्षिता अभूत्।
+[That city], Ayodhya, was [well-protected] by [that lord of the Ikshvakus],
+Dasharatha, just as previously [that city], Ayodhya, had been protected by the
+[wise lord of men], Manu.
 
 1.6.21
-[सा पुरी] अयोध्या केसरिणां गुहा इव, [अग्निकल्पैः, पेशलैः, दृढनिश्चयैः, शस्त्रज्ञान-कोविदैः] योधैः सम्पूर्णा अभूत्।
-That city, Ayodhya, was filled with warriors—[who were like fire, skilled, firm in their resolve, and experts in the knowledge of weapons]—just like a cave is filled with lions.
+[सा पुरी] अयोध्या केसरिणां गुहा इव, [अग्निकल्पैः, पेशलैः, दृढनिश्चयैः,
+शस्त्रज्ञान-कोविदैः] योधैः सम्पूर्णा अभूत्।
+That city, Ayodhya, was filled with warriors—[who were like fire, skilled, firm
+in their resolve, and experts in the knowledge of weapons]—just like a cave is
+filled with lions.
 
 1.6.22
-सा पुरी [काम्बोज-क्षेत्रे जातैः, बह्लिक-जातैः, वनायु-जातैः, नदी-जातैः, हरिवर्णैः उत्तमैः उच्चैःश्रवसा सदृशैः] अश्वैः पूर्णा अभूत्।
-That city was filled with horses—born in the Kamboja region, born in Bahlika, born in Vanayu, born of rivers, and excellent, green/bay-colored horses similar to Uchchaihshravas.
+सा पुरी [काम्बोज-क्षेत्रे जातैः, बाह्लीक-जातैः, वनायु-जातैः, नदी-जातैः,
+हरिवर्णैः उत्तमैः उच्चैःश्रवसा सदृशैः] अश्वैः पूर्णा अभूत्।
+That city was filled with horses—born in the Kamboja region, born in Bahlika,
+born in Vanayu, born of rivers, and excellent, green/bay-colored horses similar
+to Uchchaihshravas.
 
 1.6.23
-[सा पुरी] अयोध्या [विन्ध्यपर्वतजैः, हैमवतैः, मत्तैः, मदान्वितैः, अतिबलैः, पर्वतोपमैः च] गजैः पूर्णा अभूत्।
-That city, Ayodhya, was filled with elephants—[born on the Vindhya mountains and from the Himalayas, intoxicated, filled with rut, very strong, and like mountains].
+[सा पुरी] अयोध्या [विन्ध्यपर्वतजैः, हैमवतैः, मत्तैः, मदान्वितैः, अतिबलैः,
+पर्वतोपमैः च] गजैः पूर्णा अभूत्।
+That city, Ayodhya, was filled with elephants—[born on the Vindhya mountains and
+from the Himalayas, intoxicated, filled with rut, very strong, and like
+mountains].
 
 1.6.24
-[सा पुरी] अयोध्या [ऐरावत-कुलीनैः, महापद्म-कुलीनैः, अञ्जनात् जातैः, वामनात् जातैः च] गजैः पूर्णा अभूत्।
-That city, Ayodhya, was filled with elephants—of the lineage of Airavata and Mahapadma, and also those born from Anjana and Vamana.
+[सा पुरी] अयोध्या [ऐरावत-कुलीनैः, महापद्म-कुलीनैः, अञ्जनात् जातैः, वामनात् जातैः
+च] गजैः पूर्णा अभूत्।
+That city, Ayodhya, was filled with elephants—of the lineage of Airavata and
+Mahapadma, and also those born from Anjana and Vamana.
 
 1.6.25
-[सा पुरी] अयोध्या [भद्र-जातैः, मन्द्र-जातैः, मृग-जातैः, भद्र-मन्द्र-मृगै-जातैः, भद्र-मन्द्र-जातैः, भद्र-मृग-जातैः, मृग-मन्द्र-जातैः, नित्य-मत्तैः, पर्वतेन सन्निभैः च] नागैः सदा पूर्णा अभूत्।
-That city, Ayodhya, was always filled with elephants—of the Bhadra, Mandra, Mriga, Bhadra-Mandra-Mriga, Bhadra-Mandra, Bhadra-Mriga, and Mandra-Mriga breeds, perpetually intoxicated, and similar to a mountain.
+[सा पुरी] अयोध्या [भद्र-जातैः, मन्द्र-जातैः, मृग-जातैः, भद्र-मन्द्र-मृग-जातैः,
+भद्र-मन्द्र-जातैः, भद्र-मृग-जातैः, मृग-मन्द्र-जातैः, नित्य-मत्तैः, पर्वतैः
+सन्निभैः च] नागैः सदा पूर्णा अभूत्।
+That city, Ayodhya, was always filled with elephants—of the Bhadra, Mandra,
+Mriga, Bhadra-Mandra-Mriga, Bhadra-Mandra, Bhadra-Mriga, and Mandra-Mriga
+breeds, perpetually intoxicated, and similar to mountains.
 
 1.6.26
-यस्यां राजा दशरथः वसन् जगत् पालितवान् अभूत्, सा पुरी अयोध्या सत्यनामा (सती) द्वे योजने इतोऽपि प्रकाशिता।
-In which city King Dasharatha, while dwelling, had protected the world, that city, Ayodhya, being true to its name, was famous for two yojanas even beyond.
+यस्यां राजा दशरथः वसन् जगत् पालितवान् अभूत्, सा पुरी अयोध्या सत्यनामा (सती) द्वे
+योजने इतोऽपि प्रकाशते।
+In which city King Dasharatha, while dwelling, had protected the world, that
+city, Ayodhya, being true to its name, shines/extends for two yojanas even
+beyond.
 
 1.6.27
-[महातेजाः, महान्, शत्रु-शामकः] सः राजा दशरथः, चन्द्रमाः नक्षत्राणि इव, [तां पुरीम्] अयोध्यां शासितवान् अभूत्।
-That great King Dasharatha, of great splendor, the pacifier of enemies, had ruled that city, Ayodhya, just as the moon rules the stars.
+[महातेजाः, महान्, शत्रु-शामकः] सः राजा दशरथः, चन्द्रमाः नक्षत्राणि इव, [तां
+पुरीम्] अयोध्यां शासितवान् अभूत्।
+That great King Dasharatha, of great splendor, the pacifier of enemies, had
+ruled that city, Ayodhya, just as the moon rules the stars.
 
 1.6.28
-[इन्द्रेण समः] महीपतिः [दृढैः तोरणैः अर्गलाभिः च युक्तां, विचित्रैः गृहैः उपशोभितां, शिवां, नर-सहस्र-सङ्कुलां] तां पुरीम् अयोध्यां यथानाम शासितवान् अभूत्।
-The king, who was equal to Indra, had ruled that city of Ayodhya—[endowed with strong archways and bolts, adorned with wonderful houses, auspicious, and crowded with thousands of men]—in a manner true to its name.
+[इन्द्रेण समः] महीपतिः [दृढैः तोरणैः अर्गलाभिः च युक्तां, विचित्रैः गृहैः
+उपशोभितां, शिवां, नृपसिंह-सङ्कुलां] तां पुरीम् अयोध्यां यथानाम शासितवान् अभूत्।
+The king, who was equal to Indra, had ruled that city of Ayodhya—[endowed with
+strong archways and bolts, adorned with wonderful houses, auspicious, and
+crowded with eminent kings (lions among kings)]—in a manner true to its name.

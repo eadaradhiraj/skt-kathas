@@ -35,8 +35,8 @@ Manthara - "O Kaikeyi, do (you) not remember or (you) being one who remembers ar
 Manthara - "Which (word) being spoken from me for your own welfare you wish to hear."
 
 2.9.7
-मन्थरा - "[विलासिनि] (कैकेयि) । यदि मया उच्यमानम् (वचनम्) श्रोतुम् तव छन्दः (अस्ति) ,
-Manthara - "[O lovely one] (Kaikeyi), if there is a desire for you to hear the (word) being spoken by me,
+मन्थरा - "[विलासिनि] (कैकेयि) । यदि मया उच्यमानम् (वचनम्) श्रोतुम् तव छन्दः (अस्ति) ,"
+Manthara - "[O lovely one] (Kaikeyi), if there is a desire for you to hear the (word) being spoken by me,"
 मन्थरा - "(तर्हि तत्) श्रूयताम् । (अहम्) अभिधास्यामि । श्रुत्वा च अपि (त्वया) विमृश्यताम् ।"
 Manthara - "(Then) let (it) be heard. (I) shall tell (you). And having heard, let (it) also be reflected upon (by you)."
 
@@ -70,6 +70,24 @@ Manthara - "O Queen, (he) (went) towards Dandaka having reached the [southern di
 मन्थरा - "[वैजयन्त-नामकम्] [ख्यातम्] पुरम् (प्राप्तः) यत्र तिमि-ध्वजः स्थितः ।"
 Manthara - "(He arrived at) the [renowned] city [named Vaijayanta] where Timidhvaja resided."
 
+2.9.13
+सः शतमायः महासुरः शम्बरः इति ख्यातः ।
+That great Asura, possessing a hundred magical illusions, was known as Shambara.
+देवसङ्घैः अनिर्जितेन (तेन) शक्रस्य सङ्ग्रामः कृतः ॥
+Undefeated by the groups of gods, he waged war against Indra.
+
+2.9.14
+तस्मिन् महति सङ्ग्रामे क्षतविक्षताः पुरुषाः ।
+In that great battle, the severely wounded warriors...
+राक्षसैः रात्रौ प्रसुप्ताः तरसा आसाद्य हताः ॥ 14 ॥
+...were swiftly attacked and killed by the Rakshasas while fast asleep at night.
+
+2.9.15
+तदा राज्ञा दशरथेन तत्र महत् युद्धं कृतम् ।
+Then, King Dasharatha fought a fierce battle there.
+महाबाहुः (सः) असुरैः शस्त्रैः च शकलीकृतः ॥
+And the mighty-armed king was grievously wounded (torn to pieces) by the weapons of the Asuras.
+
 2.9.16
 मन्थरा - "देवि , सङ्ग्रामात् [नष्ट-चेतनः] (दशरथः) त्वया अपवाह्य रक्षितः ।"
 Manthara - "O Queen, [the unconscious] (Dasharatha) was protected by you after having been carried away from the battlefield."
@@ -77,20 +95,20 @@ Manthara - "O Queen, [the unconscious] (Dasharatha) was protected by you after h
 Manthara - "There also, your husband Dasharatha, [wounded] by weapons, was saved by you."
 
 2.9.17
-मन्थरा - "[शुभ-दर्शने] (कैकेयि) , [तुष्टेन] दशरथेन तुभ्यम् द्वौ वरौ दत्तौ ,
-Manthara - "[O auspicious-looking one] (Kaikeyi), two boons were given to you by the [satisfied] Dasharatha,
+मन्थरा - "[शुभ-दर्शने] (कैकेयि) , [तुष्टेन] दशरथेन तुभ्यम् द्वौ वरौ दत्तौ ,"
+Manthara - "[O auspicious-looking one] (Kaikeyi), two boons were given to you by the [satisfied] Dasharatha,"
 मन्थरा - "देवि , त्वम् [पतिम्] दशरथम् 'यदा (अहम्) इच्छेयम् तदा वरौ (मया गृह्येयाताम्)' इति अवोचः ।"
 Manthara - "O Queen, you said to [the husband] Dasharatha, 'Whenever (I) may desire, then the two boons (may be taken by me)'."
 
 2.9.18
-मन्थरा - "[महा-आत्मा] दशरथः 'तथा' इति अवोचत् ।"
+मन्थरा - "[महात्मा] दशरथः 'तथा' इति अवोचत् ।"
 Manthara - "The [great-souled] Dasharatha said, 'So be it'."
 मन्थरा - "देवि , अहम् अनभिज्ञा भूता । पुरा त्वया एव (एषा कथा) कथिता ।"
 Manthara - "O Queen, I was unaware. Formerly (this story) was told by you alone."
 
 2.9.19
 मन्थरा - "तव स्नेहात् तु एषा कथा मया मनसा धार्यते ।"
-Manthara - "But due to affection for you, this story is held in mind by me.
+Manthara - "But due to affection for you, this story is held in mind by me."
 मन्थरा - "(त्वम्) [राम-अभिषेक-सम्भारान्] निगृह्य विनिवर्तय ।"
 Manthara - "(You) prevent [the preparations for Rama's consecration] by force."
 
@@ -101,8 +119,8 @@ Manthara - "You ask [the husband] Dasharatha for those [two] boons (for) the con
 Manthara - "And (you ask) for the exile of Rama for fourteen years."
 
 2.9.21
-मन्थरा - "चतुर्दश वर्षाणि हि रामे वनम् प्रव्राजिते (सति) ,
-Manthara - "Indeed, Rama having been exiled to the forest for fourteen years,
+मन्थरा - "चतुर्दश वर्षाणि हि रामे वनम् प्रव्राजिते (सति) ,"
+Manthara - "Indeed, Rama having been exiled to the forest for fourteen years,"
 मन्थरा - "(तव) [प्रजा-भाव-गत-स्नेहः] [स्थिरः] पुत्रः भरतः भविष्यति ।"
 Manthara - "(your) son Bharata, [who has obtained the affection of the subjects], will be [firmly established]."
 
@@ -115,7 +133,7 @@ Manthara - "Being [absorbed in grief] and weeping on the ground, (you) (stay) ha
 2.9.24
 मन्थरा - "त्वम् सदा भर्तुः (दशरथस्य) दयिता (असि) । अत्र मम संशयः न अस्ति ।"
 Manthara - "You are always the beloved of the husband (Dasharatha). In this there is no doubt for me."
-मन्थरा - "त्वत्-कृते सः महाराजः (दशरथः) हुताशनम् अपि विशेत् ।"
+मन्थरा - "त्वत्-कृते सः महाराजः (दशरथः) huताशनम् अपि विशेत् ।"
 Manthara - "For your sake, that great king (Dasharatha) would even enter the fire."
 
 2.9.25
@@ -137,14 +155,14 @@ Manthara - "King Dasharatha may give gems, pearls, gold, and various kinds of pr
 Manthara - "(You) do not set your mind on them."
 
 2.9.28
-मन्थरा - "[महा-भागे] (कैकेयि) , यौ तौ [द्वौ] वरौ देव-असुर-युद्धे दशरथेन दत्तौ ,
-Manthara - "[O highly fortunate one] (Kaikeyi), those [two] boons which were given by Dasharatha in the war between gods and asuras,
+मन्थरा - "[महार-भागे] (कैकेयि) , यौ तौ [द्वौ] वरौ देव-असुर-युद्धे दशरथेन दत्तौ ,"
+Manthara - "[O highly fortunate one] (Kaikeyi), those [two] boons which were given by Dasharatha in the war between gods and asuras,"
 मन्थरा - "(त्वम्) तौ (वरौ) (दशरथम्) स्मारय । सः अर्थः त्वाम् न अतिक्रमेत् ।"
 Manthara - "(You) remind (Dasharatha) of those (two boons). That objective should not escape you."
 
 2.9.29
-मन्थरा - "यदा दशरथः त्वाम् स्वयम् उत्थाप्य तुभ्यम् वरम् दद्यात् ,
-Manthara - "When Dasharatha, having personally lifted you up, should give a boon to you,
+मन्थरा - "यदा दशरथः त्वाम् स्वयम् उत्थाप्य तुभ्यम् वरम् दद्यात् ,"
+Manthara - "When Dasharatha, having personally lifted you up, should give a boon to you,"
 मन्थरा - "(त्वम्) महाराजम् दशरथम् व्यवस्थाप्य इमम् वरम् वृणुयाः ।"
 Manthara - "(You) having made the great king Dasharatha settle down, should choose this boon."
 
@@ -155,8 +173,8 @@ Manthara - "[O best of kings] (Dasharatha), exile Rama to the forest for nine an
 Manthara - "Let Bharata be made the king of the earth."
 
 2.9.31
-मन्थरा - "चतुर्दश वर्षाणि हि रामे वनम् प्रव्राजिते (सति) ,
-Manthara - "For indeed, Rama having been exiled to the forest for fourteen years,
+मन्थरा - "चतुर्दश वर्षाणि हि रामे वनम् प्रव्राजिते (सति) ,"
+Manthara - "For indeed, Rama having been exiled to the forest for fourteen years,"
 मन्थरा - "तव सुतः भरतः [रूढः] च [कृत-मूलः] च (भूत्वा) शेषम् स्थास्यति ।"
 Manthara - "Your son Bharata, [having grown strong] and [having become deep-rooted] (by then), will remain for the rest (of the time)."
 
@@ -167,14 +185,14 @@ Manthara - "[O Queen] (Kaikeyi), (you) ask (Dasharatha) for that boon and indeed
 Manthara - "[O lovely one] (Kaikeyi), in this way all the interests of your son Bharata are fulfilled."
 
 2.9.33
-मन्थरा - "एवम् [प्रव्राजितः] च एव रामः [अ-रामः] भविष्यति ,
-Manthara - "Thus, [having been exiled] indeed, Rama will become [one who gives no delight],
+मन्थरा - "एवम् [प्रव्राजितः] च एव रामः [अ-रामः] भविष्यति ,"
+Manthara - "Thus, [having been exiled] indeed, Rama will become [one who gives no delight],"
 मन्थरा - "भरतः च [हत-अमित्रः] तव राजा भविष्यति ।"
 Manthara - "And Bharata, [whose enemies have been destroyed], will become your king."
 
 2.9.34
-मन्थरा - "येन कालेन रामः च वनात् प्रति-आ-गमिष्यति ,
-Manthara - "By which time Rama will return from the forest,
+मन्थरा - "येन कालेन रामः च वनात् प्रति-आ-गमिष्यति ,"
+Manthara - "By which time Rama will return from the forest,"
 मन्थरा - "तेन कालेन तव पुत्रः भरतः [कृत-मूलः] भविष्यति ।"
 Manthara - "by that time your son Bharata will become [deep-rooted]."
 
@@ -209,14 +227,14 @@ Kaikeyi - "(You) are [the best] among the hunchbacks on the earth in the determi
 Kaikeyi - "Indeed you alone (are) [constantly engaged] and [a well-wisher] in my affairs."
 
 2.9.40
-कैकेयी - "कुब्जे । मया राज्ञः दशरथस्य चिकीर्षितम् न ज्ञातम् ,
-Kaikeyi - "O hunchback, the intention of king Dasharatha was not known by me,
+कैकेयी - "कुब्जे । मया राज्ञः दशरथस्य चिकीर्षितम् न ज्ञातम् ,"
+Kaikeyi - "O hunchback, the intention of king Dasharatha was not known by me,"
 कैकेयी - "[दुस्संस्थिताः] [वक्राः] [परम-दारुणाः] (अन्याः) कुब्जाः सन्ति ।"
 Kaikeyi - "There are (other) hunchbacks (who are) [deformed], [crooked], and [extremely cruel]."
 
 2.9.41
-कैकेयी - "[प्रिय-दर्शना] त्वम् वातेन पद्मम् इव [सन्नता] असि ।
-Kaikeyi - "You, [who are lovely to look at], are [bent] like a lotus by the wind.
+कैकेयी - "[प्रिय-दर्शना] त्वम् वातेन पद्मम् इव [सन्नता] असि ।"
+Kaikeyi - "You, [who are lovely to look at], are [bent] like a lotus by the wind."
 कैकेयी - "तव उरः वै [अभिनिविष्टम्] स्कन्धम् यावत् [समुन्नतम्] (अस्ति) ।"
 Kaikeyi - "Your chest is indeed [pressed in] (and) [elevated] up to the shoulder."
 
@@ -233,8 +251,8 @@ Kaikeyi - "O Manthara, oh, (your) [spotless-moon-like] face shines."
 Kaikeyi - "Your hips, [adorned with a girdle-string], (are) resonant."
 
 2.9.44
-कैकेयी - "(तव) [भृशम्-उपन्यस्ते] जङ्घे च अपि [आयतौ] उभौ पादौ (स्तः) ।
-Kaikeyi - "(Your) [greatly well-formed] shanks and also both [broad] feet (are present).
+कैकेयी - "(तव) [भृशम्-उपन्यस्ते] जङ्घे च अपि [आयतौ] उभौ पादौ (स्तः) ।"
+Kaikeyi - "(Your) [greatly well-formed] shanks and also both [broad] feet (are present)."
 कैकेयी - "मन्थरे । [क्षौम-वासिनी] त्वम् [आयताभ्याम्] सक्थिभ्याम् (शोभसे) ।"
 Kaikeyi - "O Manthara, [clothed in silk], you (look beautiful) with [long] thighs."
 
@@ -257,8 +275,8 @@ Kaikeyi - "Your intellects, royal sciences, and illusions reside here."
 Kaikeyi - "O hunchback, (I) shall fasten [a golden] garland here for you."
 
 2.9.48
-कैकेयी - "भरते अभिषिक्ते (सति) च राघवे (रामे) वनम् गते (सति) ,
-Kaikeyi - "And (when) Bharata has been consecrated and Raghava (Rama) has gone to the forest,
+कैकेयी - "भरते अभिषिक्ते (सति) च राघवे (रामे) वनम् गते (सति) ,"
+Kaikeyi - "And (when) Bharata has been consecrated and Raghava (Rama) has gone to the forest,"
 कैकेयी - "हे मन्थरे , [जात्येन] च [सु-निष्टप्तेन] सुवर्णेन (अहम् त्वाम् अलङ्करिष्यामि) ।"
 Kaikeyi - "O Manthara, (I shall decorate you) with [pure] and [well-refined] gold."
 
@@ -281,20 +299,20 @@ Kaikeyi - "(You), [possessing an incomparable face], (will shine) with a face [t
 Kaikeyi - "(You) will walk with an [excellent] gait, [making the host of enemies envious]."
 
 2.9.52
-कैकेयी - "[सर्व-आभरण-भूषिताः] (अन्याः) कुब्जाः [कुब्जायाः] तव अपि पादौ सदा परिचरिष्यन्ति ,
-Kaikeyi - "(Other) hunchbacks [adorned with all ornaments] shall also always serve the feet of you, [the hunchback],
+कैकेयी - "[सर्व-आभरण-भूषिताः] (अन्याः) कुब्जाः [कुब्जायाः] तव अपि पादौ सदा परिचरिष्यन्ति ,"
+Kaikeyi - "(Other) hunchbacks [adorned with all ornaments] shall also always serve the feet of you, [the hunchback],"
 कैकेयी - "यथा एव त्वम् सदा मम (पादौ परिचरसि) ।"
 Kaikeyi - "Just as you always (serve) my (feet)."
 
 2.9.53
 एवम् [प्रशस्यमाना] सा मन्थरा कैकेयीम् इदम् अवोचत् ।
 Being thus [praised], that Manthara said this to Kaikeyi.
-[शुभ्रे] शयने [वेद्याम्] [अग्नि-शिखा] इव [शयानाम्] (कैकेयीम्) (सा अवोचत्) ।
+[शुभ्रे] शयने [वेद्याम्] [अग्नि-शिखाम्] इव [शयानाम्] (कैकेयीम्) (सा अवोचत्) ।
 (Manthara said this) to (Kaikeyi), who was [lying] on a [white] bed like a [flaming fire] on a [sacrificial altar].
 
 2.9.54
-मन्थरा - "कल्याणि , गते उदके (सति) सेतु-बन्धः न विधीयते ।
-Manthara - "O fortunate one, when the water is gone, the construction of a dam is not undertaken.
+मन्थरा - "कल्याणि , गते उदके (सति) सेतु-बन्धः न विधीयते ।"
+Manthara - "O fortunate one, when the water is gone, the construction of a dam is not undertaken."
 मन्थरा - "(त्वम्) उत्तिष्ठ । कल्याणम् कुरु । राजानम् (दशरथम्) (तव हितार्थम्) अनुदर्शय ।"
 Manthara - "(You) arise. Do (what is) beneficial. Show (your goal) to the king (Dasharatha) (for your benefit)."
 
@@ -318,7 +336,7 @@ Having lain down on the floor, Kaikeyi said this to Manthara.
 
 2.9.58
 कैकेयी - "कुब्जे , (त्वम्) इह माम् [मृताम्] नृपाय दशरथाय आवेदयिष्यसि ।"
-Kaikeyi - "O hunchback, (you) will inform the king Dasharatha of me (being) [dead] here.
+Kaikeyi - "O hunchback, (you) will inform the king Dasharatha of me (being) [dead] here."
 कैकेयी - "राघवे (रामे) वनम् प्राप्ते (सति) भरतः क्षितिम् प्राप्स्यति ।"
 Kaikeyi - "When Raghava (Rama) has reached the forest, Bharata will obtain the earth."
 
