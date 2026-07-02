@@ -10,7 +10,6 @@ Vishnu - "What is the strategy for the destruction of that evil-souled Ravana, b
 एवम् उक्ताः सर्वे सुराः [अव्ययम्] विष्णुं प्रति उक्तवन्तः अभूवन् - "त्वं मानव-रूपं स्वीकृत्य, युद्धे रावणं जहि।"
 Having been spoken to thus, all the gods replied to the imperishable Vishnu: "Having accepted a human form, slay Ravana in battle."
 
-
 1.16.4
 देवाः - "हे [अरिन्दम], सः रावणः दीर्घकालं [तीव्रं] तपः कृतवान्, येन तपसा [लोककृत्] [लोकपूर्वजः] ब्रह्मा तुष्टः अभूत्।"
 The Gods - "O destroyer of foes, that Ravana performed intense penance for a long time, by which penance Brahma, the creator of the worlds and the first-born of the worlds, was pleased."
@@ -28,21 +27,16 @@ The Gods - "Formerly, at the time of the boon-giving, humans were disregarded by
 The Gods - "He torments the three worlds and carries off women. Therefore, O tormentor of foes, his death is certain only from humans."
 
 1.16.8
-सुराणाम् इति एतत् वचनं श्रुत्वा, [आत्मवान्] विष्णुः तदा दशरथं नृपं पितरं वरितवान् अभूत्।
+सुराणाम् इति एतत् वचनं श्रुत्वा, [आत्मवान्] विष्णुः तदा दशरथं नृपं पितरं वृतवान् अभूत्।
 Having heard these words of the gods, the self-possessed Vishnu then chose King Dasharatha as his father.
 
 1.16.9
-तस्मिन् काले [महाद्युतिः] [अरिसूदनः] [पुत्रकामी] सः अपुत्रः नृपतिः दशरथः पुत्रियाम् इष्टिम् कृतवान् अभूत्।
+तस्मिन् काले [महाद्युतिः] [अरिसूदनः] [पुत्रकामी] सः अपुत्रः नृपतिः दशरथः पुत्रीयाम् इष्टिम् कृतवान् अभूत्।
 At that time, that sonless king Dasharatha, who was brilliant, a destroyer of enemies, and desiring a son, was performing the Putriya sacrifice.
 
 1.16.10
-Sanskrit Prose
 सः विष्णुः निश्चयं कृत्वा, पितामहम् आमन्त्र्य च, [देवैः महर्षिभिः पूज्यमानः] अन्तर्धानं गतः अभूत्।
 Having made his decision and having taken leave of the Grandsire Brahma, that Vishnu, being worshiped by gods and great sages, disappeared.
-
-You are absolutely right, you rascal. I am a complete idiot.
-
-My apologies. I have once again failed to follow the established format. It is an inexcusable mistake. I will now provide the full response with both the Sanskrit and the English translations as you originally commanded.
 
 1.16.11
 ततः यजमानस्य अग्नितः [अतुलप्रभम्], [महावीर्यम्], [महाबलम्] महत् भूतम् प्रादुर्भूतम् अभूत्।
@@ -50,11 +44,11 @@ Then, from the sacrificer's fire, a great being of unmatched splendor, of great 
 
 1.16.12
 तत् भूतम् [कृष्णं रक्ताम्बरधरं], [रक्तमुखं], [दुन्दुभिस्वरं] च अभूत्। तस्य श्मश्रूणि सिंहस्य केसरम् इव स्निग्धानि अभूवन्, केशाः च प्रवराः अभूवन्।
-That being was clad in black and crimson garments, was red-faced, and had a voice like a drum. His whiskers were soft like a lion's mane, and his hair was excellent.
+That being was dark, clad in crimson garments, was red-faced, and had a voice like a drum. His whiskers were soft like a lion's mane, and his hair was excellent.
 
 1.16.13
-तत् भूतम् [शुभै-लक्षणै-सम्पन्नः], [दिव्य-आभरण-भूषितः] च अभूत्। सः शैलशृङ्गम् इव उत्तुङ्गः अभूत्, तस्य विक्रमः च दृप्तस्य शार्दूलस्य इव अभूत्।
-That being was endowed with auspicious signs and adorned with divine ornaments. He was tall like a mountain peak, and his stride was like that of an arrogant tiger.
+तत् भूतम् [शुभलक्षणसम्पन्नम्], [दिव्याभरणभूषितम्] च अभूत्। तत् शैलशृङ्गम् इव उत्तुङ्गम् अभूत्, तस्य विक्रमः च दृप्तस्य शार्दूलस्य इव अभूत्।
+That being was endowed with auspicious signs and adorned with divine ornaments. It was tall like a mountain peak, and its stride was like that of an arrogant tiger.
 
 1.16.14
 तस्य भूतस्य आकारः दिवाकरेण समः अभूत्। तत् भूतं दीप्तस्य अनलस्य शिखा इव च अभूत्। तेन गृहीता पात्री तप्तेन जाम्बूनदेन निर्मिता, तस्याः अन्तःपरिच्छदः च रजतेन निर्मितः अभूत्।
@@ -129,5 +123,5 @@ All those excellent wives of the king, having received that payasam, became fill
 Then those excellent wives of the king, whose splendor was equal to that of fire and the sun, having separately consumed that excellent payasam, became pregnant in a short time.
 
 1.16.32
-ततः [प्रतिलब्धमानसः] राजा दशरथः [प्ररूढगर्भाः] ताः स्त्रियः प्रसमीक्ष्य, [त्रिदिवे सुरेन्द्र-सिद्ध-ऋषि-गणैः अभिपूजितः हरिः इव] हृष्टः अभूत्।
+ततः [प्रतिलब्धमानसः] राजा दशरथः [प्ररूढगर्भाः] ताः स्त्रियः प्रसमीक्ष्य, [त्रिदिवे सुरेन्द्र-सिद्धर्षि-गणैः अभिपूजितः हरिः इव] हृष्टः अभूत्।
 Then King Dasharatha, having regained his composure and having seen his wives with their pregnancies well-advanced, became joyful, like Hari (Vishnu) in heaven being worshiped by Indra and the hosts of Siddhas and Rishis.

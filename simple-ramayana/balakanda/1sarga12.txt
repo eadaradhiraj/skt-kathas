@@ -1,6 +1,6 @@
 1.12.1
-ततः बहुकाले गते, कस्मिंश्चित् [सुमनोहरे] वसन्ते समनुप्राप्ते, राज्ञः दशरथस्य यष्टुं मनः अभवत्।
-Then, after a long time had passed, when a certain [very charming] spring had arrived, the mind of King Dasharatha was to perform a sacrifice.
+ततः बहुकाले गते, कस्मिंश्चित् [सुमनोहरे] वसन्ते समनुप्राप्ते, राजा दशरथः [यष्टुमनाः] अभवत्।
+Then, after a long time had passed, when a certain [very charming] spring had arrived, King Dasharatha became [set in mind to perform a sacrifice].
 
 1.12.2
 ततः राजा दशरथः तं [देववर्णिनम्] विप्रम् ऋष्यशृङ्गं शिरसा प्रसाद्य, कुलस्य सन्तानार्थं यज्ञाय वरितवान् अभूत्।
@@ -79,5 +79,5 @@ Then by [all] the ministers, that word of the [best of kings], Dasharatha, was p
 Then those Brahmins did praise Dasharatha, [the knower of dharma], [the bull among kings]. Then, [having been given leave], all those Brahmins departed again as they had come.
 
 1.12.21
-अथ द्विजाग्र्याणां गमनानन्तरम्, [महाद्युतिः] नराधिपः दशरथः तान् मन्त्रिणः विसर्ज्य, स्वं गृहं प्रविष्टवान् अभूत्।
+अथ द्विजाग्र्याणां गमनानन्तरम्, [महाद्युतिः] नराधिपः दशरथः तान् मन्त्रिणः [विसर्जय्य], स्वं गृहं प्रविष्टवान् अभूत्।
 Then, after the departure of the best of Brahmins, the [greatly splendid] king, Dasharatha, having dismissed those ministers, did enter his own home.
