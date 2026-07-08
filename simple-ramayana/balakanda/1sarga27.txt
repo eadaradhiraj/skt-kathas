@@ -21,7 +21,7 @@ Viswamitra - Even groups of gods and demons along with Gandharvas and Nagas.
 1.27.4
 
 विश्वामित्रः - तव कल्याणम् अस्तु अहम् तुभ्यम् तानि दिव्यानि अस्त्राणि [पूर्णतया] ददामि।
-Viswamitra - Let there be auspiciousness for you, I give those divine weapons entirely to you.
+Viswamitra - Let there be auspiciousness for you, I give those divine weapons [entirely] to you.
 
 विश्वामित्रः - हे [राघव] राम अहम् तुभ्यम् महत् दिव्यम् दण्डचक्रम् दास्यामि।
 Viswamitra - O [Raghava] Rama, I will give the great divine Dandachakra to you.
@@ -29,10 +29,10 @@ Viswamitra - O [Raghava] Rama, I will give the great divine Dandachakra to you.
 1.27.5
 
 विश्वामित्रः - हे [वीर] राम ततः धर्मचक्रं कालचक्रं च अपि [दास्यामि]।
-Viswamitra - O [hero] Rama, then I will give the Dharma-chakra and also the Kala-chakra.
+Viswamitra - O [hero] Rama, then [I will give] the Dharma-chakra and also the Kala-chakra.
 
 विश्वामित्रः - तथा [अत्युग्रं] अतिभयङ्करं विष्णुचक्रं ऐन्द्रम् अस्त्रं च [दास्यामि]।
-Viswamitra - And I will give the [very fierce] very terrible Vishnu-chakra and the Aindra weapon.
+Viswamitra - And [I will give] the [very fierce] very terrible Vishnu-chakra and the Aindra weapon.
 
 1.27.6
 विश्वामित्रः - हे [नरश्रेष्ठ] राम वज्रास्त्रं तथा शिवस्य [श्रेष्ठं] त्रिशूलं ददामि।
@@ -61,7 +61,7 @@ Viswamitra - O Rama, I give the Dharma-noose and the Kala-noose.
 विश्वामित्रः - अहम् [श्रेष्ठम्] वारुणम् पाशम् अस्त्रं च ददामि।
 Viswamitra - I give the [excellent] Varuna noose and weapon.
 
-विश्वामित्रः - हे [रघुनन्दन] राम [शुष्काम्] [आर्द्राम्] च द्वे [वज्रे] अहम् ददामि।
+विश्वामित्रः - हे [रघुनन्दन] राम [शुष्के] [आर्द्रे] च द्वे [वज्रे] अहम् ददामि।
 Viswamitra - O [Raghunandana] Rama, I give two [thunderbolts], the [dry] and the [wet].
 
 1.27.10
@@ -88,7 +88,7 @@ Viswamitra - I give all these which the Asuras wield.
 विश्वामित्रः - अहम् नन्दनं नाम वैद्याधरं महास्त्रं च ददामि।
 Viswamitra - And I give the great Vaidyadhara weapon named Nandana.
 विश्वामित्रः - हे [महाबाहो] राम हे [नृपात्मज] राम अहम् [श्रेष्ठम् खड्गम्] च ददामि।
-Viswamitra - O [mighty-armed] Rama, O [son of a king] Rama, and I give the [excellent sword] excellent sword.
+Viswamitra - O [mighty-armed] Rama, O [son of a king] Rama, and I give the [excellent sword].
 
 1.27.14
 विश्वामित्रः - अहम् [प्रियम्] मानवम् नाम गान्धर्वम् अस्त्रं ददामि।
@@ -103,15 +103,13 @@ Viswamitra - I give Darpana, Shoshana, and indeed Santapana and Vilapana.
 Viswamitra - And indeed I give the [invincible] Madana and the [beloved of Kamadeva] one.
 
 1.27.16
-
 विश्वामित्रः - [प्रियम्] मोहनं नाम पैशाचम् अस्त्रं [गृहाण]।
-Viswamitra - [Accept] the [beloved] Paishaca weapon named Mohana.
+Viswamitra - [Accept] the [beloved] Paishacha weapon named Mohana.
 
 विश्वामित्रः - हे [नरशार्दूल] राम हे [कीर्तिमन्] [राजपुत्र] राम [इदम्] प्रतीच्छ।
 Viswamitra - O [tiger among men] Rama, O [famous] [Prince] Rama, receive [this].
 
 1.27.17
-
 विश्वामित्रः - हे [नरशार्दूल] राम हे [महाबल] राम अहम् तामसं सौमनं च ददामि।
 Viswamitra - O [tiger among men] Rama, O [greatly strong] Rama, I give the Tamasa and the Saumana.
 
@@ -119,7 +117,6 @@ Viswamitra - O [tiger among men] Rama, O [greatly strong] Rama, I give the Tamas
 Viswamitra - O [son of a king] Rama, I give the [invincible] Samvardha and the Mausala.
 
 1.27.18
-
 विश्वामित्रः - हे [महाबाहो] राम सत्यम् अस्त्रं तथा [श्रेष्ठम्] मायाधरं च ददामि।
 Viswamitra - O [mighty-armed] Rama, I give the Satya weapon and the [excellent] Mayadhara.
 
@@ -127,15 +124,13 @@ Viswamitra - O [mighty-armed] Rama, I give the Satya weapon and the [excellent] 
 Viswamitra - I give the [remover of enemy's glory] [terrible] weapon named Tejaprabha.
 
 1.27.19
+अहम् शिशिरं नाम सौम्यम् अस्त्रं त्वष्टुः सुदामनम् अस्त्रं च ददामि।
+I give the Saumya weapon named Shishira and the Sudamana weapon of Tvashtar.
 
-विश्वामित्रः - अहम् शिशिरं नाम सौम्यम् अस्त्रं त्वष्टुः सुदामनम् अस्त्रं च ददामि।
-Viswamitra - I give the Saumya weapon named Shishira and the Sudamana weapon of Tvashtar.
-
-विश्वामित्रः - अथ भगस्य [भयङ्करम्] अस्त्रं शितेषुम् मानवम् च अपि ददामि।
-Viswamitra - Now I give the [terrible] weapon of Bhaga, and the Shiteshu and the Manava.
+अथ भगस्य [भयङ्करम्] अस्त्रं शितेषुम् मानवम् च अपि ददामि।
+Now I give the [terrible] weapon of Bhaga, and the Shiteshu and the Manava.
 
 1.27.20
-
 विश्वामित्रः - हे [महाबाहो] राम एतान् [इच्छारूपिणः] [अतिबलान्] गृहाण।
 Viswamitra - O [mighty-armed] Rama, receive these [changing forms at will] [very strong] ones.
 
@@ -143,30 +138,26 @@ Viswamitra - O [mighty-armed] Rama, receive these [changing forms at will] [very
 Viswamitra - O [son of a king] Rama, receive these [supremely excellent] ones quickly indeed.
 
 1.27.21
-
 तदा [शुचिः] [पूर्वाभिमुखः] भूत्वा [मुनिवरः] विश्वामित्रः स्थितः।
 Then having become [pure] and [facing east], [the best of sages] Viswamitra stood.
 
 [अतिप्रसन्नेन] विश्वामित्रेण रामाय [श्रेष्ठः] मन्त्रसमूहः दत्तः।
-By the [very pleased] Viswamitra, the [excellent] group of mantras was given to [Rama] Rama.
-
+By the [very pleased] Viswamitra, the [excellent] group of mantras was given to Rama.
 
 1.27.22
-मन्त्रसमूह-पूर्णप्राप्तिः [देवैः] अपि [दुर्लभा]।
+मन्त्रसमूह-[पूर्णप्राप्तिः] [देवैः] अपि [दुर्लभा]।
 The [complete acquisition] of which is [difficult] even by the [gods].
 तदा [विप्रेण] विश्वामित्रेण तानि अस्त्राणि [राघवाय] रामाय [निवेदितानि]।
 Then by the [Vipra] Viswamitra, those weapons were [offered] to [Raghava] Rama.
 
 1.27.23
-
-[बुद्धिमता] तस्य मुनिना विश्वामित्रेण जपितम्।
+[बुद्धिमता] तेन मुनिना विश्वामित्रेण जपितम्।
 Chanting was done by that [wise] sage Viswamitra.
 
 सर्वाणि [अमूल्यानि] अस्त्राणि [राघवम्] रामम् [उपस्थितानि]।
-All [precious] weapons approached [Raghava] Rama.
+All [precious] weapons [approached] [Raghava] Rama.
 
 1.27.24
-
 तदा [प्रसन्नाः] सर्वे [बद्धाञ्जलयः] रामम् अवोचन्।
 Then [pleased] all [with folded hands] spoke to Rama.
 
@@ -174,21 +165,14 @@ Then [pleased] all [with folded hands] spoke to Rama.
 Weapons - O [Raghava] Rama, we are these [most excellent] [servants] of yours.
 
 1.27.25
-[काकुत्स्थः] रामः तानि [स्वीकृत्य] हस्तेन स्पृष्टवान् अभूत्।
+[काकुत्स्थः] रामः तानि [स्वीकृत्य] हस्तेन [स्पृष्टवान्] अभूत्।
 [Kakutstha] Rama, having [accepted] them, [touched] them with the hand.
 तेन तानि [आदिष्टानि] यत् यूयं मम [मनोगताः] भवत।
 By him they were [commanded] that "You become [one with my mind]."
 
 1.27.26
-
 ततः [प्रसन्नमनसा] [महातेजसा] रामेण [महामुनिः] विश्वामित्रः अभिवादितः।
 Then by [pleased-minded] [greatly glorious] Rama, the [great sage] Viswamitra was saluted.
 
 सः गन्तुम् [उद्यतः] अभूत्।
 He became [ready] to go.
-
-1.27.26
-
-Tiam de la kontentmensa grandglora Ramo, la granda saĝulo Viŝvamitro estis salutita.
-
-Li iĝis preta iri.
