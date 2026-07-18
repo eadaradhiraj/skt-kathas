@@ -64,7 +64,7 @@ Then the altar [endowed with teachers and priests] [blazed].
 
 1.30.9
 
-[दर्भपात्रयुक्ता] [समिधापुष्पयुक्ता] वेदिः [प्रज्वलिता]।
+[दर्भपात्रयुक्ता] [समित्पुष्पयुक्ता] वेदिः [प्रज्वलिता]।
 The altar [endowed with Darbha and vessels] and [endowed with fuel and flowers] [blazed].
 
 [ऋत्विजा] सह विश्वामित्रेण [युक्ता] सा [प्रज्वलिता]।
@@ -133,7 +133,7 @@ He was thrown [a full] hundred yojanas into the [ocean].
 
 1.30.18
 
-[रामेण] [अचेतनम्] [घूर्णमानम्] [शीतेशुना] [ताडितम्] [दूरे क्षिप्तम्] मारीचम् दृष्ट्वा लक्ष्मणः उक्तः।
+[रामेण] [अचेतनम्] [घूर्णमानम्] [शीतेषुणा] [ताडितम्] [दूरे क्षिप्तम्] मारीचम् दृष्ट्वा लक्ष्मणः उक्तः।
 By [Rama], having seen the [unconscious], [whirling], [struck by Shiteshu weapon], [thrown away] Maricha, Lakshmana was spoken to.
 
 रामः लक्ष्मणम् अवोचत्।
