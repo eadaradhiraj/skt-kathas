@@ -1,5 +1,5 @@
 1.29.1
-अथ [महता] रामेण तेन तत् वनम् [पृष्टम्]।
+अथ [महात्मना] रामेण तेन तत् वनम् [पृष्टम्]।
 Then by that [great] Rama, that forest was asked about.
 [महातेजसा] विश्वामित्रेण [कथयितुम्] [आरब्धम्]।
 By the [greatly glorious] Viswamitra, to tell was [started].
@@ -49,7 +49,7 @@ Gods - O Vishnu, an [excellent] sacrifice is being performed by [Vairochani] Bal
 Gods - In that [unfinished] sacrifice, let your own work be obtained by you.
 
 1.29.8
-देवाः - ye [याचकाः] इतस्ततः एनम् [आगच्छन्ति]।
+देवाः - ये [याचकाः] इतस्ततः एनम् [आगच्छन्ति]।
 Gods - Those [supplicants] [come] to him from here and there.
 देवाः - यत् च यत्र [यथायोग्यम्] च सर्वम् सः तेभ्यः [ददाति]।
 Gods - And whatever is [appropriate] wherever, he [gives] all that to them.
