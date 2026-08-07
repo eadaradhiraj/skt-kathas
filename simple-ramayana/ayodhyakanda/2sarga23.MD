@@ -76,7 +76,7 @@
 2.23.16
 "Only the timid and strengthless follow destiny; valiant men, steadfast in self-respect, do not bow before fate."
 
-लक्ष्मणः - कातरः बलहीनः एव दैवम् अनुसरति। स्वाभिमानिनः वीराः तु दैवं न नमन्ति।
+लक्ष्मणः - कातरः बलहीनः एव दैवम् अनुसरति। स्वाभिमानिनः वीराः तु दैवाय न नमन्ति।
 
 2.23.17
 "A man who can oppose destiny through human effort is not thwarted in his aims by fate, nor does he sink into despair."
