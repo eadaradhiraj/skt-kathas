@@ -27,7 +27,7 @@ When the [night] had [dawned], [morning rites] were performed by (Rama and Laksh
 राम-लक्ष्मणौ - [हे ऋषि-श्रेष्ठ] विश्वामित्र इमौ [सेवकौ] [उपस्थितौ]।
 Rama-Lakshmana - O [best of sages] Vishvamitra, these two [servants] are [present].
 
-राम-लक्ष्मणौ - [यथेच्छम्] [आदिश] किम् [आज्ञां] करवाव।
+राम-लक्ष्मणौ - [यथेच्छम्] [आदिश] [काम्] [आज्ञां] करवाव।
 Rama-Lakshmana - [Order] [as desired], what [command] shall (we) do?
 
 1.31.5
@@ -91,7 +91,7 @@ Sages - [O descendant of Kakutstha] Rama, there (you) will see the [wonderful-lo
 ऋषयः - [हे पुरुष-श्रेष्ठ] राम हि तेन [मिथिला-पतिना] [यज्ञ-फलरूपेण] तत् [श्रेष्ठम्] धनुः (याचितम्)।
 Sages - [O best of men] Rama, indeed that [excellent] bow (was requested) by that [lord of Mithila] as the [fruit of sacrifice].
 
-ऋषयः - (तेन) [सर्व-देवैः] तत् [सुन्दरम्] (धनुः) याचितम्।
+ऋषयः - (तेन) [सर्व-देवेभ्यः] तत् [सुन्दरम्] (धनुः) याचितम्।
 Sages - That [beautiful] (bow) was requested (by him) from [all the gods].
 
 1.31.13
@@ -115,8 +115,8 @@ The forest deities were [taken leave of] by (him) [accompanied by the group of s
 विश्वामित्रः - [युष्माकम्] [कल्याणम्] अस्तु।
 Vishvamitra - May there be [welfare] to [you].
 
-विश्वामित्रः - [सफलः] (अहम्) सिद्धाश्रमात् [उत्तर-दिशि] [गङ्गा-तटे] हिमवन्तं [पर्वतम्] गमिष्यामि।
-Vishvamitra - [Successful], (I) will go from Siddhashrama to the Himavat [mountain] on the [northern] [bank of the Ganga].
+विश्वामित्रः - [सफलः] (अहम्) सिद्धाश्रमात् [उत्तर-दिशम्] [गङ्गा-तटम्] हिमवन्तं [पर्वतम्] गमिष्यामि।
+Vishvamitra - [Successful], (I) will go from Siddhashrama to the Himavat [mountain] to the [northern] [bank of the Ganga].
 
 1.31.16
 
@@ -149,7 +149,7 @@ They went a [long] [path] (and) the [sun] (became) [setting].
 
 1.31.20
 
-[सूर्ये] [अस्तम्] गते (मुनिभिः रामलक्ष्मणाभ्यां च) [स्नानम्] कृतम् [हवनः] च कृतः।
+[सूर्ये] [अस्तम्] गते (मुनिभिः रामलक्ष्मणाभ्यां च) [स्नानम्] कृतम् [हवनम्] च कृतम्।
 When the [sun] had gone to [setting], [bath] was done and [fire-sacrifice] was done (by the sages and Rama & Lakshmana).
 
 [महा-तेजोभिः] (तैः) विश्वामित्रम् [अग्रे] कृत्वा [उपविष्टम्]।

@@ -3,7 +3,7 @@
 विश्वामित्रः - ब्रह्मणः [उत्पन्नः] [महा-तपस्वी] कुशः नाम [महान्] भूतः।
 Vishvamitra - [Born] of Brahma, a [great ascetic] named Kusha was [great].
 
-विश्वामित्रः - (सः) [अखंड-व्रती] [धर्म-ज्ञः] [सज्जन-सेवकः] (च) भूतः।
+विश्वामित्रः - (सः) [अखण्ड-व्रती] [धर्म-ज्ञः] [सज्जन-सेवकः] (च) भूतः।
 Vishvamitra - (He) became [one of unbroken vows], [knower of duty] (and) [server of good people].
 
 1.32.2
@@ -96,7 +96,7 @@ Vishvamitra - (They) came to the [garden] like [lightning] in the [rainy season]
 
 1.32.13
 
-विश्वामित्रः - (ताभिः) गीतं नृतितं [सर्वत्र] [वाद्यं] [वादितं] च।
+विश्वामित्रः - (ताभिः) गीतं नृत्तं [सर्वत्र] [वाद्यं] [वादितं] च।
 Vishvamitra - (By them) singing (was done), dancing (was done), and [instruments] [were played] [everywhere].
 
 विश्वामित्रः - [श्रेष्ठ-अलङ्कार-युक्ताः] (ताः) [परम-सन्तोषम्] गताः।
