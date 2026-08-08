@@ -1,29 +1,25 @@
 1.33.1
-
 विश्वामित्रः - (कन्या-शतेन) तस्य [बुद्धिमतः] कुशनाभस्य तत् [वचनम्] श्रुतम्।
 Vishvamitra - That [word] of that [wise] Kushanabha was heard by (the hundred maidens).
 
 विश्वामित्रः - (तत्) कन्या-शतम् [मूर्धभिः] [पादौ] स्पृष्ट्वा अवोचत्।
-Vishvamitra - (That) hundred maidens, having touched the [feet] with [heads], spoke.
+Vishvamitra - (Those) hundred maidens, having touched the [feet] with [heads], spoke.
 
 1.33.2
-
-कन्याः - [हे राजन्] [सर्व-व्यापी] वायुः [माम्] [धर्षयितुम्] इच्छति।
-Maidens - [O King], the [all-pervading] Vayu desires to [violate] (me/us).
+कन्याः - [हे राजन्] [सर्व-व्यापी] वायुः [अस्मान्] [धर्षयितुम्] इच्छति।
+Maidens - [O King], the [all-pervading] Vayu desires to [violate] (us).
 
 कन्याः - (सः) [पाप-मार्गम्] [आश्रित्य] धर्मं न [पालयति]।
 Maidens - (He), having resorted to a [sinful path], does not [observe] righteousness.
 
 1.33.3
-
 कन्याः - (वयं) [पितृ-युक्ताः] (स्मः) तव [मङ्गलम्] (अस्तु) (वयं) [स्वतन्त्राः] न (स्मः)।
-Maidens - (We) (are) [under a father], may [welfare] (be) to you, (we) (are) not [independent].
+Maidens - (We) (are) [under a father]; may [welfare] (be) to you; (we) (are) not [independent].
 
 कन्याः - (त्वम्) अस्माकं पितरम् [याचस्व] यदि (सः) [अस्मान्] तुभ्यं दास्यति।
-Maidens - (You) [ask] our father, if (he) will give [us] to you.
+Maidens - (You) [ask] our father if (he) will give [us] to you.
 
 1.33.4
-
 कन्याः - तेन [पाप-युक्तेन] [वचनम्] न [स्वीकृतम्]।
 Maidens - By that [sinful one], the [word] was not [accepted].
 
@@ -31,15 +27,13 @@ Maidens - By that [sinful one], the [word] was not [accepted].
 Maidens - [Speaking] thus, (we) all were [very] [tormented] by Vayu.
 
 1.33.5
-
 विश्वामित्रः - [अति-धार्मिकेण] राज्ञा तासां तत् [वचनम्] श्रुतम्।
-Vishvamitra - That [word] of them was heard by the [very righteous] king.
+Vishvamitra - That [word] of theirs was heard by the [very righteous] king.
 
 विश्वामित्रः - [महा-द्युतिः] (राजा) [श्रेष्ठम्] कन्या-शतम् प्रत्यवोचत्।
 Vishvamitra - The (king) of [great splendor] replied to the [excellent] hundred maidens.
 
 1.33.6
-
 राजा - हे पुत्र्यः [क्षमा-शीलानां] [कर्तव्यम्] [सहनम्] (युष्माभिः) कृतम्।
 King - O daughters, [endurance], the [duty] of the [forgiving ones], was done (by you).
 
@@ -47,10 +41,9 @@ King - O daughters, [endurance], the [duty] of the [forgiving ones], was done (b
 King - A [very great] [deed] was done (by you).
 
 राजा - [एक-मतम्] [प्राप्य] मम कुलं च [रक्षितम्]।
-King - Having reached [unity of opinion], my family was [preserved].
+King - Because (you) [reached] [unity of opinion], my family was [preserved].
 
 1.33.7
-
 राजा - क्षमा हि नारीणां पुरुषस्य वा अलङ्कारः।
 King - Forgiveness (is) indeed the ornament of women or of a man.
 
@@ -58,7 +51,6 @@ King - Forgiveness (is) indeed the ornament of women or of a man.
 King - That which was [endured] especially regarding the [gods] (is) [difficult].
 
 1.33.8
-
 राजा - हे पुत्र्यः अविशेषतः सर्वासाम् युष्माकम् क्षमा [अतीव-उत्तमा]।
 King - O daughters, the forgiveness of all of you without distinction (is) [excellent].
 
@@ -66,23 +58,20 @@ King - O daughters, the forgiveness of all of you without distinction (is) [exce
 King - O daughters, forgiveness (is) indeed charity, forgiveness (is) sacrifice, (and) forgiveness (is) truth.
 
 1.33.9
-
 राजा - क्षमा यशः (अस्ति) क्षमा धर्मः (अस्ति) जगत् क्षमया [स्थितम्]।
-King - Forgiveness (is) fame, forgiveness (is) righteousness, the world is [established] by forgiveness.
+King - Forgiveness (is) fame, forgiveness (is) righteousness; the world is [established] by forgiveness.
 
 विश्वामित्रः - [हे काकुत्स्थ-वंशज] राम [देव-तुल्य-बलेन] राज्ञा कन्याः [प्रेषिताः]।
 Vishvamitra - [O descendant of Kakutstha] Rama, the daughters were [sent away] by the King [equal in strength to gods].
 
 1.33.10
-
 विश्वामित्रः - [मन्त्र-ज्ञेन] (राज्ञा) मन्त्रिभिः सह [दानम्] [विचारितम्]।
-Vishvamitra - [Giving away] was [consulted] with ministers by the (King) [knower of counsel].
+Vishvamitra - [Giving away] was [discussed] with ministers by the (King) [knower of counsel].
 
-विश्वामित्रः - [दानस्य] [स्थानम्] [समयः] [योग्ये] [दानम्] (च) (विचारितम्)।
+विश्वामित्रः - [दानस्य] [स्थानम्] [समयः] [योग्याय] [दानम्] (च) (विचारितम्)।
 Vishvamitra - [Place] (and) [time] of [giving] and [giving] to a [worthy one] were (considered).
 
 1.33.11
-
 विश्वामित्रः - [अस्मिन्] एव [समये] तु चूली नाम [महा-तपस्वी] [भूतः]।
 Vishvamitra - At [this] very [time] indeed, a [great ascetic] named Chuli [was].
 
@@ -90,7 +79,6 @@ Vishvamitra - At [this] very [time] indeed, a [great ascetic] named Chuli [was].
 Vishvamitra - [Celibate] (and) [of good conduct], (he) [approached] [Brahma-related] [penance].
 
 1.33.12
-
 विश्वामित्रः - [हे राम] तव [मङ्गलम्] (अस्तु)।
 Vishvamitra - [O Rama], may [welfare] (be) to you.
 
@@ -98,37 +86,33 @@ Vishvamitra - [O Rama], may [welfare] (be) to you.
 Vishvamitra - There, that sage [performing penance] was [served] by the Gandharvi Somada, the [daughter] of Urmila.
 
 1.33.13
-
 विश्वामित्रः - सा (सोमदा) तं [नता] [सेवा-तत्परा] च भूता।
 Vishvamitra - That (Somada) became [bowed] to him and [intent on service].
 
 विश्वामित्रः - [धार्मिकया] (तया) [दीर्घ-कालं] (तत्र) उषितम्।
-Vishvamitra - (It was dwelt) (there) for a [long time] by the [righteous] (her).
+Vishvamitra - (It was dwelt) (there) for a [long time] by [righteous] (her).
 
-विश्वामित्रः - गुरुः (चूली) तस्याः [प्रसन्नः] भूतः।
+विश्वामित्रः - गुरुः (चूली) तस्याम् [प्रसन्नः] भूतः।
 Vishvamitra - The Guru (Chuli) became [pleased] with her.
 
 1.33.14
-
 विश्वामित्रः - [हे रघु-वंशज] राम (सः) [समयेन] ताम् अवोचत्।
 Vishvamitra - [O descendant of Raghu] Rama, (he) spoke to her [in time].
 
 चूली - (अहम्) [प्रसन्नः] अस्मि तव [मङ्गलम्] (अस्तु)।
-Chuli - (I) am [pleased], may [welfare] (be) to you.
+Chuli - (I) am [pleased]; may [welfare] (be) to you.
 
 चूली - (अहम्) तव किम् [प्रियम्] करोमि।
 Chuli - What [pleasant thing] shall (I) do for you?
 
 1.33.15
-
 विश्वामित्रः - [मधुर-स्वरा] [अतीव-प्रसन्ना] [वाक्य-ज्ञा] गन्धर्वी मुनिं [प्रसन्नम्] [ज्ञात्वा] अवोचत्।
-Vishvamitra - The [sweet-voiced] [very pleased] [speech-knowing] Gandharvi, having known the sage [pleased], spoke.
+Vishvamitra - The [sweet-voiced], [very pleased], [speech-knowing] Gandharvi, having known the sage [was pleased], spoke.
 
 विश्वामित्रः - (सा) [वाक्य-निपुणम्] (तम्) अवोचत्।
 Vishvamitra - (She) spoke to (him) [skilled in speech].
 
 1.33.16
-
 सोमदा - [हे धर्म-ज्ञ] (त्वम्) [ब्राह्म-तेजसा] [युक्तः] [ब्रह्म-मयः] [महा-तपस्वी] (असि)।
 Somada - [O knower of duty], (you) (are) [endowed] with [Brahma-luster], [absorbed in Brahma], (and) a [great ascetic].
 
@@ -136,26 +120,23 @@ Somada - [O knower of duty], (you) (are) [endowed] with [Brahma-luster], [absorb
 Somada - (I) desire a son [endowed] with [Brahma-penance].
 
 1.33.17
-
 सोमदा - (अहम्) [पति-हीना] अस्मि तव [मङ्गलम्] (अस्तु)।
-Somada - (I) am [without a husband], may [welfare] (be) to you.
+Somada - (I) am [without a husband]; may [welfare] (be) to you.
 
 सोमदा - (अहम्) [कस्यचित्] भार्या च न अस्मि।
 Somada - And (I) am not the wife [of anyone].
 
 सोमदा - [ब्रह्म-धर्मेण] [समीपम्-आगतायै] (मह्यम्) सुतम् दातुम् [योग्यः] (असि)।
-Somada - (You) (are) [worthy] to give a son (to me) who has [come near] by [Brahma-righteousness].
+Somada - (You) (are) [worthy] to give a son (to me), who has [come near] by [Brahma-righteousness].
 
 1.33.18
-
 विश्वामित्रः - [प्रसन्नेन] ब्रह्मर्षिणा (तस्यै) [श्रेष्ठः] पुत्रः दत्तः।
 Vishvamitra - By the [pleased] Brahmarshi, an [excellent] son was given (to her).
 
-विश्वामित्रः - चूलिनः [मनसा] जातः (पुत्रः) ब्रह्मदत्त: इति [प्रसिद्धः] (भूतः)।
+विश्वामित्रः - चूलिनः [मनसा] जातः (पुत्रः) ब्रह्मदत्तः इति [प्रसिद्धः] (भूतः)।
 Vishvamitra - The son born of Chuli's [mind] (became) [famous] as Brahmadatta.
 
 1.33.19
-
 विश्वामित्रः - तदा [सोमदा-पुत्रेण] राज्ञा तु [काम्पिल्या] [नगरी] [उषिता]।
 Vishvamitra - Then, indeed the [city] [Kampilya] was [inhabited] by the King, the [son of Somada].
 
@@ -163,39 +144,34 @@ Vishvamitra - Then, indeed the [city] [Kampilya] was [inhabited] by the King, th
 Vishvamitra - (It) was (inhabited) with [excellent] [splendor] just as [Heaven] (is inhabited) by [Indra].
 
 1.33.20
-
 विश्वामित्रः - [अति-धार्मिकेण] राज्ञा कुशनाभेन [निश्चयः] कृतः।
 Vishvamitra - By the [very righteous] King Kushanabha, a [decision] was made.
 
 विश्वामित्रः - [हे काकुत्स्थ-वंशज] राम तदा ब्रह्मदत्ताय कन्या-शतम् दातुम् (निश्चितम्)।
-Vishvamitra - [O descendant of Kakutstha] Rama, then (it was decided) to give the hundred daughters to Brahmadatta.
+Vishvamitra - [O descendant of Kakutstha] Rama, then (it was decided) to give the hundred maidens to Brahmadatta.
 
 1.33.21
-
 विश्वामित्रः - [महा-तेजसा] [राज्ञा] सः ब्रह्मदत्तः [आहूतः]।
 Vishvamitra - By the [King] of [great luster], that Brahmadatta was [called].
 
 विश्वामित्रः - [राज्ञा] [प्रसन्नेन] [मनसा] कन्या-शतं [दत्तम्]।
-Vishvamitra - By the [King], with a [pleased] [mind], the hundred of maidens was [given].
+Vishvamitra - By the [King], with a [pleased] [mind], the hundred maidens were [given].
 
 1.33.22
-
 विश्वामित्रः - ततः [हे रघु-वंशज] राम [क्रमेण] (तासां) पाणयः गृहीताः।
 Vishvamitra - Then, [O descendant of Raghu] Rama, (their) hands were grasped [in sequence].
 
 विश्वामित्रः - [राज्ञा] ब्रह्मदत्तेन [इन्द्रेण] इव (पाणयः गृहीताः)।
-Vishvamitra - (Hands were grasped) by [King] Brahmadatta like by [Indra].
+Vishvamitra - (Hands were grasped) by [King] Brahmadatta as if by [Indra].
 
 1.33.23
-
 विश्वामित्रः - ततः पाणिभ्यां [स्पृष्टाः] (कन्याः) [विकृति-रहिताः] [दुःख-रहिताः] (च) भूताः।
 Vishvamitra - Then, [touched] by the hands, (the maidens) became [free from deformity] and [free from distress].
 
 विश्वामित्रः - तदा (तत्) कन्या-शतम् [श्रेष्ठया] [शोभया] [युक्तम्] भूतम्।
-Vishvamitra - Then (that) hundred maidens became [endowed] with [excellent] [splendor].
+Vishvamitra - Then (those) hundred maidens became [endowed] with [excellent] [splendor].
 
 1.33.24
-
 विश्वामित्रः - वायुना [विमोचिताः] (ताः) दृष्ट्वा [राजा] कुशनाभः [अति-प्रसन्नः] भूतः।
 Vishvamitra - Having seen (them) [released] by Vayu, [King] Kushanabha became [very pleased].
 
@@ -203,7 +179,6 @@ Vishvamitra - Having seen (them) [released] by Vayu, [King] Kushanabha became [v
 Vishvamitra - [Joy] was [obtained] (by him) again and again.
 
 1.33.25
-
 विश्वामित्रः - तदा [राज्ञा] तु [कृत-विवाहः] राजा ब्रह्मदत्तः (प्रेषितः)।
 Vishvamitra - Then indeed, King Brahmadatta, [having performed the marriage], (was sent) by the [King].
 
@@ -211,7 +186,6 @@ Vishvamitra - Then indeed, King Brahmadatta, [having performed the marriage], (w
 Vishvamitra - (He) was [sent] [with wives] and [with the group of teachers].
 
 1.33.26
-
 विश्वामित्रः - [अति-प्रसन्नया] सोमदया अपि पुत्रस्य [अनुरूपा] [क्रिया] [अभिनन्दिता]।
 Vishvamitra - By the [very happy] Somada also, the [worthy] [action] of the son was [praised].
 
