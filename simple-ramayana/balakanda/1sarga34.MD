@@ -75,7 +75,7 @@ Vishvamitra - My sister started flowing for the [welfare] of the world.
 विश्वामित्रः- ततः अहं हिमवत्पार्श्वे [सर्वदा] सुखं वसामि।
 Vishvamitra - Then I [always] dwell happily on the side of the Himalaya.
 
-विश्वामित्रः- हे [रघुनन्दन] राम अहं [कौशिकी] भगिन्यां [स्नेहयुक्तः] (वसामि)।
+विश्वामित्रः- हे [रघुनन्दन] राम अहं [कौशिक्यां] भगिन्यां [स्नेहयुक्तः] (वसामि)।
 Vishvamitra - O [Raghunandana] Rama, I (dwell) [filled with affection] for (my) [Kaushiki] sister.
 
 1.34.11
@@ -99,7 +99,7 @@ Vishvamitra - Having reached Siddhashrama, (I) am successful by your power.
 विश्वामित्रः- हे राम एषा मम उत्पत्तिः [स्वकीयस्य] वंशस्य च (कथा) कथिता।
 Vishvamitra - O Rama, this origin of mine and the (story) of [my own] lineage was told.
 
-विश्वामित्रः- हे [महाबाहो] राम देशस्य च (कथा कथिता) यत् (विषये) त्वं मां पृच्छसि।
+विश्वामित्रः- हे [महाबाहो] राम देशस्य च (कथा कथिता) यस्य (विषये) त्वं मां पृच्छसि।
 Vishvamitra - O [mighty-armed] Rama, and the (story) of the region (was told), [concerning] which you ask me.
 
 1.34.14
@@ -113,7 +113,7 @@ Vishvamitra - (You) go to sleep.
 विश्वामित्रः- तव [कल्याणं] भवतु।
 Vishvamitra - Let there be [welfare] for you.
 
-विश्वामित्रः- इह मार्गे अस्माकं विघ्नः मा भवतु।
+विश्वामित्रः- इह मार्गे अस्माकं विघ्नः न भवतु।
 Vishvamitra - Let there not be an obstacle for us on the path here.
 
 1.34.15
@@ -145,7 +145,7 @@ Vishvamitra - (He) delights the minds of living beings in the world with radianc
 
 1.34.18
 
-विश्वामित्रः- [रात्रिचराणि] सर्वभूतानि ततः ततः प्रचरन्ति।
+विश्वामित्रः- [रात्रिचराणि] सर्वभूतानि इतस्ततः प्रचरन्ति।
 Vishvamitra - [Nocturnal] all beings roam here and there.
 
 विश्वामित्रः- [भयङ्कराः] [मांसभक्षकाः] यक्षराक्षससङ्घाः च (प्रचरन्ति)।

@@ -18,7 +18,7 @@ You ought to speak (the story) of the eldest daughter of the King of Mountains.
 1.36.3
 
 रामः-
-त्वम् दिव्य-मानुष-सम्भवम विस्तरम् जानासि।
+त्वम् दिव्य-मानुष-सम्भवम् विस्तरम् जानासि।
 You know the details regarding the divine and human (origin).
 
 केन कारणेन लोकपावनया त्रयः मार्गाः प्लाविताः।

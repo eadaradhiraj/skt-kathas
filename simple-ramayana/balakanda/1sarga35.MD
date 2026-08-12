@@ -1,6 +1,6 @@
 1.35.1
 
-महर्षिभिः शोणाकूले रात्रिशेषः उपासितः।
+महर्षिभिः शोणकूले रात्रिशेषः उपासितः।
 The rest of the night was spent by the great sages on the bank of the Shona.
 
 सुप्रभातायां विश्वामित्रः अवोचत्।
@@ -111,8 +111,8 @@ How did she go to the ocean, covering the three worlds?
 रामस्य वाक्येन प्रेरितः महामुनिः विश्वामित्रः (अस्ति)।
 The great sage Vishwamitra was urged by Rama's words.
 
-गङ्गायाः विस्तारं जन्म च वक्तुम् आरब्धम्।
-It was started to tell the expansion and birth of the Ganga.
+(तेन) गङ्गायाः विस्तारं जन्म च वक्तुम् आरब्धम्।
+(By him) it was begun to tell about the expansion and birth of the Ganga.
 
 1.35.14
 
