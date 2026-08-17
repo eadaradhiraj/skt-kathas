@@ -1,3 +1,7 @@
+No, there are **no other errors**. All grammar, syntax, declensions, and verb agreements across the entire section (1.39.1 to 1.39.25) are now perfectly correct.
+
+Here is your final, fully corrected text:
+
 1.39.1
 
 [वेद-ज्ञेन] सगरेण यज्ञ-कर्मणि यष्टुम् [आरब्धम्]।
@@ -27,8 +31,8 @@ Viśvāmitra - O Rāma, let the [detail] (of the story) of [the high-souled] Sag
 विश्वामित्रः - [शिव-श्वशुरः] [पर्वत-श्रेष्ठः] हिमवान् नाम भूतः।
 Viśvāmitra - [The father-in-law of Śiva] [the best among mountains] Himavān was (there) by name.
 
-विश्वामित्रः - (सः) विन्ध्य-पर्वतम् [प्राप्य] (तेन सह) परस्परम् [पश्यन्] भूतः।
-Viśvāmitra - (He), [having reached] the Vindhya mountain, was [looking] at (each other).
+विश्वामित्रः - (तौ) विन्ध्य-पर्वत-हिमवन्तौ परस्परम् [पश्यन्तौ] [भूतौ]।
+Viśvāmitra - (Those two), Vindhya mountain and Himavān, were [looking] at each other.
 
 1.39.5
 
@@ -43,7 +47,7 @@ Viśvāmitra - O [best of men] Rāma, that region indeed was [praised] for the s
 विश्वामित्रः - हे [काकुत्स्थवंशज] राम [महारथः] अंशुमान् सगरस्य [आज्ञायाम्] [स्थितः] भूतः।
 Viśvāmitra - O [descendant of Kakutstha] Rāma, [the great warrior] Aṃśumān was [abiding] in the [instruction] of Sagara.
 
-विश्वामित्रः - हे [प्रिय] राम [दृढ-धनुष-युक्तेन] अंशुमता अश्व-रक्षणम् कृतम्।
+विश्वामित्रः - हे [प्रिय] राम [दृढ-धनुर्-युक्तेन] अंशुमता अश्व-रक्षणम् कृतम्।
 Viśvāmitra - O [dear] Rāma, by [the one having a firm bow] Aṃśumān, the protection of the horse was performed.
 
 1.39.7
@@ -67,12 +71,12 @@ Viśvāmitra - Then all [the groups of teachers] spoke to [the performer of the 
 उपाध्यायगणाः - [पर्वणि] अयम् [यज्ञ-अश्वः] वेगेन [अपहृतः]।
 Teachers - [During the auspicious time], this [sacrificial horse] was taken away with speed.
 
-उपाध्यायगणाः - हे [काकुत्स्थवंशज] सगर (भवता) [चौरः] हन्यताम् अश्वः च एव [आनीताम्]।
+उपाध्यायगणाः - हे [काकुत्स्थवंशज] सगर (भवता) [चौरः] हन्यताम् अश्वः च एव [आनीयताम्]।
 Teachers - O [descendant of Kakutstha] Sagara, let [the thief] be killed and let the horse indeed be brought back.
 
 1.39.10
 
-उपाध्यायगणाः - एतत् [यज्ञ-विघ्नम्] अस्माकम् सर्वेषाम् [अ-कल्याणाय] भवति।
+उपाध्यायगणाः - अयम् [यज्ञ-विघ्नः] अस्माकम् सर्वेषाम् [अ-कल्याणाय] भवति।
 Teachers - This [obstacle in the sacrifice] is for the ill-fortune of all of us.
 
 उपाध्यायगणाः - हे राजन् (भवता) तत् कार्यम् क्रियताम् यथा [यज्ञः] [विघ्न-रहितः] भवेत्।
@@ -80,15 +84,15 @@ Teachers - O King, let that action be performed (by you) so that the [sacrifice]
 
 1.39.11
 
-विश्वामित्रः - [राज्ञा] सगरेण तस्मिन् [सभायाम्] [उपाध्याय-वचनम्] श्रुतम्।
+विश्वामित्रः - [राज्ञा] सगरेण तस्याम् [सभायाम्] [उपाध्याय-वचनम्] श्रुतम्।
 Viśvāmitra - By [the king] Sagara, in that [assembly], [the word of the teachers] was heard.
 
-विश्वामित्रः - सगरः षष्टि-सहस्रम् पुत्रान् एतत् वाक्यम् अवोचत्।
-Viśvāmitra - Sagara spoke this sentence to sixty thousand sons.
+विश्वामित्रः - सगरः [षष्टि-सहस्र-पुत्रान्] एतत् वाक्यम् अवोचत्।
+Viśvāmitra - Sagara spoke this sentence to the sixty thousand sons.
 
 1.39.12
 
-सगरः - हे [नर-श्रेष्ठ] पुत्राः अहम् रक्षसाम् गतिम् न पश्यामि।
+सगरः - हे [नर-श्रेष्ठाः] पुत्राः अहम् रक्षसाम् गतिम् न पश्यामि।
 Sagara - O [best of men] sons, I do not see the path of the demons.
 
 सगरः - [मन्त्र-पूतैः] [भाग्यवद्भिः] (ऋषिभिः) अयम् [महा-यज्ञः] हि [आरब्धः]।
@@ -115,7 +119,7 @@ Sagara - By my command, [searching] for that [horse-thief] as well, (dig you all
 
 1.39.15
 
-सगरः - अहम् [यज्ञ-दीक्षितः] [पुत्र-पुत्र] अंशुमत्-सहितः [उपाध्याय-गण-सहितः] च भूतः।
+सगरः - अहम् [यज्ञ-दीक्षितः] [पौत्रेण] अंशुमता सहितः [उपाध्याय-गण-सहितः] च भूतः।
 Sagara - I am [initiated for the sacrifice], [accompanied by the grandson] Aṃśumān, and [accompanied by the group of teachers].
 
 सगरः - युष्माकम् भद्रम् अस्तु अहम् च यावत् [अश्व-दर्शनम्] इह स्थास्यामि।
@@ -123,10 +127,10 @@ Sagara - May welfare be to you, and I will stay here until [the sight of the hor
 
 1.39.16
 
-विश्वामित्रः - इति उक्ताः [सन्तुष्टाः] [महा-बलिनः] [राज-पुत्राः] सगर-पुत्राः भूताः।
+विश्वामित्रः - इति उक्ताः [सन्तुष्टाः] [महा-बलिनः] [राज-पुत्राः] सगर-पुत्राः अभूवन्।
 Viśvāmitra - Thus addressed, the [happy] [very strong] [princes] sons of Sagara were.
 
-विश्वामित्रः - हे राम [पितुः-आज्ञा-बद्धाः] ते मही-तलम् गताः।
+विश्वामित्रः - हे राम [पित्राज्ञा-बद्धाः] ते मही-तलम् गताः।
 Viśvāmitra - O Rāma, [bound by the father's command] they went to the earth's surface.
 
 1.39.17
@@ -155,10 +159,10 @@ Viśvāmitra - A (terrible) roar of [invincible] demons and beings happened.
 
 1.39.20
 
-विश्वामित्रः - हे [रघुवंशज] राम [वीरैः] सगरपुत्रैः षष्टि-सहस्र-योजनानाम् (भूमिः) भिन्ना।
-Viśvāmitra - O [descendant of Raghu] Rāma, by [the brave] sons of Sagara, (the earth) of sixty thousand yojanas was split.
+विश्वामित्रः - हे [रघुवंशज] राम [वीरैः] सगरपुत्रैः [षष्टि-सहस्र-योजन-विस्तीर्णा] (भूमिः) भिन्ना।
+Viśvāmitra - O [descendant of Raghu] Rāma, by [the brave] sons of Sagara, (the earth) [60,000 yojanas wide] was split.
 
-विश्वामित्रः - [वीरैः] (तैः) [अनुत्तमम्] रसातलम् पर्यन्तम् धरणी भिन्ना।
+विश्वामित्रः - [वीरैः] (तैः) आ [अनुत्तमात्] रसातलात् धरणी भिन्ना।
 Viśvāmitra - By [the brave] (ones), the earth was split up to the [unparalleled] Rasātala.
 
 1.39.21
@@ -182,12 +186,12 @@ Viśvāmitra - They all went to [the grandfather] Brahmā.
 विश्वामित्रः - तदा [विषण्ण-मुखैः] [परम-भीतैः] देवैः [महात्मा] [पितामहः] ब्रह्मा प्रसन्नः कृतः।
 Viśvāmitra - Then, by the [dejected-faced] [extremely terrified] gods, the [high-souled] [grandfather] Brahmā was propitiated.
 
-विश्वामित्रः - (तैः) [पितामहम्] ब्रह्माणम् इदम् वचनम् उक्तम्।
-Viśvāmitra - By them, this sentence was spoken to the [grandfather] Brahmā.
+विश्वामित्रः - (तैः) [पितामहः] ब्रह्मा इदम् वचनम् उक्तः।
+Viśvāmitra - By them, the [grandfather] Brahmā was spoken this sentence.
 
 1.39.24
 
-देवाः - हे [भगवन्] [पितामह] ब्रह्मा [सगर-पुत्रैः] [समग्रा] पृथिवी खन्यते।
+देवाः - हे [भगवन्] [पितामह] ब्रह्मन् [सगर-पुत्रैः] [समग्रा] पृथिवी खन्यते।
 Gods - O [venerable] [Grandfather] Brahmā, the [entire] earth is being dug by [the sons of Sagara].
 
 देवाः - [बहवः] [महा-प्राणिनः] [पाताल-वासिनः] च (तैः) हन्यन्ते।

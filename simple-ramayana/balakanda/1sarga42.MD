@@ -24,7 +24,7 @@ Vishvamitra - By him [intense] penance was performed on the [holy] Himalayan pea
 
 1.42.4
 
-विश्वामित्रः - [प्रसिद्धेन] अंशुमता द्वात्रिंशत् सहस्र वर्षाणि (तपः) कृतम्।
+विश्वामित्रः - [प्रसिद्धेन] अंशुमता द्वात्रिंशत्सहस्रवर्षाणि (तपः) कृतम्।
 Vishvamitra - By that [famous] Amshuman, (penance) was performed for thirty-two thousand years.
 
 विश्वामित्रः - हे राम [तपस्वी] अंशुमान् तपोवनं गतः स्वर्गं लब्धवान् अभूत्।
@@ -65,7 +65,7 @@ Vishvamitra - His [very righteous] son named Bhagiratha was born.
 विश्वामित्रः - [तेजस्विना] दिलीपेन बहवः यज्ञाः कृताः।
 Vishvamitra - By [radiant] Dilipa, many sacrifices were performed.
 
-विश्वामित्रः - [नृपेण] दिलीपेन त्रिंशत् सहस्र वर्षाणि राज्यं कृतम्।
+विश्वामित्रः - [नृपेण] दिलीपेन त्रिंशत्सहस्रवर्षाणि राज्यं कृतम्।
 Vishvamitra - By [king] Dilipa, the kingdom was ruled for thirty thousand years.
 
 1.42.9
@@ -78,7 +78,7 @@ Vishvamitra - O [best of men] Rama, he went to death due to illness.
 
 1.42.10
 
-विश्वामित्रः - [नृपः] दिलीपः स्वस्य आर्जितकर्मणा इन्द्रलोकं गतः।
+विश्वामित्रः - [नृपः] दिलीपः स्वेन आर्जितेन कर्मणा इन्द्रलोकं गतः।
 Vishvamitra - [King] Dilipa went to the world of Indra by his own earned action.
 
 विश्वामित्रः - [नरश्रेष्ठेन] दिलीपेन पुत्रः भगीरथः राज्ये अभिषिक्तः।
@@ -110,7 +110,7 @@ Vishvamitra - By him, [intense] penance was performed for thousands of years.
 
 1.42.14
 
-विश्वामित्रः - हे [महाबाहुः] राम तस्य [महात्मनः] [नृपस्य] भगीरथस्य (बहूनि) वर्षाणि अतीतानि।
+विश्वामित्रः - हे [महाबाहो] राम तस्य [महात्मनः] [नृपस्य] भगीरथस्य (बहूनि) वर्षाणि अतीतानि।
 Vishvamitra - O [mighty-armed] Rama, (many) years of that [high-souled] [king] Bhagiratha passed.
 
 विश्वामित्रः - [भगवान्] [प्रजापतिः] [शक्तिमान्] ब्रह्मा [सुप्रीतः] भूतः।
@@ -187,7 +187,7 @@ Brahma - [Capable] [Shiva] Hara should be employed there to hold her.
 
 1.42.24
 
-ब्रह्मा - हे [नृप] भगीरथ पृथिवी गङ्गायाः पतनं न सहिष्यति।
+ब्रह्मा - हे [नृप] भगीरथ पृथिवी गङ्गायाः पतनं न सहिष्यते।
 Brahma - O [king] Bhagiratha, the earth will not endure the falling of Ganga.
 
 ब्रह्मा - हे [शूर] भगीरथ अहम् [त्रिशूलधारिणः] शिवात् अन्यं तां धारयितुं न पश्यामि।

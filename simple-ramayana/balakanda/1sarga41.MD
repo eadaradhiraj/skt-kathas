@@ -23,16 +23,16 @@ Sagara - (You) go having saluted (those) [worthy of respect] and also having kil
 Sagara - (You) return being [one whose goal is achieved] Amshuman (and) [one who completes the sacrifice] Amshuman of [mine].
 
 1.41.5
-विश्वामित्रः - [उदारचेतसा] सगरः अंशुमन्तम् [एवम्] [सम्यक्] अवोचत् ।
+विश्वामित्रः - [उदारचेताः] सगरः अंशुमन्तम् [एवम्] [सम्यक्] अवोचत् ।
 Vishvamitra - [The great-souled] Sagara spoke [thus] [properly] to Amshuman.
 विश्वामित्रः - [शीघ्रगतिः] अंशुमान् धनुः खड्गम् च आदाय गतः ।
 Vishvamitra - The [quick-paced] Amshuman went after taking the bow and sword.
 
 1.41.6
-विश्वामित्रः - [सः] अंशुमान् [महात्मभिः] [पितृव्यैः] [खनितम्] [भूमिगतम्] [तम्] [मार्गम्] प्राप्तः ।
+विश्वामित्रः - [सः] अंशुमान् [महात्मभिः] [पितृव्यैः] [खातम्] [भूमिगतम्] [तम्] [मार्गम्] प्राप्तः ।
 Vishvamitra - [He] Amshuman reached [that] [underground] [path] [dug] by (his) [great-souled] [uncles].
-विश्वामित्रः - [नरोत्तम] राम, [तेन] [नृपेण] [सगरेण] सगर [प्रेरितः] [सः] अंशुमान् [तम्] [मार्गम्] प्राप्तः ।
-Vishvamitra - O [Best of men] Rama, [he] Amshuman reached [that] [path] (being) [commanded] by [that] [king] [Sagara] Sagara.
+विश्वामित्रः - [नरोत्तम] राम, [तेन] [नृपेण] [सगरेण] [प्रेरितः] [सः] अंशुमान् [तम्] [मार्गम्] प्राप्तः ।
+Vishvamitra - O [Best of men] Rama, [he] Amshuman reached [that] [path] (being) [commanded] by [that] [king] [Sagara].
 
 1.41.7
 विश्वामित्रः - विरूपाक्षः असुरैः राक्षसैः पिशाचैः खगैः नागैः च [पूज्यमानः] [दिग्गजः] [भूतः] ।
@@ -65,7 +65,7 @@ Vishvamitra - Amshuman [was honored] by [all] [those] [guardians of directions] 
 Vishvamitra - [With the horse] Amshuman [was encouraged] by [those] Diggajas (saying) "You will go with the [horse]".
 
 1.41.12
-विश्वामित्रः - [तेषाम्] दिग्गजानां [तत्] [वचनम्] श्रुत्वा [शीघ्रगतिः] अंशुमान् गतः ।
+विश्वामित्रः - [तेषाम्] दिग्गजानाम् [तत्] [वचनम्] श्रुत्वा [शीघ्रगतिः] अंशुमान् गतः ।
 Vishvamitra - [The quick-paced] Amshuman went after hearing [that] [speech] of [them] Diggajas.
 विश्वामित्रः - [तत्र] [तस्य] [पितृव्याः] सगरपुत्राः [भस्मराशीकृताः] [भूताः] ।
 Vishvamitra - [There] [his] [uncles] Sagara's sons [became] [turned into piles of ash].
@@ -73,7 +73,7 @@ Vishvamitra - [There] [his] [uncles] Sagara's sons [became] [turned into piles o
 1.41.13
 विश्वामित्रः - तदा [असमञ्जपुत्रः] अंशुमान् [दुःखवशम्] आपन्नः ।
 Vishvamitra - Then [the son of Asamanja] Amshuman reached [the state of grief].
-विश्वामित्रः - [पितृव्यानाम्] सगरपुत्राणाम् [विनाशात्] [अत्यन्तपीडितेन] अंशुमता [अतिदुःखितेन] च आक्रुष्टम् ।
+विश्वामित्रः - [पितृव्याणाम्] सगरपुत्राणाम् [विनाशात्] [अत्यन्तपीडितेन] अंशुमता [अतिदुःखितेन] च आक्रुष्टम् ।
 Vishvamitra - [A cry was made] by the [greatly distressed] (and) [very pained] Amshuman due to [the destruction] of [the uncles] Sagara's sons.
 
 1.41.14
@@ -137,13 +137,13 @@ Vishvamitra - [The very famous] Amshuman [came] back [quickly] having taken the 
 Vishvamitra - O [Joy of the Raghus] Rama, then (he) reached the [consecrated] King Sagara.
 
 1.41.24
-विश्वामित्रः - [तेन] अंशुमता [यथाघटितम्] [वृत्तान्तम्] [सुपर्णस्य] गरुडस्य वचनम् तथा निवेदितम् ।
-Vishvamitra - The [news] [as it happened] and the speech of [Suparna] Garuda was reported thus by [him] Amshuman.
+विश्वामित्रः - [तेन] अंशुमता यथाघटितम् [वृत्तान्तः] [सुपर्णस्य] गरुडस्य वचनम् तथा निवेदितम् ।
+Vishvamitra - The [news] as it happened and the speech of [Suparna] Garuda was reported thus by [him] Amshuman.
 विश्वामित्रः - [नृपेण] सगरेण अंशुमतः [तत्] [भयङ्करम्] वाक्यम् श्रुतम् ।
 Vishvamitra - [That] [terrible] speech of Amshuman was heard by [the king] Sagara.
 
 1.41.25
-विश्वामित्रः - [नृपेण] सगरेण [यथाविधि] यज्ञः निवर्तितः ।
+विश्वामित्रः - [नृपेण] सगरेण [यथाविधि] यज्ञः निर्वर्तितः ।
 Vishvamitra - The sacrifice was completed by [the king] Sagara [according to ritual].
 विश्वामित्रः - [श्रीमान्] [कृतयज्ञः] सगरः [स्वपुरम्] गतः ।
 Vishvamitra - The [glorious] Sagara, [having performed the sacrifice], went to [his own city].

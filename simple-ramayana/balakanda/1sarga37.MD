@@ -155,7 +155,7 @@ From (its) [intensity] indeed, copper and [iron] (became formed).
 तत्र तस्य मलम् त्रपु सीसकम् च एव भूतम्।
 There its impurity became tin and lead indeed.
 
-तत् एतत् भूमिम् प्राप्य [अनेकधातुः] (भूतम्)।
+तत् एतत् भूमिम् प्राप्य [अनेकधातु] (भूतम्)।
 That very thing, having reached the earth, (became) [various minerals].
 
 1.37.21
@@ -187,7 +187,7 @@ Then, the Marut-hosts [accompanied by Indra] (approached) that born boy.
 (देवैः) क्षीरदानार्थम् कृत्तिकाः नियोजिताः।
 The Krittikas were appointed (by the gods) for the purpose of giving milk.
 
-तामिः [उत्तमम्] समयम् कृत्वा जातमात्रस्य क्षीरम् दत्तम्।
+ताभिः [उत्तमम्] समयम् कृत्वा जातमात्राय क्षीरम् दत्तम्।
 By them, having made an [excellent] agreement, milk was given to the newborn.
 
 1.37.25
@@ -203,7 +203,7 @@ Then indeed all the deities called him Kartikeya.
 अयम् पुत्रः [त्रिलोकप्रसिद्धः] भविष्यति अत्र संशयः न अस्ति।
 This son will become [famous in the three worlds]; there is no doubt here.
 
-तेषाम् तत् वचनम् श्रुत्वा (ताभिः) गर्भस्रावे [पतितम्] (गर्भम्) (स्वीकृतम्)।
+तेषाम् तत् वचनम् श्रुत्वा (ताभिः) गर्भस्रावे [पतितः] (गर्भः) (स्वीकृतः)।
 Having heard that speech of them, the (embryo) [fallen] in the flow of the womb (was accepted by them).
 
 1.37.27
@@ -211,7 +211,7 @@ Having heard that speech of them, the (embryo) [fallen] in the flow of the womb 
 (ताभिः) [अग्निवत्] [प्रकाशमानः] (सः) [परमया] [शोभया] स्नापितः।
 (By them) (he), [shining] [like fire], was bathed with [supreme] [splendor].
 
-देवाः गर्भस्रावात् [पतितम्] तम् स्कन्दः इति अवोचन्।
+देवाः गर्भस्रावात् [पतितः] सः  स्कन्दः इति अवोचन्।
 The gods called him Skanda [fallen] from the womb-flow.
 
 1.37.28
@@ -224,7 +224,7 @@ Then the [excellent] milk of the Krittikas appeared.
 
 1.37.29
 
-तेन [षण्मुखः] भूत्वा षण्णाम् स्तन्यम् गृहीतम्।
+तेन [षण्मुखः] भूतेन षण्णाम् स्तन्यम् गृहीतम्।
 By him, having become [six-faced], the breast-milk of the six was taken.
 
 तदा एकदिवसे क्षीरम् गृहीत्वा (सः) [कोमलाङ्गः] भूतः।
@@ -235,7 +235,7 @@ Then, having taken the milk in one day, (he) became [tender-bodied].
 [समर्थेन] तेन [स्वकीयेन] पराक्रमेण दैत्यसेनासमूहाः जिताः।
 By that [capable] one, the demon army hosts were conquered by his [own] prowess.
 
-ततः (देवैः) तम् [अनुपमकान्तिम्] देवसेनापतिम् (कृतवन्तः)।
+ततः (देवैः) सः [अनुपमकान्तिः] देवसेनापतिः (कृतः)।
 Then (the gods) (made) him, [of incomparable luster], the commander of the army of gods.
 
 1.37.31

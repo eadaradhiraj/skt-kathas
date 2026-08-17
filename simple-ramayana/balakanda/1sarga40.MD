@@ -27,7 +27,7 @@ Brahma - And indeed the [digging] of the earth is eternal [fate].
 ब्रह्मा - [अल्पायुषाम्] सगरस्य पुत्राणां च [नाशः] भविष्यति।
 Brahma - And the [destruction] of the [short-lived] sons of Sagara will happen.
 
-हे [अरिन्दम] राम [पितामहस्य] वचः [त्रयस्त्रिंशद्भिः] देवैः श्रुतम्।
+हे [अरिन्दम] राम [पितामहस्य] वचः [त्रयस्त्रिंशता] देवैः श्रुतम्।
 O [enemy-taming] Rama, the word of the [Grandfather] was heard by the [thirty-three] gods.
 
 1.40.5
@@ -39,7 +39,7 @@ The [very pleased] gods [went] back again as they came.
 And [a great] [sound] of the [great-souled] sons of Sagara [arose].
 
 1.40.6
-विश्वामित्रः - [विदीर्यमाणायाम्] पृथिव्याम् [वज्रतुल्य] शब्दः [भूतः] ।
+विश्वामित्रः - [विदीर्यमाणायाम्] पृथिव्याम् [वज्रतुल्यः] शब्दः [भूतः] ।
 Vishvamitra - A [thunder-like] sound [was] (produced) in the [splitting] earth.
 विश्वामित्रः - अनन्तरम् भूमिम् [विदार्य] [सर्वैः] सगरपुत्रैः [प्रदक्षिणम्] [कृतम्] ।
 Vishvamitra - Afterwards, [circumambulation] [was done] by [all] Sagara's sons (after) [splitting] the earth.
@@ -63,14 +63,14 @@ Vishvamitra - Sagara's sons spoke [words] to the [auspicious] Sagara.
 Vishvamitra - The [words] of the sons [were heard] by the [excellent] Sagara.
 
 1.40.10
-विश्वामित्रः - [क्रुद्धः] सगरः [राघव] रामम् [वचनम्] अवोचत ।
-Vishvamitra - [Angry] Sagara spoke [words] (to) [Raghava] Rama.
+विश्वामित्रः - [क्रुद्धः] सगरः [राघव] राम [वचनम्] अवोचत् ।
+Vishvamitra - [Raghava] Rama, [angry] Sagara spoke [words].
 सगरः - (युष्माकम्) [कल्याणम्] (अस्तु) [पुनः] भूमिम् [विदार्य] खनत ।
 Sagara - (Let there) (be) [auspiciousness] (to you), (and) dig the earth [again] (after) [splitting] (it).
 
 1.40.11
-सगरः - [अश्वचोरम्] [प्राप्य] [कृतार्थाः] (सन्तः) च निवर्तथ ।
-Sagara - (After) [finding] the [horse-thief], return (after) (becoming) [successful].
+सगरः - [अश्वचोरम्] [प्राप्य] [कृतार्थाः] (सन्तः) च [निवर्तनम्] (कुरुत) ।
+Sagara - (After) [finding] the [horse-thief], (make) [return] (after) (becoming) [successful].
 विश्वामित्रः - [श्रेष्ठस्य] [जनकस्य] सगरस्य [वचनम्] (सगरपुत्रैः) [प्राप्तम्] ।
 Vishvamitra - The [word] of the [excellent] [father] Sagara [was received] (by the sons).
 
@@ -89,7 +89,7 @@ Vishvamitra - [Raghava] Rama, the [entire] earth [with mountains and forests] [w
 1.40.14
 विश्वामित्रः - [महता] [गजेन] विरूपाक्षेण शिरसा (भूमिः) [धृता] ।
 Vishvamitra - (The earth) [was held] with (the) head by the [great] [elephant] Virupaksha.
-विश्वामित्रः - [ककुत्स्थवंशज] राम [समये] [विश्रामार्थम्] [महान्] [गजः] विरूपाक्षः [स्थितः] [भूतः] ।
+विश्वामित्रः - [ककुत्स्थवंशज] राम [समये] [विश्रामार्थम्] [महान्] [गजः] विरूपाक्षः [स्थितः] [अभूत्] ।
 Vishvamitra - O [Kakutstha] Rama, the [great] [elephant] Virupaksha [was] [situated] at a [time] for [rest].
 
 1.40.15
@@ -117,14 +117,14 @@ Vishvamitra - They [went] (to) [great] [amazement] [after seeing] Mahapadma [hol
 Vishvamitra - Then [circumambulation] [was done] (by) the (sons) of [great-souled] Sagara.
 
 1.40.19
-विश्वामित्रः - [षष्टिः] [सहस्राणि] सगरपुत्रैः [प्रतीची] [दिक्] [विदारिता] ।
-Vishvamitra - The [western] [direction] [was split] by [sixty] [thousand] Sagara's sons.
+विश्वामित्रः - [षष्टिसहस्रैः] सगरपुत्रैः [प्रतीची] [दिक्] [विदारिता] ।
+Vishvamitra - The [western] [direction] [was split] by [sixty-thousand] Sagara's sons.
 विश्वामित्रः - [प्रतीच्याम्] [दिशि] अपि [महान्] [पर्वतसदृशः] सौमनसः [दृष्टः] ।
-Vishvamitra - Also in the [western] [direction], the [great] [mountain-like] Saumanas [was seen].
+Vishvamitra - Also in the [western] [direction], the [great] [mountain-like] Saumanasa [was seen].
 
 1.40.20
 विश्वामित्रः - [अतीव] [बलवद्भिः] (सगरपुत्रैः) [दिग्गजः] सौमनसः [दृष्टः] ।
-Vishvamitra - The [direction-elephant] Saumanas [was seen] (by) the [very] [strong] (Sagara's sons).
+Vishvamitra - The [direction-elephant] Saumanasa [was seen] (by) the [very] [strong] (Sagara's sons).
 विश्वामित्रः - (तैः) [प्रदक्षिणा] [कृता] (तस्य) [आरोग्यम्] अपि [पृष्टम्] ।
 Vishvamitra - [Circumambulation] [was done] (by them) and (his) [health] [was] also [asked].
 विश्वामित्रः - ततः [खनन्तः] ते [हैमवतीम्] [उत्तर-दिशम्] [गताः] ।
@@ -133,46 +133,55 @@ Vishvamitra - Then [while digging], they [went] (to) the [Himalayan] [northern-d
 1.40.21
 विश्वामित्रः - [राघव] राम [उत्तरस्याम्] [दिशि] (तैः) [हिमश्वेतः] भद्रः [दृष्टः] ।
 Vishvamitra - O [Raghava] Rama, [snow-white] Bhadra [was seen] (by them) in the [northern] [direction].
+
 1.40.22
 विश्वामित्रः - [मङ्गलेन] [शरीरेण] इमां भूमिम् [धारयन्] भद्रः [दृष्टः] ।
 Vishvamitra - Bhadra [holding] this earth with a [beautiful] [body] [was seen].
 विश्वामित्रः - ततः [सर्वैः] (पुत्रैः) एनं [स्पृष्ट्वा] [प्रदक्षिणा] [कृता] ।
 Vishvamitra - Then [circumambulation] [was done] by [all] (sons) (after) [touching] him.
+
 1.40.23
 विश्वामित्रः - [षष्टि-सहस्रैः] सगरपुत्रैः [भूमि-तलम्] [विदारितम्] ।
 Vishvamitra - The [earth-surface] [was split] by [sixty-thousand] Sagara's sons.
-विश्वामित्रः - [सागराः] सगरपुत्राः [प्रसिद्धाम्] [उत्तर-पूर्व-दिशम्] [गताः] ।
-Vishvamitra - [Sagara's sons] Sagara's sons [went] (to) the [famous] [north-east-direction].
+विश्वामित्रः - सगरपुत्राः [प्रसिद्धाम्] [उत्तर-पूर्व-दिशम्] [गताः] ।
+Vishvamitra - Sagara's sons [went] (to) the [famous] [north-east-direction].
+
 1.40.24
-विश्वामित्रः - [सर्वैः] सगरपुत्रैः [कोपात्] पृथिवी [खनिता] ।
+विश्वामित्रः - [सर्वैः] सगरपुत्रैः [कोपात्] पृथिवी [खाता] ।
 Vishvamitra - The earth [was dug] [out of anger] by [all] Sagara's sons.
 विश्वामित्रः - [ते] [सर्वे] [महात्मानः] [भीमवेगाः] [महाबलाः] च [भूताः] ।
 Vishvamitra - [They] [all] [were] [great-souled], [terribly-fast], and [very-strong].
+
 1.40.25
 विश्वामित्रः - तत्र [शाश्वतः] वासुदेवः कपिलः (सगरपुत्रैः) [दृष्टः] ।
 Vishvamitra - The [eternal] Vasudeva Kapila [was seen] (by Sagara's sons) there.
-विश्वामित्रः - [तस्य] [दिव्यस्य] कपिलस्य [अश्वः] [समीपे] [चरन्] [दृष्टः] ।
-Vishvamitra - The [horse] of [that] [divine] Kapila [was seen] [grazing] [nearby].
+विश्वामित्रः - [तस्य] [दिव्यस्य] कपिलस्य [समीपे] [चरन्] [अश्वः] [दृष्टः] ।
+Vishvamitra - The [horse] [was seen] [grazing] [near] [that] [divine] Kapila.
+
 1.40.26
 विश्वामित्रः - [राघव] राम [सर्वे] [ते] [अपारम्] [आनन्दम्] [गताः] ।
 Vishvamitra - [Raghava] Rama, [all] [they] [went] (to) [limitless] [joy].
 विश्वामित्रः - [क्रुद्ध-नेत्रैः] तैः सः [श्रेष्ठः] [अश्वः] [ज्ञातः] ।
 Vishvamitra - That [excellent] [horse] [was known] by [angry-eyed] them.
+
 1.40.27
 विश्वामित्रः - [खनित्र-हल-युक्ताः] [विविध-वृक्ष-पाषाण-युक्ताः] (सगरपुत्राः) [भूताः] ।
 Vishvamitra - (Sagara's sons) [equipped with shovels and ploughs] (and) [equipped with various trees and rocks] [were] (there).
-विश्वामित्रः - [सङ्क्रुद्धाः] (ते) अभ्यधाविताः "तिष्ठ तिष्ठ" इति [वचनम्] अवोचन् च ।
-Vishvamitra - [Very angry], (they) ran forward and spoke the [words], "Stop, stop".
+विश्वामित्रः - [सङ्क्रुद्धाः] (ते) [अभिधाविताः] "तिष्ठ तिष्ठ" इति [वचनम्] अवोचन् च ।
+Vishvamitra - [Very angry], (they) [ran forward] and spoke the [words], "Stop, stop".
+
 1.40.28
 सगरपुत्राः - त्वया अस्माकम् [यज्ञ-अश्वः] [हृतः] ।
 Sagara's sons - Our [sacrificial-horse] [was stolen] by you.
 सगरपुत्राः - [कुबुद्धे] कपिल [सम्प्राप्तान्] अस्मान् सगरपुत्रान् जानीहि ।
 Sagara's sons - [Wicked-minded] Kapila, know us Sagara's sons (who) [have arrived].
+
 1.40.29
 विश्वामित्रः - [राघव] राम तेषाम् [वचनम्] कपिलेन [श्रुतम्] ।
 Vishvamitra - O [Raghava] Rama, the [words] of them were [heard] by Kapila.
 विश्वामित्रः - तदा [महता] कोपेन [व्याप्तेन] कपिलेन हुङ्कारः [कृतः] ।
 Vishvamitra - Then a roar [was made] by Kapila (who was) [filled] with [great] anger.
+
 1.40.30
 विश्वामित्रः - ततः [अचिन्त्येन] [महात्मना] कपिलेन (सगरपुत्राः) [दग्धाः] ।
 Vishvamitra - Then (Sagara's sons) [were burnt] by the [inconceivable] [great-souled] Kapila.

@@ -1,6 +1,6 @@
 1.38.1
 
-विश्वामित्रः - [कुशवंशजेन] [कुशिकपुत्रेण] विश्वामित्रेण [दशरथपुत्रे] रामे सा कथा निवेदिता।
+विश्वामित्रः - [कुशवंशजेन] [कुशिकपुत्रेण] विश्वामित्रेण [दशरथपुत्राय] रामाय सा कथा निवेदिता।
 Vishvamitra - By [the descendant of Kuśa] [the son of Kuśika] Viśvāmitra, that story was narrated to [the son of Daśaratha] Rāma.
 
 विश्वामित्रः - सः [काकुत्स्थवंशजम्] रामम् इदम् [अन्यत्] वाक्यम् अवोचत्।
@@ -8,7 +8,7 @@ Vishvamitra - He spoke this [other] sentence to [the descendant of Kakutstha] R�
 
 1.38.2
 
-विश्वामित्रः - पूर्वम् [अयोध्या-राजा] सगरः [वीरः] सगरः [राजा] भूतः।
+विश्वामित्रः - पूर्वम् [अयोध्याराजः] सगरः [वीरः] सगरः [राजा] भूतः।
 Viśvāmitra - Formerly, [the king of Ayodhya] Sagara [the brave] Sagara was [a king].
 
 विश्वामित्रः - [धार्मिकः] सगरः [पुत्र-इच्छुकः] सगरः सः च [पुत्र-हीनः] भूतः।
@@ -32,10 +32,10 @@ Viśvāmitra - Sagara's [second] wife was Sumati [by name].
 
 1.38.5
 
-विश्वामित्रः - [महा-राजा] सगरः भृगुप्रस्रवणे गिरौ हिमालयम् गतः।
+विश्वामित्रः - [महा-राजः] सगरः भृगुप्रस्रवणे गिरौ हिमालयम् गतः।
 Viśvāmitra - [The great king] Sagara went to the Himalaya (at) the Bhrigu-prasravana mountain.
 
-विश्वामित्रः - [महा-राज्ञा] सगरेण ताभ्याम् पत्नीभ्याम् सह तपः तप्तम्।
+विश्वामित्रः - [महा-राजेन] सगरेण ताभ्याम् पत्नीभ्याम् सह तपः तप्तम्।
 Viśvāmitra - By [the great king] Sagara, along with those two wives, penance was performed.
 
 1.38.6
@@ -59,23 +59,23 @@ Bhrigu - [O best among men] Sagara, (you) will obtain [unequalled] fame in the w
 भृगुः - (हे) [प्रिय] सगर [प्रथमा] केशिनी तव [कुल-वर्धकम्] पुत्रम् जनयिष्यति।
 Bhrigu - (O) [dear] Sagara, [the first] Keśinī will give birth to your [lineage-promoting] son.
 
-भृगुः - [अन्या] सुमतिः षष्टि-सहस्रम् पुत्रान् जनयिष्यति।
+भृगुः - [अन्या] सुमतिः [षष्टि-सहस्र-पुत्रान्] जनयिष्यति।
 Bhrigu - [The other] Sumati will give birth to sixty thousand sons.
 
 1.38.9
 
-विश्वामित्रः - [राज-पुत्रीभ्याम्] केशिनी-सुमतिभ्याम् [भाषमाणः] [महात्मा] भृगुः प्रसन्नः कृतः।
-Vishvamitra - By the [two princesses] Keśinī and Sumati, [the speaking] [high-souled] Bhrigu was propitiated.
+विश्वामित्रः - [राज-पुत्रीभ्याम्] केशिनी-सुमतिभ्याम् [भाष्यमाणः] [महात्मा] भृगुः प्रसन्नः कृतः।
+Vishvamitra - By the [two princesses] Keśinī and Sumati, [the addressed] [high-souled] Bhrigu was propitiated.
 
-विश्वामित्रः - तदा [परम-प्रीते] [कृताञ्जलि-पुटे] केशिनी-सुमत्यौ (तम्) अवोचताम्।
+विश्वामित्रः - तदा [परम-प्रीते] [कृताञ्जलि-पुटे] केशिनी-सुमती (तम्) अवोचताम्।
 Vishvamitra - Then, the [very pleased] (and) [having folded hands] Keśinī and Sumati spoke (to him).
 
 1.38.10
 
-केशिनी-सुमत्यौ - (हे) [ब्राह्मण] भृगु कस्याः एकः पुत्रः भविष्यति का च अनेकान् पुत्रान् जनयिष्यति।
+केशिनी-सुमती - (हे) [ब्राह्मण] भृगो कस्याः एकः पुत्रः भविष्यति का च अनेकान् पुत्रान् जनयिष्यति।
 Keśinī-Sumati - (O) [Brahmin] Bhrigu, who will have one son and who will give birth to many sons?
 
-केशिनी-सुमत्यौ - (हे) [ब्राह्मण] भृगु आवाम् (एतत्) श्रोतुम् इच्छावः तव वचनम् सत्यम् अस्तु।
+केशिनी-सुमती - (हे) [ब्राह्मण] भृगो आवाम् (एतत्) श्रोतुम् इच्छावः तव वचनम् सत्यम् अस्तु।
 Keśinī-Sumati - (O) [Brahmin] Bhrigu, we two desire to hear (this), may your word be true.
 
 1.38.11
@@ -110,7 +110,7 @@ Viśvāmitra - O Rāma, (by Keśinī) in the [presence of the king], a [lineage-
 
 1.38.14
 
-विश्वामित्रः - तदा [गरुड-भगिन्या] सुमत्या षष्टि-सहस्रम् पुत्राः गृहीताः।
+विश्वामित्रः - तदा [गरुड-भगिन्या] सुमत्या [षष्टि-सहस्र-पुत्राः] गृहीताः।
 Viśvāmitra - Then, by [the sister of Garuda] Sumati, sixty thousand sons were accepted.
 
 विश्वामित्रः - (तया) [महा-उत्साहिनः] [यशस्विनः] सुताः गृहीताः।
@@ -118,8 +118,8 @@ Viśvāmitra - (By her) [very enthusiastic] (and) [famous] sons were accepted.
 
 1.38.15
 
-विश्वामित्रः - [स-पत्नीकेन] राज्ञा ऋषिः प्रदक्षिणम् कृतः (सः) शिरसा [प्रणतः] च।
-Viśvāmitra - By the [accompanied by wives] king, the sage was circumambulated and (he) was [bowed to] with the head.
+विश्वामित्रः - [स-पत्नीकेन] राज्ञा ऋषिः प्रदक्षिणीकृत्य शिरसा [प्रणमितः] च।
+Viśvāmitra - By the [accompanied by wives] king, having circumambulated the sage, (he) was bowed to with the head.
 
 विश्वामित्रः - हे [रघुनन्दन] राम [स-पत्नीकः] राजा [स्व-नगरम्] गतः।
 Viśvāmitra - O [descendant of Raghu] Rāma, the [accompanied by wives] king went to [his own city].
@@ -129,15 +129,15 @@ Viśvāmitra - O [descendant of Raghu] Rāma, the [accompanied by wives] king we
 विश्वामित्रः - अथ सः कालः गतः।
 Viśvāmitra - Then that time passed.
 
-विश्वामित्रः - [ज्येष्ठया] केशिन्या असमञ्जः इति [नाम्ना] [सगर-पुत्रः] पुत्रः जनितः।
-Viśvāmitra - By [the eldest] Keśinī, a son [named] Asamañja, [the son of Sagara], was born.
+विश्वामित्रः - [ज्येष्ठायाः] केशिन्याः असमञ्जः इति [नाम्ना] [सगर-पुत्रः] पुत्रः जातः।
+Viśvāmitra - From [the eldest] Keśinī, a son [named] Asamañja, [the son of Sagara], was born.
 
 1.38.17
 
-विश्वामित्रः - हे [नर-श्रेष्ठ] राम सुमत्या [गर्भ-रूपम्] तुम्बम् जनितम्।
-Vishvamitra - O [best among men] Rāma, by Sumati, a [gourd-shaped] fetus was produced.
+विश्वामित्रः - हे [नर-श्रेष्ठ] राम सुमत्याः [गर्भ-रूपम्] तुम्बम् जातम्।
+Vishvamitra - O [best among men] Rāma, from Sumati, a [gourd-shaped] fetus was produced.
 
-विश्वामित्रः - तुम्ब-भेदात् षष्टि-सहस्रम् पुत्राः विनिःसृताः।
+विश्वामित्रः - तुम्ब-भेदात् [षष्टि-सहस्र-पुत्राः] विनिःसृताः।
 Vishvamitra - From the splitting of the gourd, sixty thousand sons emerged.
 
 1.38.18

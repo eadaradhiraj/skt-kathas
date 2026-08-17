@@ -27,7 +27,7 @@ Shiva - I will hold [the daughter of the mountain king] Ganga with (my) head.
 विश्वामित्रः - ततः [हिमवत्पुत्री] [ज्येष्ठा] [सर्वलोकवन्दिता] गङ्गा (तत्र) आगता।
 Vishvamitra - Then [the daughter of Himavan] [the eldest] [the one worshipped by all worlds] Ganga came (there).
 
-विश्वामित्रः - तदा तया [अतिविशालम्] रूपम् [दुस्सहम्] वेगम् च कृतम्।
+विश्वामित्रः - तदा तया [अतिविशालम्] रूपम् [दुस्सहः] वेगः च कृतौ।
 Vishvamitra - Then [a very large] form and [an unbearable] speed were made by her.
 
 1.43.5
@@ -40,7 +40,7 @@ Vishvamitra - (At that time) it was thought by her (with her mind).
 
 1.43.6
 
-गङ्गा - अहम् हि [शङ्करम्] शिवम् स्रोतसा गृह्य पातालम् प्रविशामि।
+गङ्गा - अहम् हि [शङ्करम्] शिवम् स्रोतसा गृहीत्वा पातालम् प्रविशामि।
 Ganga - I indeed enter the netherworld having taken [Shankara] Shiva with (my) stream.
 
 विश्वामित्रः - तस्याः [गर्वम्] ज्ञात्वा [भगवान्] [हरः] शिवः [क्रुद्धः] भूतः।
@@ -67,7 +67,7 @@ Vishvamitra - Effort was made by her but she did not become [able] to go to the 
 विश्वामित्रः - [जटापाशमोहितया] (गङ्गया) निर्गमनम् न एव लब्धम्।
 Vishvamitra - Exit was indeed not obtained (by Ganga) [who was confused by the trap of matted hair].
 
-विश्वामित्रः - [देवी] (गङ्गा) तत्र एव [बहून्] वर्षसमूहान् भ्रमिता।
+विश्वामित्रः - [देवी] (गङ्गा) तत्र एव [बहून्] वर्षसमूहान् भ्रान्ता।
 Vishvamitra - [The goddess] (Ganga) wandered right there for [many] groups of years.
 
 1.43.10
@@ -80,7 +80,7 @@ Vishvamitra - O [joy of the Raghus] Rama, (Shiva) became [excessively] [pleased]
 
 1.43.11
 
-विश्वामित्रः - ततः [हरः] शिवेन गङ्गा [बिन्दुसरः] प्रति विसृष्टा।
+विश्वामित्रः - ततः [हरेण] शिवेन गङ्गा [बिन्दुसरः] प्रति विसृष्टा।
 Vishvamitra - Then Ganga was released towards [Bindusaras] by [Hara] Shiva.
 
 विश्वामित्रः - तस्याः [विसर्जनात्] सप्त [प्रवाहाः] उत्पन्नाः भूताः।
@@ -91,7 +91,7 @@ Vishvamitra - From her [release] seven [streams] became produced.
 विश्वामित्रः - ह्लादिनी पावनी नलिनी च (तथा) [अन्याः] तिस्रः [शुभाः] गङ्गाः [पूर्वदिशम्] गताः।
 Vishvamitra - Hladini, Pavani and Nalini (likewise) [other] three [holy] Ganga (streams) went (to) [the eastern direction].
 
-विश्वामित्रः - ताः [शिवजलवतीः] (गङ्गाः) (गताः)।
+विश्वामित्रः - ताः [शिवजलवत्यः] (गङ्गाः) (गताः)।
 Vishvamitra - Those [having auspicious water] (Ganga streams) (went).
 
 1.43.13
@@ -152,7 +152,7 @@ Vishvamitra - In the world, that [excellent] [most wonderful] fall of Ganga (bec
 
 1.43.20
 
-विश्वामित्रः - [अमिततेजस्विनः] [द्रष्टुकामाः] देवगणाः समीयुर।
+विश्वामित्रः - [अमिततेजस्विनः] [द्रष्टुकामाः] देवगणाः समीयुः।
 Vishvamitra - [The immensely brilliant] groups of gods [desirous to see] came together.
 
 विश्वामित्रः - [पतद्भिः] देवगणैः तेषाम् आभरणतेजसा च (आकाशः) (दीप्तः) (भूतः)।
@@ -168,7 +168,7 @@ Vishvamitra - (The sky) (became) (endowed) [with moving] [fish] and [with groups
 
 1.43.22
 
-विश्वामित्रः - तदा आकाशम् [विद्युत्समानम्] [विक्षिप्तम्] भूतम्।
+विश्वामित्रः - तदा आकाशः [विद्युत्समानः] [विक्षिप्तः] भूतः।
 Vishvamitra - Then the sky became [scattered] [like lightning].
 
 विश्वामित्रः - [सहस्रधा] [प्रकीर्णैः] [श्वेतैः] जलसमूहैः (आकाशः) (व्याप्तः) (भूतः)।
@@ -260,7 +260,7 @@ Vishvamitra - O Rama, [all] Apsaras followed Ganga [who was following] the chari
 1.43.33
 
 विश्वामित्रः - ये [जलचराः] (सन्ति) ते [सर्वे] [सन्तुष्टाः] (भूत्वा) (गङ्गाम्) अनुगताः।
-Vishvamitra - Those [water-dwellers] who (are) became [all] [pleased] and followed (Ganga).
+Vishvamitra - Those [water-dwellers] who (are), (having become) [all] [pleased], followed (Ganga).
 
 विश्वामित्रः - यतः [नृपः] भगीरथः (गतः) ततः [यशस्विनी] गङ्गा (गता)।
 Vishvamitra - Wherever [the king] Bhagiratha (went), there [the famous] Ganga (went).
@@ -278,7 +278,7 @@ Vishvamitra - Then (she) (went to the sacrificial ground) of [the sacrificer] Ja
 विश्वामित्रः - गङ्गया [महात्मनः] जह्नोः यज्ञवाटः प्लावितः।
 Vishvamitra - The sacrificial ground of [the great-souled] Jahnu was flooded by Ganga.
 
-विश्वामित्रः - हे [राघव] राम (तस्याः) [गर्वम्] ज्ञात्वा [यज्ञकर्त्ता] जह्नुः [क्रुद्धः] भूतः।
+विश्वामित्रः - हे [राघव] राम (तस्याः) [गर्वम्] ज्ञात्वा [यज्ञकर्ता] जह्नुः [क्रुद्धः] भूतः।
 Vishvamitra - O [descendant of Raghu] Rama, having known (her) [pride], [the sacrificer] Jahnu became [angry].
 
 1.43.36
@@ -287,7 +287,7 @@ Vishvamitra - O [descendant of Raghu] Rama, having known (her) [pride], [the sac
 Vishvamitra - All [the very wonderful] water of Ganga was drunk by Jahnu.
 
 विश्वामित्रः - ततः देवाः [गन्धर्वैः सहिताः] ऋषयः च [सुविस्मिताः] भूताः।
-Vishvamitra - Then the gods [endowed with Gandharvas] and the sages became [very surprised].
+Vishvamitra - Then the gods [accompanied by Gandharvas] and the sages became [very surprised].
 
 1.43.37
 
@@ -314,7 +314,7 @@ Vishvamitra - Therefore [the daughter of Jahnu] Ganga is called Jahnavi.
 Vishvamitra - [Following the chariot of Bhagiratha] Ganga went again.
 
 विश्वामित्रः - तदा सा [नदीश्रेष्ठा] सागरम् सम्प्राप्ता।
-Vishvamitra - Then that [best of rivers] reached Sagara.
+Vishvamitra - Then that [best of rivers] reached the ocean.
 
 1.43.40
 
