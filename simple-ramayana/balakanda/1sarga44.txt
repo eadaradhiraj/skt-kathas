@@ -67,7 +67,7 @@ Brahma - This desire was not attained even by the [best of the righteous] Sagara
 ब्रह्मा - हे [पुत्र] भगीरथ लोके [अतुल्यतेजसा] अंशुमता तथा एव (प्रयत्नः) (कृतः) ।
 Brahma - O [son] Bhagiratha, similarly (an effort) (was made) by Amshuman [of matchless brilliance] in the world.
 
-ब्रह्मा - गङ्गाम् आनेतुं प्रार्थयता (तेन) प्रतिज्ञा न [पूर्णा] कृता ।
+ब्रह्मा - गङ्गाम् आनेतुं प्रार्थयमानेन (तेन) प्रतिज्ञा न [पूर्णा] कृता ।
 Brahma - While praying to bring Ganga, the vow was not [completed] (by him).
 
 1.44.10
@@ -81,9 +81,9 @@ Brahma - Even by [one with penance equal to mine] [one fixed in the duty of a wa
 1.44.11
 
 ब्रह्मा - हे [भाग्यवन्] भगीरथ [अतितेजस्विना] तव पित्रा दिलीपेन एषः विषयः न प्राप्तः ।
-Brahma - O [noble] Bhagiratha, this matter was not attained by your [very brilliant] father Dileepa.
+Brahma - O [fortunate] Bhagiratha, this matter was not attained by your [very brilliant] father Dileepa.
 
-ब्रह्मा - हे [पापरहित] भगीरथ गङ्गाम् आनेतुं प्रार्थयता (तेन) सा न [आनीता] ।
+ब्रह्मा - हे [पापरहित] भगीरथ गङ्गाम् आनेतुं प्रार्थयमानेन (तेन) सा न [आनीता] ।
 Brahma - O [sinless] Bhagiratha, she was not [brought] (by him) while (he) was praying to bring Ganga.
 
 1.44.12
@@ -108,7 +108,7 @@ Brahma - By this, you reached a [great] abode of dharma.
 Brahma - O [best of men] Bhagiratha, you perform a bath (in the water) which is [always pure].
 
 ब्रह्मा - हे [पुरुषश्रेष्ठ] भगीरथ (त्वम्) सलिले (स्नात्वा) [पवित्रः] [पुण्यवान्] च भव ।
-Brahma - O [tiger among men] Bhagiratha, (you) become [pure] and [meritorious] (by bathing) in the water.
+Brahma - O [best of men] Bhagiratha, (you) become [pure] and [meritorious] (by bathing) in the water.
 
 1.44.15
 
@@ -116,7 +116,7 @@ Brahma - O [tiger among men] Bhagiratha, (you) become [pure] and [meritorious] (
 Brahma - O [king] Bhagiratha, (you) perform the water ceremony (for) all the ancestors.
 
 ब्रह्मा - हे [नृप] भगीरथ तव [कल्याणम्] अस्तु अहं स्वलोकं गमिष्यामि (त्वमपि) [स्वपुरं] गच्छ ।
-Brahma - O [king] Bhagiratha, let there be [well-being] for you, I will go to my world (and you) go to [your own city].
+Brahma - O [king] Bhagiratha, let there be [well-being] for you, I will go to my world (and you also) go to [your own city].
 
 1.44.16
 
@@ -167,12 +167,12 @@ Vishwamitra - The twilight time [passed] (became).
 Vishwamitra - This (story) (became) [auspicious], [fame-giving], [life-prolonging], [son-granting], and [heaven-granting].
 
 विश्वामित्रः - येन [विप्रेषु] ब्राह्मणेषु क्षत्रियेषु अन्येषु च (एतत्) [श्रावितम्]....
-Vishwamitra - (This) [was caused to be heard] by someone among [the learned] Brahmins, Kshatriyas, and others...
+Vishwamitra - (By whomsoever) (this) [was caused to be heard] among [the learned] Brahmins, Kshatriyas, and others...
 
 1.44.22
 
 विश्वामित्रः - ...तस्य [पूर्वजाः] पितरः [प्रसन्नाः] भवन्ति [दिव्याः] देवाः च [प्रसन्नाः] भवन्ति ।
-Vishwamitra - ...His [ancestor] fathers become pleased and the [divine] gods become pleased.
+Vishwamitra - ...His [ancestors] fathers become pleased and the [divine] gods become pleased.
 
 विश्वामित्रः - (यः) [एकाग्रः] इदम् [शुभम्] [गङ्गावतरणम्] आख्यानं (शृणोति)...
 Vishwamitra - (Whoever) [attentively] (hears) this [auspicious] [descent of Ganga] narrative...
