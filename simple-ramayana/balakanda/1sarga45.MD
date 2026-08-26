@@ -12,7 +12,7 @@ Rama - The [holy] descent of Ganga and also the filling of the ocean was [very w
 
 1.45.3
 तदा [सर्वा] सा रात्रिः [सुमित्रापुत्रेण] लक्ष्मणेन सह गता।
-Then that [entire] night passed with [Lakshmana].
+Then that [entire] night passed with [Sumitra's son] Lakshmana.
 [चिन्तयता] रामेण [शुभा] विश्वामित्रस्य कथा चिन्तिता।
 The [auspicious] story of Vishvamitra was thought about by [thinking] Rama.
 
@@ -32,7 +32,7 @@ Rama - O [great ascetic] Vishvamitra, this night has become (like) a moment (for
 रामः - तव इमाम् [निखिलाम्] [सर्वाम्] कथां चिन्तयतोः आवयोः (रात्रिः गता)।
 Rama - While thinking of this [entire] story of yours [completely], (the night passed) for both of us.
 रामः - (वयम्) [नदीनां श्रेष्ठाम्] [पुण्याम्] [त्रिधाराम्] गङ्गाम् तराम।
-Rama - (We) cross the [holy] [three-streamed] [best of rivers] Ganga.
+Rama - (Let us) cross the [holy] [three-streamed] [best of rivers] Ganga.
 
 1.45.7
 रामः - [पुण्यवताम्] ऋषीणाम् एषा [सुखास्तीर्णा] नौः (अस्ति)।
@@ -44,7 +44,7 @@ Rama - Having known that the [venerable] Vishvamitra has [arrived] here, (this) 
 [महानुभावस्य] [राघवस्य] रामस्य तत् वचनं विश्वामित्रेण श्रुतम्।
 The word of [great-souled] [Raghava] Rama was heard by Vishvamitra.
 [ऋषिगणैः] सह [राघवाभ्याम्] रामलक्ष्मणाभ्याम् च सह विश्वामित्रेण सन्तारः कारितः।
-The crossing was caused by Vishvamitra along with [the groups of rishis] and [Raghava] Rama and Lakshmana.
+The crossing was caused by Vishvamitra along with [the groups of rishis] and [the two Raghavas] Rama and Lakshmana.
 
 1.45.9
 तदा [मुनिसमूहम्] सम्पूज्य ते [उत्तरम्] तीरं प्राप्तवन्तः।
@@ -60,7 +60,7 @@ Then the [beautiful] [divine] [heaven-like] [Vishala] city (was reached by them)
 
 1.45.11
 अथ [महाबुद्धिः] रामः [कृताञ्जलिः] भूतः।
-Rama - Then [highly wise] Rama became [one with folded hands].
+Then [highly wise] Rama became [one with folded hands].
 सः [[श्रेष्ठम्] मुनिम्] विश्वामित्रम् [श्रेष्ठाम्] विशालां पुरीम् अवोचत्।
 He spoke to [[great] sage] Vishvamitra (about) the [excellent] city Vishala.
 
@@ -77,7 +77,7 @@ That word of Rama was heard by [[best] sage] Vishvamitra.
 The [ancient] (account) of Vishala was begun to be told by him.
 
 1.45.14
-विश्वामित्रः - [राघव] राम [मया] [शुभाम्] [इन्द्रस्य] शक्रस्य कथाम् कथयता (सा) श्रूयताम्।
+विश्वामित्रः - [राघव] राम [मया] कथ्यमाना [शुभा] [इन्द्रस्य] शक्रस्य कथा श्रूयताम्।
 Vishvamitra - O [Raghava] Rama, let the [auspicious] story of [Indra] Shakra being told by [me] be heard.
 विश्वामित्रः - [राघव] राम अस्मिन् देशे तु यत् [वृत्तम्] (भूतम्) तत् अपि शृणु।
 Vishvamitra - O [Raghava] Rama, also listen to that which [happened] in this region.
@@ -86,7 +86,7 @@ Vishvamitra - O [Raghava] Rama, also listen to that which [happened] in this reg
 विश्वामित्रः - [पुरा] [कृतयुगे] राम दितेः पुत्राः [अत्यन्तबलशालिनः] भूताः।
 Vishvamitra - O Rama, in [former times] in [Krita Yuga], the sons of Diti were [very powerful].
 विश्वामित्रः - [भाग्यवन्] राम अदिति-पुत्राः अपि [पराक्रमशालिनः] [अतिधार्मिकाः] भूताः।
-Vishvamitra - O [fortunate] Rama, the (sons) of Aditi were also [heroic] (and) [very righteous].
+Vishvamitra - O [fortunate] Rama, the [sons of Aditi] were also [heroic] [very righteous].
 
 1.45.16
 विश्वामित्रः - ततः [नरोत्तम] राम [महानुभावानाम्] तेषां (मनसि) बुद्धिः भूता।
@@ -119,7 +119,7 @@ Vishvamitra - Then the [fire-like] [deadly] [great poison] sprang up.
 Vishvamitra - By that, the [entire] world [including gods, demons, and humans] was burnt.
 
 1.45.21
-विश्वामित्रः - अथ [रक्षणम् इच्छन्तः] देवाः [महा-देवम्] [कल्याणकारिणम्] [पशू-पतिम्] [भीषणम्] शिवं प्रति गताः।
+विश्वामित्रः - अथ [रक्षणम् इच्छन्तः] देवाः [महा-देवम्] [कल्याणकारिणम्] [पशुपतिम्] [भीषणम्] शिवं प्रति गताः।
 Vishvamitra - Then the gods [desiring protection] went (towards) the [[great] god] [auspicious] [lord of beings] [terrible] Shiva.
 विश्वामित्रः - (ते) "रक्षतु रक्षतु" इति (वदन्तः) (तम्) अवोचन्।
 Vishvamitra - (They) spoke (to him) saying "protect, protect".
@@ -166,7 +166,7 @@ Vishvamitra - Then [the enemy of Madhu] Vishnu was praised by the gods [along wi
 विश्वामित्रः - त्वं [सर्वेषाम्] [प्राणिनाम्] गतिः [स्वर्गवासिनाम्] देवानां च विशेषतः (गतिः) असि।
 Vishvamitra - You are the refuge of [all] [beings] and especially (the refuge) of the [heaven-dwelling] gods.
 विश्वामित्रः - [दीर्घभुज] विष्णो (त्वम्) अस्मान् पालय (त्वं च) गिरिम् उद्धर्तुम् अर्हसि।
-Vishvamitra - O [mighty-armed] Vishnu, protect us (and) you should lift the mountain.
+Vishvamitra - O [long-armed] Vishnu, protect us (and) you should lift the mountain.
 
 1.45.29
 विश्वामित्रः - इति श्रुत्वा [इन्द्रियस्वामिना] विष्णुना [कूर्म] रूपम् आस्थितम्।
@@ -177,12 +177,12 @@ Vishvamitra - The (Mandara) mountain was placed on (his) back by [the remover of
 1.45.30
 विश्वामित्रः - [विश्वस्य आत्मना] [केशवेन] विष्णुना हस्तेन पर्वताग्रम् आक्रान्तम्।
 Vishvamitra - The top of the mountain was pressed with the hand by [the soul of the universe] [Keshav] Vishnu.
-विश्वामित्रः - [पुरुषश्रेष्ठेन] विष्णुना देवानां मध्ये स्थितत्वा (समुद्रः) मथितः।
+विश्वामित्रः - [पुरुषश्रेष्ठेन] विष्णुना देवानां मध्ये स्थित्वा (समुद्रः) मथितः।
 Vishvamitra - (The ocean) was churned by [the best of men] Vishnu having stood in the middle of the gods.
 
 1.45.31
 विश्वामित्रः - अथ [वर्षसहस्र-कालेन] [दण्ड-सहितः] [कमण्डलु-सहितः] धन्वन्तरिः [प्रादुर्भूतः]।
-Vishvamitra - Then [after a period of a thousand years], Dhanvantari [holding a staff] (and) [holding a water-pot] [appeared].
+Vishvamitra - Then [after a period of a thousand years], Dhanvantari [with a staff] (and) [with a water-pot] [appeared].
 विश्वामित्रः - [पूर्वम्] धन्वन्तरिः [अति-तेजस्विन्यः] अप्सरसः च (तत्र) भूताः।
 Vishvamitra - [Formerly] Dhanvantari and [very radiant] Apsaras were (there).
 
@@ -193,7 +193,7 @@ Vishvamitra - From that churning in the waters, essences and [excellent] women (
 Vishvamitra - O [best of men] Rama, (they) sprang up (and) therefore (they) became Apsaras.
 
 1.45.33
-विश्वामित्रः - तासाम् [सुवर्चसाम्] अप्सराणां षष्टि-कोटयः भूताः।
+विश्वामित्रः - तासाम् [सुवर्चसाम्] अप्सरसां षष्टि-कोटयः भूताः।
 Vishvamitra - Sixty crores of those [very radiant] Apsaras were born.
 विश्वामित्रः - [ककुत्स्थवंशज] राम तासां याः परिचारिकाः (भूताः) (ताः) [असङ्ख्येयाः] भूताः।
 Vishvamitra - O [Kakutstha] Rama, those who became their attendants were [innumerable].
@@ -214,7 +214,7 @@ Vishvamitra - [The illustrious] Varuni sprang up searching for a consort.
 विश्वामित्रः - राम दितेः पुत्रैः सा [वरुणस्य सुता] वारुणी न परिगृहीता।
 Vishvamitra - O Rama, that [daughter of Varuna] Varuni was not accepted by the sons of Diti.
 विश्वामित्रः - [पराक्रमशालिन्] राम अदितेः सुतैः तु सा [अनिन्दिता] (वारुणी) परिगृहीता।
-Vishvamitra - O [heroic] Rama, that [blameless] (Varuni) was accepted by the sons of Aditi.
+Vishvamitra - O [heroic] Rama, but that [blameless] (Varuni) was accepted by the sons of Aditi.
 
 1.45.37
 विश्वामित्रः - तेन [दितेः पुत्राः] दैतेयाः असुराः भूताः तेन अदितेः सुताः सुराः (अपि) भूताः।
@@ -223,7 +223,7 @@ Vishvamitra - Because of that, the [sons of Diti] Daiteyas became Asuras and bec
 Vishvamitra - Because of the acceptance of Varuni, the Suras became [happy] and [delighted].
 
 1.45.38
-विश्वामित्रः - [नरोत्तम] राम [अश्वश्रेष्ठः] उच्चैःश्रवाः [श्रेष्ठम्] मणिरत्नम् कौस्तुभनाम च (तत्र) भूताः।
+विश्वामित्रः - [नरोत्तम] राम [अश्वश्रेष्ठः] उच्चैःश्रवाः [श्रेष्ठम्] मणिरत्नम् कौस्तुभनाम च (तत्र) भूतौ।
 Vishvamitra - O [best of men] Rama, [the best of horses] Uchchaishravas and [the excellent] jewel Kaustubha were (there).
 विश्वामित्रः - [उत्तमम्] अमृतं च तथा एव (समुद्रात्) उत्थितम्।
 Vishvamitra - And the [excellent] nectar also likewise rose (from the ocean).
@@ -232,7 +232,7 @@ Vishvamitra - And the [excellent] nectar also likewise rose (from the ocean).
 विश्वामित्रः - राम अथ तस्य (अमृतस्य) कृते [महान्] कुलक्षयः भूतः।
 Vishvamitra - O Rama, then for the sake of that (nectar), a [great] destruction of the races happened.
 विश्वामित्रः - ततः अदितेः पुत्रैः तु दितेः पुत्राः व्यापादिताः।
-Vishvamitra - Then the sons of Diti were killed by the sons of Aditi.
+Vishvamitra - Then, indeed, the sons of Diti were killed by the sons of Aditi.
 
 1.45.40
 विश्वामित्रः - [सर्वे] असुराः राक्षसैः सह [एकतः] अभ्यागताः।
@@ -260,6 +260,6 @@ Vishvamitra - In that [terrible] [great war], [a severe] (battle) happened betwe
 
 1.45.44
 विश्वामित्रः - [नगरविदारकेण] इन्द्रेण दितेः पुत्राः हताः राज्यं च प्राप्तम्।
-Vishvamitra - The sons of Diti were killed and the kingdom was obtained by [Purandara] Indra.
+Vishvamitra - The sons of Diti were killed and the kingdom was obtained by [the destroyer of cities] Indra.
 विश्वामित्रः - तेन [हृष्टेन] [ऋषिगणसहिताः] [चारणसहिताः] लोकाः शासिताः।
 Vishvamitra - The worlds [including the groups of rishis] [including the Charanas] were ruled by him [delighted].
