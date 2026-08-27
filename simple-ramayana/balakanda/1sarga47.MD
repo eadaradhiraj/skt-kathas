@@ -48,7 +48,7 @@ Diti - Let my [divine-formed] sons wander and (let) auspiciousness (be) to you.
 
 1.47.7
 
-[सहस्रनेत्रेण] [पुरन्दर] इन्द्रेण तस्याः तत् वचनं श्रुतम्।
+[सहस्रनेत्रेण] [पुरन्दरेण] इन्द्रेण तस्याः तत् वचनं श्रुतम्।
 That speech of hers was heard by the [thousand-eyed] [Purandara] Indra.
 
 [बलासुरहन्ता] [बद्धहस्तः] इन्द्रः दितिं वाक्यम् अवोचत्।
@@ -56,7 +56,7 @@ The [slayer of Balasura] [with folded hands] Indra spoke a sentence to Diti.
 
 1.47.8
 
-इन्द्रः - एतत् सर्वं तव यथा उक्तं (तथा) [निःसन्देहं] भविष्यति।
+इन्द्रः - एतत् सर्वं तुभ्यं यथा उक्तं (तथा) [निःसन्देहं] भविष्यति।
 Indra - All this will happen as said to you [without doubt].
 
 इन्द्रः - तव [देवस्वरूपाः] पुत्राः विचरिष्यन्ति (तथा) तव भद्रं (भवतु)।
@@ -72,7 +72,7 @@ O Rama, those [successful] ones went to [heaven], so it was heard by us.
 
 1.47.10
 
-[ककुत्स्थवंशज] राम पुरा इन्द्रेण एषः देशः निवासितः।
+[ककुत्स्थवंशज] राम पुरा इन्द्रेण एषः देशः न्युषितः।
 O [descendant of Kakutstha] Rama, this region was inhabited by Indra in the past.
 
 यत्र तेन [तपस्सिद्धा] दितिः [एवम्] परिचरिता।
@@ -102,7 +102,7 @@ After Hemachandra, the [famous] Suchandra existed.
 1.47.14
 
 विश्वामित्रः - राम सुचन्द्रस्य [प्रसिद्धः] पुत्रः धूम्राश्वः भूतः।
-Vishvamitra - Rama, the [famous] son of Suchandra existed.
+Vishvamitra - Rama, the [famous] son of Suchandra, Dhumrashva, existed.
 
 विश्वामित्रः - धूम्राश्वस्य पुत्रः अपि सञ्जयः भूतः।
 Vishvamitra - The son of Dhumrashva, Sanjaya, also existed.
@@ -133,7 +133,7 @@ Vishvamitra - [Invincible] [god-like] Sumati is (here).
 
 1.47.18
 
-विश्वामित्रः - इक्ष्वाकोः प्रसादेन सर्वे वैशालायाः राजानः (अत्र) भूताः।
+विश्वामित्रः - इक्ष्वाकोः प्रसादेन सर्वे विशालायाः राजानः (अत्र) भूताः।
 Vishvamitra - By the grace of Ikshvaku, all the kings of Vishala existed (here).
 
 विश्वामित्रः - (ते) [चिरजीविनः] [श्रेष्ठगुणाः] [बलवन्तः] [अतिवृत्तवन्तः] च भूताः।
@@ -149,7 +149,7 @@ Vishvamitra - [Best of men] Rama, you ought to see Janaka tomorrow morning.
 
 1.47.20
 
-[यशस्वी] [अतितेजस्वी] सुमतिना आगमनं विश्वामित्रस्य श्रुतम्।
+[यशस्विना] [अतितेजस्विना] सुमतिना आगमनं विश्वामित्रस्य श्रुतम्।
 The [famous] [very brilliant] Sumati heard that Vishvamitra had arrived.
 
 [पुरुषश्रेष्ठः] सुमतिः (विश्वामित्रं) प्रत्युद्गतः।
@@ -174,5 +174,5 @@ Sumati - (Therefore) I am [fortunate] and [favored].
 सुमतिः - (मया) तस्य दर्शनं सम्प्राप्तम्।
 Sumati - His vision was obtained (by me).
 
-सुमतिः - मम (तुलनया) [अतिभाग्यवान्] जनः न अस्ति।
+सुमतिः - मम (तुलनया) [भाग्यवत्तरः] जनः न अस्ति।
 Sumati - There is no [more fortunate] person (in comparison) to me.
