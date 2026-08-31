@@ -35,10 +35,10 @@ Sumati - For what purpose (did they arrive) and whose (sons) (are they)?
 
 1.48.5
 
-सुमतिः - [चन्द्रसूर्यसदृशौ] इमौ [आकाशम्] इव इमं [प्रदेशं] [अलङ्कुर्वन्तौ] भूताै ।
+सुमतिः - [चन्द्रसूर्यसदृशौ] इमौ [आकाशम्] इव इमं [प्रदेशं] [अलङ्कुर्वन्तौ] भूतौ ।
 Sumati - These two [similar to the moon and the sun] became [beautifying] this [region] like the [sky].
 
-सुमतिः - (इमौ) [आकार-सङ्केत-चेष्टाभिः] परस्परस्य सदृशौ भूताै ।
+सुमतिः - (इमौ) [आकार-सङ्केत-चेष्टाभिः] परस्परस्य सदृशौ भूतौ ।
 Sumati - (These two) became similar to each other [in physique, gestures, and actions].
 
 1.48.6
@@ -46,7 +46,7 @@ Sumati - (These two) became similar to each other [in physique, gestures, and ac
 सुमतिः - [मुनिश्रेष्ठ] विश्वामित्र किमर्थम् (इमौ) [दुर्गमे] पथि सम्प्राप्तौ?
 Sumati - [Best of sages] Vishvamitra, for what purpose did (these two) reach here by a [difficult] path?
 
-सुमतिः - (अहं) [श्रेष्ठायुधधरौ] [वीरौ] सत्यं श्रोतुम् इच्छामि ।
+सुमतिः - (अहं) [श्रेष्ठायुधधरयोः] [वीरयोः] सत्यं श्रोतुम् इच्छामि ।
 Sumati - (I) wish to hear the truth (regarding) the [bearers of excellent weapons] [heroes].
 
 1.48.7
@@ -54,7 +54,7 @@ Sumati - (I) wish to hear the truth (regarding) the [bearers of excellent weapon
 विश्वामित्रः तस्य तत् वचनं श्रुत्वा [यथाभूतं] वाक्यम् अवोचत् ।
 Vishvamitra spoke the [true] sentence after hearing those words of his.
 
-सिद्धाश्रमे निवासः राक्षसानां [विनाशः] च (तेन) निवेदिताै ।
+सिद्धाश्रमे निवासः राक्षसानां [विनाशः] च (तेन) निवेदितौ ।
 The stay in Siddhashrama and the [destruction] of the Rakshasas were reported (by him).
 
 1.48.8
@@ -70,7 +70,7 @@ Those [excellent] [guests], the two sons of Dasharatha, arrived.
 [सत्कारयोग्यौ] [अतिबलिनौ] (रामलक्ष्मणौ) (सुमतिना) (यथाविधि) पूजितौ ।
 The [mighty] (Rama and Lakshmana), [worthy of honor], were worshipped (by Sumati) (according to the rules).
 
-ततः [रघुवंशजौ] [रामलक्ष्मणौ] सुमतेः [श्रेष्ठसत्कारम्] प्राप्तौ ।
+ततः [रघुवंशजाभ्यां] [रामलक्ष्मणाभ्यां] सुमतेः [श्रेष्ठसत्कारः] प्राप्तः ।
 Then the [descendants of Raghu] [Rama and Lakshmana] received [excellent hospitality] from Sumati.
 
 1.48.10
@@ -78,7 +78,7 @@ Then the [descendants of Raghu] [Rama and Lakshmana] received [excellent hospita
 तत्र एकाम् [रात्रिम्] उषित्वा (ते) ततः मिथिलां गताः ।
 Having stayed there for one night, (they) then went to Mithila.
 
-सर्वेः मुनिभिः जनकस्य [शुभा] पुरी दृष्टा ।
+सर्वैः मुनिभिः जनकस्य [शुभा] पुरी दृष्टा ।
 The [auspicious] city of Janaka was seen by all the sages.
 
 1.48.11
@@ -91,10 +91,10 @@ A [deserted] hermitage in the garden of Mithila was seen by [descendant of Raghu
 
 1.48.12
 
-रामः - [रघुवंशजः] रामः [पुराणम्] [जनरहितम्] [रम्यम्] (स्थानम्) [मुनिश्रेष्ठम्] विश्वामित्रम् अवोचत् ।
+[रघुवंशजः] रामः [पुराणम्] [जनरहितम्] [रम्यम्] (स्थानस्य विषये) [मुनिश्रेष्ठम्] विश्वामित्रम् अवोचत् ।
 Rama - [The descendant of Raghu] Rama spoke to the [best of sages] Vishvamitra (about the) [ancient] [deserted] [beautiful] (place).
 
-रामः - [मुनिरहितम्] [शोभनम्] इदं किम् भूतम?
+रामः - [मुनिरहितम्] [शोभनम्] इदं किम् भूतम्?
 Rama - What was this [beautiful] [abandoned by sages] (place)?
 
 1.48.13
@@ -110,15 +110,15 @@ Having heard that sentence spoken by [descendant of Raghu] Rama, the [skilled in
 [अतितेजस्वी] [महामुनिः] विश्वामित्रः अवोचत् ।
 The [very brilliant] [great sage] Vishvamitra spoke.
 
-विश्वामित्रः - [रघुवंशज] राम (अहं) तव (इदं) सत्यं कथयिष्यामि (तथा त्वं) शृणु ।
+विश्वामित्रः - [रघुवंशज] राम (अहं) तुभ्यम् (इदं) सत्यं कथयिष्यामि (तथा त्वं) शृणु ।
 Vishvamitra - [Descendant of Raghu] Rama, (I) will tell (this) truth to you (and you) listen.
 
 1.48.15
 
-विश्वामित्रः - इदं [आश्रमस्थानं] [महात्मना] गौतमेन कोपात् शप्तं भूतम ।
+विश्वामित्रः - इदं [आश्रमस्थानं] [महात्मना] गौतमेन कोपात् शप्तं भूतम् ।
 Vishvamitra - This [hermitage site] became cursed by the [high-souled] Gautama out of anger.
 
-विश्वामित्रः - [नरश्रेष्ठ] राम पूर्वम् इदं [महात्मनः] गौतमस्य भूतम ।
+विश्वामित्रः - [नरश्रेष्ठ] राम पूर्वम् इदं [महात्मनः] गौतमस्य भूतम् ।
 Vishvamitra - [Best of men] Rama, previously this belonged to the [high-souled] Gautama.
 
 1.48.16
@@ -126,7 +126,7 @@ Vishvamitra - [Best of men] Rama, previously this belonged to the [high-souled] 
 विश्वामित्रः - अयम् [दिव्यसदृशः] [देवैः अपि पूजितः] आश्रमः भूतः ।
 Vishvamitra - This [divine-like] hermitage [worshipped even by gods] existed.
 
-विश्वामित्रः - पुरा अत्र [अहल्यासहितः] तेन तपः कृतम् ।
+विश्वामित्रः - पुरा अत्र [अहल्यासहितेन] तेन तपः कृतम् ।
 Vishvamitra - In the past, penance was performed here by him [along with Ahalya].
 
 1.48.17
@@ -142,12 +142,12 @@ Vishvamitra - The [opportunity] was known by the [thousand-eyed] [husband of Sha
 विश्वामित्रः - [मुनिवेषधारी] इन्द्रः अहल्याम् इदं वचनम् अवोचत् ।
 Indra [wearing the garb of a sage] spoke this sentence to Ahalya.
 
-इन्द्रः - [सुसमाहिते] अहल्या [कामातुराः] जनाः [उचितकालम्] न प्रतीक्षन्ते ।
+इन्द्रः - [सुसमाहिते] अहल्ये [कामातुराः] जनाः [उचितकालम्] न प्रतीक्षन्ते ।
 Indra - O [well-composed] Ahalya, [desirous] people do not wait for the [proper time].
 
 1.48.19
 
-इन्द्रः - [सुमध्यमे] अहल्या अहम् त्वया सह [सङ्गमम्] इच्छामि ।
+इन्द्रः - [सुमध्यमे] अहल्ये अहम् त्वया सह [सङ्गमम्] इच्छामि ।
 Indra - O [fair-waisted] Ahalya, I desire [union] with you.
 
 विश्वामित्रः - [रघुनन्दन] राम [मुनिवेषः] [सहस्रनेत्रः] इन्द्रः अहल्यया ज्ञातः ।
@@ -155,7 +155,7 @@ Vishvamitra - [Joy of the Raghu family] Rama, [disguised as a sage] [thousand-ey
 
 1.48.20
 
-विश्वामित्रः - [मन्दमत्या] अहल्यया [देवराज] इन्द्रकुतूहलात् मतिः कृता ।
+विश्वामित्रः - [मन्दमत्या] अहल्यया [देवराजस्य] इन्द्रस्य कुतूहलात् मतिः कृता ।
 Vishvamitra - A decision was made by [foolish] Ahalya out of curiosity for [king of gods] Indra.
 
 विश्वामित्रः - [नरश्रेष्ठ] राम [सन्तुष्टहृदया] अहल्या अवोचत् ।
@@ -166,7 +166,7 @@ Vishvamitra - [Best of men] Rama, [satisfied-hearted] Ahalya spoke.
 अहल्या - [सुरश्रेष्ठ] इन्द्र अहम् [सन्तुष्टा] भूता ।
 Ahalya - [Best of gods] Indra, I have become [satisfied].
 
-अहल्या - [स्वामिन्] इन्द्र अस्मात् स्थानात् शीघ्रं [गतः] ।
+अहल्या - [स्वामिन्] इन्द्र अस्मात् स्थानात् शीघ्रं [गच्छ] ।
 Ahalya - [Lord] Indra, (be) gone quickly from here.
 
 अहल्या - [देवराज] इन्द्र गौतमात् आत्मानं मां च सर्वदा रक्ष ।
@@ -174,10 +174,10 @@ Ahalya - [King of gods] Indra, always protect yourself and me from Gautama.
 
 1.48.22
 
-इन्द्रः - [हसन्] इन्द्रः अहल्याम् इदं वाक्यम् अवोचत् ।
-Indra - [Laughing] Indra spoke this sentence to Ahalya.
+[हसन्] इन्द्रः अहल्याम् इदं वाक्यम् अवोचत् ।
+[Laughing] Indra spoke this sentence to Ahalya.
 
-इन्द्रः - [सुश्रोणि] अहल्या अहम् [परमसन्तुष्टः] अस्मि (तथा) यथा आगतः (तथा) गमिष्यामि ।
+इन्द्रः - [सुश्रोणि] अहल्ये अहम् [परमसन्तुष्टः] अस्मि (तथा) यथा आगतः (तथा) गमिष्यामि ।
 Indra - [Fair-hipped] Ahalya, I am [very satisfied] and (I) will go just as (I) came.
 
 1.48.23
@@ -198,7 +198,7 @@ Vishvamitra - (He), [invincible to gods] [ascetic] Gautama, was seen (by Indra).
 
 1.48.25
 
-विश्वामित्रः - [अग्निसदृशः] [पावनजलाप्लुत:] गौतमः (इन्द्रेण) (दृष्टः) ।
+विश्वामित्रः - [अग्निसदृशः] [पावनजलाप्लुतः] गौतमः (इन्द्रेण) (दृष्टः) ।
 Vishvamitra - Gautama, [similar to fire] (and) [wet with holy water], (was seen) (by Indra).
 
 विश्वामित्रः - [मुनिश्रेष्ठः] गौतमः तत्र [यज्ञकाष्ठयुक्तः] [कुशसहितः] च भूतः ।
@@ -214,10 +214,10 @@ Vishvamitra - Then [thousand-eyed] Indra [wearing the garb of a sage] was seen b
 
 1.48.27
 
-गौतमः - [सदाचारी] गौतमः [दुष्टम्] इन्द्रं रोषात् वचनम् अवोचत् ।
-Gautama - The [virtuous] Gautama spoke a sentence out of anger to the [wicked] Indra.
+[सदाचारी] गौतमः [दुष्टम्] इन्द्रं रोषात् वचनम् अवोचत् ।
+The [virtuous] Gautama spoke a sentence out of anger to the [wicked] Indra.
 
-गौतमः - [मन्दमते] इन्द्र मम रूपं धरित्वा (त्वया) (एतत्) कृतम् ।
+गौतमः - [मन्दमते] इन्द्र मम रूपं धृत्वा (त्वया) (एतत्) कृतम् ।
 Gautama - O [evil-minded] Indra, (this) was done (by you) having taken my form.
 
 1.48.28
@@ -241,7 +241,7 @@ Vishvamitra - [Shakra] Indra was thus cursed by him and Ahalya was also cursed.
 गौतमः - त्वम् अत्र [बहूनि] [वर्षसहस्राणि] निवत्स्यसि ।
 Gautama - You will dwell here for [many] [thousands of years].
 
-गौतमः - (त्वं) [वायुभक्षणा] [आहाररहिता] [भस्मशायिनी] (च) भूत्वा (तपः) कुर्वन्ती (निवत्स्यसि) ।
+गौतमः - (त्वं) [वायुभक्षा] [आहाररहिता] [भस्मशायिनी] (च) भूत्वा (तपः) कुर्वन्ती (निवत्स्यसि) ।
 Gautama - (You) (will dwell) performing (penance), becoming [consumer of air], [without food], and [sleeping on ashes].
 
 1.48.31
