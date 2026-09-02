@@ -770,7 +770,7 @@ You, having walked only seven KM, that too well protected in woolen clothing and
 **उमा -** आचार्य भगवद्पादस्य विषये मम अपि सहमतिः एव । परन्तु , सः अस्मदृशः साधारणः व्यक्तिः न आसीत् । भवान् कथं जानाति , कीदृशं कष्टं मया मार्गे अनुभूतम् ।
 As far as Shankaracharya is concerned, I agree with you. But he was no ordinary person like us. How would you know the difficulties experienced by me on the way?
 
-**पितामहः -** त्वं किं मन्यसे , अहं मेसिडिस् बेन्स् द्वारा अत्र आनीतः इति । एवं न । एतेषां प्रत्येकस्य चलनरीतिः पृथक् ।
+**पितामहः -** त्वं किं मन्यसे , अहं मेसिडिस् बेन्स् इत्यनेन अत्र आनीतः इति । एवं न । एतेषां प्रत्येकस्य चलनरीतिः पृथक् ।
 What do you think? That I was brought here in a Mercedes Benz? It is not so. These four, each one had a different gait. 
 शिलाः लंघ्यमानाः कोणेषु परिवर्तमानाः मां उपरि अधः पुनः पुनः प्रक्षिपवन्तः । मध्ये मध्ये अहं प्रवणे अधः पतिष्यामि इव भावना जाता । भोलानाथः एव केवलं मम रक्षकः आसीत् ।
 While they avoided the rocks or negotiated bends, they threw me up and down again and again. I felt that I will fall down. 
