@@ -16,7 +16,7 @@ Dasaratha - "Or is it some experienced foreboding of evil, or even a malady of m
 इति सञ्चिन्त्य तेन राज्ञा तदा सुखम् न प्राप्तम् ।
 Thinking thus, that king did not obtain comfort then.
 
-[कैकेयी-वाक्य-ताडितेन] (दशरथेन) चिरात् संज्ञा प्रतिलब्धा ।
+[कैकेयी-वाक्य-ताडितेन] (दशरथेन) चिरात् सञ्ज्ञा प्रतिलब्धा ।
 Lashed by the words of Kaikeyi, (Dasaratha) regained his consciousness after a long time.
 
 2.12.4
@@ -37,7 +37,7 @@ The indignant lord of men spoke the words, "Alas! Fie!".
 [शोक-उपहत-चेतनः] (दशरथः) भूयः मोहम् प्राप्तवान् अभूत् ।
 His consciousness overwhelmed by grief, (Dasaratha) fell into unconsciousness again.
 
-चिरेण तु नृपः संज्ञाम् प्रतिलभ्य [सु-दुःखितः] भूतः ।
+चिरेण तु नृपः सञ्ज्ञाम् प्रतिलभ्य [सु-दुःखितः] भूतः ।
 But after a long time, having regained consciousness, the king became extremely distressed.
 
 2.12.7

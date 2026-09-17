@@ -319,5 +319,5 @@ Rama - "O mother (Kausalya), I cannot [endure] [to abandon] my [great] fame for 
 Rama - "In this [short-lived] world, I do not [wish] [to gain] even this earth through unrighteousness."
 
 2.21.63
-स्वमातरम् (कौसल्याम्) [सान्त्वयित्वा], धैर्येण दण्डकारण्यम् गन्तुम् [कृतनिश्चयेन] तेन [पुरुषश्रेष्ठेन] (रामेण) [एकाग्रचित्तेन] भूत्वा स्वकनिष्ठभ्राता (लक्ष्मणः) सम्यक् [आदिष्टः], भक्त्या च स्वमातुः प्रदक्षिणा [कृता]।
+स्वमातरम् (कौसल्याम्) [सान्त्वयित्वा], धैर्येण दण्डकारण्यम् गन्तुम् [कृतनिश्चयेन] तेन [पुरुषश्रेष्ठेन] (रामेण) [एकाग्रचित्तेन] सता स्वकनिष्ठभ्राता (लक्ष्मणः) सम्यक् [आदिष्टः], भक्त्या च स्वमातुः प्रदक्षिणा [कृता]।
 [Having pacified] his mother (Kausalya), by that [best of men] (Rama)—[determined] to go to Dandaka forest with fortitude, becoming [one-pointed in mind]—his younger brother (Lakshmana) was thoroughly [instructed], and with devotion circumambulation of his mother was [made].

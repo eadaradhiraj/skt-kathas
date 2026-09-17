@@ -281,7 +281,7 @@ My son—O Rāghava—ever inconceivable in this world is the course of Destiny,
 
 ### **2.24.36**
 कौशल्या - हे महाबाहो, इदानीं गच्छ।  
-कौशल्या - क्षेमेण पुनः आगतः भूत्वा, हे पुत्र, मधुरेण वचनेन मां पुनः नन्दयिष्यसि।  
+कौशल्या - क्षेमेण पुनः आगत्य, हे पुत्र, मधुरेण वचनेन मां पुनः नन्दयिष्यसि।  
 
 Go now, mighty-armed one, and return in safety. When you come back, my son, gladden me again with gentle, sweet words.
 

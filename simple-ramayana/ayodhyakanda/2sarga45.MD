@@ -68,7 +68,7 @@
 
 **English:** All the citizens, becoming extremely miserable, were shedding tears, and Sri Rama along with Lakshmana was as if dragging them, having bound them with his virtues.
 
-**Sanskrit:** [सर्वैः] पुरवासिभिः [दीनैः] भूत्वा अश्रूणि [प्रवाहितानि]। [लक्ष्मणसहितेन] रामेण स्वगुणैः [बद्धाः] इव [ते] [आकृष्टाः]।
+**Sanskrit:** [सर्वैः] पुरवासिभिः [दीनैः] सद्भिः अश्रूणि [प्रवाहितानि]। [लक्ष्मणसहितेन] रामेण स्वगुणैः [बद्धाः] इव [ते] [आकृष्टाः]।
 
 **2.45.13**
 

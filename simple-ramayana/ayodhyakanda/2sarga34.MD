@@ -24,7 +24,7 @@ Sent by Sri Rama the charioteer Sumantra quickly entered inside. He saw King Das
 Sumantra saw King Dasharatha resembling an eclipsed sun. The king appeared lustreless like fire covered with ashes and like a lake devoid of water. His mind was extremely agitated. He was contemplating only Sri Rama. Then the wise charioteer Sumantra addressed the king with folded hands.
 
 **संस्कृतम्:**
-सुमन्त्रेण जगतीपतिः महाराजः दशरथः दृष्टः। सः उपरागग्रस्तेन सूर्येण सदृशः आसीत्। सः भस्मच्छन्नेन वह्निना निस्तोयेन तडाकेन च तुल्यः जातः। तस्य मनः परमाकुलं जातम्। तेन केवलं श्रीरामः एव चिन्तितः। ततः महाप्राज्ञेन सूतेन सुमन्त्रेण बद्धाञ्जलिना भूत्वा राजा सम्बोधितः।
+सुमन्त्रेण जगतीपतिः महाराजः दशरथः दृष्टः। सः उपरागग्रस्तेन सूर्येण सदृशः आसीत्। सः भस्मच्छन्नेन वह्निना निस्तोयेन तडाकेन च तुल्यः जातः। तस्य मनः परमाकुलं जातम्। तेन केवलं श्रीरामः एव चिन्तितः। ततः महाप्राज्ञेन सूतेन सुमन्त्रेण बद्धाञ्जलिना सता राजा सम्बोधितः।
 
 ---
 
@@ -144,7 +144,7 @@ Sri Rama and Lakshmana wept along with Sita. Lifting the king with their arms th
 After a short while King Dasharatha regained consciousness. Then with folded hands Sri Rama spoke to the king who was immersed in an ocean of grief and tears.
 
 **संस्कृतम्:**
-मुहूर्तादनन्तरं राजा दशरथः लब्धसंज्ञः जातः। ततः प्राञ्जलिना श्रीरामेण शोकाश्रुपूर्णः राजा उक्तः।
+मुहूर्तादनन्तरं राजा दशरथः लब्धसञ्ज्ञः जातः। ततः प्राञ्जलिना श्रीरामेण शोकाश्रुपूर्णः राजा उक्तः।
 
 ---
 

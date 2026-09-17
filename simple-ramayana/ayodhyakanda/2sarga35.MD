@@ -3,7 +3,7 @@
 ### **2.35.1–3**
 
 **Sanskrit:**
-> तदनन्तरम् [लब्धसञ्ज्ञः] सारथिः सुमन्त्रः सहसा [उत्थितः]। तस्य मनसि [अमङ्गलकारी] [महान्] सन्तापः [सञ्जातः]। सः क्रोधात् [प्रकम्पितः]। तस्य शरीरस्य मुखस्य च [पूर्वा] [स्वाभाविकी] कान्तिः [परिवर्तिता]। तेन [क्रोधरक्तेक्षणेन] भूत्वा द्वाभ्याम् हस्ताभ्याम् शिरः ताडयितुम् [आरब्धम्]। सः पुनः पुनः [दीर्घम्] निःश्वस्य, हस्तौ सम्मर्द्य, दन्तान् सन्दश्य, राज्ञः दशरथस्य मनसः [वास्तविकीम्] अवस्थाम् [पश्यन्], स्वकीयैः [तीक्ष्णैः] वचनरूपैः शरैः कैकेय्याः हृदयम् कम्पयितुम् [प्रवृत्तः]।
+> तदनन्तरम् [लब्धसञ्ज्ञः] सारथिः सुमन्त्रः सहसा [उत्थितः]। तस्य मनसि [अमङ्गलकारी] [महान्] सन्तापः [सञ्जातः]। सः क्रोधात् [प्रकम्पितः]। तस्य शरीरस्य मुखस्य च [पूर्वा] [स्वाभाविकी] कान्तिः [परिवर्तिता]। तेन [क्रोधरक्तेक्षणेन] सता द्वाभ्याम् हस्ताभ्याम् शिरः ताडयितुम् [आरब्धम्]। सः पुनः पुनः [दीर्घम्] निःश्वस्य, हस्तौ सम्मर्द्य, दन्तान् सन्दश्य, राज्ञः दशरथस्य मनसः [वास्तविकीम्] अवस्थाम् [पश्यन्], स्वकीयैः [तीक्ष्णैः] वचनरूपैः शरैः कैकेय्याः हृदयम् कम्पयितुम् [प्रवृत्तः]।
 
 **English:**
 > Thereafter, regaining his senses, the charioteer Sumantra suddenly stood up. A great, inauspicious sorrow arose in his mind. He began to tremble with rage. The previous natural glow of his body and face changed. With eyes reddened with fury, he began beating his head with both hands; sighing deeply again and again, wringing his hands together, gnashing his teeth, and observing the real state of King Dasharatha's heart, he began to make Kaikeyi's heart tremble with the sharp arrows of his words.

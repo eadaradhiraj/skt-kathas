@@ -525,7 +525,7 @@
 
 ### 2.52.79
 
-**Sanskrit:** ततः शास्त्रविध्यनुसारम् आचमनं कृत्वा सीतया सह तेन [प्रसन्नचित्तेन] भूत्वा गङ्गायै प्रणामः [कृतः]। [महारथिना] लक्ष्मणेन अपि तस्यै मस्तकं [नमितम्]।
+**Sanskrit:** ततः शास्त्रविध्यनुसारम् आचमनं कृत्वा सीतया सह तेन [प्रसन्नचित्तेन] सता गङ्गायै प्रणामः [कृतः]। [महारथिना] लक्ष्मणेन अपि तस्यै मस्तकं [नमितम्]।
 **English:** Then, having performed sipping of water according to scriptural ordinance, and having become delighted in heart along with Sita, he offered salutation to Gangaji. The great chariot-warrior Lakshmana also bowed his head to her.
 
 ---
@@ -539,7 +539,7 @@
 
 ### 2.52.81
 
-**Sanskrit:** तदनन्तरं नाविकैः नौका [चालिता]। कर्णधारेण [सावधानेन] भूत्वा तस्याः सञ्चालनं [कृतम्]। वेगेन [सुन्दराणाम्] अरित्राणां चालनात् सा नौका अतीव वेगेन जले अग्रे [प्रस्थिता]।
+**Sanskrit:** तदनन्तरं नाविकैः नौका [चालिता]। कर्णधारेण [सावधानेन] सता तस्याः सञ्चालनं [कृतम्]। वेगेन [सुन्दराणाम्] अरित्राणां चालनात् सा नौका अतीव वेगेन जले अग्रे [प्रस्थिता]।
 **English:** Thereafter the boatmen rowed the boat. The attentive helmsman steered it. Due to the swift rowing of the beautiful oars, that boat moved forward on the water with great speed.
 
 ---
