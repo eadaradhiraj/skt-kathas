@@ -226,7 +226,7 @@ Dasaratha - "How shall I, (Dasaratha), for your sake, speak disagreeable (words)
 दशरथः - "क्षमा दमः त्यागः सत्यम् धर्मः कृतज्ञता (एतानि) रामे (सन्ति) ।"
 Dasaratha - "Forgiveness, self-control, sacrifice, truth, righteousness, and gratitude (all these) are in Rama,"
 
-दशरथः - "अपि च भूतानाम् अहिंसा (रामे अस्ति) । रामम् ऋते मम का गतिः (अस्ति) ।"
+दशरथः - "अपि च भूतानाम् अहिंसा (रामे अस्ति) । रामात् ऋते मम का गतिः (अस्ति) ।"
 Dasaratha - "and also non-violence towards living beings (is in him). Without Rama, what is my refuge?"
 
 2.12.34
