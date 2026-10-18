@@ -248,7 +248,7 @@ Janaka - "Take Urmila's hand. Let there be no delay of time."
 
 ### 1.73.32
 
-जनकः लक्ष्मणम् एवं उक्त्वा भरतम् अपि अवोचत् ।  
+जनकः लक्ष्मणम् एवम् उक्त्वा भरतम् अपि अवोचत् ।  
 Having spoken thus to Lakshmana, Janaka also addressed Bharata.  
 
 जनकः - "[रघुनन्दन] पाणिना माण्डव्याः पाणिं गृह्णीष्व ।"  
@@ -283,7 +283,7 @@ Those [four] (princes) touched the hands of the [four] (girls) with (their) hand
 [महा-आत्मानः] [रघु-सत्तमाः] (राज-पुत्राः) अग्निं प्रदक्षिणीकृतवन्तः अभूवन् ।  
 The [great-souled] [best of the Raghus] (the princes) circumambulated the fire.  
 
-[भार्या-सहिताः] (राज-पुत्राः) वेदिं राजानं ऋषीन् च प्रदक्षिणीकृतवन्तः अभूवन् ।  
+[भार्या-सहिताः] (राज-पुत्राः) वेदिं राजानम् ऋषीन् च प्रदक्षिणीकृतवन्तः अभूवन् ।  
 The (princes) [along with (their) wives] circumambulated the altar, the king, and the sages.  
 
 ### 1.73.37

@@ -148,7 +148,7 @@ Mithila."
 जनकः - "तेन सुधन्वना मम कृते सन्देशः प्रेषितः ।" Janaka - "A message was sent by
 that Sudhanva for me."
 
-जनकः - "मम कृते अनुत्तमं शैवं धनुः [पद्म-अक्षी] कन्या सीता च दीयतां इति ।"
+जनकः - "मम कृते अनुत्तमं शैवं धनुः [पद्म-अक्षी] कन्या सीता च दीयताम् इति ।"
 Janaka - "The excellent bow of Shiva and the [lotus-eyed] maiden Sita should be
 given for me."
 

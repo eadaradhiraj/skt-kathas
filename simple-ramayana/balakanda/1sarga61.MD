@@ -67,7 +67,7 @@ Shatananda - Richika [seated] on Bhrigutunda was seen by king Ambarisha.
 1.61.12
 शतानन्दः - [महा-तेजाः] अम्बरीषः ऋषिम् ऋचीकं प्रणतवान् अभिप्रसादितवान् च अभूत् । (अम्बरीषः) ऋषिम् ऋचीकम् अवोचत् ।
 Shatananda - The [exceedingly powerful] Ambarisha had bowed and propitiated the sage Richika. (Ambarisha) spoke to the sage Richika.
-शतानन्दः - [अमित-प्रभः] राजर्षिः अम्बरीषः [तपसा] [दीप्तं] ब्रह्म-ऋषिं ऋचीकम् (अवोचत्) ।
+शतानन्दः - [अमित-प्रभः] राजर्षिः अम्बरीषः [तपसा] [दीप्तं] ब्रह्म-ऋषिम् ऋचीकम् (अवोचत्) ।
 Shatananda - The [limitlessly radiant] royal sage Ambarisha (spoke) to the brahmana sage Richika [blazing] [with asceticism].
 
 1.61.13

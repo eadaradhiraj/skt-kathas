@@ -167,7 +167,7 @@ The king, Dasharatha, [promoter of his dynasty], gave the eastern region to the 
 And he gave the northern region to the Udgatr priest. This was the offering fixed long ago by Brahma for the great [Ashvamedha] sacrifice.
 
 1.14.43
-[पुरुषर्षभः] [कुलवर्धनः] राजा दशरथः क्रतुम् समाप्य, तदा न्यायतः तां धरां ऋत्विग्भ्यः दत्तवान् अभूत्।
+[पुरुषर्षभः] [कुलवर्धनः] राजा दशरथः क्रतुम् समाप्य, तदा न्यायतः तां धराम् ऋत्विग्भ्यः दत्तवान् अभूत्।
 The king, Dasharatha, [the bull among men] and [promoter of his dynasty], having concluded the sacrifice according to law, then offered that earth to the priests.
 
 1.14.44
@@ -183,7 +183,7 @@ The Priests - "O king, we have no need for the land. We are not able to rule it.
 The Priests - "We have no use for the earth. Therefore, O [best of men], may you give just something here as a token payment. Give precious gems, or gold, or cows, or whatever is ready."
 
 1.14.47
-[वेदपारगैः] ब्राह्मणैः नरपतिः एवं उक्तः अभूत्।
+[वेदपारगैः] ब्राह्मणैः नरपतिः एवम् उक्तः अभूत्।
 The lord of men was thus addressed by the Brahmins who were [masters of the Vedas].
 
 1.14.48

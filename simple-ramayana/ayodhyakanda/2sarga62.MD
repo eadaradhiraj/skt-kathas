@@ -108,6 +108,6 @@
 
 **2.62.19-20**
 
-**Sanskrit:** कौसल्यया एतादृशानि [शुभानि] वचनानि [उक्तानि] एव यदा सूर्यस्य किरणाः [मन्दाः] [जाताः] रात्रि-कालः च [प्राप्तः]॥ देव्याः कौसल्यायाः एताभिः कथाभिः नृपेण [महती] प्रसन्नता [प्राप्ता]॥ रामस्य शोकेन अपि सः [पीडितः] [अभूत्] अतः हर्षस्य शोकस्य च अस्यां अवस्थायां तेन निद्रा [प्राप्ता]॥
+**Sanskrit:** कौसल्यया एतादृशानि [शुभानि] वचनानि [उक्तानि] एव यदा सूर्यस्य किरणाः [मन्दाः] [जाताः] रात्रि-कालः च [प्राप्तः]॥ देव्याः कौसल्यायाः एताभिः कथाभिः नृपेण [महती] प्रसन्नता [प्राप्ता]॥ रामस्य शोकेन अपि सः [पीडितः] [अभूत्] अतः हर्षस्य शोकस्य च अस्याम् अवस्थायां तेन निद्रा [प्राप्ता]॥
 
 **English:** Kausalya was just speaking such [auspicious] words when the sun's rays became [dim] and nighttime arrived. The king derived [great] joy from these words of Queen Kausalya. At the same time, he was also [tormented] by the sorrow for Rama, and in this state of joy and sorrow, sleep overcame him.

@@ -102,7 +102,7 @@ Valmiki - (They all) sat down on seats all around [according to protocol].
 तत्र जनकः विश्वामित्रं दृष्ट्वा वाक्यम् अवोचत् ।
 Valmiki - Having seen Vishvamitra there, Janaka spoke words.
 
-जनकः - अद्य [देवैः] मे यज्ञस्य [समृद्धिः] [सफला] कृता ।
+जनकः - अद्य [देवैः] मम यज्ञस्य [समृद्धिः] [सफला] कृता ।
 Janaka - Today, the [prosperity] of my sacrifice has been made [fruitful] by the [gods].
 
 1.50.14

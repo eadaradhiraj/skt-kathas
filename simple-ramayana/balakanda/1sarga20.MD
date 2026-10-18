@@ -111,7 +111,7 @@ Dasharatha - How is the counteraction against those demons to be done by Rama?
 युद्धं कर्तव्यम्?
 Dasharatha - O Brahmin! How is the battle to be fought against those deceitful
 fighters by my forces or by me?
-दशरथः - हे भगवन्! रणे तेषां विषये तत् सर्वं मे शंस।
+दशरथः - हे भगवन्! रणे तेषां विषये तत् सर्वं मह्यम् शंस।
 Dasharatha - O Lord! Tell me everything about them in the battle.
 
 1.20.15

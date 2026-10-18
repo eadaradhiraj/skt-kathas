@@ -164,7 +164,7 @@
 
 **2.50.27**
 
-**Sanskrit:** [तरङ्गव्याप्तावर्तयुक्तां] तां गङ्गां दृष्ट्वा [महारथेन] श्रीरामेण सारथिः सुमन्त्रः [उक्तः]। श्रीरामः - सूत अद्य वयं अत्र एव वत्स्यामः।
+**Sanskrit:** [तरङ्गव्याप्तावर्तयुक्तां] तां गङ्गां दृष्ट्वा [महारथेन] श्रीरामेण सारथिः सुमन्त्रः [उक्तः]। श्रीरामः - सूत अद्य वयम् अत्र एव वत्स्यामः।
 
 **English:** Beholding that Ganga whose whirlpools surged with waves, Sri Rama, the great car-warrior, said to the charioteer Sumantra: "Charioteer, we shall lodge here this very day."
 

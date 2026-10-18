@@ -31,7 +31,7 @@ Viswamitra - O [Raghava] Rama, I will give the great divine Dandachakra to you.
 विश्वामित्रः - हे [वीर] राम ततः धर्मचक्रं कालचक्रं च अपि [दास्यामि]।
 Viswamitra - O [hero] Rama, then [I will give] the Dharma-chakra and also the Kala-chakra.
 
-विश्वामित्रः - तथा [अत्युग्रं] अतिभयङ्करं विष्णुचक्रं ऐन्द्रम् अस्त्रं च [दास्यामि]।
+विश्वामित्रः - तथा [अत्युग्रं] अतिभयङ्करं विष्णुचक्रम् ऐन्द्रम् अस्त्रं च [दास्यामि]।
 Viswamitra - And [I will give] the [very fierce] very terrible Vishnu-chakra and the Aindra weapon.
 
 1.27.6

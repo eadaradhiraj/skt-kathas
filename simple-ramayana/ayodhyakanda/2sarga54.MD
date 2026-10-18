@@ -128,7 +128,7 @@
 
 **Verse 2.54.37**
 **English:** 'O Lord! You are truthful by nature. Today we have spent the night in your hermitage with great comfort. Now please grant us permission to proceed to our next destination.'
-**Sanskrit:** रामः- हे भगवन् । भवान् स्वभावेन [सत्य-वादी] वर्तते । अद्य अस्माभिः भवतः आश्रमे महता सुखेन रात्रिः [यापिता] । इदानीम् अग्रिमम् [गन्तव्य-स्थानं] गन्तुं भवान् अस्मभ्यं आज्ञां प्रयच्छतु ।
+**Sanskrit:** रामः- हे भगवन् । भवान् स्वभावेन [सत्य-वादी] वर्तते । अद्य अस्माभिः भवतः आश्रमे महता सुखेन रात्रिः [यापिता] । इदानीम् अग्रिमम् [गन्तव्य-स्थानं] गन्तुं भवान् अस्मभ्यम् आज्ञां प्रयच्छतु ।
 
 **Verse 2.54.38**
 **English:** When the night had passed and morning arrived, upon Shri Rama inquiring thus, Bharadwaja said—'O mighty Shri Rama! Go to Mount Chitrakuta, which is richly endowed with sweet fruits and roots. I consider that alone to be a suitable dwelling place for you.'

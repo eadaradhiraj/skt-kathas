@@ -1,20 +1,20 @@
 #### **2.58.1**
 
-* **Sanskrit:** [अपगतायां] मूर्च्छायां राज्ञा [सु-स्थिरेण] मनसा राम-वृत्तान्तं श्रोतुं सारथिः सुमन्त्रः [आहूतः] |
+* **Sanskrit:** [अपगतायां] मूर्च्छायां राज्ञा [सु-स्थिरेण] मनसा राम-वृत्तान्तं श्रोतुं सारथिः सुमन्त्रः [आहूतः] ।
 * **English:** When the king regained consciousness after his swoon, he, with a steady mind, called the charioteer Sumantra before him to hear the account of Sri Rama.
 
 ---
 
 #### **2.58.2**
 
-* **Sanskrit:** तदा सुमन्त्रः राम-शोक-चिन्ता-निमग्नस्य दुःख-शोकाभ्यां [व्याकुलस्य] नृपस्य समीपे बद्ध-अञ्जलिः [स्थितः] |
+* **Sanskrit:** तदा सुमन्त्रः राम-शोक-चिन्ता-निमग्नस्य दुःख-शोकाभ्यां [व्याकुलस्य] नृपस्य समीपे बद्ध-अञ्जलिः [स्थितः] ।
 * **English:** At that time, Sumantra stood with folded hands near King Dasharatha, who was constantly immersed in the grief and anxiety for Sri Rama and was afflicted with sorrow and mourning.
 
 ---
 
 #### **2.58.3–4**
 
-* **Sanskrit:** यथा वनात् [गृहीतः] गजः यूथ-पतिं ध्यात्वा दीर्घं निःश्वस्य [सन्तप्तः] [अस्वस्थः] भवति तथा [वृद्धः] नृपः रामाय [सन्तप्तः] दीर्घं निःश्वस्य तं ध्यात्वा [अस्वस्थः] [जातः] | राज्ञा धूलिभिः [व्याप्त-शरीरः] [सम्मुख-स्थितः] [अश्रु-पूर्ण-मुखः] [दीनः] सारथिः [दृष्टः] | [आर्तेन] राज्ञा सः [पृष्टः] |
+* **Sanskrit:** यथा वनात् [गृहीतः] गजः यूथ-पतिं ध्यात्वा दीर्घं निःश्वस्य [सन्तप्तः] [अस्वस्थः] भवति तथा [वृद्धः] नृपः रामाय [सन्तप्तः] दीर्घं निःश्वस्य तं ध्यात्वा [अस्वस्थः] [जातः] । राज्ञा धूलिभिः [व्याप्त-शरीरः] [सम्मुख-स्थितः] [अश्रु-पूर्ण-मुखः] [दीनः] सारथिः [दृष्टः] । [आर्तेन] राज्ञा सः [पृष्टः] ।
 * **English:** Just as an elephant recently captured from the forest sighs thinking of its herd leader and becomes extremely distressed and unwell, similarly, the old King Dasharatha, extremely distressed for Sri Rama, sighing and thinking of him, had fallen ill. The king saw that the charioteer's whole body was covered with dust. The charioteer was standing in front, streams of tears were flowing on his face, and he appeared extremely miserable. In that state, the king, being extremely distressed, asked him:
 
 ---
@@ -28,7 +28,7 @@
 
 #### **2.58.6**
 
-* **Sanskrit:** राजा - ‘हे सुमन्त्र! दुःखं भोक्तुम् [अयोग्यः] रामः [महत्] दुःखं [प्राप्तः] | राज-शय्यायां शयितुं [योग्यः] राज-कुमारः अनाथ-वत् भूमौ कथं शेते?’
+* **Sanskrit:** राजा - ‘हे सुमन्त्र! दुःखं भोक्तुम् [अयोग्यः] रामः [महत्] दुःखं [प्राप्तः] । राज-शय्यायां शयितुं [योग्यः] राज-कुमारः अनाथ-वत् भूमौ कथं शेते?’
 * **English:** King: 'O Sumantra! Sri Rama, who is not fit to suffer, has fallen into deep sorrow. How does the prince Sri Rama, who deserves to sleep on a royal bed, sleep on the ground like an orphan?'
 
 ---
@@ -56,7 +56,7 @@
 
 #### **2.58.10**
 
-* **Sanskrit:** राजा - ‘हे सारथे! त्वं [कृत-कृत्यः] [जातः] | यतः मन्दर-वनं विशन्तौ अश्विनी-कुमारौ इव वनं [प्रविशन्तौ] मम पुत्रौ त्वया नेत्राभ्यां [दृष्टौ]।’
+* **Sanskrit:** राजा - ‘हे सारथे! त्वं [कृत-कृत्यः] [जातः] । यतः मन्दर-वनं विशन्तौ अश्विनी-कुमारौ इव वनं [प्रविशन्तौ] मम पुत्रौ त्वया नेत्राभ्यां [दृष्टौ]।’
 * **English:** King: 'O charioteer! You have become fulfilled, because just as the two Ashvini Kumaras go into the forest of Mount Mandara, similarly you have seen my two sons entering the forest with your own eyes.'
 
 ---
@@ -70,42 +70,42 @@
 
 #### **2.58.12**
 
-* **Sanskrit:** राजा - ‘हे सूत! रामस्य उपवेशन-शयन-भोजन-विषयकाः वार्ताः वद | यथा स्वर्गात् [च्युतः] राजा ययातिः सत्-पुरुषाणां मध्ये [उपस्थितः] सत्-सङ्गेन पुनः [सुखी] [जातः], तथा त्वादृशस्य [साधोः] मुखात् पुत्र-वृत्तान्तं श्रुत्वा सुखं जीवितुं शक्ष्यामि।’
+* **Sanskrit:** राजा - ‘हे सूत! रामस्य उपवेशन-शयन-भोजन-विषयकाः वार्ताः वद । यथा स्वर्गात् [च्युतः] राजा ययातिः सत्-पुरुषाणां मध्ये [उपस्थितः] सत्-सङ्गेन पुनः [सुखी] [जातः], तथा त्वादृशस्य [साधोः] मुखात् पुत्र-वृत्तान्तं श्रुत्वा सुखं जीवितुं शक्ष्यामि।’
 * **English:** King: 'O Suta! Tell me things related to Sri Rama's sitting, sleeping, and eating. Just as King Yayati, fallen from heaven, became happy again by associating with good people, similarly, I will be able to live happily by hearing the account of my son from the mouth of a good person like you.'
 
 ---
 
 #### **2.58.13**
 
-* **Sanskrit:** महा-राजेन एवं [पृष्टेन] सारथिना सुमन्त्रेण अश्रुभिः [रुद्धया] [गद्गदया] वाचा नृपाय [उक्तम्] |
+* **Sanskrit:** महा-राजेन एवं [पृष्टेन] सारथिना सुमन्त्रेण अश्रुभिः [रुद्धया] [गद्गदया] वाचा नृपाय [उक्तम्] ।
 * **English:** When the Emperor asked in this way, the charioteer Sumantra spoke to him with a voice choked with tears:
 
 ---
 
 #### **2.58.14–16**
 
-* **Sanskrit:** सुमन्त्रः - ‘हे महा-राज! धर्मं [पालयता] रामेण अञ्जलिं बद्ध्वा मस्तकं नत्वा [उक्तम्]—’हे सूत! मत्-कृते [आत्म-ज्ञानिनः] [वन्दनीयस्य] मम [महा-आत्मनः] पितुः चरणयोः प्रणामं निवेदय | अन्तः-पुरे सर्व-मातृभ्यः मम आरोग्य-वार्तां दत्त्वा विशेषेण यथा-मति मम प्रणामं निवेदय’।’
+* **Sanskrit:** सुमन्त्रः - ‘हे महा-राज! धर्मं [पालयता] रामेण अञ्जलिं बद्ध्वा मस्तकं नत्वा [उक्तम्]—’हे सूत! मत्-कृते [आत्म-ज्ञानिनः] [वन्दनीयस्य] मम [महा-आत्मनः] पितुः चरणयोः प्रणामं निवेदय । अन्तः-पुरे सर्व-मातृभ्यः मम आरोग्य-वार्तां दत्त्वा विशेषेण यथा-मति मम प्रणामं निवेदय’।’
 * **English:** Sumantra: 'O Emperor! Sri Ramachandra, steadfastly following dharma, folding both hands and bowing his head, said: "O Suta! On my behalf, convey my salutations to the feet of my self-realized, venerable, and great-souled father. And give the news of my well-being to all the mothers in the inner apartments, and specifically offer my appropriate salutations to them."'
 
 ---
 
 #### **2.58.17–18**
 
-* **Sanskrit:** सुमन्त्रः - ‘ततः मम मातरं कौसल्यां प्रणम्य वक्तव्यम्—‘अहं [कुशली] अस्मि धर्म-पालने च [सावधानः] अस्मि।’ ततः मम अयं सन्देशः तस्यै दातव्यः—‘हे मातः! सदा धर्मे [तत्-परा] भूत्वा यथा-समयम् अग्नि-शाला-सेवायां [संलग्ना] भव | हे देवि! नृपं देवम् इव मत्वा तस्य चरणौ सेवस्व’।’
+* **Sanskrit:** सुमन्त्रः - ‘ततः मम मातरं कौसल्यां प्रणम्य वक्तव्यम्—‘अहं [कुशली] अस्मि धर्म-पालने च [सावधानः] अस्मि।’ ततः मम अयं सन्देशः तस्यै दातव्यः—‘हे मातः! सदा धर्मे [तत्-परा] भूत्वा यथा-समयम् अग्नि-शाला-सेवायां [संलग्ना] भव । हे देवि! नृपं देवम् इव मत्वा तस्य चरणौ सेवस्व’।’
 * **English:** Sumantra (quoting Rama): 'After this, offering my salutations to my mother Kausalya, tell her: "I am well and remain careful in following dharma." Then tell her this message of mine: "O Mother! Always remaining devoted to dharma, remain engaged in the service of the fire sanctuary at the proper time. O Devi! Considering the Emperor as a god, serve his feet."'
 
 ---
 
 #### **2.58.19**
 
-* **Sanskrit:** सुमन्त्रः - ‘अभिमानं मानं च त्यक्त्वा सर्व-मातृषु [समानं] व्यवहारं कुरु ताभिः सह मिलित्वा वस | हे अम्ब! यस्यां राज्ञः अनुरागः अस्ति तां कैकेयीम् अपि [श्रेष्ठां] मत्वा तस्याः सत्कारं कुरु।’
+* **Sanskrit:** सुमन्त्रः - ‘अभिमानं मानं च त्यक्त्वा सर्व-मातृषु [समानं] व्यवहारं कुरु ताभिः सह मिलित्वा वस । हे अम्ब! यस्यां राज्ञः अनुरागः अस्ति तां कैकेयीम् अपि [श्रेष्ठां] मत्वा तस्याः सत्कारं कुरु।’
 * **English:** Sumantra (quoting Rama): '"Abandoning pride and ego, behave equally towards all mothers and live in harmony with them. O Mother! Considering Kaikeyi, to whom the king is attached, as superior, respect her as well."'
 
 ---
 
 #### **2.58.20**
 
-* **Sanskrit:** सुमन्त्रः - ‘कुमारं भरतं प्रति [राज-उचितं] व्यवहारं कुरु | राजा [अल्प-वयस्कः] अपि [आदरणीयः] एव भवति। एतं राज-धर्मं स्मर।’
+* **Sanskrit:** सुमन्त्रः - ‘कुमारं भरतं प्रति [राज-उचितं] व्यवहारं कुरु । राजा [अल्प-वयस्कः] अपि [आदरणीयः] एव भवति। एतं राज-धर्मं स्मर।’
 * **English:** Sumantra (quoting Rama): '"Behave towards Prince Bharata in a manner befitting a king. Even if a king is young, he is always worthy of respect; remember this royal dharma."'
 
 ---
@@ -126,7 +126,7 @@
 
 #### **2.58.23**
 
-* **Sanskrit:** सुमन्त्रः - ‘राजा [अतीव-वृद्धः] [जातः] इति मत्वा तस्य विरोधं मा कुरु, तं राज-सिंहासनात् मा अवतारय | युव-राज-पदे एव [प्रतिष्ठितः] भूत्वा तस्य आज्ञां [पालयन्] जीवन-निर्वाहं कुरु।’
+* **Sanskrit:** सुमन्त्रः - ‘राजा [अतीव-वृद्धः] [जातः] इति मत्वा तस्य विरोधं मा कुरु, तं राज-सिंहासनात् मा अवतारय । युव-राज-पदे एव [प्रतिष्ठितः] भूत्वा तस्य आज्ञां [पालयन्] जीवन-निर्वाहं कुरु।’
 * **English:** Sumantra (quoting Rama): '"Do not oppose the king thinking that he has become very old; do not dethrone him. Remaining established in the position of Crown Prince, lead your life following his commands."'
 
 ---
@@ -147,7 +147,7 @@
 
 #### **2.58.27**
 
-* **Sanskrit:** लक्ष्मणः - ‘राज्ञा कैकेयी-वचनं श्रुत्वा शीघ्रं तत् पूरयितुं प्रतिज्ञा [कृता] | तस्य इदं कार्यम् [उचितं] वा [अनुचितं] वा भवतु किन्तु अस्माभिः तत्-कारणात् कष्टम् एव भोक्तव्यम्।’
+* **Sanskrit:** लक्ष्मणः - ‘राज्ञा कैकेयी-वचनं श्रुत्वा शीघ्रं तत् पूरयितुं प्रतिज्ञा [कृता] । तस्य इदं कार्यम् [उचितं] वा [अनुचितं] वा भवतु किन्तु अस्माभिः तत्-कारणात् कष्टम् एव भोक्तव्यम्।’
 * **English:** Lakshmana: 'The king, hearing Kaikeyi's command, quickly vowed to fulfill it. Whether this act of his is proper or improper, we have to suffer because of it.'
 
 ---
@@ -175,7 +175,7 @@
 
 #### **2.58.31**
 
-* **Sanskrit:** लक्ष्मणः - ‘मया इदानीं महा-राजे पितृ-भावः न दृश्यते | अधुना रघु-कुल-नन्दनः रामः एव मम भ्राता स्वामी बन्धुः पिता च अस्ति।’
+* **Sanskrit:** लक्ष्मणः - ‘मया इदानीं महा-राजे पितृ-भावः न दृश्यते । अधुना रघु-कुल-नन्दनः रामः एव मम भ्राता स्वामी बन्धुः पिता च अस्ति।’
 * **English:** Lakshmana: 'At this time, I do not see fatherly affection in the Emperor. Now, Sri Rama, the joy of the Raghu dynasty, alone is my brother, master, relative, and father.'
 
 ---
@@ -196,14 +196,14 @@
 
 #### **2.58.34**
 
-* **Sanskrit:** सुमन्त्रः - ‘हे महा-राज! [तपस्विनी] सीता तु दीर्घं निःश्वस्य एवं [निश्-चेष्टा] [स्थिता] यथा तस्यां भूत-आवेशः [जातः] | सा [विस्मृता] इव [दृष्टा]।’
+* **Sanskrit:** सुमन्त्रः - ‘हे महा-राज! [तपस्विनी] सीता तु दीर्घं निःश्वस्य एवं [निश्-चेष्टा] [स्थिता] यथा तस्यां भूत-आवेशः [जातः] । सा [विस्मृता] इव [दृष्टा]।’
 * **English:** Sumantra: 'O Emperor! The ascetic Sita, daughter of Janaka, taking long sighs, stood motionless in such a way as if possessed by some ghost. She seemed to have forgotten everything.'
 
 ---
 
 #### **2.58.35**
 
-* **Sanskrit:** सुमन्त्रः - ‘तया [यशस्विन्या] राज-कुमार्या पूर्वं कदापि एतादृशं सङ्कटं न [दृष्टम्] | तया पति-दुःखेन [दुःखितया] रोदनं [कृतम्] | तया मह्यं किमपि न [उक्तम्]।’
+* **Sanskrit:** सुमन्त्रः - ‘तया [यशस्विन्या] राज-कुमार्या पूर्वं कदापि एतादृशं सङ्कटं न [दृष्टम्] । तया पति-दुःखेन [दुःखितया] रोदनं [कृतम्] । तया मह्यं किमपि न [उक्तम्]।’
 * **English:** Sumantra: 'That illustrious princess had never seen such a crisis before. Afflicted by sorrow for her husband alone, she was crying. She did not say anything to me.'
 
 ---
@@ -217,5 +217,5 @@
 
 #### **2.58.37**
 
-* **Sanskrit:** सुमन्त्रः - ‘एवं लक्ष्मण-बाहुभ्यां [सु-रक्षितः] रामः तदा बद्ध-अञ्जलिः [स्थितः] | तस्य मुखे अश्रु-धारा [प्रवाहिता] | [मनस्विन्या] [रुदन्त्या] सीतया अपि कदाचित् भवतः रथः [दृष्टः] कदाचित् च अहं [दृष्टः]।’
+* **Sanskrit:** सुमन्त्रः - ‘एवं लक्ष्मण-बाहुभ्यां [सु-रक्षितः] रामः तदा बद्ध-अञ्जलिः [स्थितः] । तस्य मुखे अश्रु-धारा [प्रवाहिता] । [मनस्विन्या] [रुदन्त्या] सीतया अपि कदाचित् भवतः रथः [दृष्टः] कदाचित् च अहं [दृष्टः]।’
 * **English:** Sumantra: 'Similarly, protected by Lakshmana's arms, Sri Rama was standing with folded hands at that time. Tears were streaming down his face. The wise Sita, crying, would sometimes look towards this chariot of yours and sometimes towards me.'

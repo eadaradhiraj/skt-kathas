@@ -159,7 +159,7 @@ side with sandalwood and agaru incense, इन्द्रस्य अमरा
 व्यतीत्य सः (वसिष्ठः) अग्रे [गतः]। he passed through that city—like Indra’s
 Amarāvatī—and went onward.
 
-2.14.30 तेन (वसिष्ठेन) |बहुब्राह्मणसङ्घैः [व्याप्तानि] अन्तःपुरस्य [उत्तमानि]
+2.14.30 तेन (वसिष्ठेन) बहुब्राह्मणसङ्घैः [व्याप्तानि] अन्तःपुरस्य [उत्तमानि]
 गृहाणि [दृष्टानि]। He beheld the finest quarters of the inner palace, thronged
 with many companies of Brahmins; तानि (गृहाणि) पौरजानपदैः [सङ्कुलानि] ब्राह्मणैः
 [उपशोभितानि] [जातानि]। crowded with townsmen and villagers, and graced by

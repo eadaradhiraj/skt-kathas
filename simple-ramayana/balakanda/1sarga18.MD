@@ -39,7 +39,7 @@ The star was Punarvasu, whose deity is Aditi. Five planets were in their exalted
 At that time, Kausalya gave birth to a son named Rama, who was the lord of the universe, honored by all the worlds, endowed with all auspicious signs, a portion of Vishnu himself, greatly fortunate, and the perpetuator of the Ikshvaku race.
 
 1.18.11
-कौसल्या विष्णोः अर्धभागं महाभागं इक्ष्वाकुवंशस्य वर्धकम् अमिततेजसं च पुत्रं प्राप्य तेन पुत्रेण शोभिता।
+कौसल्या विष्णोः अर्धभागं महाभागम् इक्ष्वाकुवंशस्य वर्धकम् अमिततेजसं च पुत्रं प्राप्य तेन पुत्रेण शोभिता।
 Kausalya was adorned by that son, who was half of Vishnu, highly fortunate, the enhancer of the Ikshvaku lineage, and possessed of boundless luster.
 
 1.18.12
@@ -227,7 +227,7 @@ Those sages, being honored, sat down there according to their rank. Then, the de
 "हे कौशिक! आगमनं प्रति तव यत् कार्यम् इष्टं तत् ब्रूहि" इति राज्ञा दशरथेन उक्तः विश्वामित्रः।
 "O Kaushika! Tell me what work is desired by you regarding your arrival," said King Dasaratha to Vishvamitra.
 
-"अहं तव कार्यं सफलं कर्तुं इच्छामि" इति राज्ञा दशरथेन उक्तः विश्वामित्रः।
+"अहं तव कार्यं सफलं कर्तुम् इच्छामि" इति राज्ञा दशरथेन उक्तः विश्वामित्रः।
 (Replacing 'tvadarthaparivṛddhaye' with 'tava kāryaṃ saphalaṃ kartum')
 "I desire to make your work successful," said King Dasaratha to Vishvamitra.
 

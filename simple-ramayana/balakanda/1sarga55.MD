@@ -29,7 +29,7 @@ Satananda - [By high-souled] Vashistha destroyed army having-seen Vishvamitra's-
 Satananda - That (hundred) [with-various-kinds-of-weapons] (was).
 
 **1.55.6**
-शतानन्दः - [सु-सङ्क्रुद्धं] (तत् शतं) [जपतां वरं] वसिष्ठं अभ्यधावत् ।
+शतानन्दः - [सु-सङ्क्रुद्धं] (तत् शतं) [जपतां वरं] वसिष्ठम् अभ्यधावत् ।
 Satananda - [The highly enraged] (that hundred) [the best of chanters] Vashistha rushed-towards.
 शतानन्दः - [महर्षिः] (वसिष्ठः) हुंकारेण एव तान् सर्वान् निर्दग्धवान् अभूत् ।
 Satananda - [The great-sage] (Vashistha) by a roar indeed them all having-burnt was.

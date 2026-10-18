@@ -27,7 +27,7 @@ That Vishvamitra spoke to Dasaratha.
 "Two Rakshasas who take forms according to their will are obstructers of that sacrifice," was said by Vishvamitra.
 
 1.19.5
-"मम यज्ञे बहुधा कृते सति, समाप्तौ सत्यां इमौ राक्षसौ आगतौ" इति विश्वामित्रेण उक्तम्।
+"मम यज्ञे बहुधा कृते सति, समाप्तौ सत्याम् इमौ राक्षसौ आगतौ" इति विश्वामित्रेण उक्तम्।
 "When my sacrifice was largely performed and completion was near, these two Rakshasas arrived," was said by Vishvamitra.
 
 "बलवन्तौ सुशिक्षितौ मारीचः च सुबाहुः च मांसेन रक्तेन च वेदेः उपरि वृष्टिं कृतवन्तौ" इति विश्वामित्रेण उक्तम्।

@@ -131,7 +131,7 @@ Roaming in the great forest for these fourteen years, I shall remain—most glad
 ---
 
 ### **2.24.18**
-रामेण एवं उक्ता, पुत्रवत्सला कौशल्या अतिदुःखिता अभूत्।  
+रामेण एवम् उक्ता, पुत्रवत्सला कौशल्या अतिदुःखिता अभूत्।  
 सा अश्रुपूर्ण-मुखी भूत्वा प्रियं पुत्रम् अवादीत्।  
 
 Thus spoken to by Rāma, Kauśalyā—tenderly devoted to her son—deeply anguished and with her face flooded with tears, addressed her beloved child.
@@ -148,7 +148,7 @@ O Rāma, I cannot endure to dwell amid these co-wives. O scion of Kakutstha, if 
 ---
 
 ### **2.24.20**
-तां तथा रुदतीं दृष्ट्वा, स्वयं अपि रुदन् रामः वचनम् अवादीत्।  
+तां तथा रुदतीं दृष्ट्वा, स्वयम् अपि रुदन् रामः वचनम् अवादीत्।  
 रामः - जीवन्त्याः स्त्रियाः भर्ता एव दैवतं प्रभुः च वर्तते।  
 
 Seeing her weeping so, Rāma—himself in tears—spoke these words: “For a woman while she lives, her husband is her deity and her rightful lord as well.”
@@ -239,7 +239,7 @@ When I return, you will attain your highest wish—if my father, the foremost am
 ---
 
 ### **2.24.31**
-रामेण एवं उक्ता, कौशल्या अश्रु-पूर्ण-नयना पुत्र-शोकेन पीडिता च अभूत्।  
+रामेण एवम् उक्ता, कौशल्या अश्रु-पूर्ण-नयना पुत्र-शोकेन पीडिता च अभूत्।  
 सा रामं वचनम् अवादीत्।  
 
 Thus addressed by Rāma, Kauśalyā—her eyes clouded with tears, anguished by grief for her son—spoke these words to him.
@@ -289,7 +289,7 @@ Go now, mighty-armed one, and return in safety. When you come back, my son, glad
 
 ### **2.24.37**
 कौशल्या - सः कालः अद्य एव भवेत्।  
-कौशल्या - हे पुत्रक, वनात् प्रत्यागतं जटा-वल्कल-धारिणं त्वां अहम् पश्येयम्।  
+कौशल्या - हे पुत्रक, वनात् प्रत्यागतं जटा-वल्कल-धारिणं त्वाम् अहम् पश्येयम्।  
 
 If only that time were today itself—when you return again from the forest, my dear child—so that I might see you wearing matted hair and bark-cloth.
 

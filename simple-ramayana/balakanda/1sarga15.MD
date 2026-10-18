@@ -112,7 +112,7 @@ were tortured."
 Yakshas have come with the sages for the purpose of his destruction. Therefore,
 we have taken refuge in you."
 
-1.15.24 देवाः - "हे [परन्तप] देव, त्वं अस्माकं सर्वेषां [परमा] गतिः असि। त्वं
+1.15.24 देवाः - "हे [परन्तप] देव, त्वम् अस्माकं सर्वेषां [परमा] गतिः असि। त्वं
 देवशत्रूणां वधाय नराणां लोके जन्म-ग्रहणे मनः कुरु।" The Gods - "O Tormentor of
 enemies, O God, you are the supreme refuge for all of us. Resolve to take birth
 in the world of men for the destruction of the enemies of the Gods."
