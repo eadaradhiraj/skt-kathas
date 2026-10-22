@@ -234,16 +234,16 @@
 ---
 
 #### **2.16.24**
-सीता - "इन्द्रः त्वाम् [पूर्वायाम्] दिशि रक्षतु ।"
+सीता - "इन्द्रः त्वाम् [पूर्वस्याम्] दिशि रक्षतु ।"
 *   **Literal Translation:** Sita - "May Indra protect you in the [eastern] direction."
 
-सीता - "यमः त्वाम् [दक्षिणायाम्] दिशि रक्षतु ।"
+सीता - "यमः त्वाम् [दक्षिणस्याम्] दिशि रक्षतु ।"
 *   **Literal Translation:** Sita - "May Yama protect you in the [southern] direction."
 
-सीता - "वरुणः त्वाम् [पश्चिमायाम्] दिशि रक्षतु ।"
+सीता - "वरुणः त्वाम् [पश्चिमस्याम्] दिशि रक्षतु ।"
 *   **Literal Translation:** Sita - "May Varuna protect you in the [western] direction."
 
-सीता - "कुबेरः त्वाम् [उत्तरायाम्] दिशि रक्षतु ।"
+सीता - "कुबेरः त्वाम् [उत्तरस्याम्] दिशि रक्षतु ।"
 *   **Literal Translation:** Sita - "May Kubera protect you in the [northern] direction."
 
 ---

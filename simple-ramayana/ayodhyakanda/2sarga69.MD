@@ -1,7 +1,7 @@
 ## **Verse 1**
 
 **Sanskrit:**
-दूतैः नगर-प्रवेशात् [पूर्वायां] रात्रौ भरतेन अपि [कश्चित्] [अप्रियः] स्वप्नः [दृष्टः] ॥ 1 ॥
+दूतैः नगर-प्रवेशात् [पूर्वस्याम्] रात्रौ भरतेन अपि [कश्चित्] [अप्रियः] स्वप्नः [दृष्टः] ॥ 1 ॥
 
 **English:**
 On the night before the messengers entered the city, Bharata also had an unpleasant dream.

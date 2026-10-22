@@ -47,7 +47,7 @@
 *The messengers said: "O lion among men, all those whose welfare you seek are safe and sound; the lotus-holding Goddess of Royal Fortune chooses you, so let your chariot be made ready for departure without delay."*
 
 **13.**
-दूतैः एवम् [उक्ते] भरतेन तेभ्यः इदम् वचनम् [कथितम्] । भरतः - ‘अयोध्या-गमनाय अहम् महाराजम् आज्ञाम् पृच्छामि ।’
+दूतैः एवम् [उक्ते] भरतेन तेभ्यः इदम् वचनम् [कथितम्] । भरतः - ‘अयोध्या-गमनाय अहम् महाराजम् आप्रक्ष्यामि ।’
 *Addressed thus by the messengers, Bharata said: "I shall take leave of the king, since you urge me to hasten to Ayodhya."*
 
 **14.**
