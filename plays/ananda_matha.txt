@@ -39,19 +39,15 @@ Scene: In a tax collection center in 18th Century Bengal.
 **(End of Scene)**
 (दृश्य-समाप्तिः)
 
-gemini
-
 pg 2
 
 Scene: A desolate village and Mahendra's bedroom.
-दृश्यम् - एकः उध्वस्तः ग्रामः भूस्वामिनः महेन्द्रस्य शयनकक्षः च।
+दृश्यम् - एकः उद्ध्वस्तः ग्रामः भूस्वामिनः महेन्द्रस्य शयनकक्षः च।
 
 1. Narrator: In the year 1773, Padachihno village became extremely poor.
-सूत्रधारः - त्रिसप्तत्युत्तरसप्तदश-तमे वर्षे पदचिह्नग्रामः अतिदरिद्रः जातः॥
-
+सूत्रधारः - त्रिसप्तत्युत्तरसप्तदशशततमे वर्षे पदचिह्नग्रामः अतिदरिद्रः जातः॥
 2. Narrator: To the city, it was fled by the villagers for food.
-सूत्रधारः - भोजनार्थं ग्रामवासिभिः नगरं प्रति पलायितम्।
-
+सूत्रधारः - भोजनार्थं ग्रामवासिनः नगरं प्रति पलायिताः।
 3. Narrator: Only Landlord Mahendra, with his child and wife, remained there.
 सूत्रधारः - तत्र केवलं सापत्यः सभार्यः भूस्वामी महेन्द्रः अवशिष्टः।
 
@@ -81,7 +77,7 @@ Scene: A desolate village and Mahendra's bedroom.
 
 (End of Scene)
 (दृश्य-समाप्तिः)
-
+gemini
 pg 3
 
 Title: Ananda Math
