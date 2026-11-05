@@ -4,40 +4,42 @@ Title: Ananda Math
 pg 1
 
 Scene: In a tax collection center in 18th Century Bengal.
-दृश्यम् - अष्टादशशताब्द्याम् वङ्गे करसङ्ग्रहणकेन्द्रे।
+**दृश्यम् - अष्टादशशताब्द्याम् वङ्गे करसङ्ग्रहणकेन्द्रे।**
 
-1. Narrator: In 18th Century Bengal, British rule was spread everywhere.
-सूत्रधारः - वङ्गे अष्टादशशताब्द्याम् आङ्गलशासनं सर्वत्र प्रसृतम्॥
+**1. Narrator: In 18th Century Bengal, British rule was spread everywhere.**
+सूत्रधारः - वङ्गे अष्टादशशताब्द्याम् आङ्ग्लशासनं सर्वत्र प्रसृतम्।
 
-2. Narrator: The wealth of the land was taken by the sword.
+**2. Narrator: The wealth of the land was taken by the sword.**
 सूत्रधारः - असिना देशस्य धनं हृतम्।
 
-3. Narrator: Hungry people were looted by oppressors.
+**3. Narrator: Hungry people were looted by oppressors.**
 सूत्रधारः - बुभुक्षिताः जनाः अत्याचारिभिः लुण्ठिताः।
 
-4. Narrator: The ruling Muslim King was a puppet in British hands.
-सूत्रधारः - शासकः महमदीयराजः आङ्गलहस्ते पुत्तलिका अभूत्।
+**4. Narrator: The ruling Muslim King was a puppet in British hands.**
+सूत्रधारः - शासकः महमदीयराजः आङ्ग्लहस्ते पुत्तलिका अभूत्।
 
-(A British Officer is seated on a chair. A certain poor peasant, having knelt before him, begs.)
-(आङ्गल-अधिकारी आसन्दे उपविष्टः। कश्चन निर्धनः कृषकः तस्य पुरतः जानुभ्याम् उपविश्य याचते।)
+**(A British Officer is seated on a chair. A certain poor peasant, having knelt before him, begs.)**
+(आङ्ग्ल-अधिकारी आसन्दे उपविष्टः। कश्चन निर्धनः कृषकः तस्य पुरतः जानुभ्याम् उपविश्य याचते।)
 
-5. British Officer: Give tax!
-आङ्गल-अधिकारी - करं दद!
+**5. British Officer: Give tax!**
+आङ्ग्ल-अधिकारी - करं देहि!
 
-6. Peasant: Show mercy! We shall die of hunger!
-कृषक - कृपा दर्शनीया! वयं बुभुक्षया मरिष्यामः!
+**6. Peasant: Show mercy! We shall die of hunger!**
+कृषकः - कृपा दर्शनीया! वयं बुभुक्षया मरिष्यामः!
 
-(The Guard raises his whip angrily.)
+**(The Guard raises his whip angrily.)**
 (भटः सकोपं कशाम् उत्थापयति।)
 
-7. Guard: Then die!
+**7. Guard: Then die!**
 भटः - अथ म्रियस्व!
 
-8. Villager: Our everything was taken by them!
+**8. Villager: Our everything was taken by them!**
 ग्रामवासी - अस्माकं सर्वस्वं तैः हृतम्!
 
-(End of Scene)
+**(End of Scene)**
 (दृश्य-समाप्तिः)
+
+gemini
 
 pg 2
 
