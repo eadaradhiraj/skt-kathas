@@ -75,7 +75,7 @@ The city streets were filled with people, actors, and dancers. The streets reson
 King Dasaratha gave gifts to the bards, genealogists, and minstrels. King Dasaratha gave wealth and thousands of cows to the Brahmins.
 
 1.18.20
-एकादशात् दिनेभ्यः परम् राज्ञा दशरथेन नामकर्म कृतम्। ज्येष्ठस्य 'रामः' इति कृतम्। कैकेयीसुतस्य च 'भरतः' इति कृतम्।
+एकादशभ्यः दिनेभ्यः परम् राज्ञा दशरथेन नामकर्म कृतम्। ज्येष्ठस्य 'रामः' इति कृतम्। कैकेयीसुतस्य च 'भरतः' इति कृतम्।
 After eleven days, the naming ceremony was performed by King Dasaratha. The name 'Rama' was given to the eldest, and 'Bharata' was given to Kaikeyi's son.
 
 1.18.21
