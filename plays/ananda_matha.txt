@@ -77,7 +77,7 @@ Scene: A desolate village and Mahendra's bedroom.
 
 (End of Scene)
 (दृश्य-समाप्तिः)
-gemini
+
 pg 3
 
 Title: Ananda Math
@@ -88,45 +88,37 @@ Scene: Mahendra's home entrance and a forest path.
 
 1. Narrator: Kalyani's advice was accepted. As a precaution, the armed Mahendra set out.
 सूत्रधारः - कल्याण्याः परामर्शः स्वीकृतः। सावधानतया, सशस्त्रः महेन्द्रः निर्गतः।
-
 2. Mahendra - Come, let us go.
-महेन्द्रः - एहि, गम्यताम्।
-
+महेन्द्रः - एहि, गच्छाव।
 3. Kalyani - Wait!
-कल्याणी - तिष्ठतु!
+कल्याणी - तिष्ठ!
 
 (Mahendra notices a small box in Kalyani's hand.)
 (महेन्द्रः कल्याण्याः हस्ते काञ्चित् लघुमञ्जूषां पश्यति।)
 
 4. Mahendra - What is that?
-महेन्द्रः - तत् किम्?
-
+महेन्द्रः - सा का?
 5. Kalyani - In this is poison. To protect my honor, it might be needed by me.
-कल्याणी - विषम्। मम मानरक्षणाय एतद् आवश्यकं स्यात्।
-
+कल्याणी - अस्यां विषम् अस्ति। मम मानरक्षणाय मया एतद् अपेक्षितं स्यात्।
 6. Narrator: After walking for miles, a deserted hut was reached by them.
 सूत्रधारः - बहुक्रोशान् चलित्वा तैः काचित् त्यक्ता कुटी प्राप्ता।
-
 7. Mahendra - Let us rest here. The child is hungry.
-महेन्द्रः - अत्र विश्रामं कुर्मः। शिशुः बुभुक्षितः।
-
+महेन्द्रः - अत्र विश्रामं करवाव। शिशुः बुभुक्षितः।
 8. Mahendra - You wait inside the hut. I will search for roots and fruits.
-महेन्द्रः - त्वं कुट्याम् अन्तः तिष्ठ। मूलफलानि अन्वेषिष्यामि।
-
+महेन्द्रः - त्वं कुट्याः अन्तः तिष्ठ। मूलफलानि अन्वेषिष्यामि।
 9. Narrator: While Kalyani waited, thin men came around Kalyani.
 सूत्रधारः - यदा कल्याणी प्रतीक्षारता तदा कृशकायाः नराः कल्याणीं परितः आगताः।
-
 10. Kalyani - Help!
-कल्याणी - त्राहि माम्!
-
+कल्याणी - त्रायस्व माम्!
 11. Robber 1 - We will sell her to the soldiers.
 प्रथम-दस्युः - एतां सैनिकेभ्यः विक्रेष्यामहे।
-
 12. Robber 2 - Yes, they will give good money.
 द्वितीय-दस्युः - आम्, ते बहुधनं दास्यन्ति।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
+
+gemini
 
 pg 4
 
