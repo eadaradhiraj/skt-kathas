@@ -118,16 +118,13 @@ Scene: Mahendra's home entrance and a forest path.
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-gemini
-
 pg 4
 
 Scene: Inside a dense forest.
-दृश्यम् - सघनवने अन्तः।
+दृश्यम् - सघनवनस्य अन्तः।
 
 1. Narrator: Seizing her by the hands, they dragged her towards the forest.
-सूत्रधारः - करद्वयेन सा वनं प्रति तैः आकृष्टा।
-
+सूत्रधारः - तस्याः करौ गृहीत्वा सा वनं प्रति तैः आकृष्टा।
 2. Kalyani - Help me! Save me!
 कल्याणी - त्राहि माम्! रक्ष माम्!
 
@@ -135,26 +132,22 @@ Scene: Inside a dense forest.
 सूत्रधारः - वने लुण्ठित-वस्तु-निरीक्षण-व्यग्रेषु दस्युषु कल्याण्या पलायन-प्रयासः कृतः।
 
 4. Narrator: But the hungry and angry child suddenly yelled.
-सूत्रधारः - किन्तु, बुभुक्षितेन क्रुद्धेन शिशुना सहसा आक्रन्दनं कृतम्।
-
+सूत्रधारः - किन्तु बुभुक्षितः क्रुद्धः च शिशुः सहसा आक्रन्दितः।
 5. Child - Waaaa!
 शिशुः - वाऽऽऽ!
 
 6. Dacoit - She is running away! Catch her!
-दस्युः - पलायमाना सा ग्रहीतव्या!
-
+दस्युः - सा पलायते! सा गृह्यताम्!
 7. Kalyani - Krishna! Save me.
 कल्याणी - कृष्ण! मां रक्ष।
 
 8. Narrator: Kalyani did not give up. She ran on and on. Finally—
-सूत्रधारः - कल्याण्या प्रयासः न त्यक्तः। निरन्तरं धावनं कृतं तया। अन्ते—
-
+सूत्रधारः - कल्याण्या प्रयासः न त्यक्तः। निरन्तरं धाविता सा। अन्ते—
 9. Kalyani - I can't run any further.
 कल्याणी - इतः परं धावितुं न शक्नोमि।
 
 10. Kalyani - Do I hear a soothing voice, or is it my imagination?
-कल्याणी - मधुरं स्वरं शृणोमि वा कल्पनां करोमि वा?
-
+कल्याणी - किं मधुरं स्वरं शृणोमि, उत कल्पनां करोमि?
 11. Voice - Hare Murare!
 स्वरः - हरे मुरारे!
 
@@ -163,6 +156,8 @@ Scene: Inside a dense forest.
 
 (End of Scene)
 (दृश्य-समाप्तिः)
+
+gemini
 
 pg 5
 
