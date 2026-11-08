@@ -157,8 +157,6 @@ Scene: Inside a dense forest.
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-gemini
-
 pg 5
 
 Scene: A hermitage and a forest road.
@@ -174,10 +172,10 @@ Scene: A hermitage and a forest road.
 सूत्रधारः - कल्याणीं रक्षितवतः मुनेः नाम सत्यानन्दः।
 
 4. Narrator: He had many disciples. He went out and spoke to one of them.
-सूत्रधारः - तस्य बहवः शिष्याः अभूवन्। सः बहिः निर्गत्य एकेन सह सम्भाषितम्।
+सूत्रधारः - तस्य बहवः शिष्याः अभूवन्। तेन बहिः निर्गत्य एकेन सह सम्भाषितम्।
 
 5. Satyananda - Go, Bhavananda. Look for Mahendra. Jivananda will follow later.
-सत्यानन्दः - गच्छ भवानन्द महेन्द्रम् अन्विष्य। जीवानन्दः अनन्तरम् आगमिष्यति।
+सत्यानन्दः - गच्छ भवानन्द महेन्द्रम् अन्विच्छ। जीवानन्दः अनन्तरम् आगमिष्यति।
 
 6. Narrator: Meanwhile, Mahendra was captured by the soldiers.
 सूत्रधारः - एतस्मिन् अन्तरे, सैनिकैः महेन्द्रः बद्धः।
@@ -198,13 +196,15 @@ Scene: A hermitage and a forest road.
 भवानन्दः - (विचिन्त्य) मया महेन्द्रस्य समीपं गन्तव्यम्।
 
 12. Bhavananda - Spare me. I am a hermit.
-भवानन्दः - अहं विमुच्यताम्। अहं सन्न्यासी।
+भवानन्दः - मां विमुञ्च। अहं सन्न्यासी।
 
 13. Soldier - You mean a good-for-nothing. Make him carry this money-chest.
-सैनिकः - अर्थात् निष्कर्मणः। एतां धनपेटिकां वाहय।
+सैनिकः - अर्थात् निष्कर्मा। तम् एतां धनपेटिकां वाहय।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
+
+gemini
 
 pg 6
 
