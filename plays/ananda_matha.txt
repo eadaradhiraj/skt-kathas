@@ -204,8 +204,6 @@ Scene: A hermitage and a forest road.
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-gemini
-
 pg 6
 
 Scene: A forest path with a bullock cart and soldiers.
@@ -215,7 +213,7 @@ Scene: A forest path with a bullock cart and soldiers.
 भवानन्दः - (विचिन्त्य) कथमपि मया तत् शकटम् आरोढव्यम्। एतद् मम सहायकं भविष्यति।
 
 2. Soldier - The rogue! Tie him up and throw him in the cart.
-सैनिकः - धूर्तः! एषः बद्ध्वा, शकटे क्षिप्यताम्।
+सैनिकः - धूर्तः! एतम् बद्ध्वा, शकटे क्षिप्यताम्।
 
 3. Bhavananda - (Thinking) It worked!
 भवानन्दः - (विचिन्त्य) साफल्यम्!
@@ -243,6 +241,8 @@ Scene: A forest path with a bullock cart and soldiers.
 
 (End of Scene)
 (दृश्य-समाप्तिः)
+
+gemini
 
 pg 7
 
