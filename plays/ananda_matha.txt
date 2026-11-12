@@ -242,8 +242,6 @@ Scene: A forest path with a bullock cart and soldiers.
 (End of Scene)
 (दृश्य-समाप्तिः)
 
-gemini
-
 pg 7
 
 Scene: A forest ambush and the path afterwards.
@@ -353,13 +351,13 @@ Scene: Inside a shrine within Ananda Math, then outside.
 महेन्द्रः - कथञ्चिदपि एतेषु सन्न्यासिषु मम विश्वासः सञ्जातः।
 
 9. Kalyani - Then having abandoned us, why do you not join with them?
-कल्याणी - अथ आवां त्यक्त्वा तैः सह किमर्थं न संयोजयसि?
+कल्याणी - अथ आवां त्यक्त्वा तैः सह किमर्थं न संयुज्यसे?
 
 10. Mahendra - And what will you do? Where will you go?
 महेन्द्रः - त्वं च किं करिष्यसि? कुत्र गमिष्यसि?
 
 11. Kalyani - Do not worry. Leave all that to me.
-कल्याणी - चिन्तां मास्तु। तत् सर्वं मह्यम् अर्पय।
+कल्याणी - चिन्ता मास्तु। तत् सर्वं मह्यम् अर्पय।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
@@ -537,7 +535,7 @@ Scene: A battlefield near the forest and inside Ananda Math.
 सन्तानः - आङ्गल-सैनिकाः! तैः गुरुवर्यस्य पलायन-वार्ता श्रुता स्यात्! हरे! हरे!
 
 3. Narrator: Their swords and spears were no match against the guns. Hundreds died.
-सूत्रधारः - तेषां खड्गाः शूलानि च अग्नेय-अस्त्राणि प्रतिकर्तुं न शक्ताः। शतशः मृताः।
+सूत्रधारः - तेषां खड्गाः शूलानि च आग्नेयास्त्राणि प्रतिकर्तुं न शक्ताः। शतशः मृताः।
 
 4. Narrator: Later, Bhavananda too arrived at the scene. But—
 सूत्रधारः - पश्चात्, भवानन्दः अपि तत्र आगतः। किन्तु—
@@ -599,7 +597,7 @@ Scene: Inside Ananda Math.
 सत्यानन्दः - वयं मातुः कृते योद्धुम् अत्र स्मः। त्वं किं कर्तुं शक्नोषि?
 
 11. Navinananda - I can fight as well as any man. Test me.
-नवीनानन्दः - केनचिदपि पुरुषेण सदृशः अहम् अपि योद्धुं शक्नोमि। मां परीक्षताम् भवान्।
+नवीनानन्दः - केनचिदपि पुरुषेण सदृशी अहम् अपि योद्धुं शक्नोमि। मां परीक्षताम् भवान्।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
@@ -610,7 +608,7 @@ Scene: A courtyard inside Ananda Math.
 दृश्यम् - आनन्दमठस्य अन्तः कस्मिंश्चित् प्राङ्गणे।
 
 1. Satyananda - Can you string this bow?
-सत्यानन्दः - किं त्वम् एतद् धनुः अधिज्यातुम् शक्नोषि?
+सत्यानन्दः - किं त्वम् एतद् धनुः अधिज्यं कर्तुम् शक्नोषि?
 
 2. Navinananda - Before I try, let me know. Was success attained by all the Santaans?
 नवीनानन्दः - प्रयत्नात् पूर्वं, मम प्रश्नम् उत्तरतु भवान्। किं सर्वैः सन्तानैः साफल्यम् आप्तम्?
@@ -625,7 +623,7 @@ Scene: A courtyard inside Ananda Math.
 सत्यानन्दः - ...अपरेण मया स्वयम्।
 
 6. Narrator: Before Satyananda could complete the sentence, the bow was strung by Navinananda and thrown at the feet of Satyananda.
-सूत्रधारः - सत्यानन्दस्य वाक्य-समाप्तेः पूर्वम् एव, नवीनानन्देन धनुः अधिज्यातं सत्यानन्दस्य पादयोः क्षिप्तं च।
+सूत्रधारः - सत्यानन्दस्य वाक्य-समाप्तेः पूर्वम् एव, नवीनानन्देन धनुः अधिज्यं कृतं सत्यानन्दस्य पादयोः क्षिप्तं च।
 
 7. Satyananda - Are you a fairy? Or a goddess?
 सत्यानन्दः - किं त्वं यक्षिणी? उत देवी?
@@ -669,7 +667,7 @@ Scene: Inside Ananda Math - Satyananda's room.
 सत्यानन्दः - नगरे सञ्जातम् रक्तपूर्णयुद्धम् त्वया दृष्टम् खलु। आग्नेयास्त्राणां पुरतः खड्गाः निष्प्रभावाः। इच्छामि यत् भुशुण्डयः शतघ्न्यः च निर्मीयन्ताम्।
 
 9. Satyananda - At Padachihno you have a big house which can be secretly converted into a foundry. The village can be converted into a fort.
-सत्यानन्दः - पदचिह्न-ग्रामे तव विशालं गृहं गुप्तरूपेण लोहशालायां परिवर्तयितुम् शक्यते। सः ग्रामः दुर्गत्वेन परिवर्तितुं शक्यते।
+सत्यानन्दः - पदचिह्न-ग्रामे तव विशालं गृहं गुप्तरूपेण लोहशालायां परिवर्तयितुम् शक्यते। सः ग्रामः दुर्गत्वेन परिवर्तयितुम् शक्यते।
 
 (End of Scene)
 (दृश्य-समाप्तिः)
@@ -686,7 +684,7 @@ Scene: A weapon workshop in Padachihno and a mango grove.
 सूत्रधारः - ...यत्र महेन्द्रस्य निरीक्षणे भुशुण्डयः शतघ्न्यः च निर्मिताः।
 
 3. Narrator: After a year, the Santaans assembled in a mango grove. Their number became more than ten thousand. By them, the arrival of their Guru Satyananda was awaited.
-सूत्रधारः - एक-वर्षानन्तरं सन्तानाः आम्र-उपवने मेलिताः। तेषां सङ्ख्या अयुताधिका जाता। तैः स्वगुरोः सत्यानन्दस्य आगमनं प्रतीक्षितम्।
+सूत्रधारः - एक-वर्षानन्तरं सन्तानाः आम्र-उपवने मिलिताः। तेषां सङ्ख्या अयुताधिका जाता। तैः स्वगुरोः सत्यानन्दस्य आगमनं प्रतीक्षितम्।
 
 4. Mahendra - Navinananda, I hear that by Warren Hastings, a large English army under Captain Thomas was sent to crush us.
 महेन्द्रः - नवीनानन्द, अहं शृणोमि यत् वारेन्-हेस्टिग्स्-नामकेन अस्मान् मर्दयितुं केप्टन्-तोमसस्य नेतृत्वे विशाला आङ्गल-सेना प्रेषिता।
@@ -832,7 +830,7 @@ Scene: The battlefield and the bridge.
 सूत्रधारः – ...यः शतघ्नी‑कारणात् सङ्कटे पतितः।
 
 8. Narrator: The shells started falling on the bridge on which the Santaans had gathered.
-सूत्रधारः – यस्मिन् सेतौ सन्तानाः मेलिताः, तत्र गोलक‑पातः आरब्धः।
+सूत्रधारः – यस्मिन् सेतौ सन्तानाः मिलिताः, तत्र गोलक‑पातः आरब्धः।
 
 (End of Scene)
 (दृश्य‑समाप्तिः)
@@ -884,7 +882,7 @@ Scene: The battlefield with cannons firing constantly.
 सूत्रधारः - ये सन्तानाः सेतुना पलायमानाः, ते आङ्गलैः सह योद्धुं प्रत्यागताः।
 
 4. Narrator: The direction of the battle was turned. The natives in the British army ran helter-skelter.
-सूत्रधारः - युद्धस्य दिशा परिवर्तिता। आङ्गलसेनायां स्थिताः स्वदेशीयाः इतस्ततः धाविताः।
+सूत्रधारः - युद्धस्य दिक् परिवर्तिता। आङ्गलसेनायां स्थिताः स्वदेशीयाः इतस्ततः धाविताः।
 
 5. Santaans - Hare! Hare! Vande Mataram!
 सन्तानाः - हरे! हरे! वन्दे मातरम्!
@@ -1021,10 +1019,10 @@ Scene: A forest path, a building exterior, and a military camp.
 महेन्द्रः - देवानुग्रहः अयम्!
 
 5. Narrator: Months later, a large army was sent from Calcutta under Major Edwards to crush the Santaan uprising.
-सूत्रधारः - मास-कतिपयादनन्तरं, सन्तान-विद्रोहं दमयितुं मेजर-एड्वर्ड्स-नामकस्य नेतृत्वे कलिकाता-नगरात् विशाला सेना प्रेषिता।
+सूत्रधारः - कतिपयमासानन्तरम्, सन्तान-विद्रोहं दमयितुं मेजर-एड्वर्ड्स-नामकस्य नेतृत्वे कलिकाता-नगरात् विशाला सेना प्रेषिता।
 
 6. Major Edwards: Right here is the fort. Their arsenal located there must be destroyed by us.
-मेजर-एड्वर्ड्सः - अत्रैव तत् दुर्गम्। तत्र स्थितः तेषां शस्त्रागारः अस्माभिः नष्टव्यः।
+मेजर-एड्वर्ड्सः - अत्रैव तत् दुर्गम्। तत्र स्थितः तेषां शस्त्रागारः अस्माभिः नाशयितव्यः।
 
 7. Officer: Sir! On the next full moon day, they will be holding a fair. We will attack the fort then.
 सैनिकः - महोदय! आगामिन्यां पूर्णिमायां ते मेलकम् आयोजयिष्यन्ति। तदा वयं दुर्गम् आक्रमिष्यामः।
@@ -1044,7 +1042,7 @@ Scene: Parade ground at Padachihno, a crowded fair, and a forest near the Britis
 महेन्द्रः - शोभायात्रा स्थग्यताम्! मेलकं प्रति गन्तुं सज्जता भवतु।
 
 3. Narrator: On the full moon day, by thousands of Santaans, it was assembled at the fair.
-सूत्रधारः - पूर्णिमायां, सहस्रशः सन्तानैः मेलके मेलितम्।
+सूत्रधारः - पूर्णिमायां, सहस्रशः सन्तानैः मेलके मिलितम्।
 
 4. Narrator: Meanwhile, by Navinananda, a visit to the British camp was planned.
 सूत्रधारः - एतस्मिन् अन्तरे, नवीनानन्देन आङ्गल-शिबिर-दर्शनं योजितम्।
@@ -1123,7 +1121,7 @@ Scene: The hill battlefield.
 चतुर्थः सैनिकः - तेन सह म्रियामहै।
 
 7. Narrator: Meanwhile, Satyananda and Navinananda came with the army that had gathered at the fair.
-सूत्रधारः - एतस्मिन् अन्तरे, मेलके मेलितया सेनया सह सत्यानन्दः नवीनानन्दः च आगतौ।
+सूत्रधारः - एतस्मिन् अन्तरे, मेलके मिलितया सेनया सह सत्यानन्दः नवीनानन्दः च आगतौ।
 
 8. Narrator: They swept down on the British from above the ridge. The British forces were crushed between Mahendra's army and Satyananda's army.
 सूत्रधारः - तैः गिरेः उपरिभागात् आङ्गलाः आक्रान्ताः। महेन्द्र-सत्यानन्दयोः सेनयोः मध्ये आङ्गल-सैनिकाः मर्दिताः।
@@ -1173,7 +1171,7 @@ Scene: A battlefield at night, a river bank, and a garden at Padachihno.
 कल्याणी - उच्यते यत् तैः युद्धक्षेत्रे कश्चन महात्मा दृष्टः। किं गुरुवर्यः तेन सह गतः स्यात्?
 
 11. Mahendra: Yes, it is possible. I remember, Guruji had said that, on the full moon day, his master would come to take him to the Himalayas.
-महेन्द्रः - आम्, सम्भवतः। मया गुरुवचनम् स्मर्यते यत् यत् पूर्णिमायां तस्य गुरुः तं हिमालयं नेतुम् आगमिष्यति।
+महेन्द्रः - आम्, सम्भवतः। मया गुरुवचनम् स्मर्यते यत् पूर्णिमायां तस्य गुरुः तं हिमालयं नेतुम् आगमिष्यति।
 
 12. Narrator: Nothing was left of Ananda Math. Those who had survived went their separate ways. But the spark remained... and the slogan - Vande Mataram!
 सूत्रधारः - आनन्दमठस्य किमपि न अवशिष्टम्। उत्तरजीविनः स्व-स्व-मार्गेषु गताः। किन्तु स्फुलिङ्गः अवशिष्टः... तथा च जयघोषः - वन्दे मातरम्!
