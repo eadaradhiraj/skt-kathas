@@ -1,0 +1,8 @@
+(document @uuid CbwOvTY6bjpf5Xjizje12
+(meta
+(copyright Chandamama India Limited)
+(source @date "1984-07" @page 39 संस्कृत चन्दमामा)
+(author माणवकः)
+(title वरत्रयम्)
+(summary Cowherd Govinda's wise wife Purnima turns three humble boons into lasting household prosperity.)
+)
