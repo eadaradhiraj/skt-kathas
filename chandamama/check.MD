@@ -9,6 +9,8 @@
    * Predicate Ktavatu participles (typically in the nominative case ending in -वान्, -वती, -वन्तः, -वत्यः). (Note: Do NOT replace ktavatu participles when they are acting as secondary adjectives in oblique cases, such as -वतः, -वता, etc.)
    * All finite past tense verbs: Luṅ, Laṅ (Imperfect) and Liṭ (Perfect) lakāras.
    * Past continuous constructions using sma (स्म) or a present participle with a past copula.
+* if there are words like कुर्वन् अस्ति, कुर्वन्तः सन्ति which try to mimic english present continuous then simple replace with appropriate lakara
+* if there are instances where tense doesnt fit the narrative then fix them also. e.g sometimes present tense is used when the story is related and should use past tense
    * (Note: Conditional mood (Lṛṅ lakāra) must be preserved and should not be replaced with kta).
    * (Note: When the standalone verb भू (भूत/भूता/भूतम्) is used as a generic past-tense copula meaning 'was' or 'became', replace it with its Luṅ variant. Do not apply this to prefixed roots like अनुभू where the meaning changes. IGNORE THIS RULE IN Cvi-pratyayas and samasas.)
 12. dont use anusvara before क्,ख्,ग्,घ्,च्,छ्,ज्,झ् inside words
