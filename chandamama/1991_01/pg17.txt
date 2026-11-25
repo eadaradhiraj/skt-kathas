@@ -3,6 +3,7 @@
 (copyright Chandamama India Limited)
 (source @date "1991-01" @page 17 संस्कृत चन्दमामा)
 (title लुण्ठाकः युवराजः)
+(note [ISSUE] Next installment (Part 16) missing locally; 1991_02 lacks pg17.)
 (summary Stolen goddess idol vanishes from boat, leaving commander Sarvadamana terrified to face King Veerasimha as Jayapura mourns loss.)
 )
 (matter

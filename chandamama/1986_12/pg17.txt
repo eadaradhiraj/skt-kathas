@@ -50,7 +50,7 @@
 
 "अहं यत् पृच्छामि तत् निश्चयेन ददामि इति वचनं ददाति वा भवती?" इति{pb}{pgb}
 
-{x-com:layout: 2col, art top-left, text right then bottom row}
+{x-com:layout: 2col, art top-left, text right then bottom row; [ISSUE] misordered column/row blocks fragment the Shekhara-Suvarnadevi dialogue across lines 51-67}
 
 सुवर्ण{del:दिवी}{ins:देवी}।
 
@@ -112,7 +112,7 @@
 
 एका घण्टा अतीता। तावति काले चोरनायकः तत्र आगतवान्। सः सुवर्णदेवीं परीक्षादृष्ट्या पश्यन् उक्तवान् --- "अहम् एकां सुन्दरीं परिणेतुम् इच्छामि। मम अनुचराः सुन्दरीम् एव आनीतवन्तः। अन्यच्च पूर्वं कदाचित् भवतीं दृष्टवान् अहम् इति भाति" इति।{pb}{pgb: ३२}
 
-{x-missing: page 33 absent from scan; 23.jpg duplicates folio 31 text}{pgb}
+{x-missing: [ISSUE] page 33 absent from scan; 23.jpg duplicates folio 31 text}{pgb}
 
 {x-com:layout: 2col, text top, art bottom full-width}
 

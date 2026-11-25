@@ -18,7 +18,7 @@
 
 अनन्तरं चन्द्रचूडः अन्तः आगत्य स्वसमीपस्थानि वज्राणि स्थालिकायां स्थापयित्वा प्रदर्शितवान्। तानि दृष्ट्वा आश्चर्यचकिता मनोरमा --- "अहो! अपूर्वाणि वज्राणि एतानि! एतेषु कीदृशम् एकं स्वीकरोमि इत्येव निर्णेतुं न शक्नोमि" इति उक्तवती।
 
-"भगिनी"{x-com: stands alone, centered at the foot of the page-8 text box (outside the box border); read as Chandrachuda's one-word address opening the exchange continued on p. 9; closing quote present in print}
+"भगिनी"{x-com: [ISSUE] stands alone, centered at the foot of the page-8 text box (outside the box border); read as Chandrachuda's one-word address opening the exchange continued on p. 9; closing quote present in print}
 {pb}
 
 {pgb}
@@ -30,7 +30,7 @@
 
 मनोरमा कोपेन --- "मया खलु वज्रचयनं करणीयम्? मध्ये भवतः कोऽयं प्रवेशः?" इति वदन्ती ततः उत्थाय गतवती।
 
-अनन्तरं नागवर्मा अन्तः आगत्य --- "युवराज्ञीनिमित्तं वज्राणि आनीतवान् अस्मि। किन्तु उत्तमस्य चयनभारं राजकुमार्याः उपरि एव आरोपयन् अस्मि। एतदर्थं क्षन्तव्यः अयं जनः" इति विनयेन उक्तवान्।{x-com: नागवर्मा as printed here; the same merchant is नागदत्तः in the surrounding text; print inconsistency, stands as printed. युवराज्ञी likewise as printed for the राजकुमारी}
+अनन्तरं नागवर्मा अन्तः आगत्य --- "युवराज्ञीनिमित्तं वज्राणि आनीतवान् अस्मि। किन्तु उत्तमस्य चयनभारं राजकुमार्याः उपरि एव आरोपयन् अस्मि। एतदर्थं क्षन्तव्यः अयं जनः" इति विनयेन उक्तवान्।{x-com: [ISSUE] नागवर्मा as printed here; the same merchant is नागदत्तः in the surrounding text; print inconsistency, stands as printed. युवराज्ञी likewise as printed for the राजकुमारी}
 
 युवराज्ञी सर्वाणि वज्राणि परीक्ष्य एकं स्वीकृत्य तृप्त्या --- "एतत् एव मम हारार्थं योग्यं वज्रम्" इति उक्तवती।
 

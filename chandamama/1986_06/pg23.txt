@@ -21,13 +21,13 @@
 
 {x-com:layout: 2col, art bottom full-width}
 
-{x-com: print columns transposed on this page: story order is right column then left; chunks reordered into story order, see report Moves}
+{x-com: [ISSUE] print columns transposed on this page: story order is right column then left; chunks reordered into story order, see report Moves; line 26 begins abruptly and line 32 splices a quote from the other column}
 
 उक्त्वा वरदराजः योगिनाथं प्रेषितवान्। अनन्तरं तदानीम् एव ततः प्रस्थाय, भोजस्य समीपं गत्वा तं "भवतः आपणे कार्यं करोति किल योगिनाथः इति कश्चित्? तस्मै स्वीयां कन्यां दातुम् इच्छति मम कश्चित् बन्धुः। अतः कृपया योगिनाथस्य गुणस्वभावादिकं वदतु" इति पृष्टवान्।
 
 तस्य वचनं श्रुत्वा भोजः "योगिनाथः बहु चतुरः युवकः, विश्वासार्हः अपि। सः बहुदिनेभ्यः मम वाणिज्यकार्येषु स्वीयपुत्रवत् साहाय्यं कुर्वन् अस्ति। मम एतम् अभिप्रायं वरान्वेषकं भवतः बन्धुं निवेदयतु" इति उक्तवान्।
 
-तस्य वचनं श्रुत्वा वरदराजः हसन् "भवान्{pb}
+तस्य वचनं श्रुत्वा वरदराजः हसन् "भवान्{x-com: [ISSUE] quote from transposed column spliced here before तु योगिनाथम्}{pb}
 
 {pc}'श्वः परश्वः वा मदीयं निर्णयं वदामि' इति तु योगिनाथम् एतावत्प्रीत्या श्लाघते। किन्तु सः भवतः समीपे कार्यं बहुक्लेशदायकम् च इति निन्दति। भवान् यावत् वेतनं ददाति, तदपेक्षया किञ्चित् अधिकं ददामि चेत्, सः मम आपणे कार्यं कर्तुं सिद्धः अस्ति। मम नूतने आपणे कार्यं कर्तुं सेवकस्य अन्वेषणं कुर्वन् अस्मि अहम्" इति उक्तवान्।
 

@@ -14,7 +14,7 @@
 
 भृगुः लज्जाम् अनुभवन् विष्णोः क्षमां प्रार्थितवान्। विष्णुः मन्दहासपूर्वकम् उक्तवान् यत् भवतः {del:पादाचिह्नं}{ins:पादचिह्नं} मम वक्षःस्थले श्रीवत्सचिह्नरूपेण सदा तिष्ठतु इति।
 
-{sug-del:भक्तावरपायणः} {sug-del:आदागनतगम्य} प्रतीकरूपेण विष्णोः वक्षःस्थले श्रीवत्सचिह्नं {sug-del:राराजते}{sug-ins:विराजते}।{x-com: भक्तावरपायणः, आदागनतगम्य and राराजते as printed, each glyph crop-verified; sense obscure, possible print corruption; Phase B ruling}
+{sug-del:भक्तावरपायणः} {sug-del:आदागनतगम्य} प्रतीकरूपेण विष्णोः वक्षःस्थले श्रीवत्सचिह्नं {sug-del:राराजते}{sug-ins:विराजते}।{x-com: [ISSUE] भक्तावरपायणः, आदागनतगम्य and राराजते as printed, each glyph crop-verified; sense obscure, possible print corruption; Phase B ruling}
 
 सन्तृप्तः भृगुमुनिः मुनीनां समीपम् आगत्य --- "महाविष्णुः एव सर्वोत्तमः, सः कल्पवृक्षः" इति उक्तवान्।{pb}
 

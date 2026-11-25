@@ -3,6 +3,7 @@
 (copyright Chandamama India Limited)
 (source @date "1984-07" @page 11 संस्कृत चन्दमामा)
 (title त्रयः मान्त्रिकाः)
+(note [ISSUE] File is an exact duplicate of 1984_07/pg11.txt (@uuid CbwOvTY6bjpeymiMr1WQu, @date "1984-07"); actual 1984-08 installment covering the slave revolt and shipwreck is missing.)
 (summary The brothers usurp Pingala's wealth while the enslaved Pingala faces a storm and a sea battle.)
 )
 (matter

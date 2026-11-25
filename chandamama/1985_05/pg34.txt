@@ -1,4 +1,4 @@
-{x-com:layout: 2col, art top-left}
+{x-com:layout: 2col, art top-left; [ISSUE] file starts mid-sentence continuing # शीघ्रकोपी पतिः from 1985_05/pg33.txt, and also bundles a second story (# चतुरः सेवकः) starting at line 126}
 
 {pc}शान्तायाः विवाहः जातः। विवाहानन्तरं ते शान्तां न स्वगृहम् प्रति आहूतवन्तः, न वा तस्याः गृहं प्रति आगतवन्तः।
 
