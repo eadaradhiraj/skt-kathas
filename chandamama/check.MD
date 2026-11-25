@@ -1,6 +1,5 @@
-1. Provide a unified numbered list of grammar errors and typos.
+1. fix grammar errors and typos.
 2. Ignore stylistic issues but panini should be standard
-
 3. Ignore unapplied sandhi (including visarga sandhi and mo'anusvarah).
 4. Ignore hyphens in samasas, but ensure any applied sandhi within samasas is correct.
 5. Do not ignore wrongly applied sandhi.
